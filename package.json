@@ -1,0 +1,12 @@
+{
+  "name": "jazztree",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "JazzTree — a static visual guide to jazz genres, lineage, and what to listen to.",
+  "scripts": {
+    "merge": "node build/merge.js",
+    "validate": "node data/validate.js",
+    "data": "node build/merge.js && node data/build-data.js && node data/validate.js"
+  }
+}

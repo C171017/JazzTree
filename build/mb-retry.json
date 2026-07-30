@@ -1,0 +1,727 @@
+[
+  {
+    "id": "nec-red-back-book",
+    "artist": "New England Conservatory Ragtime Ensemble, Gunther Schuller",
+    "title": "Scott Joplin: The Red Back Book",
+    "claimed": 1973,
+    "status": "ok",
+    "mbArtist": "Scott Joplin",
+    "mbTitle": "The Art of Scott Joplin",
+    "mbFirstRelease": 1974,
+    "delta": 1
+  },
+  {
+    "id": "joseph-lamb-study-classic-ragtime",
+    "artist": "Joseph Lamb",
+    "title": "Joseph Lamb: A Study in Classic Ragtime",
+    "claimed": 1960,
+    "status": "mb-later-reissue-date",
+    "mbArtist": "Joseph Lamb",
+    "mbTitle": "The Complete Stark Rags of Joseph F. Lamb",
+    "mbFirstRelease": 1999,
+    "delta": 39
+  },
+  {
+    "id": "eubie-blake-86-years",
+    "artist": "Eubie Blake",
+    "title": "The Eighty-Six Years of Eubie Blake",
+    "claimed": 1969,
+    "status": "mb-later-reissue-date",
+    "mbArtist": "Eubie Blake",
+    "mbTitle": "The Eighty-Six Years Of Eubie Blake",
+    "mbFirstRelease": 1973,
+    "delta": 4
+  },
+  {
+    "id": "bolcom-heliotrope-bouquet",
+    "artist": "William Bolcom",
+    "title": "Heliotrope Bouquet: Piano Rags 1900–1970",
+    "claimed": 1971,
+    "status": "still-unmatched",
+    "candidates": [
+      "Scott Joplin — Heliotrope Bouquet (?)",
+      "Scott Joplin — Heliotrope Bouquet (1992)",
+      "Anthony Savino — Heliotrope (2011-03-01)"
+    ]
+  },
+  {
+    "id": "reginald-robinson-sounds-in-silhouette",
+    "artist": "Reginald R. Robinson",
+    "title": "Sounds in Silhouette",
+    "claimed": 1998,
+    "status": "still-unmatched",
+    "candidates": [
+      "Ensemble Economique — In Silhouette (2017-03-31)",
+      "Veronica Vasicka — In Silhouette (2018-11-06)",
+      "Stan Kenton — Standards in Silhouette (1998)"
+    ]
+  },
+  {
+    "id": "king-oliver-creole-jazz-band-1923",
+    "artist": "King Oliver's Creole Jazz Band",
+    "title": "King Oliver's Jazz Band 1923",
+    "claimed": 1974,
+    "status": "mb-later-reissue-date",
+    "mbArtist": "King Oliver's Jazz Band",
+    "mbTitle": "The Chronological Classics: King Oliver's Jazz Band 1923-1926",
+    "mbFirstRelease": 1992,
+    "delta": 18
+  },
+  {
+    "id": "birth-of-the-hot-morton",
+    "artist": "Jelly Roll Morton's Red Hot Peppers",
+    "title": "Birth of the Hot: The Classic Chicago 'Red Hot Peppers' Sessions 1926–27",
+    "claimed": 1995,
+    "status": "ok",
+    "mbArtist": "Jelly Roll Morton",
+    "mbTitle": "Birth of the Hot",
+    "mbFirstRelease": 1995,
+    "delta": 0
+  },
+  {
+    "id": "odjb-complete-original-dixieland",
+    "artist": "Original Dixieland Jazz Band",
+    "title": "The Complete Original Dixieland Jazz Band 1917–1936",
+    "claimed": 1996,
+    "status": "mb-earlier",
+    "mbArtist": "Original Dixieland Jazz Band",
+    "mbTitle": "The Complete Original Dixieland Jazz Band (1917–1936)",
+    "mbFirstRelease": 1992,
+    "delta": -4
+  },
+  {
+    "id": "george-lewis-jazz-at-vespers",
+    "artist": "George Lewis",
+    "title": "Jazz at Vespers",
+    "claimed": 1954,
+    "status": "still-unmatched",
+    "candidates": [
+      "Dan Forshaw — Jazz Vespers (2016-11-22)",
+      "Iro Haarla Quintet — Vespers (2011)",
+      "Steve Lacy Octet — Vespers (1993)"
+    ]
+  },
+  {
+    "id": "eddie-condon-chronological-1927-1938",
+    "artist": "Eddie Condon",
+    "title": "The Chronological Eddie Condon 1927–1938",
+    "claimed": 1996,
+    "status": "mb-earlier",
+    "mbArtist": "Eddie Condon",
+    "mbTitle": "The Chronological Classics: Eddie Condon 1927-1938",
+    "mbFirstRelease": 1994,
+    "delta": -2
+  },
+  {
+    "id": "mckenzie-condon-chicagoans",
+    "artist": "McKenzie and Condon's Chicagoans",
+    "title": "The Austin High School Gang",
+    "claimed": 1990,
+    "status": "still-unmatched",
+    "candidates": [
+      "The Alrights — High School (2006-08-21)",
+      "We Are The City — High School (2011-03-22)",
+      "Various Artists — High School High (1996-09-10)"
+    ]
+  },
+  {
+    "id": "bud-freeman-chicagoans-in-new-york",
+    "artist": "Bud Freeman",
+    "title": "Bud Freeman and His Famous Chicagoans",
+    "claimed": 1990,
+    "status": "mb-earlier",
+    "mbArtist": "Bud Freeman",
+    "mbTitle": "Bud Freeman",
+    "mbFirstRelease": 1955,
+    "delta": -35
+  },
+  {
+    "id": "benny-goodman-bg-trio-quartet",
+    "artist": "Benny Goodman",
+    "title": "The Complete Benny Goodman Trios and Quartets",
+    "claimed": 1998,
+    "status": "found-no-date",
+    "mbArtist": "Benny Goodman",
+    "mbTitle": "Benny Goodman",
+    "mbFirstRelease": null,
+    "delta": null
+  },
+  {
+    "id": "jack-teagarden-king-of-the-blues-trombone",
+    "artist": "Jack Teagarden",
+    "title": "King of the Blues Trombone",
+    "claimed": 1970,
+    "status": "still-unmatched",
+    "candidates": [
+      "Tommy Dorsey — Kings of Trombone (1996-11-19)",
+      "Freddie King — King of the Blues (1995)",
+      "Blind Lemon Jefferson — King of the Blues (1991)"
+    ]
+  },
+  {
+    "id": "art-hodes-sittin-in",
+    "artist": "Art Hodes",
+    "title": "Sittin' In",
+    "claimed": 1993,
+    "status": "still-unmatched",
+    "candidates": [
+      "Roger Smith — Sittin' In (2008-06-17)",
+      "The Eminent Stars — Sittin In (2014-02-17)",
+      "Dizzy Gillespie — Sittin' In (2005-04-12)"
+    ]
+  },
+  {
+    "id": "dick-wellstood-from-ragtime-on",
+    "artist": "Dick Wellstood",
+    "title": "From Ragtime On",
+    "claimed": 1971,
+    "status": "still-unmatched",
+    "candidates": [
+      "Vic Ruggiero — On the Ragtime (2009)",
+      "Stephen Flaherty — Ragtime (1998)",
+      "Wojciech Kaminski — Ragtime (?)"
+    ]
+  },
+  {
+    "id": "donald-lambert-harlem-stride-classics",
+    "artist": "Donald Lambert",
+    "title": "Harlem Stride Classics",
+    "claimed": 1990,
+    "status": "still-unmatched",
+    "candidates": [
+      "James P. Johnson — Harlem Stride Piano: 1921-1929 (1997-10-21)",
+      "DukeDaGod — Harlem Classics 2 (2011-02-08)",
+      "Mount Holly — Stride By Stride (2017-11-03)"
+    ]
+  },
+  {
+    "id": "count-basie-original-decca",
+    "artist": "Count Basie",
+    "title": "The Original American Decca Recordings",
+    "claimed": 1992,
+    "status": "ok",
+    "mbArtist": "Count Basie",
+    "mbTitle": "The Complete Decca Recordings",
+    "mbFirstRelease": 1992,
+    "delta": 0
+  },
+  {
+    "id": "big-joe-turner-boss-of-the-blues",
+    "artist": "Big Joe Turner",
+    "title": "The Boss of the Blues",
+    "claimed": 1956,
+    "status": "mb-later-reissue-date",
+    "mbArtist": "Joe Turner",
+    "mbTitle": "The Best Of Joe Turner, The Boss Of The Blues",
+    "mbFirstRelease": 2001,
+    "delta": 45
+  },
+  {
+    "id": "woody-herman-thundering-herds",
+    "artist": "Woody Herman",
+    "title": "The Thundering Herds 1945–1947",
+    "claimed": 1988,
+    "status": "ok",
+    "mbArtist": "Woody Herman",
+    "mbTitle": "The Thundering Herds 1945-1947",
+    "mbFirstRelease": 1988,
+    "delta": 0
+  },
+  {
+    "id": "ellington-such-sweet-thunder",
+    "artist": "Duke Ellington and Billy Strayhorn",
+    "title": "Such Sweet Thunder",
+    "claimed": 1957,
+    "status": "found-no-date",
+    "mbArtist": "Duke Ellington & His Orchestra",
+    "mbTitle": "Such Sweet Thunder",
+    "mbFirstRelease": null,
+    "delta": null
+  },
+  {
+    "id": "django-quintette-hot-club-1936",
+    "artist": "Django Reinhardt & Stéphane Grappelli",
+    "title": "Djangologie 1936–1937",
+    "claimed": 2009,
+    "status": "ok",
+    "mbArtist": "Django Reinhardt",
+    "mbTitle": "Djangologie",
+    "mbFirstRelease": 2009,
+    "delta": 0
+  },
+  {
+    "id": "grappelli-violin-summit",
+    "artist": "Stéphane Grappelli, Svend Asmussen, Jean-Luc Ponty, Stuff Smith",
+    "title": "Violin Summit",
+    "claimed": 1967,
+    "status": "ok",
+    "mbArtist": "Stuff Smith",
+    "mbTitle": "Violin Summit",
+    "mbFirstRelease": 1967,
+    "delta": 0
+  },
+  {
+    "id": "django-peche-a-la-mouche",
+    "artist": "Django Reinhardt",
+    "title": "Péché à la Mouche: The Great Blue Star Sessions 1947/1953",
+    "claimed": 1992,
+    "status": "ok",
+    "mbArtist": "Django Reinhardt",
+    "mbTitle": "Pêche à la mouche",
+    "mbFirstRelease": 1991,
+    "delta": -1
+  },
+  {
+    "id": "tchavolo-schmitt-alors-question",
+    "artist": "Tchavolo Schmitt",
+    "title": "Alors?... Voilà!",
+    "claimed": 2000,
+    "status": "still-unmatched",
+    "candidates": [
+      "Rachid Taha — Voilà voilà (1993)",
+      "Stéphane Mercier — Voilà... (?)",
+      "Embrasserie — Voilà (2004)"
+    ]
+  },
+  {
+    "id": "bud-powell-amazing-vol1",
+    "artist": "Bud Powell",
+    "title": "The Amazing Bud Powell, Volume 1",
+    "claimed": 1952,
+    "status": "ok",
+    "mbArtist": "Bud Powell",
+    "mbTitle": "The Amazing Bud Powell",
+    "mbFirstRelease": 1951,
+    "delta": -1
+  },
+  {
+    "id": "miles-davis-gil-evans-miles-ahead",
+    "artist": "Miles Davis + 19",
+    "title": "Miles Ahead",
+    "claimed": 1957,
+    "status": "ok",
+    "mbArtist": "Miles Davis",
+    "mbTitle": "Miles Ahead",
+    "mbFirstRelease": 1957,
+    "delta": 0
+  },
+  {
+    "id": "gerry-mulligan-quartet-chet-baker",
+    "artist": "Gerry Mulligan Quartet",
+    "title": "The Original Gerry Mulligan Quartet with Chet Baker",
+    "claimed": 1953,
+    "status": "mb-later-reissue-date",
+    "mbArtist": "Gerry Mulligan",
+    "mbTitle": "The Original Quartet With Chet Baker",
+    "mbFirstRelease": 1998,
+    "delta": 45
+  },
+  {
+    "id": "chico-hamilton-quintet-1955",
+    "artist": "Chico Hamilton Quintet",
+    "title": "The Chico Hamilton Quintet featuring Buddy Collette",
+    "claimed": 1955,
+    "status": "ok",
+    "mbArtist": "The Chico Hamilton Quintet",
+    "mbTitle": "Chico Hamilton Quintet Featuring Buddy Collette",
+    "mbFirstRelease": 1955,
+    "delta": 0
+  },
+  {
+    "id": "hampton-hawes-trio-vol1",
+    "artist": "Hampton Hawes Trio",
+    "title": "The Trio, Vol. 1",
+    "claimed": 1956,
+    "status": "ok",
+    "mbArtist": "Hampton Hawes Trio",
+    "mbTitle": "Hampton Hawes Trio, Vol. 1",
+    "mbFirstRelease": 1955,
+    "delta": -1
+  },
+  {
+    "id": "big-john-patton-lets-roll",
+    "artist": "Big John Patton",
+    "title": "Let 'Em Roll",
+    "claimed": 1966,
+    "status": "ok",
+    "mbArtist": "John Patton",
+    "mbTitle": "Let ’Em Roll",
+    "mbFirstRelease": 1965,
+    "delta": -1
+  },
+  {
+    "id": "gunther-schuller-jazz-abstractions",
+    "artist": "Gunther Schuller / John Lewis",
+    "title": "Jazz Abstractions",
+    "claimed": 1961,
+    "status": "ok",
+    "mbArtist": "John Lewis",
+    "mbTitle": "John Lewis Presents Contemporary Music 1: Jazz Abstractions: Compositions by Gunther Schuller & Jim Hall",
+    "mbFirstRelease": 1960,
+    "delta": -1
+  },
+  {
+    "id": "jimmy-giuffre-free-fall",
+    "artist": "Jimmy Giuffre 3",
+    "title": "Free Fall",
+    "claimed": 1963,
+    "status": "still-unmatched",
+    "candidates": [
+      "Cornelius — Free Fall (1998)",
+      "Meadowlark — Free Fall (2000)",
+      "Birdy — Free Fall (1983)"
+    ]
+  },
+  {
+    "id": "tony-williams-lifetime-spring",
+    "artist": "Tony Williams",
+    "title": "Spring",
+    "claimed": 1966,
+    "status": "still-unmatched",
+    "candidates": [
+      "Kullrusk — spring spring spring spring (2006)",
+      "ベリーグッドマン — Spring Spring Spring (2017-03-07)",
+      "Coney Island — Spring Spring (2010-06-03)"
+    ]
+  },
+  {
+    "id": "machito-afro-cuban-jazz-suite",
+    "artist": "Machito and His Afro-Cubans",
+    "title": "Afro-Cuban Jazz Suite",
+    "claimed": 1957,
+    "status": "still-unmatched",
+    "candidates": [
+      "Eladio Reinón — Afro Cuban Jazz Suite Nº1 (1999)",
+      "Snowboy & The Latin Section — Afro Cuban Jazz (2000-06-06)",
+      "Bebo Valdés — Afro-Cuban Jazz (2002)"
+    ]
+  },
+  {
+    "id": "eddie-palmieri-harlem-river-drive",
+    "artist": "Eddie Palmieri",
+    "title": "Harlem River Drive",
+    "claimed": 1971,
+    "status": "still-unmatched",
+    "candidates": [
+      "Harlem River Drive — Harlem River Drive (1971)",
+      "Brian Dunne — Harlem River Drive (2019-10-25)",
+      "Fergie Baby — Harlem River Drive (2025-02-05)"
+    ]
+  },
+  {
+    "id": "airto-moreira-fingers",
+    "artist": "Airto Moreira",
+    "title": "Fingers",
+    "claimed": 1973,
+    "status": "ok",
+    "mbArtist": "Airto",
+    "mbTitle": "Fingers",
+    "mbFirstRelease": 1973,
+    "delta": 0
+  },
+  {
+    "id": "mulatu-astatke-ethiopiques-4",
+    "artist": "Mulatu Astatke",
+    "title": "Éthiopiques 4: Ethio Jazz & Musique Instrumentale 1969–1974",
+    "claimed": 1998,
+    "status": "still-unmatched",
+    "candidates": [
+      "ሙላቱ አስታጥቄ — Éthiopiques 4: éthio jazz & musique instrumentale, 1969-1974 (1998-03-24)",
+      "Kassa Tessema — Éthiopiques 29: Mastawesha (2014-07-15)",
+      "Mahmoud Ahmed — Éthiopiques 19: Alèmyé (2005-02-25)"
+    ]
+  },
+  {
+    "id": "mahmoud-ahmed-ere-mela-mela",
+    "artist": "Mahmoud Ahmed",
+    "title": "Ere Mela Mela",
+    "claimed": 1975,
+    "status": "ok",
+    "mbArtist": "Mahmoud Ahmed",
+    "mbTitle": "Erè mèla mèla",
+    "mbFirstRelease": 1975,
+    "delta": 0
+  },
+  {
+    "id": "girma-beyene-ethiopiques-30",
+    "artist": "Girma Bèyènè & Akalé Wubé",
+    "title": "Ethiopiques 30: Mistakes on Purpose",
+    "claimed": 2017,
+    "status": "ok",
+    "mbArtist": "Girma Bèyènè",
+    "mbTitle": "Éthiopiques 30: Mistakes on Purpose",
+    "mbFirstRelease": 2017,
+    "delta": 0
+  },
+  {
+    "id": "ethiopiques-13-ethiopian-groove",
+    "artist": "Various Artists",
+    "title": "Éthiopiques 13: Ethiopian Groove — The Golden Seventies",
+    "claimed": 2003,
+    "status": "ok",
+    "mbArtist": "Various Artists",
+    "mbTitle": "Éthiopiques 18: Asguèbba!",
+    "mbFirstRelease": 2004,
+    "delta": 1
+  },
+  {
+    "id": "mulatu-heliocentrics-inspiration-information",
+    "artist": "Mulatu Astatke & The Heliocentrics",
+    "title": "Inspiration Information 3",
+    "claimed": 2009,
+    "status": "ok",
+    "mbArtist": "Mulatu Astatqé",
+    "mbTitle": "Inspiration Information, Volume 3",
+    "mbFirstRelease": 2009,
+    "delta": 0
+  },
+  {
+    "id": "masabumi-kikuchi-poo-sun",
+    "artist": "Masabumi Kikuchi",
+    "title": "Poo-Sun",
+    "claimed": 1970,
+    "status": "still-unmatched",
+    "candidates": [
+      "菊地雅章 — POO-SUN (2009-05-27)",
+      "Cupid Kidz — Ganja Poo Poo (2013-05-29)",
+      "talkwalker — poo Poo Bridge (2023-03-26)"
+    ]
+  },
+  {
+    "id": "yosuke-yamashita-clay",
+    "artist": "Yosuke Yamashita Trio",
+    "title": "Clay",
+    "claimed": 1974,
+    "status": "ok",
+    "mbArtist": "Yamashita Trio",
+    "mbTitle": "Clay",
+    "mbFirstRelease": 1974,
+    "delta": 0
+  },
+  {
+    "id": "isao-suzuki-blow-up",
+    "artist": "Isao Suzuki Trio/Quartet",
+    "title": "Blow Up",
+    "claimed": 1973,
+    "status": "still-unmatched",
+    "candidates": [
+      "The Presets — Blow Up (2003-11-17)",
+      "Mr Blonde — Blow Up (1997)",
+      "Talking Horns — Blow up (2003)"
+    ]
+  },
+  {
+    "id": "masahiko-togashi-we-now-create",
+    "artist": "Masahiko Togashi",
+    "title": "We Now Create: Music for Strings, Winds and Percussion",
+    "claimed": 1969,
+    "status": "still-unmatched",
+    "candidates": [
+      "富樫雅彦カルテット — ウィ・ナウ・クリエイト (1969-09)",
+      "I Create — All We Are Is Now (2008-07-15)",
+      "Fetus Blasters — We Live In Create We Live And Create We Live We Create (2020-06-17)"
+    ]
+  },
+  {
+    "id": "ryo-fukui-scenery",
+    "artist": "Ryo Fukui",
+    "title": "Scenery",
+    "claimed": 1976,
+    "status": "still-unmatched",
+    "candidates": [
+      "Less Cash — Scenery (2014-04-15)",
+      "The Frenetics — Scenery (2000)",
+      "Mattia Trani — Scenery (2021-05-28)"
+    ]
+  },
+  {
+    "id": "toshiko-akiyoshi-kogun",
+    "artist": "Toshiko Akiyoshi–Lew Tabackin Big Band",
+    "title": "Kogun",
+    "claimed": 1974,
+    "status": "ok",
+    "mbArtist": "Toshiko Akiyoshi - Lew Tabackin Big Band",
+    "mbTitle": "Kogun",
+    "mbFirstRelease": 1974,
+    "delta": 0
+  },
+  {
+    "id": "kohsuke-mine-mine",
+    "artist": "Kohsuke Mine",
+    "title": "Mine",
+    "claimed": 1970,
+    "status": "mb-later-reissue-date",
+    "mbArtist": "Mine",
+    "mbTitle": "Mine",
+    "mbFirstRelease": 1997,
+    "delta": 27
+  },
+  {
+    "id": "derek-bailey-solo-guitar-vol1",
+    "artist": "Derek Bailey",
+    "title": "Solo Guitar Volume 1",
+    "claimed": 1971,
+    "status": "ok",
+    "mbArtist": "Derek Bailey",
+    "mbTitle": "Solo Guitar",
+    "mbFirstRelease": 1971,
+    "delta": 0
+  },
+  {
+    "id": "icp-tetterettet",
+    "artist": "ICP Orchestra",
+    "title": "Tetterettet",
+    "claimed": 1978,
+    "status": "ok",
+    "mbArtist": "ICP 10’-TET",
+    "mbTitle": "Tetterettet",
+    "mbFirstRelease": 1977,
+    "delta": -1
+  },
+  {
+    "id": "sun-ra-heliocentric-worlds-vol1",
+    "artist": "Sun Ra and His Solar Arkestra",
+    "title": "The Heliocentric Worlds of Sun Ra, Volume One",
+    "claimed": 1965,
+    "status": "mb-later-reissue-date",
+    "mbArtist": "Sun Ra",
+    "mbTitle": "The Heliocentric Worlds of Sun Ra",
+    "mbFirstRelease": 2010,
+    "delta": 45
+  },
+  {
+    "id": "ornette-coleman-of-human-feelings",
+    "artist": "Ornette Coleman and Prime Time",
+    "title": "Of Human Feelings",
+    "claimed": 1982,
+    "status": "ok",
+    "mbArtist": "Ornette Coleman",
+    "mbTitle": "Of Human Feelings",
+    "mbFirstRelease": 1982,
+    "delta": 0
+  },
+  {
+    "id": "decoding-society-mandance",
+    "artist": "Ronald Shannon Jackson and the Decoding Society",
+    "title": "Mandance",
+    "claimed": 1982,
+    "status": "still-unmatched",
+    "candidates": [
+      "Oliver Kapp — Mandancer EP (1998)",
+      "Ronald Shannon Jackson and The Decoding Society — Man Dance (1982)"
+    ]
+  },
+  {
+    "id": "rebirth-of-cool-vol1",
+    "artist": "Various Artists",
+    "title": "Rebirth of Cool Volume One",
+    "claimed": 1991,
+    "status": "mb-later-reissue-date",
+    "mbArtist": "Various Artists",
+    "mbTitle": "Rebirth of Cool",
+    "mbFirstRelease": 2003,
+    "delta": 12
+  },
+  {
+    "id": "bobo-stenson-goodbye",
+    "artist": "Bobo Stenson Trio",
+    "title": "Goodbye",
+    "claimed": 2005,
+    "status": "ok",
+    "mbArtist": "Bobo Stenson",
+    "mbTitle": "Goodbye",
+    "mbFirstRelease": 2005,
+    "delta": 0
+  },
+  {
+    "id": "jazz-at-lincoln-center-big-train",
+    "artist": "Lincoln Center Jazz Orchestra",
+    "title": "Big Train",
+    "claimed": 1999,
+    "status": "still-unmatched",
+    "candidates": [
+      "Les Fauvels — Big Train (1965)",
+      "Wynton Marsalis — Big Train (1999-07-13)",
+      "Resident Filters — Big Train (1998)"
+    ]
+  },
+  {
+    "id": "brad-mehldau-art-of-the-trio-3",
+    "artist": "Brad Mehldau Trio",
+    "title": "The Art of the Trio, Volume Three: Songs",
+    "claimed": 1998,
+    "status": "ok",
+    "mbArtist": "Brad Mehldau Trio",
+    "mbTitle": "The Art of the Trio, Volume 1",
+    "mbFirstRelease": 1997,
+    "delta": -1
+  },
+  {
+    "id": "steve-coleman-motherland-pulse",
+    "artist": "Steve Coleman and Five Elements",
+    "title": "Motherland Pulse",
+    "claimed": 1985,
+    "status": "ok",
+    "mbArtist": "Steve Coleman Group",
+    "mbTitle": "Motherland Pulse",
+    "mbFirstRelease": 1985,
+    "delta": 0
+  },
+  {
+    "id": "steve-coleman-sign-and-the-seal",
+    "artist": "Steve Coleman and the Mystic Rhythm Society with AfroCuba de Matanzas",
+    "title": "The Sign and the Seal",
+    "claimed": 1997,
+    "status": "ok",
+    "mbArtist": "Steve Coleman and the Mystic Rhythm Society",
+    "mbTitle": "The Sign and the Seal",
+    "mbFirstRelease": 1996,
+    "delta": -1
+  },
+  {
+    "id": "john-zorn-cobra",
+    "artist": "John Zorn",
+    "title": "Cobra",
+    "claimed": 1987,
+    "status": "still-unmatched",
+    "candidates": [
+      "Tokow Boys — Cobra! Cobra! (1981)",
+      "16bit — Cobra (2009-06)",
+      "Sandy — Cobra (1996)"
+    ]
+  },
+  {
+    "id": "naked-city-naked-city",
+    "artist": "Naked City",
+    "title": "Naked City",
+    "claimed": 1990,
+    "status": "mb-later-reissue-date",
+    "mbArtist": "Naked City",
+    "mbTitle": "Naked City Live, Volume 1: Knitting Factory 1989",
+    "mbFirstRelease": 2002,
+    "delta": 12
+  },
+  {
+    "id": "lounge-lizards-lounge-lizards",
+    "artist": "The Lounge Lizards",
+    "title": "The Lounge Lizards",
+    "claimed": 1981,
+    "status": "ok",
+    "mbArtist": "The Lounge Lizards",
+    "mbTitle": "The Lounge Lizards",
+    "mbFirstRelease": 1981,
+    "delta": 0
+  },
+  {
+    "id": "elliott-sharp-carbon-tocsin",
+    "artist": "Elliott Sharp / Carbon",
+    "title": "Tocsin",
+    "claimed": 1990,
+    "status": "still-unmatched",
+    "candidates": [
+      "Year of No Light — Tocsin (2013-11-29)",
+      "Patrick Higgins — TOCSIN (2020-10-16)",
+      "Xmal Deutschland — Tocsin (1984-06)"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+  …15/64
+  …30/64
+  …45/64
+  …60/64
+Retry summary (64 albums)
+  ok: 28
+  still-unmatched: 22
+  mb-later-reissue-date: 9
+  mb-earlier: 3
+  found-no-date: 2
+
+Still unmatched or contradicted:
+  [still-unmatched] bolcom-heliotrope-bouquet | William Bolcom — Heliotrope Bouquet: Piano Rags 1900–1970 (claimed 1971) | near: Scott Joplin — Heliotrope Bouquet (?) ; Scott Joplin — Heliotrope Bouquet (1992) ; Anthony Savino — Heliotrope (2011-03-01)
+  [still-unmatched] reginald-robinson-sounds-in-silhouette | Reginald R. Robinson — Sounds in Silhouette (claimed 1998) | near: Ensemble Economique — In Silhouette (2017-03-31) ; Veronica Vasicka — In Silhouette (2018-11-06) ; Stan Kenton — Standards in Silhouette (1998)
+  [mb-earlier] odjb-complete-original-dixieland | Original Dixieland Jazz Band — The Complete Original Dixieland Jazz Band 1917–1936 (claimed 1996) | MB: Original Dixieland Jazz Band — The Complete Original Dixieland Jazz Band (1917–1936) (1992)
+  [still-unmatched] george-lewis-jazz-at-vespers | George Lewis — Jazz at Vespers (claimed 1954) | near: Dan Forshaw — Jazz Vespers (2016-11-22) ; Iro Haarla Quintet — Vespers (2011) ; Steve Lacy Octet — Vespers (1993)
+  [mb-earlier] eddie-condon-chronological-1927-1938 | Eddie Condon — The Chronological Eddie Condon 1927–1938 (claimed 1996) | MB: Eddie Condon — The Chronological Classics: Eddie Condon 1927-1938 (1994)
+  [still-unmatched] mckenzie-condon-chicagoans | McKenzie and Condon's Chicagoans — The Austin High School Gang (claimed 1990) | near: The Alrights — High School (2006-08-21) ; We Are The City — High School (2011-03-22) ; Various Artists — High School High (1996-09-10)
+  [mb-earlier] bud-freeman-chicagoans-in-new-york | Bud Freeman — Bud Freeman and His Famous Chicagoans (claimed 1990) | MB: Bud Freeman — Bud Freeman (1955)
+  [found-no-date] benny-goodman-bg-trio-quartet | Benny Goodman — The Complete Benny Goodman Trios and Quartets (claimed 1998) | MB: Benny Goodman — Benny Goodman (null)
+  [still-unmatched] jack-teagarden-king-of-the-blues-trombone | Jack Teagarden — King of the Blues Trombone (claimed 1970) | near: Tommy Dorsey — Kings of Trombone (1996-11-19) ; Freddie King — King of the Blues (1995) ; Blind Lemon Jefferson — King of the Blues (1991)
+  [still-unmatched] art-hodes-sittin-in | Art Hodes — Sittin' In (claimed 1993) | near: Roger Smith — Sittin' In (2008-06-17) ; The Eminent Stars — Sittin In (2014-02-17) ; Dizzy Gillespie — Sittin' In (2005-04-12)
+  [still-unmatched] dick-wellstood-from-ragtime-on | Dick Wellstood — From Ragtime On (claimed 1971) | near: Vic Ruggiero — On the Ragtime (2009) ; Stephen Flaherty — Ragtime (1998) ; Wojciech Kaminski — Ragtime (?)
+  [still-unmatched] donald-lambert-harlem-stride-classics | Donald Lambert — Harlem Stride Classics (claimed 1990) | near: James P. Johnson — Harlem Stride Piano: 1921-1929 (1997-10-21) ; DukeDaGod — Harlem Classics 2 (2011-02-08) ; Mount Holly — Stride By Stride (2017-11-03)
+  [found-no-date] ellington-such-sweet-thunder | Duke Ellington and Billy Strayhorn — Such Sweet Thunder (claimed 1957) | MB: Duke Ellington & His Orchestra — Such Sweet Thunder (null)
+  [still-unmatched] tchavolo-schmitt-alors-question | Tchavolo Schmitt — Alors?... Voilà! (claimed 2000) | near: Rachid Taha — Voilà voilà (1993) ; Stéphane Mercier — Voilà... (?) ; Embrasserie — Voilà (2004)
+  [still-unmatched] jimmy-giuffre-free-fall | Jimmy Giuffre 3 — Free Fall (claimed 1963) | near: Cornelius — Free Fall (1998) ; Meadowlark — Free Fall (2000) ; Birdy — Free Fall (1983)
+  [still-unmatched] tony-williams-lifetime-spring | Tony Williams — Spring (claimed 1966) | near: Kullrusk — spring spring spring spring (2006) ; ベリーグッドマン — Spring Spring Spring (2017-03-07) ; Coney Island — Spring Spring (2010-06-03)
+  [still-unmatched] machito-afro-cuban-jazz-suite | Machito and His Afro-Cubans — Afro-Cuban Jazz Suite (claimed 1957) | near: Eladio Reinón — Afro Cuban Jazz Suite Nº1 (1999) ; Snowboy & The Latin Section — Afro Cuban Jazz (2000-06-06) ; Bebo Valdés — Afro-Cuban Jazz (2002)
+  [still-unmatched] eddie-palmieri-harlem-river-drive | Eddie Palmieri — Harlem River Drive (claimed 1971) | near: Harlem River Drive — Harlem River Drive (1971) ; Brian Dunne — Harlem River Drive (2019-10-25) ; Fergie Baby — Harlem River Drive (2025-02-05)
+  [still-unmatched] mulatu-astatke-ethiopiques-4 | Mulatu Astatke — Éthiopiques 4: Ethio Jazz & Musique Instrumentale 1969–1974 (claimed 1998) | near: ሙላቱ አስታጥቄ — Éthiopiques 4: éthio jazz & musique instrumentale, 1969-1974 (1998-03-24) ; Kassa Tessema — Éthiopiques 29: Mastawesha (2014-07-15) ; Mahmoud Ahmed — Éthiopiques 19: Alèmyé (2005-02-25)
+  [still-unmatched] masabumi-kikuchi-poo-sun | Masabumi Kikuchi — Poo-Sun (claimed 1970) | near: 菊地雅章 — POO-SUN (2009-05-27) ; Cupid Kidz — Ganja Poo Poo (2013-05-29) ; talkwalker — poo Poo Bridge (2023-03-26)
+  [still-unmatched] isao-suzuki-blow-up | Isao Suzuki Trio/Quartet — Blow Up (claimed 1973) | near: The Presets — Blow Up (2003-11-17) ; Mr Blonde — Blow Up (1997) ; Talking Horns — Blow up (2003)
+  [still-unmatched] masahiko-togashi-we-now-create | Masahiko Togashi — We Now Create: Music for Strings, Winds and Percussion (claimed 1969) | near: 富樫雅彦カルテット — ウィ・ナウ・クリエイト (1969-09) ; I Create — All We Are Is Now (2008-07-15) ; Fetus Blasters — We Live In Create We Live And Create We Live We Create (2020-06-17)
+  [still-unmatched] ryo-fukui-scenery | Ryo Fukui — Scenery (claimed 1976) | near: Less Cash — Scenery (2014-04-15) ; The Frenetics — Scenery (2000) ; Mattia Trani — Scenery (2021-05-28)
+  [still-unmatched] decoding-society-mandance | Ronald Shannon Jackson and the Decoding Society — Mandance (claimed 1982) | near: Oliver Kapp — Mandancer EP (1998) ; Ronald Shannon Jackson and The Decoding Society — Man Dance (1982)
+  [still-unmatched] jazz-at-lincoln-center-big-train | Lincoln Center Jazz Orchestra — Big Train (claimed 1999) | near: Les Fauvels — Big Train (1965) ; Wynton Marsalis — Big Train (1999-07-13) ; Resident Filters — Big Train (1998)
+  [still-unmatched] john-zorn-cobra | John Zorn — Cobra (claimed 1987) | near: Tokow Boys — Cobra! Cobra! (1981) ; 16bit — Cobra (2009-06) ; Sandy — Cobra (1996)
+  [still-unmatched] elliott-sharp-carbon-tocsin | Elliott Sharp / Carbon — Tocsin (claimed 1990) | near: Year of No Light — Tocsin (2013-11-29) ; Patrick Higgins — TOCSIN (2020-10-16) ; Xmal Deutschland — Tocsin (1984-06)

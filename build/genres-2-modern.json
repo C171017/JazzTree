@@ -1,0 +1,286 @@
+[
+  {
+    "id": "bebop",
+    "name": "Bebop",
+    "aka": ["Bop", "Rebop"],
+    "family": "trad-mainstream",
+    "era": { "start": 1944, "peak": [1945, 1953], "end": null },
+    "origin": { "city": "New York (Harlem / 52nd Street)", "country": "USA" },
+    "oneLine": "Small-group jazz played fast and dense enough that it stopped being dance music and became something you sit down for.",
+    "summary": "Bebop is what happens when musicians decide the audience is other musicians. A small group — trumpet, alto or tenor, piano, bass, drums — plays a fast, angular unison melody, then everyone solos at length over the chord changes, then the melody returns. The tunes are often new heads written over the harmony of existing standards, so the players get fresh material without paying royalties or relearning forms. The lines are long, asymmetric, and full of chromatic approach notes and upper-structure intervals — flattened fifths and ninths that sounded wrong to swing-trained ears. Rhythmically the whole timekeeping apparatus moves: the ride cymbal carries the pulse, the bass drum stops marking every beat and instead 'drops bombs' as accents, and the pianist stops stride-style timekeeping and comps in irregular stabs. It developed at after-hours sessions in Harlem, notably Minton's Playhouse, during the early 1940s, and the 1942–44 recording ban means the crucial transition is largely undocumented — the records pick up when the style is already formed.",
+    "musicalTraits": {
+      "harmony": "Fast-moving functional harmony with extensions and substitutions: flat nines, sharp elevens, tritone substitutions, and ii–V chains inserted where the original song had none.",
+      "rhythm": "Ride cymbal as primary timekeeper, walking bass in even four, bass drum used for irregular accents rather than pulse, piano comping in syncopated punctuation.",
+      "form": "Head–solos–head over 32-bar AABA, rhythm changes, and 12-bar blues. Contrafacts — new melodies on borrowed changes — are everywhere.",
+      "instrumentation": "Quintet: trumpet, saxophone, piano, bass, drums. Guitar drops out of the rhythm section.",
+      "improvisation": "The central activity. Long eighth-note lines that outline the harmony precisely, with chromatic enclosures and deliberate targeting of the upper extensions.",
+      "timbre": "Dry, hard, minimal vibrato. Parker's alto tone and Gillespie's high, brilliant trumpet are deliberately unsentimental."
+    },
+    "earMarkers": [
+      "A fast, twisting melody played in unison by two horns with no harmony underneath",
+      "Drums keeping time on a cymbal while the bass drum punches at unpredictable moments",
+      "Solos that run in continuous eighth notes for a very long time without obvious pause",
+      "Tunes you half-recognise — the chords are from a standard but the melody is new",
+      "Tempos that are simply too fast to dance to"
+    ],
+    "keyFigures": [
+      { "name": "Charlie Parker", "instrument": "alto saxophone", "why": "Built the melodic vocabulary. Almost every jazz improviser since has absorbed his phrasing, whether or not they play his style." },
+      { "name": "Dizzy Gillespie", "instrument": "trumpet, composition", "why": "Parker's counterpart and the style's theorist and teacher; also the one who brought Afro-Cuban rhythm into it." },
+      { "name": "Bud Powell", "instrument": "piano", "why": "Translated Parker's horn lines to the keyboard and invented the modern jazz piano role — right-hand lines over sparse left-hand chords." },
+      { "name": "Thelonious Monk", "instrument": "piano, composition", "why": "Present at the creation but never really a bebop player; his compositions and use of space run at an angle to the whole style." },
+      { "name": "Max Roach", "instrument": "drums", "why": "Moved the drum kit from timekeeping to conversation, playing melodically against the soloist." },
+      { "name": "Kenny Clarke", "instrument": "drums", "why": "The Minton's house drummer who first shifted the pulse to the ride cymbal — the technical change that made bebop possible." }
+    ],
+    "keyLabels": ["Savoy", "Dial", "Blue Note", "Clef/Norgran (later Verve)", "Prestige"],
+    "contested": "Whether bebop was a revolution or an evolution. Musicians involved often described it as a natural extension of what Lester Young, Charlie Christian and Coleman Hawkins were already doing; the press framed it as a rupture. Both accounts have evidence behind them.",
+    "confidence": "high"
+  },
+  {
+    "id": "cool-jazz",
+    "name": "Cool Jazz",
+    "aka": ["The cool school", "Birth of the Cool style"],
+    "family": "trad-mainstream",
+    "era": { "start": 1948, "peak": [1949, 1958], "end": 1964 },
+    "origin": { "city": "New York", "country": "USA" },
+    "oneLine": "Bebop's harmony at half the temperature — soft attack, written counterpoint, and space where the heat used to be.",
+    "summary": "Take bebop's harmonic sophistication and remove its aggression. Cool jazz keeps the extended chords and the fast changes but plays them with a light, vibrato-free tone, at moderate tempos, with far more written material and much more silence. The Miles Davis nonet sessions of 1949–50 are the founding document: nine pieces including French horn and tuba, arranged by Gil Evans, Gerry Mulligan and John Lewis into something closer to chamber music than to a jam session. The other root is Lennie Tristano's circle in New York, which pursued long, seamless improvised lines with almost no rhythmic emphasis, deliberately suppressing the drama. Lester Young is the shared ancestor of both — his dry tone and behind-the-beat placement is what 'cool' means as a sound. Critics have often written the style off as bloodless or as a whitening of bebop, and the racial politics of its reception are genuinely ugly, but the actual music of Tristano, Konitz, Evans and Lewis is intellectually demanding and unlike anything else.",
+    "musicalTraits": {
+      "harmony": "Bebop's extended harmony plus impressionist colouring — quartal voicings, whole-tone passages, and polytonal writing in the arranged pieces.",
+      "rhythm": "Even, unemphatic, deliberately undramatic. Drummers use brushes often and avoid punctuation; the pulse is stated rather than driven.",
+      "form": "Arranged ensemble passages framing solos, with contrapuntal writing and unusual section lengths rather than straight head–solos–head.",
+      "instrumentation": "Unusual for jazz: French horn, tuba, baritone saxophone, flute, cello. Piano-less groups also appear.",
+      "improvisation": "Long, evenly phrased melodic lines with little rhythmic display. Tristano's students practised eliminating cliché and accent entirely.",
+      "timbre": "Soft attack, minimal vibrato, blended ensemble sound. Nothing is played loudly for effect."
+    },
+    "earMarkers": [
+      "Horns playing with a soft, breathy tone and almost no vibrato",
+      "Two or more melody lines moving independently in a written arrangement, not just chords",
+      "Instruments you don't expect in jazz — French horn, tuba, cello",
+      "Drums using brushes and staying out of the way",
+      "Medium tempos with noticeable space between phrases"
+    ],
+    "keyFigures": [
+      { "name": "Miles Davis", "instrument": "trumpet, bandleading", "why": "Assembled the nonet and provided its middle-register, unhurried lead voice; then left the style behind within a few years." },
+      { "name": "Gil Evans", "instrument": "arranging", "why": "The orchestral imagination behind the nonet and later the Davis–Evans collaborations; treated the ensemble as a single instrument with variable colour." },
+      { "name": "Lennie Tristano", "instrument": "piano, teaching", "why": "Ran a rigorous school of improvisation aimed at pure line, and cut two free improvisations in 1949, years before Ornette Coleman." },
+      { "name": "Lee Konitz", "instrument": "alto saxophone", "why": "The one major altoist of his generation who did not sound like Charlie Parker — a genuine alternative line of descent." },
+      { "name": "John Lewis", "instrument": "piano, composition", "why": "Nonet arranger who then built the Modern Jazz Quartet around baroque counterpoint and blues." }
+    ],
+    "keyLabels": ["Capitol", "Prestige", "Atlantic", "Verve"],
+    "contested": "Whether cool jazz and West Coast jazz are one thing. This guide separates them: cool jazz is the New York nonet/Tristano lineage, West Coast is the Los Angeles studio-musician scene that grew partly out of it. Many writers merge the two, and the overlap in personnel is real.",
+    "confidence": "high"
+  },
+  {
+    "id": "west-coast",
+    "name": "West Coast Jazz",
+    "aka": ["California jazz", "Cool West Coast"],
+    "family": "trad-mainstream",
+    "era": { "start": 1952, "peak": [1953, 1959], "end": 1963 },
+    "origin": { "city": "Los Angeles", "country": "USA" },
+    "oneLine": "Cool jazz relocated to LA studios: light, arranged, lyrical, and made by musicians with day jobs scoring films.",
+    "summary": "Los Angeles in the 1950s had a large population of superb reading musicians working in film and television studios, and a club scene — the Lighthouse in Hermosa Beach, Zardi's, the Haig — where they played jazz at night. The result is a music that prizes arrangement, clarity and craft: contrapuntal writing, unusual instrumentation, tightly rehearsed ensembles, and solos that stay lyrical rather than combative. The Gerry Mulligan Quartet with Chet Baker dropped the piano entirely, which forced the baritone and trumpet to imply the harmony through counterpoint, and produced the style's defining sound. Shorty Rogers, Shelly Manne, Jimmy Giuffre and Bud Shank are the other central figures. The style has been criticised, then and since, as polite and racially coded — the LA studio system was overwhelmingly white and the Black LA scene around Central Avenue was a distinct thing that got far less attention. Both criticisms have force. The music itself, taken on its own terms, is more rhythmically inventive than its reputation suggests.",
+    "musicalTraits": {
+      "harmony": "Clean bebop-derived changes with a taste for counterpoint over vertical density; some pieces borrow directly from fugue and canon procedures.",
+      "rhythm": "Light and buoyant rather than driving. Shelly Manne's playing is detailed and quiet, closer to a percussionist's approach than a swing drummer's.",
+      "form": "Heavily arranged: written introductions, interludes, backgrounds behind solos, and shaped endings. Less head–solos–head than anywhere else in 1950s jazz.",
+      "instrumentation": "Piano-less quartets, flute and oboe doubling, baritone saxophone as a lead voice, occasional strings and woodwind sections.",
+      "improvisation": "Melodic and thematic, often developing a motif from the written material rather than running changes.",
+      "timbre": "Dry, close-recorded, transparent. Chet Baker's trumpet and Mulligan's baritone define the palette."
+    },
+    "earMarkers": [
+      "No piano at all in many groups — just horns, bass and drums",
+      "Two horns weaving separate lines around each other like a written duet",
+      "Flute, oboe or baritone saxophone carrying the melody",
+      "Everything sounding rehearsed rather than jammed",
+      "Quiet, detailed drumming with a lot of brushwork and rim sounds"
+    ],
+    "keyFigures": [
+      { "name": "Gerry Mulligan", "instrument": "baritone saxophone, arranging", "why": "The piano-less quartet was his idea and it defined the style's texture; also a first-rate contrapuntal writer." },
+      { "name": "Chet Baker", "instrument": "trumpet, vocals", "why": "The style's lyrical voice — middle register, no vibrato, melodically simple and rhythmically subtle." },
+      { "name": "Shorty Rogers", "instrument": "trumpet, arranging", "why": "The scene's most prolific arranger; his Giants sessions codified the West Coast small-band sound." },
+      { "name": "Shelly Manne", "instrument": "drums", "why": "Redefined what a drummer could contribute texturally, and co-led the LA scene's most exploratory sessions." },
+      { "name": "Jimmy Giuffre", "instrument": "clarinet, saxophones, composition", "why": "Pushed furthest out — drumless trios, folk-derived material, and by 1961 a chamber-free-jazz that predates most European improv." }
+    ],
+    "keyLabels": ["Pacific Jazz", "Contemporary", "Atlantic", "World Pacific"],
+    "contested": "Whether it is a real style or a marketing geography. Critics including many at the time argued 'West Coast jazz' described where records were made, not how they sounded — Ornette Coleman and Eric Dolphy were also in Los Angeles. This guide keeps it because the piano-less contrapuntal small group and the arranger-forward approach are a genuinely coherent set of choices.",
+    "confidence": "medium"
+  },
+  {
+    "id": "hard-bop",
+    "name": "Hard Bop",
+    "aka": ["Funky hard bop", "East Coast jazz"],
+    "family": "trad-mainstream",
+    "era": { "start": 1954, "peak": [1956, 1965], "end": null },
+    "origin": { "city": "New York / Detroit / Philadelphia", "country": "USA" },
+    "oneLine": "Bebop with the blues and the church put back in — heavier, slower, and built to hit you in the chest.",
+    "summary": "By 1954 bebop had become a specialist's music and cool jazz had gone pale. Hard bop is the correction: the same harmonic language and the same quintet format, but slowed down, made bluesier, and reconnected to gospel and rhythm-and-blues. The tunes are catchier — often written by the band members themselves, with singable heads and memorable bass figures rather than abstract contrafacts. The drums get heavier, with a backbeat on 2 and 4 appearing regularly where swing drummers would have kept it on the cymbal. Piano comping picks up gospel voicings and repeated amen cadences. Art Blakey's Jazz Messengers, running from 1955 until his death in 1990, functioned as both the style's flagship and its university — Horace Silver, Benny Golson, Lee Morgan, Wayne Shorter, Freddie Hubbard, Keith Jarrett and dozens more came through it. Blue Note under Alfred Lion, with Rudy Van Gelder engineering and paid rehearsal time, gave the style a house sound that is still what most people mean when they picture a jazz record.",
+    "musicalTraits": {
+      "harmony": "Bebop changes plus explicit blues and gospel material — minor blues, modal vamps, IV–I plagal cadences lifted from church music.",
+      "rhythm": "Heavier and more grounded than bebop, with backbeats, Latin-tinged intros, and Blakey's press rolls and hard shuffle feels.",
+      "form": "Head–solos–head, but with composed introductions, interludes and shout choruses that make the records feel arranged.",
+      "instrumentation": "Trumpet–tenor quintet is the default; sextets with trombone or alto are common. Organ and vibes appear at the edges.",
+      "improvisation": "Blues-saturated and rhythmically emphatic. Motivic repetition and worrying at a phrase are valued over pure line.",
+      "timbre": "Big, fat horn tones with more vibrato than bebop; Van Gelder's close-miked recording gives the drums and piano unusual weight."
+    },
+    "earMarkers": [
+      "Drums hitting hard on beats 2 and 4, not just riding the cymbal",
+      "Gospel-style church chords in the piano comping, with repeated amen-like cadences",
+      "Heads you can actually hum, often with a strong bass riff underneath",
+      "A drum roll that builds and crashes into the next soloist's entrance",
+      "Minor-key tunes with a Latin feel on the head that switches to swing for the solos"
+    ],
+    "keyFigures": [
+      { "name": "Art Blakey", "instrument": "drums, bandleading", "why": "Ran the Jazz Messengers for 35 years as both a band and a training system; his press roll and backbeat are the style's rhythmic signature." },
+      { "name": "Horace Silver", "instrument": "piano, composition", "why": "Wrote the tunes that defined the funky side of the style and made the piano a percussive, blues-drenched instrument." },
+      { "name": "Clifford Brown", "instrument": "trumpet", "why": "The technical and lyrical model for every hard bop trumpeter; dead at 25 in 1956, which is why the recordings are so concentrated." },
+      { "name": "Cannonball Adderley", "instrument": "alto saxophone", "why": "Carried the blues-and-joy side of the style to a large audience without softening the playing." },
+      { "name": "Lee Morgan", "instrument": "trumpet", "why": "Blakey's most quotable soloist and the maker of the style's biggest commercial hit." },
+      { "name": "Sonny Rollins", "instrument": "tenor saxophone", "why": "Built solos by developing motifs across whole choruses — thematic improvisation as an explicit method." }
+    ],
+    "keyLabels": ["Blue Note", "Prestige", "Riverside", "Savoy", "Columbia"],
+    "contested": "Some writers treat hard bop and soul jazz as a single continuum rather than two genres, and there is no clean line — Horace Silver sits on both sides of it. This guide splits them at the point where the organ trio and the R&B backbeat become the format rather than a flavour. The label 'East Coast jazz' as an answer to West Coast is a critics' construction more than a musicians' one.",
+    "confidence": "high"
+  },
+  {
+    "id": "soul-jazz",
+    "name": "Soul Jazz & Organ Trio",
+    "aka": ["Funky jazz", "Groove jazz", "Organ combo"],
+    "family": "trad-mainstream",
+    "era": { "start": 1956, "peak": [1960, 1969], "end": null },
+    "origin": { "city": "Philadelphia / Newark / Chicago", "country": "USA" },
+    "oneLine": "Jazz for the neighbourhood bar: Hammond organ, guitar, drums, a hard groove, and no interest in impressing critics.",
+    "summary": "The Hammond B-3 organ with a Leslie rotating speaker is the whole sound. One player covers bass with the pedals or the left hand, chords and melody with the right, and can swell the volume with a foot pedal in a way no piano can — which is why the organ trio needs no bassist and can fill a room. Jimmy Smith worked out the vocabulary in the mid-1950s and effectively created a job market: organ, guitar, drums, sometimes tenor, working the chitlin' circuit and neighbourhood taverns rather than concert halls. The music is groove-first, blues-based, often built on simple vamps and 12-bar forms, with long solos and an audience that responds out loud. It was hugely popular and largely dismissed by the jazz press at the time as commercial, which says more about the press than the music. Everything in later jazz-funk, acid jazz and hip-hop-sampled jazz runs back through here — a huge proportion of sampled jazz breaks come from soul jazz records.",
+    "musicalTraits": {
+      "harmony": "Blues and simple functional changes, gospel plagal cadences, and long single-chord vamps. Harmonic ambition is deliberately not the point.",
+      "rhythm": "Shuffle and backbeat feels drawn from rhythm and blues, with the drummer often playing a boogaloo or a hard 12/8.",
+      "form": "12-bar blues, simple riff tunes, and modal vamps stretched out for extended solos. Head arrangements, minimal writing.",
+      "instrumentation": "Hammond B-3 through a Leslie cabinet, electric guitar, drums, and often tenor saxophone. No upright bass — the organ covers it.",
+      "improvisation": "Long, riff-driven, and openly crowd-pleasing. Repetition and building intensity matter more than harmonic navigation.",
+      "timbre": "The Leslie speaker's swirl is the defining colour, plus hollow-body guitar with a warm, unhurried attack and a big-toned tenor."
+    },
+    "earMarkers": [
+      "Hammond organ with that swirling, rotating speaker sound",
+      "No double bass — the bass line is being played by the organist's left hand or feet",
+      "A hard backbeat you could dance to, closer to R&B than to swing",
+      "Long stretches sitting on one chord while the solo builds",
+      "Audible crowd noise — a lot of these were recorded live in bars"
+    ],
+    "keyFigures": [
+      { "name": "Jimmy Smith", "instrument": "Hammond organ", "why": "Invented the modern jazz organ vocabulary — bass lines in the left hand, bebop lines in the right — and created the format." },
+      { "name": "Grant Green", "instrument": "guitar", "why": "The most rhythmically pure single-note guitarist of the style; almost never played chords in solos." },
+      { "name": "Stanley Turrentine", "instrument": "tenor saxophone", "why": "The definitive soul jazz tenor tone — huge, warm, blues-first." },
+      { "name": "Jack McDuff", "instrument": "Hammond organ", "why": "Ran the hardest-grooving of the working organ bands and gave George Benson his first job." },
+      { "name": "Ramsey Lewis", "instrument": "piano", "why": "Proved the piano trio could do the same job, and took soul jazz into the pop charts in 1965." }
+    ],
+    "keyLabels": ["Blue Note", "Prestige", "Argo/Cadet", "Verve"],
+    "contested": "Where hard bop ends and soul jazz begins. Horace Silver, Cannonball Adderley and Lee Morgan sit on both sides. Some writers also fold Ramsey Lewis and the piano-based groove records into a separate 'crossover' category. The genre's low critical standing at the time has been substantially revised.",
+    "confidence": "high"
+  },
+  {
+    "id": "modal",
+    "name": "Modal Jazz",
+    "aka": ["Modal improvisation"],
+    "family": "trad-mainstream",
+    "era": { "start": 1958, "peak": [1959, 1967], "end": null },
+    "origin": { "city": "New York", "country": "USA" },
+    "oneLine": "Take away most of the chords and see what a soloist does with the space.",
+    "summary": "Bebop and hard bop hand the improviser a chord every two beats; modal jazz might hand them one scale for sixteen bars. The reduction is the innovation. With the harmony slowed almost to a stop, a soloist can no longer succeed by outlining changes accurately, and has to build a line out of melodic shape, motif and colour instead. George Russell's Lydian Chromatic Concept, published in 1953, gave the idea a theoretical frame; Miles Davis's 'Milestones' in 1958 and Kind of Blue in 1959 gave it a sound. The consequences show up everywhere: quartal voicings in the piano (stacked fourths, which are ambiguous about what key you are in), pedal points in the bass, drummers freed from marking chord changes and able to play texture, and modes borrowed from outside the major/minor system. Coltrane pushed it further and harder than Davis did, turning single-chord vamps into ecstatic marathons, and by way of that the style opens directly into spiritual jazz and free playing.",
+    "musicalTraits": {
+      "harmony": "Static or very slow-moving. One scale or mode held for long stretches, with quartal and suspended voicings that avoid stating a clear tonal centre.",
+      "rhythm": "Freed from chord-marking. Bass often plays pedal points or ostinatos; drums play colour and wave-shape rather than navigation.",
+      "form": "Long sections over a single mode, sometimes with a second mode as contrast. Forms can be irregular lengths because they are not tied to song structure.",
+      "instrumentation": "Standard quintet or sextet, but the piano's role changes fundamentally — texture and colour over functional comping.",
+      "improvisation": "Melodic and motivic. With no changes to navigate, the soloist must generate interest from shape, repetition, register and intensity.",
+      "timbre": "Space becomes audible. Bill Evans' voicings and Coltrane's overtone-rich upper register are the two ends of the style's colour range."
+    },
+    "earMarkers": [
+      "The harmony sits still — you can wait a long time for the chord to change",
+      "Piano chords built from stacked fourths, which sound open and unresolved",
+      "A bass note held or repeated under everything (a pedal point)",
+      "Melodies that sound slightly foreign because the scale isn't ordinary major or minor",
+      "A soloist building intensity by repetition rather than by moving through chords"
+    ],
+    "keyFigures": [
+      { "name": "Miles Davis", "instrument": "trumpet, bandleading", "why": "Made the theoretical idea audible and commercially enormous with Kind of Blue in 1959." },
+      { "name": "John Coltrane", "instrument": "tenor and soprano saxophone", "why": "Took modal frameworks to their limit — long vamps played at maximum intensity, which is where free jazz starts for him." },
+      { "name": "Bill Evans", "instrument": "piano", "why": "Supplied the voicing language, borrowed partly from Ravel and Debussy, that makes modal harmony sound the way it does." },
+      { "name": "George Russell", "instrument": "composition, theory", "why": "Wrote the Lydian Chromatic Concept, the theoretical framework that gave modal thinking a vocabulary." },
+      { "name": "McCoy Tyner", "instrument": "piano", "why": "Turned quartal voicings into a percussive, pentatonic-driven style that became the default sound of modal piano." },
+      { "name": "Herbie Hancock", "instrument": "piano, composition", "why": "Wrote modal pieces with ambiguous, floating harmony that avoid both functional resolution and static vamps." }
+    ],
+    "keyLabels": ["Columbia", "Impulse!", "Blue Note", "Atlantic"],
+    "contested": "Whether modal jazz is a genre or a technique. Almost every post-1960 style uses modal devices, and albums like Kind of Blue get filed as modal, cool, or post-bop depending on the writer. Whether Kind of Blue is modal jazz or a modal-flavoured hard bop record is a genuinely live argument.",
+    "confidence": "high"
+  },
+  {
+    "id": "third-stream",
+    "name": "Third Stream",
+    "aka": ["Jazz-classical fusion"],
+    "family": "avant",
+    "era": { "start": 1957, "peak": [1957, 1963], "end": null },
+    "origin": { "city": "New York / Boston", "country": "USA" },
+    "oneLine": "Composers trying to get classical form and jazz improvisation into the same piece without either one winning.",
+    "summary": "Gunther Schuller coined the term in a 1957 lecture at Brandeis University, describing a third stream flowing between the classical and jazz mainstreams. The premise: use the compositional resources of Western art music — twelve-tone rows, fugue, extended form, orchestral instrumentation — while keeping improvisation as a live element rather than decoration. The Modern Jazz Quartet under John Lewis had been circling the idea since 1952 with baroque counterpoint over blues; Schuller, Charles Mingus, George Russell and Jimmy Giuffre pushed it further. The problems are obvious in hindsight and were obvious then: classical players could not improvise convincingly, jazz players found the written material stiff, and a lot of the results sound like two musics politely taking turns. But the successful examples are genuinely strange and good, and the idea did not die — it re-emerges in ECM's chamber jazz, in Anthony Braxton's compositional systems, and in almost every contemporary large-ensemble writer. Schuller later expanded the term to mean any fusion of an improvised and a notated tradition, not only European ones.",
+    "musicalTraits": {
+      "harmony": "Twelve-tone and freely atonal writing alongside jazz harmony; polytonality and unresolved dissonance used structurally.",
+      "rhythm": "Often deliberately un-swung in the composed sections, with metric modulation and irregular meters, then a swing feel entering with the improvisation.",
+      "form": "Extended, through-composed structures — sonata-like development, fugue, theme and variations — with improvised sections written into the architecture.",
+      "instrumentation": "Jazz group plus string quartet, chamber orchestra, or full symphony; also the Modern Jazz Quartet's austere vibes-piano-bass-drums.",
+      "improvisation": "Constrained and located — the soloist improvises within a specified section, sometimes on a row or a set of pitches rather than changes.",
+      "timbre": "Concert-hall clarity and dynamic range. Strings, woodwinds and percussion used for colour in ways rare elsewhere in jazz."
+    },
+    "earMarkers": [
+      "Strings or woodwinds that are clearly a classical section, not a pop string sweetening",
+      "Passages of counterpoint that sound like Bach, followed by a swinging solo",
+      "Dissonance that never resolves, used on purpose",
+      "Long pieces in several distinct movements rather than head–solos–head",
+      "An audible seam where the written part stops and improvisation begins"
+    ],
+    "keyFigures": [
+      { "name": "Gunther Schuller", "instrument": "composition, French horn, criticism", "why": "Named the movement, wrote much of its repertoire, and later wrote the two-volume history of jazz that shaped how it is taught." },
+      { "name": "John Lewis", "instrument": "piano, composition", "why": "The Modern Jazz Quartet applied fugal and rondo procedures to blues material for four decades without gimmickry." },
+      { "name": "Charles Mingus", "instrument": "bass, composition", "why": "His extended works use classical scale and ambition while remaining rooted in blues and gospel; he rejected the label but fits the description." },
+      { "name": "George Russell", "instrument": "composition, theory", "why": "Combined a rigorous theoretical system with big-band writing that neither classical nor jazz orthodoxy could claim." },
+      { "name": "Jimmy Giuffre", "instrument": "clarinet, composition", "why": "His 1961 trio with Paul Bley and Steve Swallow is chamber music and free improvisation at the same time." }
+    ],
+    "keyLabels": ["Atlantic", "Columbia", "Verve", "ECM (later)"],
+    "contested": "Whether it is a genre, a project, or a failure. Many musicians it describes — Mingus above all — rejected the label. Schuller himself later widened the definition so far that it arguably stopped naming anything specific. Critics of the term argue it presumes classical music is a separate, higher stream that jazz must be married into.",
+    "confidence": "medium"
+  },
+  {
+    "id": "post-bop",
+    "name": "Post-Bop",
+    "aka": ["Modern mainstream", "The Blue Note new thing"],
+    "family": "trad-mainstream",
+    "era": { "start": 1963, "peak": [1964, 1969], "end": null },
+    "origin": { "city": "New York", "country": "USA" },
+    "oneLine": "The music of players who absorbed free jazz without abandoning form — ambiguous, floating, still structured.",
+    "summary": "By the mid-1960s a group of musicians had heard Ornette Coleman and Cecil Taylor and did not want to go all the way, but could not go back either. Post-bop is what they built. The forms are still there but stretched — 22 bars instead of 32, sections of irregular length, tunes that never quite resolve. The harmony floats: chords with ambiguous function, key centres that shift without announcing themselves, melodies that imply several possible tonalities. The rhythm section becomes genuinely interactive rather than supportive — the Miles Davis Second Great Quintet with Hancock, Carter and Williams played 'time, no changes', keeping a pulse while treating the harmony as negotiable, and Williams could imply three tempos at once. Wayne Shorter's compositions are the central body of writing: short, enigmatic heads with harmony that resists analysis. Andrew Hill, Bobby Hutcherson, Joe Henderson and Herbie Hancock make up most of the rest. It is still the default language of conservatory-trained modern jazz, which is why the term also gets used loosely for anything mainstream and post-1960.",
+    "musicalTraits": {
+      "harmony": "Functionally ambiguous. Slash chords, unresolved suspensions, modal interchange, and progressions that move by step or third rather than by fifth.",
+      "rhythm": "Elastic. The pulse is present but the group can imply double time, half time, or a different meter simultaneously; the drummer is a co-improviser.",
+      "form": "Irregular section lengths, forms that don't loop cleanly, and pieces where the solo section differs structurally from the head.",
+      "instrumentation": "Quintet and sextet formats; vibraphone becomes prominent, and the piano sometimes drops out entirely.",
+      "improvisation": "Freer relationship to the written harmony — playing 'outside' deliberately and resolving back, or ignoring the changes while keeping the form.",
+      "timbre": "Cooler and more transparent than hard bop. Space and dynamics are compositional elements."
+    },
+    "earMarkers": [
+      "Chords that never settle — you can't tell what key the tune is in",
+      "The drummer commenting and disrupting rather than keeping steady time",
+      "Forms that don't come around when you expect them to",
+      "Solos that go deliberately 'wrong' against the harmony, then snap back",
+      "Heads that are short, strange, and hard to hum"
+    ],
+    "keyFigures": [
+      { "name": "Wayne Shorter", "instrument": "tenor and soprano saxophone, composition", "why": "Wrote the style's core repertoire — harmonically slippery pieces that are still being played and still resist easy analysis." },
+      { "name": "Herbie Hancock", "instrument": "piano, composition", "why": "Developed a comping approach that suggests rather than states harmony, and wrote the floating pieces that define the sound." },
+      { "name": "Tony Williams", "instrument": "drums", "why": "Joined Miles at 17 and rebuilt the drummer's role as an equal improviser who can move the time without losing it." },
+      { "name": "Andrew Hill", "instrument": "piano, composition", "why": "The most structurally radical of the Blue Note post-bop writers; his forms are asymmetric in ways that still sound unusual." },
+      { "name": "Joe Henderson", "instrument": "tenor saxophone", "why": "Moved between inside and outside playing more fluently than almost anyone, on both hard bop and avant-garde dates." },
+      { "name": "Bobby Hutcherson", "instrument": "vibraphone", "why": "Made the vibraphone a colour instrument for ambiguous harmony rather than a novelty." }
+    ],
+    "keyLabels": ["Blue Note", "Columbia", "Milestone"],
+    "contested": "The term is used two incompatible ways: narrowly for the mid-1960s Blue Note/Miles quintet music described here, and broadly for any acoustic jazz made after bebop that isn't free. Some writers file Kind of Blue and much of the 1970s mainstream here too. This guide uses the narrow definition and says so.",
+    "confidence": "medium"
+  }
+]

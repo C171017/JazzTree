@@ -1,0 +1,108 @@
+/* ---------------------------------------------------------------------------
+   JazzTree — tokens.
+   Warm charcoal ground, one ochre accent with an oxblood second, and type doing
+   most of the work. Reid Miles' Blue Note sleeves and ECM's covers are the
+   reference points, not a dashboard.
+   All fonts are system stacks: the site must work from file:// with no network.
+--------------------------------------------------------------------------- */
+
+:root {
+  color-scheme: dark;
+
+  /* Type ------------------------------------------------------------------ */
+  --font-display: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua",
+    "Hoefler Text", "Songti SC", "Noto Serif CJK SC", Georgia, "Times New Roman", serif;
+  --font-ui: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", "Helvetica Neue", Arial, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+
+  --step--2: clamp(0.68rem, 0.66rem + 0.1vw, 0.74rem);
+  --step--1: clamp(0.78rem, 0.75rem + 0.15vw, 0.86rem);
+  --step-0:  clamp(0.92rem, 0.89rem + 0.18vw, 1rem);
+  --step-1:  clamp(1.1rem, 1.03rem + 0.35vw, 1.3rem);
+  --step-2:  clamp(1.35rem, 1.2rem + 0.7vw, 1.75rem);
+  --step-3:  clamp(1.7rem, 1.4rem + 1.4vw, 2.6rem);
+  --step-4:  clamp(2.1rem, 1.5rem + 2.8vw, 4rem);
+
+  /* Ground ---------------------------------------------------------------- */
+  --bg:        #13110E;
+  --bg-raise:  #1B1815;
+  --bg-sunk:   #0D0C0A;
+  --bg-panel:  #191612;
+  --rule:      #332C24;
+  --rule-soft: #241F1A;
+
+  --ink:       #EBE4D7;
+  --ink-2:     #C4BBAC;
+  --ink-3:     #918879;
+  --ink-4:     #665F54;
+
+  --accent:      #D2922F;  /* ochre */
+  --accent-soft: #7A5417;
+  --accent-ink:  #14110C;
+  --oxblood:     #C0574A;
+  --oxblood-soft:#6B2A23;
+
+  /* Families — every use is paired with a label or a shape, never colour alone */
+  --fam-trad-mainstream: #D2922F;
+  --fam-avant:           #7FA3BD;
+  --fam-electric:        #C4685A;
+  --fam-global:          #8FA867;
+
+  /* Edge types */
+  --edge-direct:   #A3998A;
+  --edge-fusion:   #D2922F;
+  --edge-reaction: #C0574A;
+  --edge-parallel: #6E665C;
+  --edge-revival:  #8FA867;
+
+  --shadow-panel: 0 24px 64px rgb(0 0 0 / 0.55);
+  --radius: 3px;
+  --radius-lg: 6px;
+
+  --measure: 66ch;
+  --header-h: 3.5rem;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+
+  --bg:        #F5F1E8;
+  --bg-raise:  #FFFDF7;
+  --bg-sunk:   #EAE4D6;
+  --bg-panel:  #FFFDF7;
+  --rule:      #D3C9B4;
+  --rule-soft: #E3DCCB;
+
+  --ink:       #1A1713;
+  --ink-2:     #443C31;
+  --ink-3:     #6D6355;
+  --ink-4:     #978D7C;
+
+  --accent:      #9C6512;
+  --accent-soft: #E5CFA4;
+  --accent-ink:  #FFFDF7;
+  --oxblood:     #8E2E23;
+  --oxblood-soft:#E0BEB8;
+
+  --fam-trad-mainstream: #9C6512;
+  --fam-avant:           #3D6383;
+  --fam-electric:        #A0402F;
+  --fam-global:          #5A7233;
+
+  --edge-direct:   #6D6355;
+  --edge-fusion:   #9C6512;
+  --edge-reaction: #8E2E23;
+  --edge-parallel: #A2988A;
+  --edge-revival:  #5A7233;
+
+  --shadow-panel: 0 20px 52px rgb(60 45 20 / 0.18);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

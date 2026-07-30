@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ragtime",
+    "name": "Ragtime",
+    "aka": ["Rag", "Classic ragtime"],
+    "family": "trad-mainstream",
+    "era": { "start": 1895, "peak": [1899, 1917], "end": 1919 },
+    "origin": { "city": "Sedalia / St. Louis / Missouri river towns", "country": "USA" },
+    "oneLine": "Written-out piano music where the left hand marches and the right hand refuses to land on the beat.",
+    "summary": "Put your foot on the floor with the left hand — steady, even, oom-pah, like a march. Now listen to what the right hand does over the top: it keeps arriving a half-beat early, tugging against that floor. That tug is the whole idea, and 'ragged time' is where the name comes from. Ragtime is composed music, published as sheet music and sold by the ton between 1899 and 1917, mostly in multi-strain march form: four separate 16-bar tunes played in sequence, each repeated, often with a key change for the third. It is not improvised, which is why some writers refuse to call it jazz at all. But every early jazz pianist learned it, the New Orleans repertoire was built out of it, and the syncopation habit it drilled into American ears is the precondition for everything downstream. Scott Joplin wanted it treated as concert music and wrote an opera to prove the point; the market wanted novelty numbers and cakewalks. Both things happened.",
+    "musicalTraits": {
+      "harmony": "Straightforward European parlour harmony — tonic, dominant, secondary dominants, brisk circle-of-fifths runs. Blues notes are rare; this is not blues-derived music.",
+      "rhythm": "An unvarying duple left hand under a right hand full of tied-over, off-beat accents. The syncopation is written, not felt in the moment.",
+      "form": "Multi-strain march form: AABBACCDD or similar, 16 bars per strain, with the C strain ('the trio') usually in the subdominant.",
+      "instrumentation": "Solo piano first and foremost; also banjo, brass band, and the ragtime orchestras that played from stock arrangements.",
+      "improvisation": "Essentially none in the classic repertoire. Performers were expected to play the printed notes, and Joplin famously instructed that it never be played fast.",
+      "timbre": "Bright upright piano, often slightly out of tune, in a room with hard surfaces. Cleanness and evenness of touch were the prized virtues."
+    },
+    "earMarkers": [
+      "A steady oom-pah left hand that never varies while the melody keeps landing between the beats",
+      "Four distinctly different tunes inside one piece, each played twice before moving on",
+      "A key change roughly halfway through, usually up a fourth, when the 'trio' section arrives",
+      "No drums, no bass, no horns — one piano doing all of it"
+    ],
+    "keyFigures": [
+      { "name": "Scott Joplin", "instrument": "piano, composition", "why": "Wrote the rags that defined the classic style and fought to have it heard as art music rather than novelty." },
+      { "name": "James Scott", "instrument": "piano, composition", "why": "The most rhythmically intricate of the classic ragtime composers; his right-hand writing is harder than Joplin's." },
+      { "name": "Joseph Lamb", "instrument": "piano, composition", "why": "The third of the 'big three' and the only white composer among them; wrote the style's most harmonically ambitious pieces." },
+      { "name": "Jelly Roll Morton", "instrument": "piano, composition", "why": "The hinge figure — took rag form and loosened it with swing, blues and what he called the 'Spanish tinge'." }
+    ],
+    "keyLabels": ["John Stark & Son (sheet music)", "Victor", "Nonesuch (1970s revival)"],
+    "contested": "Whether ragtime is jazz at all. It has no improvisation and no blues content, and Gunther Schuller and others treat it strictly as a precursor. Ragtime scholars often resent its absorption into jazz history entirely. This guide treats it as a root rather than a branch.",
+    "confidence": "high"
+  },
+  {
+    "id": "new-orleans",
+    "name": "New Orleans Jazz",
+    "aka": ["Dixieland", "Trad jazz", "Hot jazz"],
+    "family": "trad-mainstream",
+    "era": { "start": 1900, "peak": [1917, 1928], "end": null },
+    "origin": { "city": "New Orleans", "country": "USA" },
+    "oneLine": "Three horns improvising different melodies at the same time over a marching-band rhythm section, and somehow it works.",
+    "summary": "The sound is a polite pile-up. Cornet states the tune in the middle register, clarinet weaves a busy countermelody above it, trombone slides around underneath filling the gaps — all three at once, all the time, nobody waiting their turn. This collective improvisation is the defining feature and the thing that disappeared from jazz almost immediately afterward. Underneath, banjo and tuba or bass mark the beat with the rhythm section still audibly descended from brass bands and street parades. The repertoire came from marches, rags, hymns, blues, and popular songs, and the ensemble had a fixed division of labour that everyone understood, which is what kept the counterpoint from becoming noise. It was recorded first in 1917 by a white band, the Original Dixieland Jass Band, which is a fact worth sitting with: the music was Black in origin and the record industry got there in the wrong order. King Oliver's 1923 sessions and Armstrong's Hot Fives are where you actually hear what the style could do.",
+    "musicalTraits": {
+      "harmony": "Simple and functional — I, IV, V with passing diminished chords. Blues form sits alongside 32-bar song and multi-strain rag form.",
+      "rhythm": "Two-beat, with the accent on 1 and 3 and a distinct march inheritance. The 'stomp' feel is heavier and squarer than later swing.",
+      "form": "Head arrangements over the tune's chorus structure, with breaks, stop-time passages, and a final out-chorus where everyone plays louder.",
+      "instrumentation": "Front line of cornet/trumpet, clarinet, trombone; rhythm section of banjo or guitar, tuba or string bass, drums, sometimes piano.",
+      "improvisation": "Collective and simultaneous rather than one soloist at a time. Individual paraphrase of the melody rather than running the changes.",
+      "timbre": "Vibrato-heavy, vocalised brass — growls, smears, plunger mutes. Nobody is trying to sound clean."
+    },
+    "earMarkers": [
+      "Three horns playing three different melodies at once, and you can pick out each one",
+      "The clarinet noodling high and fast above everything else",
+      "Trombone smearing between notes rather than hitting them squarely",
+      "A two-beat oom-pah bass line, not the even four of later jazz",
+      "Everyone getting louder and busier for the last chorus"
+    ],
+    "keyFigures": [
+      { "name": "Louis Armstrong", "instrument": "trumpet, vocals", "why": "Turned the ensemble style inside out by proving a single soloist could carry a record; the pivot from collective to individual runs through him." },
+      { "name": "King Oliver", "instrument": "cornet", "why": "Led the Creole Jazz Band, the best-documented example of the two-cornet New Orleans ensemble working properly." },
+      { "name": "Sidney Bechet", "instrument": "soprano saxophone, clarinet", "why": "The first great jazz soloist on record alongside Armstrong; his wide vibrato is the sound of the idiom's clarinet lineage." },
+      { "name": "Jelly Roll Morton", "instrument": "piano, composition", "why": "Arranged the style rather than just playing it — his Red Hot Peppers sides are composed frameworks with improvisation slotted in." }
+    ],
+    "keyLabels": ["Gennett", "OKeh", "Victor", "Columbia", "Good Time Jazz (revival)"],
+    "contested": "'Dixieland' and 'New Orleans jazz' are often used interchangeably, but many musicians and writers use 'Dixieland' specifically for the later white revivalist style and consider the term loaded. There is also a live argument about whether the 1940s revival was preservation or pastiche.",
+    "confidence": "high"
+  },
+  {
+    "id": "chicago-jazz",
+    "name": "Chicago Jazz",
+    "aka": ["Chicago style", "Austin High Gang style"],
+    "family": "trad-mainstream",
+    "era": { "start": 1923, "peak": [1925, 1930], "end": 1938 },
+    "origin": { "city": "Chicago", "country": "USA" },
+    "oneLine": "New Orleans jazz after the Great Migration, played hotter and faster by kids who learned it off records.",
+    "summary": "When the New Orleans players moved north during the Great Migration, a generation of young white Chicagoans — the Austin High Gang among them — learned the music by wearing out King Oliver records and then playing it their own way. What came out was tenser than the original. The collective front line is still there but thinner, the tempos are up, the saxophone starts elbowing into the front line where it never belonged in New Orleans, and there is a nervous, driving quality to the rhythm that the older players did not have. The signature device is the 'explosion' — a hard accented break, often on the last beat before a chorus. It is transitional music: still ensemble-based, but with individual solos taking up more and more space until, by about 1930, the format simply became the small swing band. Its historical importance is partly demographic — this is where jazz stopped being regional and became a national commercial music.",
+    "musicalTraits": {
+      "harmony": "Same functional harmony as New Orleans, with more use of the 32-bar popular song form and slightly richer passing chords.",
+      "rhythm": "Faster and more forward-leaning than New Orleans, with a shift away from two-beat towards an even four. Tense rather than rolling.",
+      "form": "Head–solos–head. The out-chorus survives, but the sequence of individual solos is now the centre of the record.",
+      "instrumentation": "Cornet, clarinet, trombone, plus tenor or C-melody saxophone; guitar replacing banjo, string bass replacing tuba.",
+      "improvisation": "Individual solo choruses become the point. Bix Beiderbecke's cool, placed lyricism and Frank Teschemacher's jagged clarinet are the two poles.",
+      "timbre": "Brighter and drier than New Orleans; Beiderbecke's bell-like cornet tone is deliberately un-vibrato'd and became a model for cool jazz twenty years later."
+    },
+    "earMarkers": [
+      "Faster tempos and a jumpier, more anxious feel than New Orleans records",
+      "A hard accented 'explosion' hit just before a new chorus starts",
+      "A saxophone in the front line, which New Orleans bands mostly did not have",
+      "Long individual solos rather than continuous group weaving"
+    ],
+    "keyFigures": [
+      { "name": "Bix Beiderbecke", "instrument": "cornet", "why": "Played with a round, unforced tone and unusual interval choices; the first widely copied alternative to Armstrong's approach." },
+      { "name": "Eddie Condon", "instrument": "guitar, banjo, bandleading", "why": "Organiser and lifelong advocate; his sessions kept the style documented for four decades." },
+      { "name": "Frank Teschemacher", "instrument": "clarinet", "why": "The jagged, harmonically restless clarinet voice of the style, killed in a car crash at 26." },
+      { "name": "Gene Krupa", "instrument": "drums", "why": "Brought the full drum kit forward in the mix and carried the Chicago drive into the swing era." }
+    ],
+    "keyLabels": ["OKeh", "Brunswick", "Gennett", "Commodore"],
+    "contested": "Whether 'Chicago style' names a genuine musical style or just a place and a cohort. Some writers treat it as a white derivative of New Orleans jazz rather than a development; others point to the rhythmic shift toward four-beat as a real innovation that fed the swing era.",
+    "confidence": "high"
+  },
+  {
+    "id": "stride",
+    "name": "Stride Piano",
+    "aka": ["Harlem stride", "Harlem piano"],
+    "family": "trad-mainstream",
+    "era": { "start": 1919, "peak": [1923, 1938], "end": 1945 },
+    "origin": { "city": "New York (Harlem)", "country": "USA" },
+    "oneLine": "Ragtime's left hand taught to swing, played by men competing to physically overwhelm each other at rent parties.",
+    "summary": "The left hand leaps: bass note on 1 and 3, chord up in the middle of the keyboard on 2 and 4, back and forth across a tenth or more. That leap is the stride, and it is genuinely hard — the reach alone excluded a lot of players. Where ragtime's left hand was even and metronomic, stride's is springy and slightly ahead or behind, and the right hand is no longer bound to the printed page. This was competitive music. Harlem rent parties in the 1920s ran on cutting contests, where pianists took turns trying to demolish each other, and the style's showmanship — the tempo escalations, the interpolated classical quotations, the sheer density — comes directly from that. James P. Johnson is the founding figure, Willie 'The Lion' Smith the great character, and Fats Waller the one who took it to a mass audience by adding comedy and a hit-making instinct. Art Tatum then took the technique somewhere nobody has followed since. Ellington, Basie and Monk all played stride, and you can hear it surfacing in their playing decades later.",
+    "musicalTraits": {
+      "harmony": "Richer than ragtime — sixths, ninths, chromatic passing chords, and a growing use of blues inflection. Tatum pushed it into substitutions that anticipated bebop.",
+      "rhythm": "Alternating bass-note/chord left hand at speed, with rhythmic elasticity the right hand plays against. Swing eighth notes replace ragtime's even ones.",
+      "form": "Popular song forms and rag strains, with the arrangement built as a series of escalating choruses.",
+      "instrumentation": "Solo piano. The whole point is that one player covers bass, chords, and melody without help.",
+      "improvisation": "Extensive right-hand variation over a memorised structure, plus reharmonisation and interpolated quotation.",
+      "timbre": "Full-range, orchestral use of the piano — deep bass, ringing treble, heavy pedalling on ballads."
+    },
+    "earMarkers": [
+      "The left hand physically jumping between a low bass note and a mid-range chord, over and over",
+      "One pianist producing a whole band's worth of sound with no rhythm section",
+      "Tempos that ratchet up as the performance goes on, showing off",
+      "Sudden quotations from classical pieces or other songs dropped in mid-solo"
+    ],
+    "keyFigures": [
+      { "name": "James P. Johnson", "instrument": "piano", "why": "The founder; 'Carolina Shout' was the test piece every aspiring Harlem pianist had to master." },
+      { "name": "Fats Waller", "instrument": "piano, organ, vocals", "why": "Johnson's student, and the one who made the style commercially enormous without diluting the left hand." },
+      { "name": "Willie 'The Lion' Smith", "instrument": "piano", "why": "The most harmonically impressionistic of the strider; Ellington cited him directly as an influence." },
+      { "name": "Art Tatum", "instrument": "piano", "why": "Took stride's mechanics and applied a harmonic imagination and technique that reset what the instrument could do." }
+    ],
+    "keyLabels": ["OKeh", "Victor", "Decca", "Commodore"],
+    "contested": "Whether Art Tatum belongs inside stride or outside it. His left hand is stride-derived, but his harmonic language points forward to bebop; some historians file him as a category of one.",
+    "confidence": "high"
+  },
+  {
+    "id": "kansas-city",
+    "name": "Kansas City Jazz",
+    "aka": ["KC swing", "Territory band style"],
+    "family": "trad-mainstream",
+    "era": { "start": 1928, "peak": [1935, 1942], "end": 1946 },
+    "origin": { "city": "Kansas City, Missouri", "country": "USA" },
+    "oneLine": "Blues-soaked big band jazz built on riffs, with a rhythm section so relaxed it seems to float.",
+    "summary": "Kansas City under the Pendergast machine had wide-open nightlife and clubs that stayed open all night, which meant jam sessions ran for hours and a musician's reputation was made in them. Two things came out of that. First, riff-based arranging: instead of writing intricate charts, sections trade short repeated phrases, building layer on layer, and the arrangement can be assembled on the bandstand by ear. Second, a new rhythm section feel — Basie's band with Walter Page on bass, Freddie Green on guitar and Jo Jones on drums shifted the pulse to an even, buoyant four beats to the bar, moved timekeeping to the hi-hat and ride, and left enormous space. Basie's own piano playing reduced to a few notes, which was a radical act of subtraction. Blues form is everywhere, far more than in eastern swing bands. And the marathon jam sessions turned tenor saxophone into a combat sport, which produced Lester Young — whose light, behind-the-beat lyricism became the direct model for Charlie Parker's generation.",
+    "musicalTraits": {
+      "harmony": "Blues-dominant. Twelve-bar form is the default rather than an occasional feature, with simple changes that leave room for the soloist.",
+      "rhythm": "Even four-to-the-bar with a light, springing feel. Bass walks, guitar chunks quarter notes, drums move time to the hi-hat and use the bass drum sparingly.",
+      "form": "Head arrangements built from riffs, with call-and-response between brass and reeds, and long strings of solo choruses.",
+      "instrumentation": "Full big band, but also the small jam-session combo. Guitar is a rhythm instrument, not a solo voice.",
+      "improvisation": "Chorus after chorus over the blues, with the expectation that a soloist builds across many choruses rather than saying it all in one.",
+      "timbre": "Lester Young's dry, vibratoless tenor against Coleman Hawkins' heavier eastern sound — the two poles of saxophone tone for the next twenty years."
+    },
+    "earMarkers": [
+      "Short repeated phrases stacked in layers, brass answering reeds",
+      "Twelve-bar blues far more often than in other big band music",
+      "A rhythm section that feels like it's gliding rather than pushing",
+      "Piano that plays almost nothing — a few notes, then silence",
+      "Solos that go on for four, six, eight choruses and keep building"
+    ],
+    "keyFigures": [
+      { "name": "Count Basie", "instrument": "piano, bandleading", "why": "Built the rhythm section that redefined swing feel, and made minimalism at the piano a style rather than an absence." },
+      { "name": "Lester Young", "instrument": "tenor saxophone", "why": "Played light, behind the beat, with long asymmetric lines — the direct precursor to bebop phrasing and to cool jazz tone." },
+      { "name": "Bennie Moten", "instrument": "piano, bandleading", "why": "Led the band that became Basie's; the 1932 Victor sessions are where the KC rhythmic shift first lands on record." },
+      { "name": "Mary Lou Williams", "instrument": "piano, arranging", "why": "Chief arranger for Andy Kirk's Clouds of Joy and the KC scene's most important compositional mind; later mentored the bebop generation." },
+      { "name": "Jay McShann", "instrument": "piano, bandleading", "why": "Ran the band where Charlie Parker got his first recorded solos, making the KC-to-bebop link literal." }
+    ],
+    "keyLabels": ["Decca", "Victor", "Vocalion", "Commodore"],
+    "contested": "Whether Kansas City is a separate genre or a regional dialect of swing. This guide treats it separately because the rhythmic and blues-form innovations there are specific, traceable, and fed bebop more directly than the New York swing mainstream did.",
+    "confidence": "high"
+  },
+  {
+    "id": "swing",
+    "name": "Swing & Big Band",
+    "aka": ["Big band jazz", "The Swing Era"],
+    "family": "trad-mainstream",
+    "era": { "start": 1930, "peak": [1935, 1946], "end": null },
+    "origin": { "city": "New York / Kansas City / Chicago", "country": "USA" },
+    "oneLine": "Jazz as America's pop music: written arrangements for fourteen-plus players, built for dancing.",
+    "summary": "For about a decade, this was simply what popular music sounded like. The instrument is the orchestra: reeds and brass as blocks of sound answering each other, a rhythm section keeping an even four, and arrangements written down so a large band could execute complicated material precisely night after night. The arranger becomes as important as any soloist — Fletcher Henderson, Sy Oliver, Eddie Sauter, Billy Strayhorn. What separates swing from the dance music before it is the rhythmic feel: uneven eighth notes with a forward lean, and a rhythm section that propels rather than merely marks time. Within that commercial frame there was enormous range, from Glenn Miller's tightly controlled hits through Benny Goodman's virtuoso precision to Ellington's orchestra, which was really a composer's laboratory with an unusually stable roster. Its commercial dominance ended after 1946 — economics, a wartime recording ban, changing dance habits, the entertainment tax — but big band writing never stopped, and the repertory and contemporary large-ensemble scenes are direct continuations.",
+    "musicalTraits": {
+      "harmony": "Popular song harmony of the era, richly voiced — added sixths and ninths, sectional block voicings, and increasingly adventurous writing as the 1940s approach.",
+      "rhythm": "Even four-to-the-bar with swung eighths. The rhythm section is a unit whose job is lift.",
+      "form": "Written arrangements on 32-bar AABA popular songs and blues, with solos slotted into designated choruses and shout choruses near the end.",
+      "instrumentation": "Standardised big band: four or five reeds, three or four trumpets, three or four trombones, piano, guitar, bass, drums. Often a featured vocalist.",
+      "improvisation": "Present but rationed — usually one or two choruses inside an otherwise written chart.",
+      "timbre": "Section blend as the primary colour: saxophones as a single voice, brass with and without mutes, and the deliberate contrast between the two."
+    },
+    "earMarkers": [
+      "Whole sections of horns moving together in harmony, like one huge instrument",
+      "Brass and reeds trading phrases back and forth in call-and-response",
+      "A hard-hitting climactic 'shout chorus' near the end where the whole band goes up a gear",
+      "Danceable, steady tempos — this was functional music for a ballroom floor"
+    ],
+    "keyFigures": [
+      { "name": "Duke Ellington", "instrument": "piano, composition, bandleading", "why": "Wrote for the specific players in his band rather than for generic parts, which is why his music does not transfer well to other orchestras." },
+      { "name": "Fletcher Henderson", "instrument": "arranging, bandleading", "why": "Codified the reed-versus-brass call-and-response template that the entire era used, then sold his charts to Goodman." },
+      { "name": "Benny Goodman", "instrument": "clarinet, bandleading", "why": "Made swing a mass phenomenon in 1935 and led racially integrated small groups in public when that was a professional risk." },
+      { "name": "Billy Strayhorn", "instrument": "composition, arranging, piano", "why": "Ellington's writing partner for nearly thirty years; the harmonic sophistication of the later Ellington book is substantially his." },
+      { "name": "Coleman Hawkins", "instrument": "tenor saxophone", "why": "His 1939 'Body and Soul' is a full chorus of improvisation on the harmony rather than the melody — a bebop premise, two years early." }
+    ],
+    "keyLabels": ["Victor", "Decca", "Columbia", "Capitol"],
+    "contested": "Where swing ends. Some treat 1946 as the hard stop; others point to Basie's second band, Kenton, Herman's Herds and the entire repertory movement as evidence that it simply stopped being pop music without ceasing to exist. This guide takes the latter view.",
+    "confidence": "high"
+  },
+  {
+    "id": "manouche",
+    "name": "Jazz Manouche",
+    "aka": ["Gypsy jazz", "Gypsy swing", "Hot club jazz"],
+    "family": "global",
+    "era": { "start": 1934, "peak": [1936, 1949], "end": null },
+    "origin": { "city": "Paris", "country": "France" },
+    "oneLine": "Swing played on acoustic guitars with no drums, where the rhythm guitars are the drum kit.",
+    "summary": "No drums, no horns, no piano — two or three acoustic guitars, a violin, and a double bass. The rhythm guitars play 'la pompe', a percussive chunk-chunk on every beat with the chord damped immediately, and that sound does the entire job of a drum kit. Over it, a lead guitar plays fast, ornamented single-note lines full of arpeggios, chromatic runs, and a wide fingered vibrato that comes out of Romani string tradition rather than American jazz. Django Reinhardt built the style with violinist Stéphane Grappelli in the Quintette du Hot Club de France, formed in Paris in 1934, and he did it with two working fingers on his fretting hand after a caravan fire — the resulting chord voicings and octave-heavy lines are partly a workaround that became a vocabulary. The repertoire mixes American standards with French musette waltzes and Django's own compositions. It is one of the very few jazz styles born outside the United States that fed back into the American mainstream, and it remains a living tradition with festivals, dynasties and a defined technique.",
+    "musicalTraits": {
+      "harmony": "Swing-era changes with a strong minor-key and diminished flavour, plus musette-derived chromaticism. Sixth and diminished chords everywhere.",
+      "rhythm": "'La pompe' — a damped, percussive four-to-the-bar guitar stroke with a hard accent on 2 and 4 that replaces drums entirely.",
+      "form": "Standards and originals in 32-bar and 16-bar forms, often taken at extreme tempos, with breaks and unaccompanied intros.",
+      "instrumentation": "Lead guitar, one or two rhythm guitars, violin, double bass. Selmer-Maccaferri guitars with a distinctive cutting tone.",
+      "improvisation": "Fast arpeggio-based lines, chromatic approach notes, tremolo and octave passages. More ornamental and less blues-inflected than American jazz of the same era.",
+      "timbre": "All-acoustic, bright and nasal. Wide, fast vibrato on both guitar and violin."
+    },
+    "earMarkers": [
+      "Guitars chopping out every beat with the chord cut short — that's the drum kit",
+      "Absolutely no drums and no horns anywhere",
+      "Lead guitar lines running up and down arpeggios at improbable speed",
+      "Violin as a front-line solo instrument, which is rare elsewhere in jazz",
+      "A wide, fast shimmer of vibrato at the end of held notes"
+    ],
+    "keyFigures": [
+      { "name": "Django Reinhardt", "instrument": "guitar", "why": "Invented the idiom's guitar language, with a fretting hand damaged by fire that forced a distinctive approach to voicings and octaves." },
+      { "name": "Stéphane Grappelli", "instrument": "violin", "why": "Made violin a credible jazz lead voice and carried the style forward for fifty years after Django's death." },
+      { "name": "Biréli Lagrène", "instrument": "guitar", "why": "The most prominent of the modern inheritors; recorded as a teenage prodigy and later moved between manouche and fusion." },
+      { "name": "Baro Ferret", "instrument": "guitar", "why": "Key figure in the Parisian Romani guitar scene whose musette-inflected playing shows the style's non-American roots." }
+    ],
+    "keyLabels": ["Ultraphone", "Swing (French label)", "Decca (France)", "Frémeaux & Associés (reissues)"],
+    "contested": "The name. 'Gypsy jazz' is standard in English-language usage but 'Gypsy' is widely considered a slur by Romani people; 'jazz manouche' is the French term and is preferred by many players. This guide leads with the latter. There is also debate over whether Django's postwar electric bebop-influenced work is the same genre at all.",
+    "confidence": "high"
+  },
+  {
+    "id": "vocal-jazz",
+    "name": "Vocal Jazz & the Songbook",
+    "aka": ["Jazz singing", "Great American Songbook"],
+    "family": "trad-mainstream",
+    "era": { "start": 1926, "peak": [1938, 1962], "end": null },
+    "origin": { "city": "New York / Chicago", "country": "USA" },
+    "oneLine": "Singers treating a written song as raw material — bending the time, the pitch and the meaning of the lyric.",
+    "summary": "The difference between a jazz singer and a good singer of the same songs is what they do to the tune. Billie Holiday takes a mediocre Tin Pan Alley number, strips the melody down to a few notes, drags every phrase behind the beat, and makes the lyric mean something the writer never intended. Ella Fitzgerald keeps the melody gleaming and then improvises whole choruses of wordless scat with the accuracy of a horn player. Sarah Vaughan uses an operatically trained instrument to reharmonise on the fly. All three are doing the same underlying thing — improvising, in the specific sense that they are making choices about time and pitch that are not in the sheet music. The repertoire is largely the Great American Songbook: Gershwin, Porter, Berlin, Kern, Rodgers, Arlen, written mostly for Broadway and Hollywood between the 1920s and 1950s, whose 32-bar AABA forms became the harmonic playing field for jazz instrumentalists too. Scat singing is the most obvious marker but far from the most important one; phrasing is.",
+    "musicalTraits": {
+      "harmony": "Songbook harmony — 32-bar AABA and ABAC forms with rich ii–V movement. Singers often introduce their own passing notes and blue thirds against it.",
+      "rhythm": "Radical flexibility with the beat. Holiday sits far behind it, Sinatra stretches phrases across bar lines, Fitzgerald floats on top of it.",
+      "form": "Verse (often omitted) then chorus, with instrumental solo sections and a final chorus that departs furthest from the written melody.",
+      "instrumentation": "Voice with anything from solo piano to full string orchestra; the small-group-with-horns setting is where the interplay is most audible.",
+      "improvisation": "Melodic paraphrase first, scat second. The best singers vary the melody so continuously that the written line never returns intact.",
+      "timbre": "Enormous range, from Holiday's small, frayed sound to Vaughan's four-octave control. Vibrato use is a stylistic signature in itself."
+    },
+    "earMarkers": [
+      "The singer arriving noticeably late on words, letting the band go ahead",
+      "The written melody getting further from itself with each chorus",
+      "Wordless syllables used as an instrumental solo (scat)",
+      "Conversational give-and-take between the voice and one instrument — Holiday and Lester Young are the model"
+    ],
+    "keyFigures": [
+      { "name": "Billie Holiday", "instrument": "voice", "why": "Rewrote what phrasing could do; her interpretive approach to a lyric is the reference point for everyone who followed." },
+      { "name": "Ella Fitzgerald", "instrument": "voice", "why": "The most technically complete scat improviser, and her Songbook series fixed the canon of American popular song." },
+      { "name": "Sarah Vaughan", "instrument": "voice", "why": "Brought bebop harmony and operatic technique to the same phrase; the most harmonically daring of the major singers." },
+      { "name": "Louis Armstrong", "instrument": "voice, trumpet", "why": "Established that a jazz singer phrases like a horn player, and popularised scat in the 1920s." },
+      { "name": "Betty Carter", "instrument": "voice", "why": "Took the abstraction furthest — extreme tempos, melodies dismantled beyond recognition, and a band she ran like a bebop leader." }
+    ],
+    "keyLabels": ["Columbia", "Decca", "Verve", "Capitol", "Commodore"],
+    "contested": "Whether 'vocal jazz' is a genre or a role that cuts across every genre. Purists argue that Sinatra and much of the Songbook repertoire is popular singing with jazz accompaniment rather than jazz. This guide treats it as a genre-shaped tradition with a defined repertoire and a distinct set of techniques, while acknowledging the boundary is porous — an interpretive call, not a settled fact.",
+    "confidence": "high"
+  }
+]

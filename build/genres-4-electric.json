@@ -1,0 +1,505 @@
+[
+  {
+    "id": "fusion",
+    "name": "Jazz Fusion",
+    "aka": ["Jazz-rock", "Electric jazz"],
+    "family": "electric",
+    "era": { "start": 1968, "peak": [1970, 1977], "end": null },
+    "origin": { "city": "New York", "country": "USA" },
+    "oneLine": "Jazz plugged into amplifiers and rebuilt around rock volume and funk rhythm, with the improvising kept intact.",
+    "summary": "Two things happen at once around 1969. Jazz musicians start using electric instruments — Fender Rhodes, electric bass, distorted guitar, ring modulators — and they stop swinging, replacing the triplet lilt with straight-eighth rock and funk feels. Miles Davis is the hinge: In a Silent Way in 1969 is quiet and static, Bitches Brew in 1970 is dense and assembled in the edit room by Teo Macero, and by 1972 On the Corner is an unbroken funk machine. Nearly everyone in those bands then formed their own: Weather Report, Mahavishnu Orchestra, Return to Forever, Headhunters, Lifetime. The results were technically formidable and often extremely popular, which is why the backlash was severe — critics called it a commercial capitulation and the neo-bop movement in the 1980s defined itself against it. The music itself varies enormously: Mahavishnu is aggressive odd-meter virtuosity, Weather Report is collective and textural, Headhunters is groove-first. What they share is electricity, straight eighths, and the assumption that a rock audience's volume and energy could be jazz's too.",
+    "musicalTraits": {
+      "harmony": "Modal vamps and pedal points dominate, with slash chords, suspended voicings, and stretches where harmony is essentially static.",
+      "rhythm": "Straight eighths from rock and funk, plus odd meters — 7/8, 9/8, 5/4 — as a virtuosic marker in the Mahavishnu and Return to Forever wing.",
+      "form": "Long, sectional, often built from vamps rather than song forms. Studio editing becomes a compositional tool.",
+      "instrumentation": "Fender Rhodes and synthesizers, electric bass, distorted electric guitar, expanded percussion. Horns often processed with wah or echo.",
+      "improvisation": "Modal and pentatonic soloing at rock volume, with electric guitar and synthesizer as lead voices alongside horns.",
+      "timbre": "Effects as composition — wah, ring modulation, fuzz, echo, and the Rhodes' bell-like decay. Studio production is part of the music."
+    },
+    "earMarkers": [
+      "Electric piano (Fender Rhodes) instead of acoustic — bell-like and slightly bent",
+      "Straight, even eighth notes with a rock or funk feel, no swing",
+      "Distorted electric guitar taking solos where a saxophone would have",
+      "Bars that don't come out in fours — count and you'll lose your place",
+      "Long stretches on one chord with the intensity coming from rhythm and volume"
+    ],
+    "keyFigures": [
+      { "name": "Miles Davis", "instrument": "trumpet, bandleading", "why": "Made the transition audible across four years and staffed most of the bands that followed." },
+      { "name": "Joe Zawinul", "instrument": "keyboards, composition", "why": "Weather Report's principal writer and an early master of the synthesizer as an orchestral rather than a novelty instrument." },
+      { "name": "Wayne Shorter", "instrument": "soprano and tenor saxophone", "why": "Weather Report's other half; brought post-bop compositional ambiguity into an electric setting." },
+      { "name": "John McLaughlin", "instrument": "guitar", "why": "Mahavishnu Orchestra defined the high-velocity, odd-meter, Indian-influenced wing of fusion." },
+      { "name": "Herbie Hancock", "instrument": "keyboards, composition", "why": "Head Hunters in 1973 took fusion into a funk-first direction and became one of the best-selling jazz records ever made." },
+      { "name": "Jaco Pastorius", "instrument": "electric bass", "why": "Redefined the fretless electric bass as a lead melodic instrument with a singing, harmonics-rich tone." },
+      { "name": "Tony Williams", "instrument": "drums", "why": "Lifetime, formed in 1969, was arguably louder and more rock-committed than anything Miles did." }
+    ],
+    "keyLabels": ["Columbia", "CTI", "Warner Bros.", "Nemperor", "Arista"],
+    "contested": "Whether fusion is a genre or a period. 'Jazz-rock' and 'fusion' are used interchangeably by some and distinguished by others (jazz-rock for the 1969–74 aggressive wing, fusion for what came after). The critical rehabilitation of the era is recent and still contested; a lot of writers still treat 1975–85 fusion as a lost decade.",
+    "confidence": "high"
+  },
+  {
+    "id": "jazz-funk",
+    "name": "Jazz-Funk",
+    "aka": ["Funky jazz", "Crossover jazz", "Rare groove"],
+    "family": "electric",
+    "era": { "start": 1969, "peak": [1972, 1979], "end": null },
+    "origin": { "city": "New York / Los Angeles / Detroit", "country": "USA" },
+    "oneLine": "The groove is the composition — jazz players building on a bass line and a drum break instead of a chord sequence.",
+    "summary": "Fusion took jazz toward rock; jazz-funk took it toward James Brown and Sly Stone. The difference is priority: in fusion the solo is usually the point and the groove supports it, while in jazz-funk the groove is the piece and the solo is one layer in it. The rhythm is on the one, with a syncopated electric bass line as the primary compositional material, clavinet or Rhodes stabs, a horn section playing tight riffs, and drum parts built for dancing. Herbie Hancock's Head Hunters, Donald Byrd's work with the Mizell brothers, Roy Ayers' Ubiquity, Lonnie Liston Smith and the whole CTI catalogue mark the range from serious to slick. It was commercially the most successful jazz of the 1970s and, for that reason, the most despised by critics of the period. Its afterlife is disproportionate: hip-hop producers mined these records so thoroughly that a huge share of the sampled jazz in rap comes from a narrow band of 1969–79 jazz-funk, which then fed acid jazz, jazz rap and the whole Brainfeeder orbit.",
+    "musicalTraits": {
+      "harmony": "Vamp-based — usually one or two chords, often minor seventh or dominant with a raised ninth, sustained for the whole track.",
+      "rhythm": "Sixteenth-note funk with the accent on the one. Syncopated bass lines and drum patterns designed to be looped, whether or not anyone intended that.",
+      "form": "Groove, horn riff, solos over the groove, breakdown, out. Song forms in the vocal material; open vamps otherwise.",
+      "instrumentation": "Electric bass, clavinet, Rhodes, ARP and Moog synths, wah guitar, horn section, congas alongside the kit.",
+      "improvisation": "Present but rationed and blues-pentatonic in orientation. Nobody is running changes.",
+      "timbre": "Warm analogue production, heavy compression on the drums, synth bass and clavinet as textural signatures."
+    },
+    "earMarkers": [
+      "A bass line you'd recognise on its own — it is the tune",
+      "Clavinet or wah guitar chopping out sixteenth notes",
+      "The whole band hitting hard on beat one and leaving space after it",
+      "Horn riffs that repeat as a hook rather than developing",
+      "Drum breaks where everything drops out except the kit — later sampled to death"
+    ],
+    "keyFigures": [
+      { "name": "Herbie Hancock", "instrument": "keyboards, composition", "why": "Head Hunters put a jazz musician's harmonic mind inside a Sly Stone rhythm section and sold enormously." },
+      { "name": "Donald Byrd", "instrument": "trumpet", "why": "His Mizell brothers records are the most fully realised jazz-funk productions and the most sampled." },
+      { "name": "Roy Ayers", "instrument": "vibraphone, vocals", "why": "Made vibraphone-led jazz-funk with a songwriting sensibility; sampled more than almost anyone in the idiom." },
+      { "name": "Lonnie Liston Smith", "instrument": "keyboards", "why": "Connected the spiritual jazz wing to the dancefloor with a floating, echo-heavy sound." },
+      { "name": "Eddie Harris", "instrument": "tenor saxophone", "why": "Early adopter of the electrified saxophone and a genuine funk writer, not a jazz musician visiting." },
+      { "name": "Grover Washington Jr.", "instrument": "saxophones", "why": "The commercial bridge from jazz-funk into smooth jazz, and a much better player than that lineage suggests." }
+    ],
+    "keyLabels": ["CTI/Kudu", "Blue Note (1970s)", "Polydor", "Prestige", "Fantasy"],
+    "contested": "The boundary with fusion, which is a matter of emphasis rather than kind. Also whether the 1990s 'rare groove' reissue framing — which selected records for danceability and sample potential — has distorted which artists are remembered.",
+    "confidence": "high"
+  },
+  {
+    "id": "free-funk",
+    "name": "Free Funk & Harmolodics",
+    "aka": ["Harmolodic funk", "Punk jazz (early)"],
+    "family": "electric",
+    "era": { "start": 1975, "peak": [1977, 1988], "end": 1998 },
+    "origin": { "city": "New York", "country": "USA" },
+    "oneLine": "Free jazz over a hard funk backbeat, with everybody playing a lead line at once.",
+    "summary": "In 1975 Ornette Coleman plugged in. Prime Time paired two electric guitars, two electric basses and two drummers with his alto, playing his harmolodic theory in an idiom built on funk backbeats. Harmolodics is Coleman's own concept and he explained it inconsistently, but the working version is: harmony, movement and melody have equal status, no instrument is subordinate, and players can transpose a line to whatever register or key suits their instrument while it remains 'the same' line. In practice that produces a thick, deliberately unresolved texture where four or five people are all playing melody over a groove that stays put. Ronald Shannon Jackson's Decoding Society and James Blood Ulmer took it in harder, more rock-facing directions, and it became a direct input to the downtown New York scene and to the whole idea that free improvisation could coexist with a heavy beat. Coleman's own Prime Time records remain the clearest statement, and Song X with Pat Metheny in 1985 dragged the approach onto a much larger stage.",
+    "musicalTraits": {
+      "harmony": "Harmolodic — no fixed key centre, instruments playing lines in different keys simultaneously, consonance and dissonance treated as equally usable.",
+      "rhythm": "Hard funk and second-line backbeats, often with two drummers producing overlapping rather than unified patterns.",
+      "form": "Themes stated in unison then abandoned; the groove continues while the melodic content roams free.",
+      "instrumentation": "Doubled everything — two guitars, two basses, two drummers — plus alto saxophone or trumpet on top.",
+      "improvisation": "Simultaneous and non-hierarchical. There is often no soloist because everyone is soloing.",
+      "timbre": "Bright, trebly, deliberately cluttered. Guitars are clean-toned and busy rather than distorted and sustaining."
+    },
+    "earMarkers": [
+      "A rock-solid funk beat underneath music that is otherwise completely unresolved",
+      "Two guitars and two basses all playing different lines at once",
+      "Melodies that sound simple and singable, dropped into total harmonic chaos",
+      "No obvious soloist — several people appear to be leading simultaneously",
+      "Everything sounding slightly out of tune with everything else, on purpose"
+    ],
+    "keyFigures": [
+      { "name": "Ornette Coleman", "instrument": "alto saxophone, composition", "why": "Invented harmolodics and Prime Time; the entire idiom is his theory made audible." },
+      { "name": "Ronald Shannon Jackson", "instrument": "drums, composition", "why": "The Decoding Society took harmolodic principles into denser, more composed and harder-hitting territory." },
+      { "name": "James Blood Ulmer", "instrument": "guitar, vocals", "why": "Applied harmolodics to blues and rock forms; his guitar tuning and attack have no real precedent." },
+      { "name": "Jamaaladeen Tacuma", "instrument": "electric bass", "why": "Prime Time's bassist, who treated the bass as a lead melodic voice rather than a foundation." },
+      { "name": "Bern Nix", "instrument": "guitar", "why": "Prime Time's clean-toned guitarist, whose refusal to play rock guitar clichés is central to the band's sound." }
+    ],
+    "keyLabels": ["Artists House", "Antilles", "Island/Antilles", "Caravan of Dreams", "DIW"],
+    "contested": "Whether harmolodics is a coherent theory or an idiosyncratic vocabulary. Coleman's explanations varied and musicians who played the music describe it in incompatible ways. This guide treats free funk as a genre and harmolodics as one leader's method for producing it — which is an interpretive choice, not a settled position.",
+    "confidence": "medium"
+  },
+  {
+    "id": "smooth-jazz",
+    "name": "Smooth Jazz",
+    "aka": ["Contemporary jazz (radio format)", "Quiet storm jazz"],
+    "family": "electric",
+    "era": { "start": 1975, "peak": [1987, 2002], "end": null },
+    "origin": { "city": "Los Angeles", "country": "USA" },
+    "oneLine": "Jazz-funk sanded down for radio: melody in front, solos short, nothing that would make a listener flinch.",
+    "summary": "Smooth jazz is a radio format that became a genre, and it should be described that way rather than sneered at. Its ancestry is real — Grover Washington Jr., Wes Montgomery's late CTI records, Bob James, the Crusaders — and its ingredients are consistent: a strong singable melody carried by soprano saxophone or guitar, a mid-tempo funk or quiet-storm groove, glossy production with a lot of reverb, and improvisation kept short and consonant. Kenny G's Breathless in 1992 sold in the millions and became the reference point for everything wrong with the format for jazz critics, which is a lot of weight to put on one record. The format's radio dominance from the late 1980s through the early 2000s meant that for a large number of people this was what 'jazz' meant, which is part of why the hostility was so intense. Musically the interesting question is what got removed: harmonic risk, rhythmic disruption, and the possibility that a solo might fail. Nothing is at stake, deliberately. Some of the players — Washington, Larry Carlton, Lee Ritenour — could do far more than the format asked.",
+    "musicalTraits": {
+      "harmony": "Consonant and stable — major sevenths, gentle ii–V motion, no altered dominants. Modulations are for lift, not tension.",
+      "rhythm": "Mid-tempo funk, quiet-storm ballad feels, and later programmed drums and quantised grids.",
+      "form": "Pop song form. Melody, short solo, melody, fade. Tracks run to radio length.",
+      "instrumentation": "Soprano and alto saxophone, clean electric guitar, synthesizers and DX7-era electric pianos, fretless bass, programmed and live drums.",
+      "improvisation": "Brief and melodic, staying inside the harmony. Solos are usually written or worked out in advance.",
+      "timbre": "Highly produced — chorus, digital reverb, gated drums. The 1980s studio sound is inseparable from the genre."
+    },
+    "earMarkers": [
+      "A soprano saxophone playing a melody you could hum after one listen",
+      "Everything mixed clean, wide and glossy, with a lot of reverb",
+      "Solos that last eight bars and never go outside the chord",
+      "A steady mid-tempo groove that stays exactly the same throughout",
+      "Tracks that end in a fade at about four and a half minutes"
+    ],
+    "keyFigures": [
+      { "name": "Grover Washington Jr.", "instrument": "saxophones", "why": "The genuine link between jazz-funk and the format; a serious improviser whose commercial records set the template." },
+      { "name": "Bob James", "instrument": "keyboards, arranging", "why": "CTI arranger whose 1970s records supplied both the format's sound and a great many hip-hop samples." },
+      { "name": "David Sanborn", "instrument": "alto saxophone", "why": "His piercing, blues-derived alto tone became the most imitated sound in the idiom, though his own playing has more bite than the copies." },
+      { "name": "Kenny G", "instrument": "soprano saxophone", "why": "The best-selling instrumentalist of the era and the lightning rod for every argument about the format's legitimacy." },
+      { "name": "The Crusaders", "instrument": "group", "why": "Went from hard bop as the Jazz Crusaders to a groove-based crossover sound that prefigured the whole format." }
+    ],
+    "keyLabels": ["GRP", "Warner Bros.", "Arista", "Verve Forecast"],
+    "contested": "Whether it counts as jazz. The critical consensus has been dismissive for forty years, and the argument that it removes improvisational risk has force. The counter-argument is that dismissing it wholesale erases the Black radio and quiet-storm context it grew out of, and flattens genuine players into one caricature. This guide includes it as a real branch with a real lineage, and does not pretend to be neutral about the ceiling.",
+    "confidence": "high"
+  },
+  {
+    "id": "acid-jazz",
+    "name": "Acid Jazz",
+    "aka": ["Jazz dance", "Rare groove revival"],
+    "family": "electric",
+    "era": { "start": 1987, "peak": [1991, 1998], "end": 2004 },
+    "origin": { "city": "London", "country": "UK" },
+    "oneLine": "DJs rediscovering 1970s jazz-funk on the dancefloor, then hiring bands to play new music that sounded like it.",
+    "summary": "This one starts with record collecting, not with musicians. London club DJs in the mid-1980s — Gilles Peterson and Chris Bangs among them — were playing forgotten 1960s and 70s jazz-funk, soul jazz and Latin records to dancers, and the name 'acid jazz' began as a joke on acid house. From there it went two ways: reissues and compilations that resurrected a whole layer of neglected recordings, and new bands playing original material in that idiom — Brand New Heavies, Incognito, Jamiroquai, the James Taylor Quartet, Galliano — often with hip-hop production techniques, live rhythm sections and rap or soul vocals over the top. The Acid Jazz label was founded in 1987 by Peterson and Eddie Piller; Peterson later left to start Talkin' Loud. Musically it is more a curatorial position than a technique: the groove and the crate-digger's ear are the constants. Its importance is downstream — it built the UK infrastructure of clubs, labels and radio that later produced broken beat, the 2010s London jazz scene, and much of the audience for both.",
+    "musicalTraits": {
+      "harmony": "Borrowed wholesale from soul jazz and jazz-funk — modal vamps, minor sevenths, gospel cadences. Rarely harmonically ambitious on its own terms.",
+      "rhythm": "Danceable funk and boogaloo at club tempos, later incorporating breakbeats and programmed drums alongside live players.",
+      "form": "Song and groove structures built for DJ use — long intros, breakdowns, clean beat-matchable sections.",
+      "instrumentation": "Hammond organ, Rhodes, electric bass, horn section, turntables and samplers, plus soul and rap vocals.",
+      "improvisation": "Short and functional. The idiom is about feel, not solo development.",
+      "timbre": "Deliberately retro — analogue keyboards, warm bass, drum sounds modelled on 1970s records even when programmed."
+    },
+    "earMarkers": [
+      "Hammond organ and horn riffs that sound like 1971 but were recorded in 1993",
+      "A rock-steady club tempo designed for a DJ to mix in and out of",
+      "Rapping or soul singing over what is otherwise a jazz-funk band",
+      "Sampled drum breaks sitting alongside a live rhythm section",
+      "Very short solos, if any"
+    ],
+    "keyFigures": [
+      { "name": "Gilles Peterson", "instrument": "DJ, label founder, broadcaster", "why": "Co-named the movement, co-founded Acid Jazz then Talkin' Loud, and has kept building the UK's jazz infrastructure ever since." },
+      { "name": "Brand New Heavies", "instrument": "band", "why": "The most successful of the live acid jazz bands and the closest to a functioning 1970s jazz-funk group." },
+      { "name": "Incognito", "instrument": "band", "why": "Jean-Paul 'Bluey' Maunick's group provided the idiom's most durable songwriting." },
+      { "name": "James Taylor Quartet", "instrument": "band", "why": "Hammond-driven and closest to the soul jazz source material, minus the improvisation." },
+      { "name": "Roy Ayers", "instrument": "vibraphone", "why": "The most important living ancestor, adopted by the scene and actively recording with it." }
+    ],
+    "keyLabels": ["Acid Jazz", "Talkin' Loud", "Blue Note (Blue Break Beats)", "Dorado"],
+    "contested": "Whether it is a genre or a DJ marketing category. Musicians in it frequently rejected the label. It also has an uneasy relationship with the music it revived — the acid jazz audience discovered soul jazz and jazz-funk via compilations that often stripped the original context away.",
+    "confidence": "high"
+  },
+  {
+    "id": "jazz-rap",
+    "name": "Jazz Rap",
+    "aka": ["Hip-hop jazz", "Jazzy hip-hop"],
+    "family": "electric",
+    "era": { "start": 1988, "peak": [1991, 1996], "end": null },
+    "origin": { "city": "New York", "country": "USA" },
+    "oneLine": "Hip-hop producers building beats from jazz records, and then jazz musicians answering back.",
+    "summary": "It starts with sampling. Producers in the late 1980s went looking for breaks in their parents' jazz collections and found that upright bass, Rhodes and horn stabs sat beautifully under rapping. A Tribe Called Quest's The Low End Theory in 1991 is the pivot: sparse, bass-forward, built on jazz samples, with Ron Carter playing upright bass on one track. Gang Starr, Digable Planets, Pete Rock, Us3 and the Native Tongues collective make up the rest of the first wave. Then it goes both ways. Guru's Jazzmatazz in 1993 put live jazz musicians in the studio with a rapper; Miles Davis's last album, Doo-Bop, was a hip-hop collaboration; Branford Marsalis's Buckshot LeFonque and Steve Coleman's projects came from the jazz side. The lasting influence is rhythmic: the boom-bap feel — a heavy, slightly-behind, sampled-sounding backbeat — became a legitimate jazz groove, and by the 2010s drummers like Chris Dave, Karriem Riggins and Marcus Gilmore had absorbed it as a first language. That is the line running into the LA beat scene and the London revival.",
+    "musicalTraits": {
+      "harmony": "Sample-derived. Loops of jazz records supply the harmony wholesale, often two or four bars repeated with no development.",
+      "rhythm": "Boom-bap — a hard, slightly loose backbeat around 85–95 BPM, with swung sixteenths and deliberate timing imperfections.",
+      "form": "Verse–chorus rap structure over looped material, with the loop as the harmonic and formal constant.",
+      "instrumentation": "Sampler and turntables first; upright bass, Rhodes, saxophone and trumpet added live in the second wave.",
+      "improvisation": "Initially the rapping is the improvisation-descended element. Live solos appear from Jazzmatazz onward.",
+      "timbre": "Warm, dusty, filtered — the sound of vinyl sampled at low bit rates is an aesthetic choice, not a limitation."
+    },
+    "earMarkers": [
+      "A short loop of an old jazz record repeating under the whole track",
+      "Upright bass, which almost no other hip-hop uses",
+      "A drum feel that's slightly behind and slightly loose rather than machine-tight",
+      "Muted trumpet or Rhodes chords used as a hook",
+      "Vinyl crackle and filtering left audible in the mix"
+    ],
+    "keyFigures": [
+      { "name": "A Tribe Called Quest", "instrument": "group", "why": "The Low End Theory established the sparse, bass-forward jazz-sample aesthetic that everything else worked from." },
+      { "name": "Guru", "instrument": "MC", "why": "Gang Starr's rapper and the Jazzmatazz series' architect — the first sustained attempt to put rappers and live jazz players in one room." },
+      { "name": "DJ Premier", "instrument": "production", "why": "Gang Starr's producer and the definitive boom-bap sound designer; his chopping technique is a compositional method." },
+      { "name": "Pete Rock", "instrument": "production", "why": "Built the lushest horn-sample production of the era, working from soul jazz and hard bop records." },
+      { "name": "Digable Planets", "instrument": "group", "why": "Took the aesthetic furthest into explicit jazz reference, right down to the bebop-cool persona." },
+      { "name": "J Dilla", "instrument": "production", "why": "His deliberately unquantised drum programming changed how a generation of jazz drummers thinks about time." }
+    ],
+    "keyLabels": ["Jive", "Chrysalis/EMI", "Blue Note", "Elektra", "Pendulum"],
+    "contested": "Whether it belongs in a jazz lineage or a hip-hop one. It is unambiguously hip-hop as music; its inclusion here is on the grounds of what it sent back — the boom-bap feel is now standard jazz drumming vocabulary. Filing it as a jazz genre risks the old habit of claiming Black popular music for jazz whenever it becomes respectable.",
+    "confidence": "high"
+  },
+  {
+    "id": "nu-jazz",
+    "name": "Nu Jazz & Electronic Jazz",
+    "aka": ["Electro-jazz", "Future jazz", "Broken beat (adjacent)"],
+    "family": "electric",
+    "era": { "start": 1995, "peak": [1998, 2007], "end": null },
+    "origin": { "city": "London / Oslo / Cologne / Paris", "country": "UK / Norway / Germany / France" },
+    "oneLine": "Jazz improvisation over programmed electronic rhythm — the drum machine as bandmate rather than backing track.",
+    "summary": "Where acid jazz revived old records and jazz rap sampled them, nu jazz starts from electronic dance music and adds improvisers. The rhythmic base is drum and bass, house, broken beat or downtempo — programmed, quantised or deliberately un-quantised — and horns, keyboards and bass improvise across it. There were several parallel scenes. In Norway, Bugge Wesseltoft's New Conception of Jazz and Nils Petter Molvær's Khmer in 1997 put ECM-style trumpet lyricism over dub and electronica, and Jaga Jazzist built a large band around programming. In London, the broken beat scene around West London and labels like Talkin' Loud extended acid jazz's clubbing into more complex rhythmic territory. In Germany, Jazzanova and the Compost/Sonar Kollektiv orbit did it as production. St Germain in Paris put house beats under blues and jazz samples and sold two million records. The best of it treats the beat as a partner — something to play against — and the weakest of it is a lounge compilation. Its influence runs directly into the current London scene.",
+    "musicalTraits": {
+      "harmony": "Modal and vamp-based, with a strong debt to ECM's floating consonance and to house music's static two-chord loops.",
+      "rhythm": "Programmed — drum and bass at 170 BPM, house at 125, broken beat's displaced syncopations, downtempo at 90. Live drums often play with or against the grid.",
+      "form": "Track-based rather than song-based: build, drop, breakdown. Solos happen inside a producer's arrangement.",
+      "instrumentation": "Laptop, sampler and drum machine alongside trumpet, saxophone, Rhodes and double or electric bass.",
+      "improvisation": "Real but constrained. The soloist works over a fixed grid and a fixed harmony, closer to a dub toaster's role than a bebop soloist's.",
+      "timbre": "Processed heavily — delay and reverb on horns, filtered pads, sub-bass. Molvær's echo-drenched trumpet is the signature sound."
+    },
+    "earMarkers": [
+      "Programmed drums that are clearly electronic sitting under acoustic solos",
+      "Trumpet or saxophone soaked in delay and reverb, played sparsely",
+      "Deep sub-bass that no acoustic instrument could produce",
+      "A track that builds and drops like dance music rather than stating a head",
+      "Harmony that barely moves across five or six minutes"
+    ],
+    "keyFigures": [
+      { "name": "Nils Petter Molvær", "instrument": "trumpet, production", "why": "Khmer in 1997 defined the ECM-meets-electronica sound and remains the idiom's clearest statement." },
+      { "name": "Bugge Wesseltoft", "instrument": "keyboards, production", "why": "New Conception of Jazz and the Jazzland label built the Norwegian scene as an ongoing project." },
+      { "name": "Jazzanova", "instrument": "production collective", "why": "The Berlin production team that connected broken beat, Brazilian material and jazz into a coherent European sound." },
+      { "name": "St Germain", "instrument": "production", "why": "Ludovic Navarre's Tourist sold to an audience far outside jazz and proved the format could carry a mass market." },
+      { "name": "Jaga Jazzist", "instrument": "band", "why": "A large Norwegian ensemble writing for horns, strings and electronics as one machine." },
+      { "name": "Cinematic Orchestra", "instrument": "band", "why": "Jason Swinscoe's group moved from sample-based production to a fully live ensemble without changing the aesthetic." }
+    ],
+    "keyLabels": ["Jazzland", "Ninja Tune", "Compost", "Sonar Kollektiv", "Talkin' Loud", "F Communications"],
+    "contested": "The name. 'Nu jazz' was largely a retail category and few of the musicians used it. It has also been criticised as jazz's least improvisational branch, where the improviser is a texture inside someone else's production. Both charges are fair for a lot of the catalogue and unfair for the best of it.",
+    "confidence": "medium"
+  },
+  {
+    "id": "la-beat",
+    "name": "LA Beat-Scene Jazz",
+    "aka": ["Brainfeeder jazz", "West Coast Get Down", "Beat music"],
+    "family": "electric",
+    "era": { "start": 2008, "peak": [2015, 2023], "end": null },
+    "origin": { "city": "Los Angeles", "country": "USA" },
+    "oneLine": "Jazz musicians who grew up on J Dilla and Flying Lotus, playing with a producer's ear and a beatmaker's sense of time.",
+    "summary": "Two Los Angeles streams converged. One was the beat scene around Low End Theory, the club night that ran from 2006, and Flying Lotus's Brainfeeder label — instrumental hip-hop built on sample manipulation, sub-bass and deliberately wonky, off-grid timing inherited from J Dilla. The other was the West Coast Get Down, a group of musicians who had come up together in Los Angeles schools and played together for a decade before anyone noticed: Kamasi Washington, Thundercat, Terrace Martin, Ronald Bruner Jr., Cameron Graves, Miles Mosley. Thundercat is the physical link, playing bass on Brainfeeder records and in jazz contexts simultaneously. Kendrick Lamar's To Pimp a Butterfly in 2015 put nearly all of them on a mainstream rap record; Washington's three-hour The Epic the same year presented the jazz side with choir, strings and unembarrassed spiritual-jazz ambition. The music combines Coltrane-quartet modal intensity, 1970s spiritual jazz orchestration, and rhythm sections that think in terms of feel and pocket rather than swing.",
+    "musicalTraits": {
+      "harmony": "Modal and pentatonic, McCoy Tyner-derived, over pedal points, with gospel and soul progressions and lush orchestral or choral layering.",
+      "rhythm": "Dilla-descended: deliberately off-grid, with the snare pushed or dragged so the beat feels drunk but stays locked. Hip-hop tempos alongside fast swing.",
+      "form": "Long-form and suite-like on the jazz side; loop-and-transform on the beat side. Both prefer accumulation to development.",
+      "instrumentation": "Six-string electric bass, synthesizers, saxophone, keys, two drummers on occasion, plus choir and strings.",
+      "improvisation": "Extended and intensity-driven, closer to spiritual jazz than to post-bop. Solos are long and go for transcendence rather than cleverness.",
+      "timbre": "Producer-shaped: heavy sub-bass, saturated synths, vocal layering, and a mix aesthetic drawn from hip-hop rather than jazz engineering."
+    },
+    "earMarkers": [
+      "A beat that sounds slightly drunk — snare landing late — but never actually loses time",
+      "Sub-bass and synthesizers sitting under acoustic saxophone and drums",
+      "Choir or massed vocals used as an orchestral section",
+      "Long modal solos that build toward ecstasy in the Coltrane manner",
+      "Production values from hip-hop: everything loud, wide and compressed"
+    ],
+    "keyFigures": [
+      { "name": "Kamasi Washington", "instrument": "tenor saxophone, composition", "why": "The Epic put large-scale spiritual jazz in front of an audience that had not been listening to jazz." },
+      { "name": "Thundercat", "instrument": "electric bass, vocals", "why": "The scene's connective tissue, moving between Brainfeeder, Kendrick Lamar and jazz contexts as one practice." },
+      { "name": "Flying Lotus", "instrument": "production", "why": "Founded Brainfeeder and built the beat aesthetic; also Alice Coltrane's great-nephew, which is not incidental to the music." },
+      { "name": "Terrace Martin", "instrument": "alto saxophone, keyboards, production", "why": "The producer-musician who brokered the jazz players onto To Pimp a Butterfly." },
+      { "name": "Robert Glasper", "instrument": "piano, production", "why": "Not LA-based, but Black Radio in 2012 established the template of jazz pianist as R&B and hip-hop bandleader." },
+      { "name": "Chris Dave", "instrument": "drums", "why": "The drummer who most fully translated Dilla's programmed feel back onto an acoustic kit." }
+    ],
+    "keyLabels": ["Brainfeeder", "Young Turks/XL", "Blue Note", "Stones Throw"],
+    "contested": "Whether it is a genre or a network. Kamasi Washington's large-ensemble spiritual jazz and Flying Lotus's electronic production have little in common technically; what links them is a city, a label, and a set of collaborations. Some critics argue the 'jazz renaissance' framing around 2015 oversold a scene that had been working for a decade already.",
+    "confidence": "medium"
+  },
+  {
+    "id": "ecm-nordic",
+    "name": "ECM & Nordic Chamber Jazz",
+    "aka": ["European chamber jazz", "Nordic tone", "The ECM sound"],
+    "family": "avant",
+    "era": { "start": 1969, "peak": [1973, 1990], "end": null },
+    "origin": { "city": "Munich / Oslo", "country": "Germany / Norway" },
+    "oneLine": "Jazz built around space, silence and sustained sound — recorded so precisely the room becomes an instrument.",
+    "summary": "Manfred Eicher founded ECM in Munich in 1969 and produced almost everything on it himself, with engineer Jan Erik Kongshaug at Talent Studio in Oslo for a large part of the catalogue. The recording aesthetic — long natural reverb, extreme dynamic range, every instrument separated and audible, piano and cymbals given room to decay — is so consistent that it constitutes a compositional element, and the phrase 'the most beautiful sound next to silence' came from a review and stuck as the label's own slogan. Musically the identifying features are slow harmonic rhythm, folk-derived melody, restraint, and a relationship to European classical music that is unembarrassed rather than programmatic. Jan Garbarek's saxophone tone — cold, pure, enormous — became the sound people mean by 'Nordic'. Keith Jarrett's solo concerts, especially Köln in 1975, made the label commercially significant. It is contested whether this is a genre or a producer's taste, and the argument is real: ECM also released Art Ensemble of Chicago, Steve Reich and Meredith Monk. But the Nordic chamber wing is coherent enough to name.",
+    "musicalTraits": {
+      "harmony": "Slow-moving, modal, often built on suspended and open voicings that avoid clear resolution. Folk modes from Scandinavian and Eastern European sources.",
+      "rhythm": "Rubato and free-time passages alongside straight eighths; swing appears rarely. Drummers play colour and texture as much as pulse.",
+      "form": "Long, patient, often through-composed. Pieces develop by accumulation and change of density rather than by chorus structure.",
+      "instrumentation": "Piano, saxophone, double bass, drums, but also guitar, oud, tabla, string quartet and voice; unusual pairings are routine.",
+      "improvisation": "Restrained and thematic. Melodic development matters more than harmonic navigation or rhythmic display.",
+      "timbre": "The defining parameter. Long natural reverb, wide dynamics, the decay of notes treated as content."
+    },
+    "earMarkers": [
+      "Enormous natural-sounding reverb — the room is clearly part of the record",
+      "Very quiet passages that demand you turn it up, then sudden fullness",
+      "Melodies that sound like folk songs rather than jazz heads",
+      "Drums played with mallets and cymbals left to ring out",
+      "Almost no swing feel, and often no steady pulse at all"
+    ],
+    "keyFigures": [
+      { "name": "Manfred Eicher", "instrument": "production", "why": "Produced the overwhelming majority of the catalogue; the label's aesthetic is a single person's editorial ear applied for fifty years." },
+      { "name": "Jan Garbarek", "instrument": "saxophones", "why": "His tone and his use of Norwegian folk material define what 'Nordic jazz' means to most listeners." },
+      { "name": "Keith Jarrett", "instrument": "piano", "why": "The solo concerts made improvised piano a concert-hall event and gave ECM a commercial base." },
+      { "name": "Eberhard Weber", "instrument": "electric upright bass, composition", "why": "Built an entirely personal instrument and a body of chamber-jazz writing around it." },
+      { "name": "Terje Rypdal", "instrument": "guitar", "why": "Brought sustained, distorted, orchestral electric guitar into the label's otherwise acoustic world." },
+      { "name": "Tomasz Stańko", "instrument": "trumpet", "why": "The Polish wing — darker, more Miles-derived, and connected to a Central European free-jazz history the Nordic players did not share." }
+    ],
+    "keyLabels": ["ECM", "Jazzland (Norway)", "Winter & Winter"],
+    "contested": "Whether 'ECM jazz' names a genre or a label's house taste. The catalogue includes free jazz, contemporary classical, Renaissance music and Art Ensemble of Chicago records, which no stylistic definition covers. This guide names the Nordic chamber wing specifically and treats the label as its institutional home rather than as a synonym. There is also a persistent criticism that the aesthetic prizes surface beauty over risk.",
+    "confidence": "medium"
+  },
+  {
+    "id": "neo-bop",
+    "name": "Neo-Bop & the Young Lions",
+    "aka": ["Neoclassical jazz", "The Young Lions", "Neo-traditionalism"],
+    "family": "trad-mainstream",
+    "era": { "start": 1980, "peak": [1984, 1996], "end": null },
+    "origin": { "city": "New York / New Orleans", "country": "USA" },
+    "oneLine": "A deliberate return to acoustic hard bop and swing, made by conservatory-trained players who thought fusion had been a wrong turn.",
+    "summary": "Wynton Marsalis signed to Columbia in 1981 at nineteen, won Grammys in both jazz and classical categories in 1983, and became the public face of an argument: that jazz had a tradition, that the tradition was acoustic and blues-based and ran from New Orleans through Ellington and Parker to the mid-1960s, and that fusion and free jazz had taken the music away from it. The music that followed is technically formidable and largely acoustic — quintets and sextets, standards and originals in a post-bop language, sharp suits, no synthesizers. It coincided with the institutionalisation of jazz: university programmes, Jazz at Lincoln Center from 1987 with Marsalis as artistic director, the Ken Burns documentary in 2001, repertory orchestras, NEA Jazz Masters. The criticism, made forcefully by Nicholas Payton, Greg Osby and others, is that this froze the music into a museum canon at exactly the moment it should have been moving. The defence is that a generation of musicians got a rigorous grounding they would not otherwise have had. Both are true and the argument has not settled.",
+    "musicalTraits": {
+      "harmony": "Bebop and post-bop harmony played with conservatory precision — full changes, extended forms, and a deliberate refusal of modal shortcuts.",
+      "rhythm": "Acoustic swing restored as the default, with New Orleans second-line and Latin feels used as compositional colour.",
+      "form": "Standards and originals in traditional forms, plus extended suites, especially in Marsalis's later large-scale works.",
+      "instrumentation": "Acoustic quintet and sextet, big band, no electric instruments as a matter of policy in the strict wing.",
+      "improvisation": "Highly schooled, harmonically precise, and consciously in dialogue with recorded history — quotation and stylistic allusion are common.",
+      "timbre": "Warm, controlled, well-recorded acoustic sound. Digital-era production without digital-era instruments."
+    },
+    "earMarkers": [
+      "Entirely acoustic instruments, with a swing feel front and centre",
+      "Playing that is audibly virtuosic and audibly schooled",
+      "Deliberate references to earlier styles — a New Orleans strut, an Ellington voicing",
+      "Standards played straight rather than deconstructed",
+      "A clean, warm, modern recording of a determinedly old-fashioned band"
+    ],
+    "keyFigures": [
+      { "name": "Wynton Marsalis", "instrument": "trumpet, composition", "why": "The movement's musician, spokesman and institution-builder; his 1997 Pulitzer for Blood on the Fields was the first awarded to a jazz work." },
+      { "name": "Branford Marsalis", "instrument": "saxophones", "why": "Took the same training in a looser direction, including work with Sting and a hip-hop project his brother would not have made." },
+      { "name": "Terence Blanchard", "instrument": "trumpet, composition", "why": "Came through the Jazz Messengers, then built a major second career in film scoring and opera." },
+      { "name": "Joshua Redman", "instrument": "tenor saxophone", "why": "Won the Monk competition in 1991 and became the most visible of the second Young Lions wave." },
+      { "name": "Roy Hargrove", "instrument": "trumpet", "why": "The one who most obviously refused the boundaries — hard bop, Afro-Cuban, and the RH Factor's neo-soul, all seriously." },
+      { "name": "Marcus Roberts", "instrument": "piano", "why": "Went furthest back, rebuilding stride and ragtime technique inside a modern practice." }
+    ],
+    "keyLabels": ["Columbia", "Blue Note", "Warner Bros.", "Verve", "Nonesuch"],
+    "contested": "This genre is an argument as much as a style. Critics including Nicholas Payton and Greg Osby have argued it produced a canon-policing orthodoxy that damaged the music's forward motion and marginalised the avant-garde. Defenders point to the training, the archives and the institutions that resulted. The dispute over who gets to define the tradition is the actual content of the category.",
+    "confidence": "high"
+  },
+  {
+    "id": "m-base",
+    "name": "M-Base",
+    "aka": ["Macro-Basic Array of Structured Extemporization"],
+    "family": "avant",
+    "era": { "start": 1984, "peak": [1988, 1998], "end": null },
+    "origin": { "city": "New York (Brooklyn)", "country": "USA" },
+    "oneLine": "Improvisation over interlocking, cyclic rhythmic structures drawn from West African and diasporic music — jazz thinking in loops rather than choruses.",
+    "summary": "A group of young musicians in Brooklyn in the mid-1980s — Steve Coleman, Greg Osby, Cassandra Wilson, Geri Allen, Robin Eubanks, Graham Haynes, Marvin 'Smitty' Smith — worked out an approach that was neither neo-bop nor free. The rhythmic basis is nested cycles: several repeating patterns of different lengths running simultaneously, so the downbeat is a matter of which layer you follow. That idea comes from West African drumming traditions and their diasporic descendants, and it makes the music feel simultaneously funky and disorienting. Over it, the melodic language is angular, chromatic, and phrased against the grid rather than with it. Coleman coined the acronym, and he has consistently insisted that M-Base names a philosophy of creative growth and shared language rather than a style of music — a distinction most journalism has ignored. That correction matters: the players involved sound quite different from each other, and treating M-Base as a sound rather than a working method misrepresents its own self-description. The influence is enormous and mostly indirect — Vijay Iyer, Steve Lehman, Ambrose Akinmusire and much of what is now called contemporary creative music runs through it.",
+    "musicalTraits": {
+      "harmony": "Chromatic and non-functional, often built from symmetrical structures and pitch cells rather than chord progressions.",
+      "rhythm": "The centre of the concept. Nested, interlocking cycles of unequal length, odd groupings, and a funk feel that keeps displacing.",
+      "form": "Cyclic rather than chorus-based. Sections repeat at different rates and phase against one another.",
+      "instrumentation": "Alto saxophone, trumpet, trombone, guitar, electric bass, drums; voice used as an instrumental line. Electric and acoustic freely mixed.",
+      "improvisation": "Improvising across a shifting grid — the challenge is orientation as much as invention. Collective interaction is expected.",
+      "timbre": "Dry, tight, unromantic. Little reverb, hard articulation, and a deliberately unlush ensemble sound."
+    },
+    "earMarkers": [
+      "A groove that is clearly funky but that you cannot easily count",
+      "Several repeating patterns of different lengths running at once",
+      "Melodic lines that cut across the beat rather than sitting on it",
+      "Voice used as another horn, singing wordless lines in unison",
+      "A dry, clipped band sound with almost no reverb"
+    ],
+    "keyFigures": [
+      { "name": "Steve Coleman", "instrument": "alto saxophone, composition", "why": "Coined the term and has pursued the rhythmic research for forty years, including fieldwork in Ghana, Cuba and India." },
+      { "name": "Greg Osby", "instrument": "alto saxophone", "why": "The other central altoist; later a Blue Note bandleader and a persistent critic of neo-traditionalist orthodoxy." },
+      { "name": "Cassandra Wilson", "instrument": "voice", "why": "Came out of the collective and then built a singular body of work applying its rhythmic thinking to blues and folk repertoire." },
+      { "name": "Geri Allen", "instrument": "piano, composition", "why": "Connected M-Base to the AACM lineage and to the mainstream, with a harmonic imagination distinct from anyone else in the group." },
+      { "name": "Robin Eubanks", "instrument": "trombone", "why": "Made the trombone work in a rhythmically demanding idiom that gives it no natural place." },
+      { "name": "Marvin 'Smitty' Smith", "instrument": "drums", "why": "Executed the interlocking-cycle concept on the kit and made it feel like a groove rather than an exercise." }
+    ],
+    "keyLabels": ["JMT", "Novus/RCA", "Blue Note", "Pi Recordings", "Label Bleu"],
+    "contested": "Whether M-Base is a genre at all. Steve Coleman has stated repeatedly that it is a concept and a way of working, not a style, and that critics who describe an 'M-Base sound' have misunderstood it. This guide includes it as a node because the influence is traceable and the rhythmic approach is identifiable — while noting that the person who named it would object to the framing.",
+    "confidence": "high"
+  },
+  {
+    "id": "downtown",
+    "name": "Downtown & Punk Jazz",
+    "aka": ["Knitting Factory scene", "No wave jazz", "Radical Jewish Culture (adjacent)"],
+    "family": "avant",
+    "era": { "start": 1978, "peak": [1986, 1999], "end": null },
+    "origin": { "city": "New York (Lower East Side)", "country": "USA" },
+    "oneLine": "Free jazz colliding with hardcore punk, surf, klezmer and cartoon music, usually at high speed and without warning.",
+    "summary": "Lower Manhattan in the late 1970s and 80s had a scene where the boundary between avant-garde jazz, no wave, punk and contemporary composition simply was not enforced. John Zorn is the organising figure. His game pieces — Cobra above all, from 1984 — are structured improvisations run by a prompter using cue cards, where the rules govern who plays and when but not what. Naked City compressed hardcore punk, film noir soundtracks, country and free jazz into pieces lasting under a minute, switching genre every few seconds. The Lounge Lizards played what Zorn's contemporary John Lurie called 'fake jazz', deadpan and hard-edged. Bill Frisell, Wayne Horvitz, Elliott Sharp, Marc Ribot and Tim Berne all worked across the same rooms — the Knitting Factory from 1987, and before it a network of lofts and galleries. Zorn's Tzadik label from 1995 institutionalised it. The Jewish identity strand — Masada, the Radical Jewish Culture series — brought klezmer modes into an Ornette Coleman quartet format. What holds the scene together is a compositional attitude: rapid juxtaposition, genre as material, and structure imposed on improvisation from outside.",
+    "musicalTraits": {
+      "harmony": "Anything, and often several things per minute. Klezmer modes, surf progressions, free atonality and hardcore power chords used as blocks.",
+      "rhythm": "Extreme contrast — blast beats next to free time next to a shuffle. Metric stability is a choice, not a default.",
+      "form": "Game pieces, file-card compositions, and blocks of material spliced with hard cuts. Duration ranges from 20 seconds to an hour.",
+      "instrumentation": "Alto saxophone, guitar, bass, drums, plus turntables, samplers, voice, and whatever else. Electric and amplified by default.",
+      "improvisation": "Central but governed. The composer sets rules of engagement rather than notes; players improvise inside a designed system.",
+      "timbre": "Loud, abrasive, and stylistically promiscuous. Studio and live production are aggressive rather than transparent."
+    },
+    "earMarkers": [
+      "The style changing completely every few seconds without transition",
+      "Hardcore punk speed and screaming next to something that swings",
+      "Pieces that last thirty seconds and then stop",
+      "Klezmer or surf melodies played by a free jazz rhythm section",
+      "A group that is clearly following rules you can't hear"
+    ],
+    "keyFigures": [
+      { "name": "John Zorn", "instrument": "alto saxophone, composition", "why": "The scene's organiser, composer and label head; the game pieces and Masada are the two poles of his output." },
+      { "name": "Bill Frisell", "instrument": "guitar", "why": "Developed a volume-pedal, delay-heavy Americana-inflected guitar language that was equally at home downtown and on ECM." },
+      { "name": "Marc Ribot", "instrument": "guitar", "why": "The scene's most abrasive and versatile guitarist, moving between Zorn, Tom Waits and Cuban repertoire." },
+      { "name": "Tim Berne", "instrument": "alto saxophone, composition", "why": "Wrote long, intricate compositions for working bands, connecting Julius Hemphill's lineage to the downtown environment." },
+      { "name": "John Lurie", "instrument": "saxophone", "why": "The Lounge Lizards' deadpan 'fake jazz' set the scene's tone of ironic seriousness." },
+      { "name": "Elliott Sharp", "instrument": "guitar, reeds, composition", "why": "Brought algorithmic and mathematical structures into an otherwise intuitive scene." }
+    ],
+    "keyLabels": ["Tzadik", "Knitting Factory Works", "Nonesuch", "JMT", "Elektra Nonesuch"],
+    "contested": "Whether it is jazz. A large part of the output has no swing, no blues and no improvisation on changes, and 'downtown' names a geography and a social network rather than a style. Its inclusion here rests on personnel and lineage — most of these players came through free jazz — and on the fact that the scene fed contemporary creative music directly.",
+    "confidence": "medium"
+  },
+  {
+    "id": "contemporary-creative",
+    "name": "Contemporary Creative Jazz",
+    "aka": ["Modern creative", "Post-genre jazz", "Creative music (current)"],
+    "family": "avant",
+    "era": { "start": 1998, "peak": [2010, 2026], "end": null },
+    "origin": { "city": "New York / Chicago / Berlin", "country": "USA / Germany" },
+    "oneLine": "The current avant-garde mainstream: rhythmically intricate, harmonically dense, conservatory-trained, and drawing on everything at once.",
+    "summary": "This is where the M-Base rhythmic project, the AACM's compositional discipline, downtown's genre promiscuity and neo-bop's technical training all end up in the same room. The identifying features are rhythmic: odd meters treated as ordinary, metric modulation, polyrhythm as a structural device rather than an effect, and a comfort with hip-hop and electronic feels. Harmonically it draws on spectral and post-tonal composition as readily as on jazz. Vijay Iyer works with rhythmic ratios and cognitive research on rhythm; Steve Lehman applies spectral harmony derived from Tristan Murail; Mary Halvorson has built a guitar language out of pitch-bending and unexpected form; Tyshawn Sorey writes long-form composition that has largely left jazz behind while remaining in dialogue with it; Ambrose Akinmusire, Jason Moran, Craig Taborn, Matana Roberts and Henry Threadgill's later ensembles fill in the range. Institutional support — grants, Pulitzers, MacArthur fellowships, university positions — has replaced the club economy that supported earlier generations, which shapes the music in ways worth noticing: it is composed more and jammed less.",
+    "musicalTraits": {
+      "harmony": "Post-tonal, spectral and cluster-based alongside jazz extensions. Harmony is often generated by a system rather than inherited from song form.",
+      "rhythm": "The defining domain — metric modulation, nested tuplets, polymeter, and grooves borrowed from hip-hop, West African and South Indian traditions.",
+      "form": "Through-composed, modular, or generated by rules. Extended suites and album-length structures are common.",
+      "instrumentation": "Standard jazz groups plus strings, electronics, laptop processing, and idiosyncratic fixed instrumentations built for a single band.",
+      "improvisation": "Deeply integrated with composition — the line between written and improvised is often deliberately hard to hear.",
+      "timbre": "Precisely engineered. Electronics and acoustic instruments blended rather than contrasted."
+    },
+    "earMarkers": [
+      "Meters that shift constantly and never settle into four",
+      "Written material so intricate it is hard to tell what was improvised",
+      "Harmony that sounds like contemporary classical music, not like jazz chords",
+      "Hip-hop-derived beats played by an acoustic drummer with total precision",
+      "Long album-scale structures rather than a set of tunes"
+    ],
+    "keyFigures": [
+      { "name": "Vijay Iyer", "instrument": "piano, composition", "why": "Combines rhythmic research, M-Base's cyclic thinking and a physical piano attack; also the most articulate writer among the group." },
+      { "name": "Mary Halvorson", "instrument": "guitar, composition", "why": "Built an immediately recognisable guitar vocabulary from pitch-shifting and lurching form, out of Anthony Braxton's tutelage." },
+      { "name": "Tyshawn Sorey", "instrument": "drums, composition", "why": "Works across improvised music and contemporary composition without treating them as different jobs; won the Pulitzer in 2024." },
+      { "name": "Steve Lehman", "instrument": "alto saxophone, composition", "why": "Imported spectral harmony into an improvising octet, a genuinely new harmonic resource for the music." },
+      { "name": "Jason Moran", "instrument": "piano, composition", "why": "Connects stride and Fats Waller to hip-hop and conceptual art, often within one piece." },
+      { "name": "Ambrose Akinmusire", "instrument": "trumpet, composition", "why": "Writes long-form records about American violence and race with a trumpet language full of cracks and half-valves." },
+      { "name": "Craig Taborn", "instrument": "piano, electronics", "why": "Moves between acoustic trio, solo piano and modular electronics with the same structural mind." }
+    ],
+    "keyLabels": ["Pi Recordings", "ECM", "Firehouse 12", "Intakt", "Blue Note", "International Anthem"],
+    "contested": "Whether this names anything at all, or is just 'jazz now'. The category is a critics' and grant-committees' convenience for music too composed for neo-bop and too structured for free jazz. Several of the musicians in it reject 'jazz' as a description of their work outright — a position with a long history in this music, from Ellington to Nicholas Payton's #BAM argument.",
+    "confidence": "medium"
+  },
+  {
+    "id": "uk-jazz-revival",
+    "name": "UK Jazz Revival",
+    "aka": ["New London jazz", "The London scene", "We Out Here generation"],
+    "family": "global",
+    "era": { "start": 2012, "peak": [2016, 2026], "end": null },
+    "origin": { "city": "London", "country": "UK" },
+    "oneLine": "London jazz built on Caribbean, West African and soundsystem rhythm, made by musicians who came up together and play for dancers.",
+    "summary": "The most striking thing about the current London scene is the rhythm, and where it comes from. These musicians grew up with grime, jungle, Afrobeats, dub, calypso and broken beat as native languages, and the jazz they make is organised around those feels rather than around swing. Sons of Kemet built a band from tuba, two drummers and Shabaka Hutchings' saxophone, playing what amounts to a Caribbean carnival band's rhythmic logic. Ezra Collective run Afrobeat and reggae under jazz soloing. Nubya Garcia, Moses Boyd, Theon Cross, Emma-Jean Thackray and Yussef Dayes fill out the range. The infrastructure is as important as the music: Tomorrow's Warriors, the free youth programme co-founded in 1991 by bassist Gary Crosby and Janine Irons, trained a large proportion of the scene and did so with an explicit commitment to reaching Black and female musicians who the conservatory route was not reaching. Gilles Peterson's Brownswood released the We Out Here compilation in 2018, which is when the rest of the world noticed. The audience is young, and it dances, which has not been true of jazz in Britain for a very long time.",
+    "musicalTraits": {
+      "harmony": "Modal, vamp-based and often minor-key, with spiritual jazz's pedal points and Afrobeat's two-chord frames. Harmonic complexity is not the priority.",
+      "rhythm": "The centre of everything: Afrobeat, dub, jungle, grime, calypso and second-line feels, frequently with two drummers or a drummer plus percussion.",
+      "form": "Groove-driven and often long, with slow-building structures aimed at a live, standing audience rather than a seated one.",
+      "instrumentation": "Tuba as a bass instrument, tenor and soprano saxophone, keys, twin drum kits, electronics, and MCs or singers as guests.",
+      "improvisation": "Present and extended, but subordinate to the groove — solos build collective intensity rather than displaying harmonic navigation.",
+      "timbre": "Soundsystem-informed: heavy low end, dub-style delay and reverb, and mixes made for large speakers."
+    },
+    "earMarkers": [
+      "Tuba playing the bass line instead of a double bass or electric bass",
+      "Two drummers, playing complementary rather than identical patterns",
+      "Grooves that come from Afrobeat, dub or jungle rather than from swing",
+      "Dub-style echo thrown across horns and drums",
+      "Music clearly made for a crowd that is standing up"
+    ],
+    "keyFigures": [
+      { "name": "Shabaka Hutchings", "instrument": "tenor saxophone, clarinet, flutes", "why": "The scene's most visible figure, running Sons of Kemet, The Comet Is Coming and Shabaka and the Ancestors simultaneously, then abandoning the saxophone for flutes in 2023." },
+      { "name": "Nubya Garcia", "instrument": "tenor saxophone", "why": "The clearest link back to spiritual jazz and to Caribbean rhythm, with a big, unhurried tone." },
+      { "name": "Moses Boyd", "instrument": "drums, production", "why": "Works as both jazz drummer and electronic producer, which is exactly the scene's premise." },
+      { "name": "Theon Cross", "instrument": "tuba", "why": "Made the tuba a lead bass instrument capable of sub-bass weight and dancehall articulation." },
+      { "name": "Gary Crosby", "instrument": "bass, education", "why": "Co-founded Tomorrow's Warriors in 1991; the scene's existence is substantially attributable to that programme." },
+      { "name": "Ezra Collective", "instrument": "band", "why": "Won the Mercury Prize in 2023, the first jazz act to do so, playing Afrobeat and reggae-driven jazz." }
+    ],
+    "keyLabels": ["Brownswood", "Gearbox", "Impulse!", "Native Rebel", "Concord Jazz", "Total Refreshment Centre (studio/scene hub)"],
+    "contested": "Whether 'revival' is the right word, since British jazz did not stop — the Jazz Warriors in the 1980s, Courtney Pine, and a continuous free improvisation scene were all active. Critics also note the media framing conflated a genuinely diverse set of bands into one marketable story. Several of the musicians have said they do not consider themselves a scene.",
+    "confidence": "high"
+  }
+]

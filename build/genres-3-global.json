@@ -1,0 +1,325 @@
+[
+  {
+    "id": "afro-cuban",
+    "name": "Afro-Cuban & Latin Jazz",
+    "aka": ["Cubop", "Latin jazz", "Salsa jazz"],
+    "family": "global",
+    "era": { "start": 1940, "peak": [1947, 1975], "end": null },
+    "origin": { "city": "Havana / New York", "country": "Cuba / USA" },
+    "oneLine": "Jazz harmony and soloing built on Cuban clave instead of swing — the rhythm section is doing something completely different.",
+    "summary": "The change is rhythmic and it is total. Swing divides the beat into a lilting triplet feel; Afro-Cuban music divides it evenly and organises everything around clave, a two-bar asymmetric pattern (three strokes in one bar, two in the other) that every other part must align with. Get the clave backwards and the whole band sounds wrong to anyone who knows. Layer on top the tumbao bass pattern that anticipates the downbeat rather than landing on it, the montuno piano figure, congas, timbales, bongos, cowbell — and you have a rhythm section that is polyrhythmic by design rather than by accident. Dizzy Gillespie and Cuban percussionist Chano Pozo made the fusion explicit in 1947 with 'Manteca' and 'Cubana Be, Cubana Bop', and Machito's orchestra with arranger Mario Bauzá had been doing it in New York since 1940. Later waves brought Brazilian, Puerto Rican and Panamanian currents, and by the 1970s the Fania-era salsa scene and jazz were sharing personnel constantly. The African retentions in Cuban music were less interrupted than in the US, which is part of why the meeting felt like a reunion.",
+    "musicalTraits": {
+      "harmony": "Jazz harmony largely intact — bebop changes, modal vamps, and montuno progressions that cycle a short chord sequence indefinitely.",
+      "rhythm": "Clave-organised, with even (straight) eighth notes rather than swung ones. Tumbao bass anticipates beat 1, and multiple percussion parts interlock.",
+      "form": "Often two-part: a written, arranged section followed by a montuno — an open vamp for solos, mambo horn riffs and percussion features.",
+      "instrumentation": "Full jazz horn section plus congas, timbales, bongos, güiro, claves, cowbell. Piano plays montuno figures rather than comping freely.",
+      "improvisation": "Bebop-derived soloing over vamps, plus percussion soloing as a featured element in its own right.",
+      "timbre": "Bright, brassy and dense. Percussion is foregrounded rather than treated as accompaniment."
+    },
+    "earMarkers": [
+      "Even, straight eighth notes instead of the loping swing feel",
+      "A repeating two-bar pattern (clave) that everything else lines up against",
+      "Congas and timbales, not just a drum kit",
+      "The bass landing just before the downbeat rather than on it",
+      "A long open section where the band vamps on two chords and the percussion takes over"
+    ],
+    "keyFigures": [
+      { "name": "Mario Bauzá", "instrument": "trumpet, arranging", "why": "Machito's musical director and the person who actually engineered the meeting of Cuban rhythm and jazz orchestration." },
+      { "name": "Chano Pozo", "instrument": "congas, composition", "why": "Brought authentic Afro-Cuban drumming and its religious repertoire into Gillespie's band; murdered in 1948 at 33." },
+      { "name": "Dizzy Gillespie", "instrument": "trumpet, bandleading", "why": "The bebop figure who insisted the rhythmic connection mattered and had the platform to prove it." },
+      { "name": "Tito Puente", "instrument": "timbales, vibraphone, arranging", "why": "Bridged mambo dance music and jazz for five decades with formidable arranging chops." },
+      { "name": "Eddie Palmieri", "instrument": "piano, bandleading", "why": "Brought McCoy Tyner's harmonic density and free-jazz edges into salsa without losing the dance floor." },
+      { "name": "Chucho Valdés", "instrument": "piano, composition", "why": "Led Irakere in Cuba, fusing Yoruba batá drumming with post-bop harmony under conditions of near-total isolation from the US scene." }
+    ],
+    "keyLabels": ["Verve", "Tico", "Fania", "Blue Note", "Concord Picante"],
+    "contested": "Whether 'Latin jazz' is one genre or a shorthand for several unrelated ones. Cuban-derived, Brazilian, Puerto Rican and Argentine jazz traditions have different rhythmic bases and grouping them can obscure more than it explains. This guide separates the Brazilian stream out for that reason.",
+    "confidence": "high"
+  },
+  {
+    "id": "bossa-brazilian",
+    "name": "Bossa Nova & Brazilian Jazz",
+    "aka": ["Bossa nova", "Samba-jazz", "MPB-jazz"],
+    "family": "global",
+    "era": { "start": 1958, "peak": [1962, 1974], "end": null },
+    "origin": { "city": "Rio de Janeiro", "country": "Brazil" },
+    "oneLine": "Samba played quietly, with jazz harmony and a voice barely above speech.",
+    "summary": "Bossa nova is samba with the volume and the percussion battery removed and the harmony made much more complicated. João Gilberto worked out the guitar pattern — a syncopated thumb-and-fingers figure that implies a whole samba percussion section on one instrument — and a way of singing almost without projection, so close to the microphone that it sounds like someone thinking out loud. Antônio Carlos Jobim wrote the songs, with chromatic inner voices and chord movements that come as much from Debussy and Chopin as from any Brazilian source. Vinicius de Moraes wrote many of the lyrics. It arrived in the US in 1962 through Charlie Byrd and Stan Getz, and 'The Girl from Ipanema' turned it into a global commercial phenomenon so complete that it became lounge wallpaper, which has damaged its reputation ever since. Underneath the easy-listening reception there is a serious body of work, and the wider Brazilian instrumental tradition — Hermeto Pascoal, Egberto Gismonti, Airto Moreira, Milton Nascimento — pushed far past bossa into territory that fed 1970s fusion directly.",
+    "musicalTraits": {
+      "harmony": "The most harmonically complex popular song repertoire of its era: chromatic descending inner lines, altered dominants, and modulations that arrive without warning.",
+      "rhythm": "The bossa guitar pattern displaces accents across two bars, derived from samba but stripped to essentials. Even eighths, soft dynamics, brushes or light sticks on the kit.",
+      "form": "Song forms, often through-composed and irregular rather than 32-bar AABA. Instrumental versions extend them with solo choruses.",
+      "instrumentation": "Nylon-string guitar, voice, piano, bass, drums with brushes; often flute or saxophone. Percussion is minimal compared with samba.",
+      "improvisation": "Restrained and melodic in bossa proper; the later samba-jazz and Brazilian instrumental scenes are far more virtuosic.",
+      "timbre": "Soft, warm, close-miked. Gilberto's near-whispered singing and the nylon-string guitar define the palette."
+    },
+    "earMarkers": [
+      "One nylon-string guitar playing a syncopated pattern that implies a whole percussion section",
+      "Singing that is quiet, conversational and almost never held out",
+      "Chords that shift in unexpected directions under a very simple melody",
+      "Even eighth notes with no swing lilt",
+      "Drums played with brushes and a rim-click, kept very low in the mix"
+    ],
+    "keyFigures": [
+      { "name": "João Gilberto", "instrument": "guitar, voice", "why": "Invented both the guitar pattern and the vocal delivery; without him bossa nova does not exist as a sound." },
+      { "name": "Antônio Carlos Jobim", "instrument": "composition, piano, guitar", "why": "Wrote the repertoire, and wrote it with a harmonic sophistication that made it durable jazz material." },
+      { "name": "Stan Getz", "instrument": "tenor saxophone", "why": "The American who carried it to a mass audience, with a tone light enough not to crush the material." },
+      { "name": "Hermeto Pascoal", "instrument": "multi-instrumentalist, composition", "why": "The Brazilian tradition at its most unrestrained — folk forms, free improvisation, and sounds made from anything at hand." },
+      { "name": "Airto Moreira", "instrument": "percussion", "why": "Brought Brazilian percussion into American fusion, appearing on Bitches Brew and with Weather Report and Return to Forever." },
+      { "name": "Egberto Gismonti", "instrument": "guitar, piano, composition", "why": "Combined Brazilian folk material, classical technique and improvisation, mostly through ECM." }
+    ],
+    "keyLabels": ["Odeon", "Elenco", "Verve", "ECM", "Milestone"],
+    "contested": "Whether bossa nova is jazz at all. In Brazil it is classified as popular song, and Brazilian musicians often find the American framing of it as a jazz style distorting. Its 1960s American reception also flattened a sharply defined art movement into background music, a reading that Brazilian critics have pushed back on for sixty years.",
+    "confidence": "high"
+  },
+  {
+    "id": "ethio-jazz",
+    "name": "Ethio-Jazz",
+    "aka": ["Ethiopian jazz", "Ethio-groove"],
+    "family": "global",
+    "era": { "start": 1966, "peak": [1969, 1978], "end": null },
+    "origin": { "city": "Addis Ababa", "country": "Ethiopia" },
+    "oneLine": "Ethiopian five-note modes and jazz-funk instrumentation, producing a sound that seems to be in a minor key and a major key at once.",
+    "summary": "Ethiopian traditional music uses a system of pentatonic modes called qignit, of which four are common — tizita, bati, ambassel and anchihoye. They are five-note scales with wide intervals, and to ears trained on Western music they sound simultaneously mournful and unresolved. Mulatu Astatke, who studied in London and at Berklee in Boston and had absorbed Latin jazz along the way, put those modes over jazz and funk instrumentation — vibraphone, electric bass, organ, horn sections, congas — and called the result Ethio-jazz. The rhythmic feel is its own thing: a loping, slightly dragging groove often in 6/8 or a swung 4, quite unlike either American funk or Cuban clave. The music flourished under Haile Selassie's later years, then was largely shut down by the Derg regime's curfews and nationalisation of the record industry after 1974. It was rediscovered internationally through the Éthiopiques reissue series, launched in 1997 by Francis Falceto on Buda Musique, and Jim Jarmusch's use of Astatke's music in Broken Flowers in 2005.",
+    "musicalTraits": {
+      "harmony": "Built on pentatonic qignit modes rather than functional harmony. Chords are often ambiguous or drone-like, supporting the mode rather than moving through changes.",
+      "rhythm": "Loping and slightly behind, frequently in compound meters. Neither swing nor clave — the feel derives from Ethiopian dance rhythms like the chik chika.",
+      "form": "Short repeating structures with extended vamps for solos; horn riffs stated and restated rather than developed.",
+      "instrumentation": "Vibraphone (Astatke's signature), electric organ, electric bass, horn section, congas and kit; sometimes the traditional krar and masenqo.",
+      "improvisation": "Modal soloing within the qignit, often quite short. The groove and the mode, rather than solo display, carry the music.",
+      "timbre": "Warm, slightly murky analogue recording; vibraphone and Farfisa-style organ against a reedy horn section."
+    },
+    "earMarkers": [
+      "A five-note scale with big gaps in it that sounds neither major nor minor",
+      "Vibraphone playing lead lines over an electric bass groove",
+      "A groove that drags slightly behind the beat rather than pushing",
+      "Horn riffs that repeat without developing, hypnotically",
+      "Organ tones that sound closer to 1960s garage rock than to jazz"
+    ],
+    "keyFigures": [
+      { "name": "Mulatu Astatke", "instrument": "vibraphone, percussion, arranging", "why": "Named and defined the style; the only person who deliberately set out to fuse Ethiopian modes with jazz as a project." },
+      { "name": "Girma Bèyènè", "instrument": "piano, arranging, voice", "why": "Arranger on much of the Addis golden-age catalogue and a distinctive singer in his own right." },
+      { "name": "Mahmoud Ahmed", "instrument": "voice", "why": "The great vocalist of the era; his Erè Mèla Mèla was the record that broke Ethiopian music in Europe in the mid-1980s." },
+      { "name": "Getatchew Mekurya", "instrument": "tenor saxophone", "why": "Adapted the shellela, a sung Ethiopian war chant, to saxophone, arriving at something that sounds like free jazz by a completely different route." },
+      { "name": "Hailu Mergia", "instrument": "keyboards, accordion", "why": "Led the Walias Band, then spent decades driving a taxi in Washington DC before his rediscovery." }
+    ],
+    "keyLabels": ["Amha Records", "Kaifa Records", "Philips-Ethiopia", "Buda Musique (Éthiopiques)", "Awesome Tapes From Africa"],
+    "contested": "Whether Ethio-jazz names a genre or one man's project. Astatke coined the term for his own music, and much of what gets filed under it — Mahmoud Ahmed's vocal records, the Walias Band's instrumentals — is Ethiopian popular music with horns rather than a jazz-derived fusion. The Éthiopiques series bundled all of it together for a European audience.",
+    "confidence": "medium"
+  },
+  {
+    "id": "j-jazz",
+    "name": "J-Jazz",
+    "aka": ["Japanese jazz", "Deep modern jazz from Japan"],
+    "family": "global",
+    "era": { "start": 1961, "peak": [1969, 1984], "end": null },
+    "origin": { "city": "Tokyo", "country": "Japan" },
+    "oneLine": "Japanese players taking modal and spiritual jazz somewhere harder, denser and more audiophile-recorded than anyone in America was.",
+    "summary": "Japan had a jazz scene from the 1920s, but the thing worth hearing starts in the late 1960s, when a generation of players stopped copying American records and started producing something with its own weight. The reference points are Coltrane's quartet, Blue Note post-bop and free jazz, but the results are distinct: harder-edged, often darker, with a taste for extended modal vamps, unusual instrumentation, and a physical intensity in the playing. Yosuke Yamashita's trio played free jazz with the violence of a rock band. Masabumi Kikuchi and Terumasa Hino went deep into electric fusion. Masahiko Togashi built a percussion language after a spinal injury left him unable to use his legs. Traditional Japanese instruments and materials appear — shakuhachi, koto, folk melodies — but usually as structure rather than decoration. Crucially, the independent labels, above all Three Blind Mice, founded in 1970 by Takeshi Fujii with the explicit ambition of being 'the Blue Note of Japan', recorded the music with extraordinary audio quality, which is part of why the reissue market went so hard for it after the BBE compilations from 2018 onward.",
+    "musicalTraits": {
+      "harmony": "Modal and post-bop derived, with a marked preference for minor modes, quartal voicings and long static vamps.",
+      "rhythm": "Often heavier and more insistent than American models; rock and funk backbeats appear alongside free time and traditional Japanese metrical ideas.",
+      "form": "Extended pieces, frequently side-long, with slow builds from near-silence to collective intensity.",
+      "instrumentation": "Standard jazz groups plus electric keyboards, and occasionally shakuhachi, koto, biwa or taiko.",
+      "improvisation": "Physical and sustained. The free wing plays at very high energy; the modal wing favours long, patient development.",
+      "timbre": "Exceptional recording quality — Three Blind Mice and Nippon Columbia's engineers captured bass and drums with unusual depth and dynamic range."
+    },
+    "earMarkers": [
+      "Modal vamps held far longer than an American record of the same period would",
+      "Bass and drums recorded with startling clarity and presence",
+      "Piano attacked percussively, sometimes almost violently",
+      "Traditional Japanese instruments used structurally rather than as exotic colour",
+      "Long slow builds from near-silence to full intensity across ten minutes or more"
+    ],
+    "keyFigures": [
+      { "name": "Terumasa Hino", "instrument": "trumpet", "why": "The most internationally visible Japanese jazz musician of the era; moved from hard bop through free to electric fusion." },
+      { "name": "Yosuke Yamashita", "instrument": "piano", "why": "His drummerless-free trio played with a physical ferocity that made European free-jazz audiences take Japan seriously in the 1970s." },
+      { "name": "Masabumi Kikuchi", "instrument": "piano", "why": "Moved between Gil Evans' orchestra, electric fusion and, much later, an extremely spare ECM trio; one of the most restless careers in the music." },
+      { "name": "Masahiko Togashi", "instrument": "percussion", "why": "Rebuilt his entire approach to the kit after a 1969 injury, producing a uniquely spacious percussion language." },
+      { "name": "Sadao Watanabe", "instrument": "alto saxophone, flute", "why": "Studied at Berklee and returned to teach; the central populariser and educator of the Japanese scene." },
+      { "name": "Toshiko Akiyoshi", "instrument": "piano, composition, bandleading", "why": "The first Japanese musician to break through in the US, and a major big-band composer who wrote Japanese material into the idiom." }
+    ],
+    "keyLabels": ["Three Blind Mice", "Nippon Columbia", "Victor Japan", "Nippon Phonogram/Philips", "BBE (reissues)"],
+    "contested": "Whether 'J-jazz' is a genre or a nationality with a reissue market attached. The term was popularised by European compilers in the 2010s rather than by Japanese musicians, and it lumps free jazz, spiritual jazz, fusion and hard bop together on the basis of geography. This guide keeps it because the scene had its own labels, its own recording aesthetic and a distinct set of shared reference points — but the objection is fair.",
+    "confidence": "medium"
+  },
+  {
+    "id": "euro-free-improv",
+    "name": "European Free Improvisation",
+    "aka": ["Free improv", "Non-idiomatic improvisation", "Echtzeitmusik (later)"],
+    "family": "avant",
+    "era": { "start": 1965, "peak": [1968, 1985], "end": null },
+    "origin": { "city": "London / Amsterdam / Wuppertal", "country": "UK / Netherlands / Germany" },
+    "oneLine": "Improvisation that cut its ties to jazz entirely — no tunes, no pulse, no blues, no American vocabulary.",
+    "summary": "American free jazz kept a great deal: a rhythmic pulse most of the time, a blues sensibility, the sound of the saxophone as a voice, and often a head to start from. European improvisers in the mid-1960s decided to cut all of it. Derek Bailey called the result 'non-idiomatic improvisation' and meant it as a technical description — music that deliberately avoids belonging to any style, including free jazz. In practice that means extended techniques, extreme dynamic range, silence used structurally, and a rejection of anything that would let a listener predict the next event. The scenes were national and distinct: London around the Spontaneous Music Ensemble, Bailey, Evan Parker and the Incus label, favouring quiet, fast, detailed interaction; Amsterdam around Misha Mengelberg, Han Bennink and the Instant Composers Pool, full of theatre, absurdity and sudden collapses into Monk tunes; Wuppertal and Berlin around Peter Brötzmann, at maximum volume and maximum density. Politics were explicit — several of these musicians framed the work as a rejection of American cultural dominance and of the market itself, and set up their own labels to prove it.",
+    "musicalTraits": {
+      "harmony": "None in any functional sense. Pitch is used as texture and colour; consonance appears as one option among many, never as a resting place.",
+      "rhythm": "No steady pulse. Rhythm exists as gesture, density and interruption. When a groove appears it is usually a joke or a quotation.",
+      "form": "Real-time and emergent. Pieces begin and end when the players decide; recordings are often single unbroken improvisations.",
+      "instrumentation": "Anything. Prepared and amplified instruments, homemade devices, objects, voice. Bailey used amplification and volume pedals as compositional tools.",
+      "improvisation": "The entire content. Listening and response operate on a very fast timescale, closer to conversation than to soloing.",
+      "timbre": "The primary parameter. Multiphonics, circular breathing, scraped strings, feedback, near-inaudible sounds next to sudden violence."
+    },
+    "earMarkers": [
+      "No steady beat anywhere, and no melody that repeats",
+      "Instruments making sounds you can't identify — scrapes, squeaks, air, feedback",
+      "Long silences used as part of the music, not as mistakes",
+      "Volume that jumps from almost nothing to overwhelming without warning",
+      "Players reacting to each other within a fraction of a second, like fast conversation"
+    ],
+    "keyFigures": [
+      { "name": "Derek Bailey", "instrument": "guitar", "why": "Theorised and practised non-idiomatic improvisation more rigorously than anyone; also wrote the movement's key book." },
+      { "name": "Evan Parker", "instrument": "soprano and tenor saxophone", "why": "Developed a circular-breathing, multiphonic solo soprano language that has no antecedent in jazz saxophone." },
+      { "name": "Peter Brötzmann", "instrument": "reeds", "why": "The German wing's ferocity in one player; Machine Gun in 1968 remains a hard line in the sand." },
+      { "name": "Han Bennink", "instrument": "drums, percussion", "why": "Brought physical comedy and total unpredictability to the kit, and played anything in the room as an instrument." },
+      { "name": "Misha Mengelberg", "instrument": "piano, composition", "why": "Ran the Dutch scene's mix of rigour and absurdism, and kept Monk and Herbie Nichols alive inside free improvisation." },
+      { "name": "John Stevens", "instrument": "drums", "why": "The Spontaneous Music Ensemble's organiser, whose 'insect music' aesthetic prioritised listening over projection." }
+    ],
+    "keyLabels": ["Incus", "FMP", "ICP", "Emanem", "Ogun"],
+    "contested": "Whether it belongs in a jazz lineage at all. Bailey argued explicitly that free improvisation is not a jazz style, and many practitioners reject the connection. The counter-argument is genealogical rather than musical: nearly all the first generation came out of playing jazz, and the break only makes sense in relation to what it broke from.",
+    "confidence": "high"
+  },
+  {
+    "id": "free-jazz",
+    "name": "Free Jazz",
+    "aka": ["The New Thing", "Energy music"],
+    "family": "avant",
+    "era": { "start": 1959, "peak": [1960, 1969], "end": null },
+    "origin": { "city": "New York / Los Angeles", "country": "USA" },
+    "oneLine": "Jazz that abandoned the chord changes, and then, in some hands, the beat and the form as well.",
+    "summary": "The chord sequence had been the container for jazz improvisation for forty years. Free jazz threw it out. Ornette Coleman's quartet — no piano, so nothing stating harmony — played tunes with clear melodies and then improvised on the melodic and emotional content rather than a fixed harmonic grid, keeping a pulse. Cecil Taylor came from the other side, with a percussive, dense, atonal piano attack rooted in twentieth-century composition as much as in jazz. Albert Ayler kept marches, folk melodies and hymns as raw material, then obliterated them with a huge shuddering tone and mass collective improvisation. Coltrane arrived in 1965 with Ascension and took his audience with him. Common features: no pre-set changes, frequently no fixed meter, collective rather than sequential improvisation, and an expanded idea of acceptable sound — squeals, overtones, screams. The reception was hostile in a way that is hard to overstate; musicians lost work over it. The politics were inseparable, running alongside the civil rights and Black Power movements, and several key figures framed the music explicitly in those terms.",
+    "musicalTraits": {
+      "harmony": "No pre-agreed progression. Pitch centres emerge and dissolve; players may follow a melodic contour or a mood rather than a key.",
+      "rhythm": "Pulse is optional. Ornette's groups mostly keep one; Taylor and Ayler's often abandon meter entirely for waves of density.",
+      "form": "Frequently a stated theme, then open collective improvisation, then a return. Duration is determined by the performance, not the form.",
+      "instrumentation": "Often piano-less, so no instrument is fixing the harmony. Double bassists sometimes doubled; two drummers appear regularly.",
+      "improvisation": "Simultaneous and collective. Everyone can lead at once; the New Orleans front line comes back in radically altered form.",
+      "timbre": "Enormously expanded — overblowing, altissimo screams, split tones, vocalised cries. Sound as expression, not as tone production."
+    },
+    "earMarkers": [
+      "No repeating chord pattern to follow — the harmony never comes around",
+      "Several players soloing at once instead of taking turns",
+      "Saxophones screaming, honking and producing more than one note at a time",
+      "The beat disappearing entirely for long stretches",
+      "A clear, almost naive melody at the start and end of something otherwise chaotic"
+    ],
+    "keyFigures": [
+      { "name": "Ornette Coleman", "instrument": "alto saxophone, composition", "why": "Removed the chord changes while keeping melody and pulse; his 1959–61 Atlantic records are the founding statement." },
+      { "name": "Cecil Taylor", "instrument": "piano", "why": "Built a percussive, atonal, physically overwhelming piano language from a different starting point than Coleman's." },
+      { "name": "Albert Ayler", "instrument": "tenor saxophone", "why": "Used hymns, marches and folk tunes as launch material and a vast vibrato-drenched tone; the most emotionally extreme voice in the music." },
+      { "name": "John Coltrane", "instrument": "tenor saxophone", "why": "His move into free playing after 1965 gave the style credibility and an audience it could not otherwise have reached." },
+      { "name": "Sun Ra", "instrument": "piano, keyboards, composition", "why": "Ran the Arkestra from the mid-1950s with a mix of big-band writing, electronics, free improvisation and cosmology all at once." },
+      { "name": "Archie Shepp", "instrument": "tenor saxophone", "why": "Tied the music explicitly to Black political struggle in his writing and speech as well as his playing." }
+    ],
+    "keyLabels": ["Atlantic", "ESP-Disk", "Impulse!", "Blue Note", "BYG Actuel"],
+    "contested": "Whether 'free jazz' is one thing. Ornette Coleman's melodic, pulse-keeping music and Cecil Taylor's atonal density have almost nothing in common technically, and Coleman himself disliked the term. 'The New Thing' was the period label; 'energy music' names only one wing of it.",
+    "confidence": "high"
+  },
+  {
+    "id": "aacm-avant",
+    "name": "AACM & Great Black Music",
+    "aka": ["Chicago avant-garde", "Creative music", "BAG (St. Louis)"],
+    "family": "avant",
+    "era": { "start": 1965, "peak": [1969, 1985], "end": null },
+    "origin": { "city": "Chicago", "country": "USA" },
+    "oneLine": "Free jazz that got organised — a musicians' collective that added composition, silence, theatre and a hundred small instruments.",
+    "summary": "The Association for the Advancement of Creative Musicians was founded in Chicago in 1965 by Muhal Richard Abrams and others as a self-governing organisation: members ran their own concerts, taught a free music school, and refused to depend on club owners or record companies. That structure produced a music distinct from New York free jazz. Where the New York scene favoured continuous high-energy blowing, the AACM built pieces with composed sections, extreme dynamic contrast, and long stretches of near-silence. The Art Ensemble of Chicago's slogan, 'Great Black Music, Ancient to the Future', announces the scope: field hollers, marches, bebop, free improvisation and African percussion inside a single performance, often in face paint and costume, with theatre as an explicit element. 'Little instruments' — bells, whistles, gongs, toys, bicycle horns, anything — became a signature, and members routinely play four or five instruments each. Anthony Braxton took the compositional side furthest, into diagrammatically titled works and multi-orchestra pieces. A parallel collective, BAG, formed in St. Louis in 1968, and both fed the New York loft scene in the 1970s.",
+    "musicalTraits": {
+      "harmony": "Ranges from fully atonal to plain diatonic depending on the section. Harmony is a compositional choice made per passage, not a governing system.",
+      "rhythm": "Anything from strict written meter to free time to processional march. Silence is treated as a rhythmic value.",
+      "form": "Composed multi-section works, graphic and verbal scores, and structures that allocate freedom differently in each part.",
+      "instrumentation": "Multi-instrumentalism as standard, plus a percussion battery of small instruments. Contrabass clarinet, sopranino saxophone, bassoon and non-Western instruments all appear.",
+      "improvisation": "Inside a designed frame. The question is usually 'what kind of freedom does this section have', not 'is this free'.",
+      "timbre": "Extreme range and extreme contrast — a bicycle horn next to a bass saxophone next to four minutes of almost nothing."
+    },
+    "earMarkers": [
+      "Very long quiet passages where almost nothing happens, then sudden density",
+      "Bells, whistles, gongs and toys used as seriously as the horns",
+      "One player switching between four or five instruments within a piece",
+      "Abrupt swerves between styles — a march, then chaos, then a bebop line",
+      "Composed written sections that clearly aren't improvised"
+    ],
+    "keyFigures": [
+      { "name": "Muhal Richard Abrams", "instrument": "piano, composition", "why": "Co-founded the AACM and ran the Experimental Band that trained most of its first generation." },
+      { "name": "Roscoe Mitchell", "instrument": "saxophones", "why": "Sound in 1966 is the first AACM record and one of the first jazz records to use silence as a structural material." },
+      { "name": "Anthony Braxton", "instrument": "reeds, composition", "why": "Built the largest and most systematic compositional apparatus in the music, while also playing standards and solo saxophone." },
+      { "name": "Art Ensemble of Chicago", "instrument": "collective", "why": "The style's public face: theatre, costume, little instruments, and a repertoire spanning the whole history of Black music." },
+      { "name": "Henry Threadgill", "instrument": "saxophones, flute, composition", "why": "Wrote for unusual fixed instrumentations — tuba and cello ensembles, two guitars, two tubas — with a compositional rigour that won a Pulitzer in 2016." },
+      { "name": "Julius Hemphill", "instrument": "alto saxophone, composition", "why": "The central figure of St. Louis's BAG and founder of the World Saxophone Quartet." }
+    ],
+    "keyLabels": ["Delmark", "Nessa", "BYG Actuel", "ECM", "Black Saint/Soul Note", "Arista Freedom"],
+    "contested": "Whether the AACM constitutes a genre or an institution whose members made very different music. Braxton, Threadgill and the Art Ensemble share an approach to structure and self-organisation more than a sound. 'Great Black Music' is the Art Ensemble's own framing and is broader than any style label.",
+    "confidence": "high"
+  },
+  {
+    "id": "spiritual-jazz",
+    "name": "Spiritual Jazz",
+    "aka": ["Astral jazz", "Cosmic jazz", "Devotional jazz"],
+    "family": "avant",
+    "era": { "start": 1964, "peak": [1969, 1977], "end": null },
+    "origin": { "city": "New York / Detroit / Los Angeles", "country": "USA" },
+    "oneLine": "Modal jazz aimed at transcendence — drones, chanting, harps, and long ecstatic builds that function as devotion.",
+    "summary": "A Love Supreme in 1965 established the template: a suite structured as a religious offering, with a chanted mantra, a bass ostinato functioning as a drone, and a build to ecstatic release. What follows takes those elements and adds the instruments and modes of Indian, African and Middle Eastern devotional music — tanpura drones, harp, sitar, hand percussion, bells, kalimba, voices chanting in unison. Alice Coltrane brought the harp and Hindu devotional practice; Pharoah Sanders combined near-nursery-rhyme melodies with tenor playing at the edge of what the horn can produce; Sun Ra was already there by a different route. Detroit's Tribe collective and Strata-East in New York provided the institutional base — artist-run labels making records that no major would touch, which is also why originals are so scarce and so expensive. The category is largely retrospective: it was assembled by DJs, reissue compilers and record collectors from the 1990s onward, and the musicians themselves generally just said they were playing jazz. That does not make it unreal, but it is worth knowing.",
+    "musicalTraits": {
+      "harmony": "Modal and drone-based. Long pedal points, pentatonic and Eastern-derived modes, and simple two-chord frames that can be sustained indefinitely.",
+      "rhythm": "Ostinato-driven, often in 6/8 or 3/4, with hand percussion layered over the kit. Tempo is usually stable but not the focus.",
+      "form": "Suites and long-form pieces with distinct movements; a common shape is calm statement, escalation to collective intensity, and return.",
+      "instrumentation": "Saxophones and piano plus harp, tanpura, sitar, oud, bells, shakers, kalimba, choral voices, and occasionally strings.",
+      "improvisation": "Long, cumulative and intensity-driven rather than harmonically navigational; overblowing and multiphonics used as devotional expression.",
+      "timbre": "Reverb-heavy, wide, with drones underneath. The harp and bells give the style its distinctive shimmer."
+    },
+    "earMarkers": [
+      "A drone or repeated bass figure that holds under the whole piece",
+      "Voices chanting a short phrase over and over",
+      "Harp, bells, or hand percussion where you would expect a piano",
+      "Saxophone playing that goes from gentle melody to screaming and back",
+      "Pieces built as slow builds over ten or fifteen minutes, structured like a rite"
+    ],
+    "keyFigures": [
+      { "name": "John Coltrane", "instrument": "tenor and soprano saxophone", "why": "A Love Supreme gave the idiom its structure, its intent and its permission." },
+      { "name": "Alice Coltrane", "instrument": "harp, piano, organ, composition", "why": "Brought the harp, Hindu devotional practice and string orchestration into jazz and made a body of work nobody has matched." },
+      { "name": "Pharoah Sanders", "instrument": "tenor saxophone", "why": "Paired simple, almost childlike melodies with extreme overblowing — the style's characteristic contrast in a single player." },
+      { "name": "Sun Ra", "instrument": "keyboards, composition", "why": "Was doing cosmology, robes and collective ritual a decade before the term existed." },
+      { "name": "Don Cherry", "instrument": "trumpet, multi-instrumentalist", "why": "Took the impulse global — Turkish, Indian, Malian and Scandinavian folk material inside an improvising frame." },
+      { "name": "Doug Carn", "instrument": "organ, composition", "why": "With vocalist Jean Carn, made the most song-based version of the style for Black Jazz Records." }
+    ],
+    "keyLabels": ["Impulse!", "Strata-East", "Black Jazz", "Tribe", "Flying Dutchman", "Soul Jazz / Jazzman (reissues)"],
+    "contested": "Whether it is a genre at all. The term was constructed retrospectively by compilers and collectors, largely from the 1990s onward, and the musicians described by it saw themselves as playing modal or free jazz with religious intent. Reading it as a genre risks flattening Alice Coltrane's Vedantic practice, Sanders' Islam and the Detroit collectives' Black nationalism into one aesthetic mood.",
+    "confidence": "medium"
+  },
+  {
+    "id": "loft-jazz",
+    "name": "Loft Jazz",
+    "aka": ["New York loft scene", "The Wildflowers generation"],
+    "family": "avant",
+    "era": { "start": 1970, "peak": [1975, 1979], "end": 1982 },
+    "origin": { "city": "New York (SoHo / NoHo / Lower East Side)", "country": "USA" },
+    "oneLine": "The second generation of the avant-garde, playing in their own apartments because no club would book them.",
+    "summary": "By the early 1970s the New York jazz club economy had collapsed for anyone playing anything challenging, and Manhattan was full of cheap industrial loft space. Musicians rented lofts, lived in them, and put on concerts in them. Sam Rivers and Beatrice Rivers ran Studio Rivbea on Bond Street from 1970 until around 1980; Rashied Ali ran Ali's Alley; there was also Environ, the Ladies' Fort and Studio We. What resulted was less a style than a scene with a shared condition: no owner taking a cut, no set length, no drinks minimum, an audience that came specifically for this. The music sat between free jazz and composition — the AACM and BAG diaspora had arrived from Chicago and St. Louis, and their compositional discipline mixed with New York energy playing. Duos and unusual small formats flourished because they were cheap. The five-LP Wildflowers set, recorded at Studio Rivbea over ten days in May 1976, is the scene's document. Gentrification ended it: the same loft space that had been affordable in 1972 was not by 1982.",
+    "musicalTraits": {
+      "harmony": "Wide open — freely atonal, modal, and occasionally straightforwardly tonal within one set. No single harmonic system.",
+      "rhythm": "Free time predominates, but the second generation reintroduced grooves, ostinatos and explicit metric structures more readily than the 1960s players.",
+      "form": "Composed frames around free sections. Duo and trio formats where structure has to be negotiated live.",
+      "instrumentation": "Saxophone-heavy, with the all-saxophone ensemble emerging here. Cello, tuba, bass clarinet and multiple percussionists are common.",
+      "improvisation": "Collective, long-form and highly interactive, typically in small groups where every player is audible at all times.",
+      "timbre": "Dry, close, unglamorous — most of these recordings were made in the rooms themselves, and the acoustics are part of the document."
+    },
+    "earMarkers": [
+      "Recordings that sound like a room, not a studio — you can hear the space and the audience",
+      "Unusual small line-ups: two saxophones and nothing else, or saxophone and drums alone",
+      "Written composed sections bracketing long free improvisations",
+      "Grooves and repeated figures returning, which 1960s free jazz mostly avoided",
+      "Sets that clearly ran as long as the musicians wanted"
+    ],
+    "keyFigures": [
+      { "name": "Sam Rivers", "instrument": "tenor and soprano saxophone, flute, piano", "why": "Ran Studio Rivbea, the scene's centre, and played long-form free music with unusual structural clarity." },
+      { "name": "David Murray", "instrument": "tenor saxophone, bass clarinet", "why": "Arrived from California as a very young man and became the scene's most prolific figure; his tone reaches back to Ayler and Hawkins at once." },
+      { "name": "Julius Hemphill", "instrument": "alto saxophone, composition", "why": "Brought BAG's compositional approach from St. Louis and formed the World Saxophone Quartet out of the scene." },
+      { "name": "Anthony Braxton", "instrument": "reeds, composition", "why": "A constant presence, bringing AACM structural thinking into the New York environment." },
+      { "name": "Rashied Ali", "instrument": "drums", "why": "Coltrane's last drummer, who ran Ali's Alley and issued the scene's records on his own Survival label." },
+      { "name": "Oliver Lake", "instrument": "alto saxophone, composition", "why": "BAG co-founder and WSQ member; among the scene's most consistent composer-bandleaders." }
+    ],
+    "keyLabels": ["Douglas", "India Navigation", "Black Saint/Soul Note", "Survival", "hatHUT"],
+    "contested": "Whether loft jazz is a style or a real-estate situation. Critics at the time used it as a catch-all for New York avant-garde music in the 1970s, and the musicians involved played very differently from each other. This guide treats it as a scene-genre — defined by its conditions of production, which genuinely shaped the music that came out.",
+    "confidence": "medium"
+  }
+]

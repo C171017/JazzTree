@@ -1,0 +1,620 @@
+[
+  {
+    "from": "ragtime", "to": "new-orleans", "type": "direct-descendant", "year": 1905,
+    "aspects": ["repertoire", "form", "rhythm"],
+    "explanation": "Rags were standard New Orleans band repertoire, and the multi-strain march form came across intact — a lot of early jazz is a rag played by a band. What changed is that the printed notes stopped being binding: players began paraphrasing the strains, and blues inflection entered a music that had none. Jelly Roll Morton's Red Hot Peppers sides are rag architecture with improvisation and blues poured into it.",
+    "hingeAlbum": "birth-of-the-hot-morton", "strength": "strong"
+  },
+  {
+    "from": "ragtime", "to": "stride", "type": "direct-descendant", "year": 1919,
+    "aspects": ["form", "rhythm", "instrumentation"],
+    "explanation": "Stride is ragtime's alternating bass with the metronome removed. The left-hand mechanism is inherited almost unchanged; what the Harlem players added was swung eighth notes, blues harmony, right-hand improvisation, and a competitive tempo escalation that had no place in Joplin's instruction to never play fast.",
+    "hingeAlbum": "james-p-johnson-carolina-shout", "strength": "strong"
+  },
+  {
+    "from": "new-orleans", "to": "chicago-jazz", "type": "direct-descendant", "year": 1924,
+    "aspects": ["instrumentation", "form", "improvisation"],
+    "explanation": "Young Chicagoans learned the New Orleans front line off King Oliver and Armstrong records and then reweighted it. The collective texture thinned, the saxophone pushed in, tempos rose, and the individual solo chorus began displacing the group weave — the change that makes the swing small group possible.",
+    "hingeAlbum": "louis-armstrong-hot-fives-sevens", "strength": "strong"
+  },
+  {
+    "from": "new-orleans", "to": "swing", "type": "direct-descendant", "year": 1930,
+    "aspects": ["repertoire", "instrumentation", "rhythm"],
+    "explanation": "The big band took the New Orleans front line's division of labour and multiplied it into sections: what one clarinet did against one cornet, five reeds now do against four trumpets. Fletcher Henderson's charts are the translation step, turning improvised counterpoint into written call-and-response.",
+    "hingeAlbum": "fletcher-henderson-a-study-in-frustration", "strength": "strong"
+  },
+  {
+    "from": "new-orleans", "to": "vocal-jazz", "type": "direct-descendant", "year": 1928,
+    "aspects": ["improvisation", "timbre", "repertoire"],
+    "explanation": "Armstrong established that a jazz singer phrases like a horn player — displacing the beat, bending pitch, treating the written melody as a suggestion — and popularised scat as an extension of that. Every jazz singer after him is working from this premise whether or not they scat.",
+    "hingeAlbum": "louis-armstrong-hot-fives-sevens", "strength": "strong"
+  },
+  {
+    "from": "new-orleans", "to": "kansas-city", "type": "direct-descendant", "year": 1928,
+    "aspects": ["instrumentation", "repertoire"],
+    "explanation": "The territory bands working the Midwest carried the New Orleans repertoire and instrumentation outward, but the KC scene reweighted it toward blues form and riff construction, which the New Orleans model used far less.",
+    "strength": "moderate"
+  },
+  {
+    "from": "stride", "to": "swing", "type": "direct-descendant", "year": 1932,
+    "aspects": ["harmony", "rhythm"],
+    "explanation": "Ellington learned directly from Willie 'The Lion' Smith and James P. Johnson, and the harmonic richness of his orchestral writing comes out of stride's keyboard voicings scaled up to a horn section. The stride left hand is also what the swing rhythm section replaced — the bass and guitar took over the job one hand had been doing.",
+    "strength": "moderate"
+  },
+  {
+    "from": "chicago-jazz", "to": "swing", "type": "direct-descendant", "year": 1932,
+    "aspects": ["rhythm", "improvisation"],
+    "explanation": "Chicago's shift from a two-beat march feel toward an even four, and its promotion of the individual solo over collective improvisation, are the two things swing then standardised. Gene Krupa carried the Chicago drive straight into Benny Goodman's band.",
+    "strength": "moderate"
+  },
+  {
+    "from": "kansas-city", "to": "swing", "type": "parallel-influence", "year": 1936,
+    "aspects": ["rhythm", "form"],
+    "explanation": "The Basie rhythm section arrived in New York in 1936 and changed the era's feel from underneath: even four-to-the-bar, timekeeping moved to the hi-hat and ride, bass drum reserved for accents, and enormous space. Every swing band adjusted. Riff-based head arrangements spread the same way.",
+    "hingeAlbum": "count-basie-original-decca", "strength": "strong"
+  },
+  {
+    "from": "swing", "to": "vocal-jazz", "type": "direct-descendant", "year": 1935,
+    "aspects": ["repertoire", "instrumentation", "form"],
+    "explanation": "The big band vocalist slot gave singers a professional route and fixed the repertoire as the popular songbook. Holiday's small-group sides for Teddy Wilson are the version where the singer is a soloist among soloists rather than a feature act.",
+    "hingeAlbum": "billie-holiday-quintessential-vol3", "strength": "strong"
+  },
+  {
+    "from": "swing", "to": "manouche", "type": "direct-descendant", "year": 1934,
+    "aspects": ["repertoire", "harmony", "rhythm"],
+    "explanation": "Django and Grappelli took the American swing repertoire and its harmony wholesale, then rebuilt the rhythm section without drums, piano or horns. The other parent is not on this map: Romani string-band practice and Parisian musette, which supply the ornamentation, the minor-key chromaticism and the fingered vibrato.",
+    "hingeAlbum": "django-quintette-hot-club-1936", "strength": "strong"
+  },
+  {
+    "from": "swing", "to": "bebop", "type": "reaction-against", "year": 1944,
+    "aspects": ["form", "instrumentation", "social-context"],
+    "explanation": "Bebop kept swing's harmony and rhythmic base and rejected almost everything else: the big band, the written arrangement, the dance floor, the entertainment function, and the economics that put Black musicians in front of white audiences as employees. The small group playing at tempos nobody could dance to was a position, not just a sound.",
+    "hingeAlbum": "charlie-parker-savoy-dial", "strength": "strong"
+  },
+  {
+    "from": "kansas-city", "to": "bebop", "type": "direct-descendant", "year": 1944,
+    "aspects": ["improvisation", "rhythm", "harmony"],
+    "explanation": "Charlie Parker came out of Jay McShann's Kansas City band, and Lester Young's light tone, long asymmetric phrases and behind-the-beat placement are the direct model for bebop line construction. The KC jam-session culture — many choruses, blues form, cutting contests — is bebop's working method before bebop existed.",
+    "hingeAlbum": "lester-young-kansas-city-sessions", "strength": "strong"
+  },
+  {
+    "from": "stride", "to": "bebop", "type": "direct-descendant", "year": 1945,
+    "aspects": ["harmony", "instrumentation"],
+    "explanation": "Bud Powell's right hand is Parker's line and his left hand is stride's, stripped to sparse rootless punctuation. The route runs through Art Tatum, whose substitutions and passing harmony gave the bebop generation most of its reharmonisation vocabulary.",
+    "strength": "moderate"
+  },
+  {
+    "from": "bebop", "to": "vocal-jazz", "type": "direct-descendant", "year": 1946,
+    "aspects": ["harmony", "improvisation"],
+    "explanation": "Sarah Vaughan and Eddie Jefferson brought bebop harmony and phrasing into singing, and vocalese — writing lyrics to a recorded improvised solo and singing it — makes the debt literal. Vaughan sang with Earl Hines and Billy Eckstine's bands alongside Parker and Gillespie.",
+    "strength": "moderate"
+  },
+  {
+    "from": "swing", "to": "afro-cuban", "type": "fusion-of", "year": 1943,
+    "aspects": ["instrumentation", "form"],
+    "explanation": "Machito's Afro-Cubans, with Mario Bauzá as musical director, put a full jazz horn section and big-band arranging over a Cuban rhythm section. The orchestration is American; the rhythmic organisation underneath is entirely Cuban, and the two do not blend so much as coexist under tension.",
+    "hingeAlbum": "machito-afro-cuban-jazz-suite", "strength": "strong"
+  },
+  {
+    "from": "bebop", "to": "afro-cuban", "type": "fusion-of", "year": 1947,
+    "aspects": ["harmony", "improvisation", "rhythm"],
+    "explanation": "Gillespie hired Chano Pozo in 1947 and 'Manteca' and 'Cubana Be, Cubana Bop' followed within months. Bebop supplied the harmonic language and the soloing; Pozo supplied clave, the tumbao and drum patterns carried from Afro-Cuban religious practice. The swing lilt is what got discarded — the eighth notes go straight.",
+    "hingeAlbum": "dizzy-gillespie-complete-rca-victor", "strength": "strong"
+  },
+  {
+    "from": "bebop", "to": "cool-jazz", "type": "reaction-against", "year": 1949,
+    "aspects": ["timbre", "rhythm", "form"],
+    "explanation": "The Miles Davis nonet kept bebop's harmony and threw out its heat: soft attack, no vibrato, medium tempos, and written contrapuntal arrangement where bebop had head-and-blow. Gil Evans' charts restore the arranger to the centre of a music that had just deposed him.",
+    "hingeAlbum": "birth-of-the-cool", "strength": "strong"
+  },
+  {
+    "from": "kansas-city", "to": "cool-jazz", "type": "direct-descendant", "year": 1949,
+    "aspects": ["timbre", "improvisation"],
+    "explanation": "Lester Young's dry, vibratoless tenor and unhurried melodic placement is what 'cool' names as a sound. Lee Konitz and Stan Getz descend from Young rather than from Parker, which is why they are the two major post-war saxophonists who do not sound like everyone else.",
+    "strength": "strong"
+  },
+  {
+    "from": "cool-jazz", "to": "west-coast", "type": "direct-descendant", "year": 1952,
+    "aspects": ["instrumentation", "form", "timbre"],
+    "explanation": "Mulligan and other nonet alumni moved to Los Angeles and found a studio-musician labour pool that could read anything. The piano-less quartet took the nonet's contrapuntal premise and reduced it to two horns implying the harmony between them.",
+    "hingeAlbum": "gerry-mulligan-quartet-chet-baker", "strength": "strong"
+  },
+  {
+    "from": "bebop", "to": "hard-bop", "type": "direct-descendant", "year": 1954,
+    "aspects": ["harmony", "form", "improvisation"],
+    "explanation": "Same quintet, same changes, same head–solos–head. What hard bop adds is weight and blues content: slower tempos, heavier drums, composed introductions and interludes, and heads written to be memorable rather than abstract.",
+    "hingeAlbum": "horace-silver-art-blakey-jazz-messengers-1955", "strength": "strong"
+  },
+  {
+    "from": "cool-jazz", "to": "hard-bop", "type": "reaction-against", "year": 1954,
+    "aspects": ["timbre", "rhythm", "social-context"],
+    "explanation": "Hard bop's heat is aimed at cool jazz's restraint, and the aim was partly racial and geographic: an East Coast, largely Black music positioning itself against a West Coast, largely white studio scene that the press had been treating as jazz's future. Gospel and rhythm-and-blues content was reclaimed rather than merely added.",
+    "strength": "strong"
+  },
+  {
+    "from": "cool-jazz", "to": "third-stream", "type": "direct-descendant", "year": 1957,
+    "aspects": ["form", "instrumentation", "harmony"],
+    "explanation": "The nonet's arrangers — John Lewis, Gunther Schuller, Gil Evans — are the same people who then argued for a formal marriage with concert music. Schuller played French horn on the nonet sessions before he coined 'third stream' at Brandeis in 1957.",
+    "hingeAlbum": "modern-jazz-quartet-django", "strength": "strong"
+  },
+  {
+    "from": "west-coast", "to": "third-stream", "type": "direct-descendant", "year": 1957,
+    "aspects": ["form", "instrumentation"],
+    "explanation": "The Los Angeles scene's appetite for fugue, canon and unusual instrumentation put it halfway to third stream already. Jimmy Giuffre's drumless chamber groups and Shorty Rogers' woodwind writing sit on the boundary.",
+    "strength": "moderate"
+  },
+  {
+    "from": "hard-bop", "to": "soul-jazz", "type": "direct-descendant", "year": 1956,
+    "aspects": ["rhythm", "harmony", "instrumentation"],
+    "explanation": "Soul jazz is hard bop with the gospel and R&B content promoted from flavour to structure, and the Hammond organ replacing piano and bass. Horace Silver's funky tunes are the shared ancestor both styles claim; the split happens when the backbeat and the vamp stop being devices and become the format.",
+    "hingeAlbum": "jimmy-smith-back-at-the-chicken-shack", "strength": "strong"
+  },
+  {
+    "from": "kansas-city", "to": "soul-jazz", "type": "parallel-influence", "year": 1958,
+    "aspects": ["form", "rhythm"],
+    "explanation": "The riff-over-blues construction and the long open jam are Kansas City procedures reappearing in a neighbourhood bar twenty years later. Interpretation: the organ trio's working economy — nightly, local, audience-facing — is closer to 1930s KC than to the 1950s concert circuit.",
+    "strength": "moderate"
+  },
+  {
+    "from": "bebop", "to": "modal", "type": "reaction-against", "year": 1958,
+    "aspects": ["harmony", "improvisation"],
+    "explanation": "Bebop handed a soloist a chord every two beats; modal jazz hands them one scale for sixteen bars. The reduction is aimed squarely at bebop's harmonic congestion — Miles Davis described wanting fewer chords so there was more to do with each one.",
+    "hingeAlbum": "kind-of-blue", "strength": "strong"
+  },
+  {
+    "from": "cool-jazz", "to": "modal", "type": "direct-descendant", "year": 1958,
+    "aspects": ["harmony", "timbre"],
+    "explanation": "Bill Evans brought Ravel- and Debussy-derived voicings into the Davis sextet, and those quartal, ambiguous chords are what make static harmony sound rich rather than empty. Davis himself carried the cool tone and the taste for space directly across.",
+    "strength": "moderate"
+  },
+  {
+    "from": "third-stream", "to": "modal", "type": "parallel-influence", "year": 1959,
+    "aspects": ["harmony"],
+    "explanation": "George Russell's Lydian Chromatic Concept, published in 1953, supplied the theoretical frame that let musicians think in scales rather than chords. Russell taught it to Davis and Evans among others; it is the closest thing modal jazz has to a written source.",
+    "strength": "moderate"
+  },
+  {
+    "from": "cool-jazz", "to": "bossa-brazilian", "type": "direct-descendant", "year": 1958,
+    "aspects": ["harmony", "timbre", "rhythm"],
+    "explanation": "The Rio musicians who built bossa nova were listening to Mulligan, Chet Baker and Barney Kessel records — the soft attack, the restraint and the absence of vibrato come from there. Jobim's harmony draws on Debussy as much as on jazz, but the performance manner is cool jazz's.",
+    "hingeAlbum": "joao-gilberto-chega-de-saudade", "strength": "moderate"
+  },
+  {
+    "from": "vocal-jazz", "to": "bossa-brazilian", "type": "parallel-influence", "year": 1959,
+    "aspects": ["timbre", "repertoire", "form"],
+    "explanation": "Gilberto's near-inaudible delivery is a deliberate rejection of the big-voiced Brazilian singing of the era, and the model for singing quietly and conversationally into a microphone was American. The songbook idea — a body of harmonically rich standards that instrumentalists then colonise — repeats exactly.",
+    "strength": "moderate"
+  },
+  {
+    "from": "hard-bop", "to": "post-bop", "type": "direct-descendant", "year": 1963,
+    "aspects": ["instrumentation", "improvisation", "repertoire"],
+    "explanation": "Same Blue Note quintets, same players, often the same session week. What changes is that the forms stop being regular and the harmony stops resolving — Wayne Shorter and Herbie Hancock were writing hard bop dates in 1961 and post-bop ones by 1964.",
+    "hingeAlbum": "wayne-shorter-speak-no-evil", "strength": "strong"
+  },
+  {
+    "from": "modal", "to": "post-bop", "type": "direct-descendant", "year": 1964,
+    "aspects": ["harmony", "form", "rhythm"],
+    "explanation": "Post-bop takes modal jazz's harmonic ambiguity and puts it back inside moving forms, so the chords change but never resolve. The Davis quintet's 'time, no changes' approach is modal freedom applied to a rhythm section rather than to a scale.",
+    "hingeAlbum": "miles-davis-miles-smiles", "strength": "strong"
+  },
+  {
+    "from": "free-jazz", "to": "post-bop", "type": "parallel-influence", "year": 1964,
+    "aspects": ["improvisation", "rhythm", "harmony"],
+    "explanation": "Post-bop is what musicians made after hearing Ornette Coleman and deciding to go partway. Tony Williams' elastic time, Andrew Hill's asymmetric forms and the habit of playing deliberately outside the harmony all depend on free jazz having made those moves thinkable first.",
+    "hingeAlbum": "eric-dolphy-out-to-lunch", "strength": "strong"
+  },
+  {
+    "from": "hard-bop", "to": "free-jazz", "type": "reaction-against", "year": 1959,
+    "aspects": ["harmony", "form", "social-context"],
+    "explanation": "Ornette Coleman came up playing rhythm-and-blues and bebop in Texas and Los Angeles, and the quartet that arrived at the Five Spot in 1959 kept hard bop's melodic directness while removing the chord sequence entirely. The hostility from hard bop musicians was immediate and personal.",
+    "hingeAlbum": "ornette-coleman-shape-of-jazz-to-come", "strength": "strong"
+  },
+  {
+    "from": "modal", "to": "free-jazz", "type": "direct-descendant", "year": 1961,
+    "aspects": ["harmony", "improvisation", "form"],
+    "explanation": "Modal jazz had already reduced harmonic motion to almost nothing; free jazz took the last step and removed the pre-agreed frame altogether. Coltrane's route runs directly through this — the extended vamps of 'Impressions' become the open playing of 1965 without an obvious break.",
+    "strength": "strong"
+  },
+  {
+    "from": "third-stream", "to": "free-jazz", "type": "parallel-influence", "year": 1960,
+    "aspects": ["harmony", "form", "timbre"],
+    "explanation": "Cecil Taylor studied at the New England Conservatory and his atonal cluster language owes more to Bartók, Stockhausen and Henry Cowell than to any jazz pianist. The permission to abandon tonality came partly from European concert music, which third stream had already brought into the room.",
+    "strength": "moderate"
+  },
+  {
+    "from": "new-orleans", "to": "free-jazz", "type": "parallel-influence", "year": 1961,
+    "aspects": ["improvisation", "instrumentation"],
+    "explanation": "Interpretation, though one participants made themselves: collective simultaneous improvisation with no designated soloist is a New Orleans procedure returning after forty years of one-at-a-time soloing. Ornette Coleman's Free Jazz double quartet and Albert Ayler's use of marches and hymns both make the connection audible rather than merely arguable.",
+    "strength": "moderate"
+  },
+  {
+    "from": "free-jazz", "to": "aacm-avant", "type": "direct-descendant", "year": 1965,
+    "aspects": ["improvisation", "harmony", "form"],
+    "explanation": "The AACM's founding generation were playing free jazz in Chicago before the organisation existed. What the collective added was structure — composed sections, notated frames, and a refusal of the continuous-blowing model that New York had made standard.",
+    "hingeAlbum": "roscoe-mitchell-sound", "strength": "strong"
+  },
+  {
+    "from": "third-stream", "to": "aacm-avant", "type": "parallel-influence", "year": 1967,
+    "aspects": ["form", "instrumentation"],
+    "explanation": "Anthony Braxton's compositional apparatus, Muhal Richard Abrams' orchestral writing and Roscoe Mitchell's use of silence all draw on twentieth-century concert music as directly as third stream did — but from inside a Black self-organised institution rather than through the conservatory. That difference is the point.",
+    "strength": "moderate"
+  },
+  {
+    "from": "new-orleans", "to": "aacm-avant", "type": "revival-of", "year": 1969,
+    "aspects": ["repertoire", "timbre", "social-context"],
+    "explanation": "'Great Black Music, Ancient to the Future' is a claim on the whole history, and the Art Ensemble made it audible by putting marches, field hollers and New Orleans polyphony inside free improvisation. The vocalised brass timbres and the collective front line are reached for deliberately, not inherited passively.",
+    "hingeAlbum": "art-ensemble-of-chicago-les-stances-a-sophie", "strength": "moderate"
+  },
+  {
+    "from": "modal", "to": "spiritual-jazz", "type": "direct-descendant", "year": 1965,
+    "aspects": ["harmony", "form", "rhythm"],
+    "explanation": "A Love Supreme is a modal record with a devotional programme attached: a bass ostinato functioning as a drone, one mode held for minutes, and a chanted mantra where a head would be. Everything the idiom does harmonically is already in the modal toolkit.",
+    "hingeAlbum": "a-love-supreme", "strength": "strong"
+  },
+  {
+    "from": "free-jazz", "to": "spiritual-jazz", "type": "direct-descendant", "year": 1966,
+    "aspects": ["improvisation", "timbre", "social-context"],
+    "explanation": "Overblowing, multiphonics and collective ecstatic climaxes come straight from the free jazz vocabulary — Pharoah Sanders was in Coltrane's late band and Sun Ra's before that. The difference is intent: the same sounds are framed as devotion rather than as rupture.",
+    "strength": "strong"
+  },
+  {
+    "from": "free-jazz", "to": "euro-free-improv", "type": "reaction-against", "year": 1966,
+    "aspects": ["timbre", "rhythm", "social-context", "harmony"],
+    "explanation": "European improvisers took free jazz's central permission and then rejected the rest of it as American idiom: the blues inflection, the residual pulse, the saxophone-as-preaching-voice, the whole gestural vocabulary. Derek Bailey's term 'non-idiomatic' is aimed at free jazz as much as at bebop, and the politics of refusing American cultural dominance were stated openly.",
+    "hingeAlbum": "peter-brotzmann-machine-gun", "strength": "strong"
+  },
+  {
+    "from": "aacm-avant", "to": "euro-free-improv", "type": "parallel-influence", "year": 1969,
+    "aspects": ["instrumentation", "form"],
+    "explanation": "The Art Ensemble and other AACM members moved to Paris in 1969 and recorded prolifically for BYG Actuel, putting little instruments, extreme dynamic contrast and composed framing in front of European improvisers who were already working in that direction. Traffic ran both ways from then on.",
+    "strength": "moderate"
+  },
+  {
+    "from": "west-coast", "to": "euro-free-improv", "type": "parallel-influence", "year": 1963,
+    "aspects": ["instrumentation", "timbre", "form"],
+    "explanation": "Interpretation: Jimmy Giuffre's 1961–62 trio with Paul Bley and Steve Swallow — no drums, near-silent dynamics, free but chamber-scaled — anticipates the quiet end of European improvisation by several years. The direct historical link is thin; the resemblance is not.",
+    "strength": "weak"
+  },
+  {
+    "from": "free-jazz", "to": "loft-jazz", "type": "direct-descendant", "year": 1970,
+    "aspects": ["improvisation", "social-context"],
+    "explanation": "Same music, different economics. When the club circuit closed to free players, they rented lofts and became their own promoters — which removed set lengths, drink minimums and owner veto, and produced longer, more patient performances than any club would have allowed.",
+    "hingeAlbum": "wildflowers-loft-jazz-sessions", "strength": "strong"
+  },
+  {
+    "from": "aacm-avant", "to": "loft-jazz", "type": "direct-descendant", "year": 1973,
+    "aspects": ["form", "instrumentation", "social-context"],
+    "explanation": "The AACM and St. Louis's BAG both sent members to New York in the early 1970s, and they brought the self-organising model and the compositional discipline with them. The all-saxophone ensemble and the duo format both flourish here for the same reason: they are cheap and they demand structure.",
+    "strength": "strong"
+  },
+  {
+    "from": "modal", "to": "fusion", "type": "fusion-of", "year": 1969,
+    "aspects": ["harmony", "form", "technology"],
+    "explanation": "Fusion's harmony is modal jazz's — one chord for a long time — transferred to a Fender Rhodes and set over a rock backbeat. The two parents not on this map are rock and funk, which supply the volume, the straight eighths and the electric instruments.",
+    "hingeAlbum": "bitches-brew", "strength": "strong"
+  },
+  {
+    "from": "post-bop", "to": "fusion", "type": "fusion-of", "year": 1969,
+    "aspects": ["improvisation", "instrumentation", "rhythm"],
+    "explanation": "The personnel are identical: Hancock, Shorter, Williams, Corea, Zawinul and Holland all came out of the post-bop world and went electric more or less at once. The interactive rhythm-section thinking of the Davis quintet survives the change of instruments.",
+    "strength": "strong"
+  },
+  {
+    "from": "soul-jazz", "to": "fusion", "type": "parallel-influence", "year": 1969,
+    "aspects": ["technology", "instrumentation"],
+    "explanation": "Soul jazz had been amplifying jazz for over a decade — the Hammond organ, the electric guitar, the R&B backbeat — and had absorbed the critical contempt for it first. Fusion's electric turn is less unprecedented than the 1970s controversy suggested.",
+    "strength": "moderate"
+  },
+  {
+    "from": "bossa-brazilian", "to": "fusion", "type": "parallel-influence", "year": 1972,
+    "aspects": ["rhythm", "timbre", "instrumentation"],
+    "explanation": "Airto Moreira played on Bitches Brew and then with Weather Report and Return to Forever, and Flora Purim sang on the latter. Brazilian percussion and straight-eighth feels are woven into fusion from the beginning rather than added later.",
+    "strength": "moderate"
+  },
+  {
+    "from": "soul-jazz", "to": "jazz-funk", "type": "direct-descendant", "year": 1969,
+    "aspects": ["rhythm", "instrumentation", "form"],
+    "explanation": "The organ trio's groove-first premise scaled up: horn sections, clavinet, electric bass, and a sixteenth-note funk feel replacing the shuffle. The soloist's role shrinks further, and the bass line becomes the composition.",
+    "hingeAlbum": "herbie-hancock-head-hunters", "strength": "strong"
+  },
+  {
+    "from": "fusion", "to": "jazz-funk", "type": "direct-descendant", "year": 1972,
+    "aspects": ["technology", "instrumentation", "harmony"],
+    "explanation": "Same electric instruments, different priority. Where fusion uses the groove to support virtuoso soloing, jazz-funk uses the soloing to decorate the groove — Herbie Hancock made both records, two years apart, with overlapping personnel.",
+    "strength": "strong"
+  },
+  {
+    "from": "free-jazz", "to": "free-funk", "type": "direct-descendant", "year": 1975,
+    "aspects": ["harmony", "improvisation"],
+    "explanation": "Ornette Coleman's harmolodic principle — every instrument carrying melody, no fixed key centre, no accompanist role — is carried unchanged from the 1959 quartet into Prime Time. Only the rhythmic floor and the electricity are new.",
+    "hingeAlbum": "ornette-coleman-dancing-in-your-head", "strength": "strong"
+  },
+  {
+    "from": "jazz-funk", "to": "free-funk", "type": "fusion-of", "year": 1975,
+    "aspects": ["rhythm", "instrumentation", "technology"],
+    "explanation": "The backbeat, the doubled electric instruments and the repeating groove come from funk as it stood in the mid-1970s. Placing a hard, danceable floor under fully free melodic playing is the whole proposition, and nobody had done it seriously before.",
+    "strength": "strong"
+  },
+  {
+    "from": "jazz-funk", "to": "smooth-jazz", "type": "direct-descendant", "year": 1975,
+    "aspects": ["rhythm", "instrumentation", "timbre"],
+    "explanation": "Smooth jazz is jazz-funk with the risk removed: the same groove, the same instruments, but consonant harmony, short solos and a melody engineered for radio recall. Grover Washington Jr. is on both sides of the line and the transition is audible across his 1970s records.",
+    "hingeAlbum": "grover-washington-winelight", "strength": "strong"
+  },
+  {
+    "from": "fusion", "to": "smooth-jazz", "type": "direct-descendant", "year": 1979,
+    "aspects": ["technology", "timbre"],
+    "explanation": "The studio apparatus transferred wholesale — synthesizers, gated drums, digital reverb, multitrack polish — while the odd meters and extended solos that justified it were dropped. Several fusion players moved into the format when the fusion market collapsed.",
+    "strength": "moderate"
+  },
+  {
+    "from": "jazz-funk", "to": "jazz-rap", "type": "direct-descendant", "year": 1991,
+    "aspects": ["technology", "harmony", "rhythm"],
+    "explanation": "The descent is physical: producers took the actual recorded material — two bars of Rhodes, a bass figure, a drum break — and looped it. Bob James, Donald Byrd and Roy Ayers records supply a disproportionate share of the harmony in early 1990s hip-hop.",
+    "hingeAlbum": "tribe-called-quest-low-end-theory", "strength": "strong"
+  },
+  {
+    "from": "hard-bop", "to": "jazz-rap", "type": "direct-descendant", "year": 1991,
+    "aspects": ["harmony", "timbre", "repertoire"],
+    "explanation": "The other sample source is the Blue Note and Prestige catalogue: upright bass, muted trumpet and hard bop piano voicings give jazz rap the sonic signature that separates it from other hip-hop. Us3's 1993 record licensed Blue Note directly rather than clearing samples one at a time.",
+    "strength": "moderate"
+  },
+  {
+    "from": "jazz-funk", "to": "acid-jazz", "type": "revival-of", "year": 1987,
+    "aspects": ["rhythm", "instrumentation", "timbre"],
+    "explanation": "Acid jazz began as London DJs playing forgotten 1970s jazz-funk to dancers, and the bands that followed set out to make new records that sounded like the old ones — same instruments, same tempos, same production references, fifteen years later.",
+    "hingeAlbum": "brand-new-heavies-brand-new-heavies", "strength": "strong"
+  },
+  {
+    "from": "soul-jazz", "to": "acid-jazz", "type": "revival-of", "year": 1988,
+    "aspects": ["instrumentation", "rhythm", "repertoire"],
+    "explanation": "The Hammond organ, the boogaloo feel and a good deal of the actual repertoire came from 1960s soul jazz records that had been out of print for twenty years. The James Taylor Quartet's early sides are close to reconstruction.",
+    "strength": "strong"
+  },
+  {
+    "from": "jazz-rap", "to": "acid-jazz", "type": "parallel-influence", "year": 1992,
+    "aspects": ["technology", "rhythm"],
+    "explanation": "The two scenes were digging the same crates on opposite sides of the Atlantic. Sampling technique, breakbeat programming and rapping over live jazz bands crossed into acid jazz from hip-hop, most obviously in Galliano and Us3.",
+    "strength": "moderate"
+  },
+  {
+    "from": "third-stream", "to": "ecm-nordic", "type": "direct-descendant", "year": 1970,
+    "aspects": ["form", "instrumentation", "harmony"],
+    "explanation": "George Russell lived and taught in Scandinavia from 1964, and Jan Garbarek, Terje Rypdal and Jon Christensen all played in his groups there. The label's comfort with composed structure, chamber instrumentation and European concert-music values comes down this line directly.",
+    "hingeAlbum": "jan-garbarek-afric-pepperbird", "strength": "strong"
+  },
+  {
+    "from": "modal", "to": "ecm-nordic", "type": "direct-descendant", "year": 1971,
+    "aspects": ["harmony", "form"],
+    "explanation": "Slow harmonic rhythm, pedal points and suspended voicings are modal jazz's inheritance, applied to folk-derived rather than blues-derived melody. Keith Jarrett's solo concerts are extended modal improvisation with the jazz repertoire removed.",
+    "hingeAlbum": "keith-jarrett-koln-concert", "strength": "strong"
+  },
+  {
+    "from": "free-jazz", "to": "ecm-nordic", "type": "direct-descendant", "year": 1970,
+    "aspects": ["improvisation", "timbre"],
+    "explanation": "Garbarek, Rypdal and Christensen came out of Norwegian free jazz, and the label's early catalogue is closer to the avant-garde than its later reputation suggests. What survived the shift to lyricism is the freedom from song form and the treatment of timbre as content.",
+    "strength": "moderate"
+  },
+  {
+    "from": "west-coast", "to": "ecm-nordic", "type": "parallel-influence", "year": 1972,
+    "aspects": ["timbre", "instrumentation"],
+    "explanation": "Interpretation: the piano-less chamber group, the soft attack and the arranger's ear are West Coast preoccupations arriving in Europe two decades later. Direct influence is hard to document; the family resemblance between Giuffre's trios and early ECM is strong enough to note.",
+    "strength": "weak"
+  },
+  {
+    "from": "hard-bop", "to": "j-jazz", "type": "direct-descendant", "year": 1961,
+    "aspects": ["harmony", "form", "instrumentation"],
+    "explanation": "Japanese players learned from Blue Note records and initially reproduced the format exactly. The first decade of Japanese modern jazz is hard bop played extremely well and without much local inflection; what follows is the departure.",
+    "strength": "strong"
+  },
+  {
+    "from": "modal", "to": "j-jazz", "type": "direct-descendant", "year": 1969,
+    "aspects": ["harmony", "form"],
+    "explanation": "The Coltrane quartet is the central reference point for the Japanese scene, and its modal vamps get stretched further there than in the US — side-long single-mode pieces are common on Three Blind Mice and Nippon Columbia sessions.",
+    "hingeAlbum": "terumasa-hino-hi-nology", "strength": "strong"
+  },
+  {
+    "from": "free-jazz", "to": "j-jazz", "type": "direct-descendant", "year": 1969,
+    "aspects": ["improvisation", "timbre", "rhythm"],
+    "explanation": "Yosuke Yamashita's trio and Masayuki Takayanagi's groups played free music with a physical violence that had few American parallels, and the Japanese free scene developed largely without contact with the New York players it started from.",
+    "strength": "strong"
+  },
+  {
+    "from": "afro-cuban", "to": "ethio-jazz", "type": "direct-descendant", "year": 1966,
+    "aspects": ["rhythm", "instrumentation"],
+    "explanation": "Mulatu Astatke's training in London and Boston was in Latin jazz, and his vibraphone-and-congas instrumentation comes straight from that world. He described building Ethio-jazz by fitting Ethiopian modes into arrangements he already knew how to write.",
+    "hingeAlbum": "mulatu-astatke-afro-latin-soul", "strength": "moderate"
+  },
+  {
+    "from": "soul-jazz", "to": "ethio-jazz", "type": "direct-descendant", "year": 1969,
+    "aspects": ["instrumentation", "rhythm", "form"],
+    "explanation": "Electric organ, electric bass, a horn section playing short riffs, and a groove held without harmonic movement — the Addis Ababa records of the golden age use the soul jazz and early jazz-funk template, with pentatonic qignit modes replacing blues scales.",
+    "hingeAlbum": "mulatu-astatke-ethiopiques-4", "strength": "moderate"
+  },
+  {
+    "from": "fusion", "to": "neo-bop", "type": "reaction-against", "year": 1981,
+    "aspects": ["technology", "instrumentation", "social-context"],
+    "explanation": "The Young Lions defined themselves by what they refused: electric instruments, rock rhythm, crossover marketing, and the idea that jazz needed to chase a pop audience. Wynton Marsalis's public argument that fusion was a wrong turn is inseparable from the music he made instead.",
+    "hingeAlbum": "wynton-marsalis-black-codes", "strength": "strong"
+  },
+  {
+    "from": "hard-bop", "to": "neo-bop", "type": "revival-of", "year": 1980,
+    "aspects": ["harmony", "form", "improvisation"],
+    "explanation": "The Jazz Messengers were still running, and Wynton and Branford Marsalis, Terence Blanchard and Donald Harrison all passed through Blakey's band before leading their own. The revival is literal — the same institution, twenty-five years on.",
+    "strength": "strong"
+  },
+  {
+    "from": "post-bop", "to": "neo-bop", "type": "direct-descendant", "year": 1982,
+    "aspects": ["harmony", "form", "improvisation"],
+    "explanation": "The actual template for the Marsalis quintet is the 1964–68 Miles Davis group: same instrumentation, same elastic time, same harmonically ambiguous writing. Herbie Hancock, Ron Carter and Tony Williams appear on Wynton Marsalis's early records in person.",
+    "strength": "strong"
+  },
+  {
+    "from": "swing", "to": "neo-bop", "type": "revival-of", "year": 1986,
+    "aspects": ["instrumentation", "repertoire", "form"],
+    "explanation": "The second phase of the movement reached back past bebop to Ellington, Morton and the blues, and built repertory orchestras to play that material. Jazz at Lincoln Center from 1987 institutionalised the claim that this history is the tradition.",
+    "strength": "strong"
+  },
+  {
+    "from": "new-orleans", "to": "neo-bop", "type": "revival-of", "year": 1989,
+    "aspects": ["repertoire", "rhythm", "social-context"],
+    "explanation": "Marsalis's own turn toward New Orleans — second-line rhythm, collective polyphony, plunger-muted brass — reframed the movement as a claim on the music's whole lineage rather than on hard bop alone. It is also a claim about who owns that lineage.",
+    "strength": "moderate"
+  },
+  {
+    "from": "post-bop", "to": "m-base", "type": "direct-descendant", "year": 1984,
+    "aspects": ["harmony", "improvisation"],
+    "explanation": "The chromatic, non-functional melodic writing and the expectation that a rhythm section improvises collectively come from the post-bop world these players trained in. Steve Coleman worked in Sam Rivers' and Cecil Taylor's large ensembles before forming Five Elements.",
+    "hingeAlbum": "steve-coleman-motherland-pulse", "strength": "moderate"
+  },
+  {
+    "from": "jazz-funk", "to": "m-base", "type": "direct-descendant", "year": 1985,
+    "aspects": ["rhythm", "instrumentation"],
+    "explanation": "The rhythmic floor is funk — electric bass, backbeat, sixteenth-note subdivision — and the group sound is deliberately dry and unswung. What M-Base does to it is stack cycles of unequal length so the groove keeps displacing under you.",
+    "strength": "strong"
+  },
+  {
+    "from": "free-funk", "to": "m-base", "type": "direct-descendant", "year": 1985,
+    "aspects": ["harmony", "instrumentation", "improvisation"],
+    "explanation": "Ornette Coleman's harmolodic groups had already established that free melodic playing and a hard electric groove could occupy the same bar, and that no instrument need be subordinate. Coleman and Steve Coleman recorded together, and the alto lineage is audible.",
+    "strength": "moderate"
+  },
+  {
+    "from": "afro-cuban", "to": "m-base", "type": "parallel-influence", "year": 1993,
+    "aspects": ["rhythm", "social-context"],
+    "explanation": "Steve Coleman's rhythmic research took him to Ghana, Cuba, Brazil and India, and he recorded in Havana with AfroCuba de Matanzas in 1996. The nested-cycle model is drawn from West African and Afro-Caribbean drumming practice rather than derived from jazz.",
+    "strength": "moderate"
+  },
+  {
+    "from": "free-jazz", "to": "downtown", "type": "direct-descendant", "year": 1978,
+    "aspects": ["improvisation", "timbre", "instrumentation"],
+    "explanation": "The extended techniques, the abandonment of changes and the tolerance for noise are free jazz's, and most of the downtown players came up through it. What downtown adds is a composer imposing structure from outside — the freedom is scheduled.",
+    "hingeAlbum": "john-zorn-cobra", "strength": "strong"
+  },
+  {
+    "from": "loft-jazz", "to": "downtown", "type": "direct-descendant", "year": 1980,
+    "aspects": ["social-context", "instrumentation", "form"],
+    "explanation": "Physical and institutional continuity: the same Lower Manhattan rooms, the same self-organising economics, and in several cases the same musicians. The Knitting Factory in 1987 is the loft model with a liquor licence.",
+    "strength": "moderate"
+  },
+  {
+    "from": "free-funk", "to": "downtown", "type": "direct-descendant", "year": 1981,
+    "aspects": ["rhythm", "instrumentation", "technology"],
+    "explanation": "Harmolodic funk demonstrated that a rock rhythm section and free playing could coexist, which is the precondition for punk jazz. Ronald Shannon Jackson, James Blood Ulmer and Bill Laswell moved between both scenes constantly.",
+    "strength": "moderate"
+  },
+  {
+    "from": "euro-free-improv", "to": "downtown", "type": "parallel-influence", "year": 1982,
+    "aspects": ["form", "timbre", "improvisation"],
+    "explanation": "John Zorn played in Derek Bailey's Company gatherings, and the game pieces owe their premise — structure that governs interaction rather than pitch — to that encounter. The European emphasis on timbre over line is audible throughout downtown playing.",
+    "strength": "moderate"
+  },
+  {
+    "from": "acid-jazz", "to": "nu-jazz", "type": "fusion-of", "year": 1996,
+    "aspects": ["rhythm", "technology", "social-context"],
+    "explanation": "Acid jazz established the club as jazz's venue and the DJ as its curator; nu jazz kept both and replaced the retro live band with contemporary electronic production. Gilles Peterson's move from Acid Jazz to Talkin' Loud tracks the shift.",
+    "strength": "strong"
+  },
+  {
+    "from": "ecm-nordic", "to": "nu-jazz", "type": "fusion-of", "year": 1997,
+    "aspects": ["timbre", "harmony", "improvisation"],
+    "explanation": "Nils Petter Molvær and Bugge Wesseltoft were ECM musicians, and Khmer is the label's reverb-drenched trumpet lyricism and static harmony placed over drum programming. The Nordic tone is what makes nu jazz sound like jazz at all.",
+    "hingeAlbum": "nils-petter-molvaer-khmer", "strength": "strong"
+  },
+  {
+    "from": "jazz-rap", "to": "la-beat", "type": "direct-descendant", "year": 2008,
+    "aspects": ["rhythm", "technology", "harmony"],
+    "explanation": "J Dilla's deliberately unquantised drum programming is the LA beat scene's founding grammar, and Flying Lotus built Brainfeeder on it. The musicians who then played acoustically had internalised that feel as their natural time.",
+    "hingeAlbum": "flying-lotus-cosmogramma", "strength": "strong"
+  },
+  {
+    "from": "spiritual-jazz", "to": "la-beat", "type": "revival-of", "year": 2015,
+    "aspects": ["form", "harmony", "social-context"],
+    "explanation": "Kamasi Washington's three-hour record with choir and strings is 1970s spiritual jazz reconstructed without irony, and Flying Lotus is Alice Coltrane's great-nephew, which is a lineage rather than a coincidence. The Impulse! and Strata-East aesthetic returns intact.",
+    "hingeAlbum": "kamasi-washington-the-epic", "strength": "strong"
+  },
+  {
+    "from": "fusion", "to": "la-beat", "type": "direct-descendant", "year": 2013,
+    "aspects": ["instrumentation", "technology", "harmony"],
+    "explanation": "Thundercat's six-string electric bass, his chord-melody approach and his falsetto singing descend from Stanley Clarke, Jaco Pastorius and George Duke directly, and he has said so. The synthesizer palette is 1970s fusion's, reactivated.",
+    "strength": "moderate"
+  },
+  {
+    "from": "m-base", "to": "contemporary-creative", "type": "direct-descendant", "year": 2000,
+    "aspects": ["rhythm", "harmony", "improvisation"],
+    "explanation": "The rhythmic research is the direct inheritance: nested cycles, odd groupings and improvisation across a shifting grid are now standard equipment. Vijay Iyer, Steve Lehman and Dafnis Prieto all worked with or studied Steve Coleman's approach closely.",
+    "hingeAlbum": "vijay-iyer-historicity", "strength": "strong"
+  },
+  {
+    "from": "aacm-avant", "to": "contemporary-creative", "type": "direct-descendant", "year": 1998,
+    "aspects": ["form", "improvisation", "instrumentation"],
+    "explanation": "Anthony Braxton taught at Wesleyan for over twenty years and Mary Halvorson, Taylor Ho Bynum and others came directly out of that. The habit of designing a bespoke ensemble and a bespoke structure for each project is the AACM's, not the club scene's.",
+    "strength": "strong"
+  },
+  {
+    "from": "downtown", "to": "contemporary-creative", "type": "direct-descendant", "year": 2000,
+    "aspects": ["form", "instrumentation", "technology"],
+    "explanation": "Genre as material to be cut and juxtaposed, structure imposed by rule rather than by song form, and a label-and-venue economy built by musicians — all carried forward. Tzadik and the Stone remained the connective infrastructure into the 2010s.",
+    "strength": "moderate"
+  },
+  {
+    "from": "neo-bop", "to": "contemporary-creative", "type": "parallel-influence", "year": 2002,
+    "aspects": ["improvisation", "social-context"],
+    "explanation": "An uncomfortable inheritance: the conservatory programmes, festival circuits and funding structures the Young Lions built are what train and support this generation, even where the music rejects neo-traditionalist premises entirely. The technical fluency is a direct product of that institutionalisation.",
+    "strength": "moderate"
+  },
+  {
+    "from": "ecm-nordic", "to": "contemporary-creative", "type": "parallel-influence", "year": 2005,
+    "aspects": ["timbre", "form"],
+    "explanation": "ECM became a principal outlet for this generation — Iyer, Sorey, Halvorson and Moran have all recorded for it — and the label's premium on space, dynamic range and composed structure shapes what the records sound like.",
+    "strength": "moderate"
+  },
+  {
+    "from": "jazz-rap", "to": "contemporary-creative", "type": "parallel-influence", "year": 2008,
+    "aspects": ["rhythm", "technology"],
+    "explanation": "The boom-bap feel entered acoustic jazz drumming as a first language rather than a borrowing, and producers' techniques — looping, layering, sound design — became compositional tools for musicians who never used a sampler.",
+    "strength": "moderate"
+  },
+  {
+    "from": "acid-jazz", "to": "uk-jazz-revival", "type": "direct-descendant", "year": 2012,
+    "aspects": ["social-context", "rhythm", "technology"],
+    "explanation": "The infrastructure is inherited whole: Gilles Peterson's radio show and Brownswood label, a club culture that treats jazz as dance music, and an audience trained by twenty-five years of crate-digging. We Out Here in 2018 came out on Peterson's label.",
+    "hingeAlbum": "we-out-here-compilation", "strength": "strong"
+  },
+  {
+    "from": "spiritual-jazz", "to": "uk-jazz-revival", "type": "revival-of", "year": 2016,
+    "aspects": ["harmony", "form", "social-context"],
+    "explanation": "Modal vamps, pedal points, long ecstatic builds and an explicitly political and spiritual framing are taken up directly — Nubya Garcia and Shabaka Hutchings both cite the Impulse! and Strata-East catalogue. Shabaka and the Ancestors is the most literal continuation.",
+    "strength": "strong"
+  },
+  {
+    "from": "free-jazz", "to": "uk-jazz-revival", "type": "direct-descendant", "year": 2016,
+    "aspects": ["improvisation", "timbre"],
+    "explanation": "Sons of Kemet and The Comet Is Coming both use collective free playing and overblown saxophone as climactic devices, and the London scene overlaps with a continuous British free improvisation tradition that never went away.",
+    "strength": "moderate"
+  },
+  {
+    "from": "nu-jazz", "to": "uk-jazz-revival", "type": "direct-descendant", "year": 2014,
+    "aspects": ["technology", "rhythm"],
+    "explanation": "Broken beat and its West London scene are the immediate rhythmic ancestor, and several of the current players — Moses Boyd above all — work as electronic producers as readily as instrumentalists.",
+    "strength": "moderate"
+  },
+  {
+    "from": "la-beat", "to": "uk-jazz-revival", "type": "parallel-influence", "year": 2016,
+    "aspects": ["rhythm", "technology", "social-context"],
+    "explanation": "The two scenes emerged in parallel and recognised each other quickly, sharing bills, remixes and a shared debt to Dilla-derived timing. Neither is a parent of the other; the traffic is lateral and continuous.",
+    "strength": "moderate"
+  },
+  {
+    "from": "ethio-jazz", "to": "uk-jazz-revival", "type": "parallel-influence", "year": 2016,
+    "aspects": ["harmony", "rhythm"],
+    "explanation": "Interpretation: the Éthiopiques reissues became common currency in London crate-digging culture, and Mulatu Astatke recorded with the UK's Heliocentrics in 2009. Pentatonic modal vamps over a loping groove are a recognisable ingredient in the current scene, though rarely acknowledged as a specific source.",
+    "strength": "weak"
+  },
+  {
+    "from": "j-jazz", "to": "uk-jazz-revival", "type": "parallel-influence", "year": 2018,
+    "aspects": ["timbre", "form"],
+    "explanation": "Interpretation, and a weak claim: the BBE J Jazz reissue series from 2018 landed in the same London DJ and record-shop ecosystem that supports the current scene, and the deep-modal, long-form Japanese records are part of its listening. Direct musical influence is unproven.",
+    "strength": "weak"
+  }
+]

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <title>JazzTree — a lineage and listening guide to jazz</title>
+  <meta name="description" content="A visual guide to 39 jazz genres, how they descend from and react against each other, and roughly 350 records to actually listen to.">
+  <meta name="color-scheme" content="dark light">
+
+  <link rel="stylesheet" href="css/theme.css?v=2">
+  <link rel="stylesheet" href="css/main.css?v=2">
+  <link rel="stylesheet" href="css/graph.css">
+
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%2313110E'/><path d='M6 22h20M6 16h13M6 10h7' stroke='%23D2922F' stroke-width='2.4' stroke-linecap='round'/></svg>">
+</head>
+<body>
+
+<!--
+  Progressive enhancement. With JavaScript off, the <noscript> block below renders
+  the complete guide — all 39 genres, every album, every source note — inline from
+  static.html, so no content is gated behind JavaScript. static.html is generated
+  from the same JSON by `node build/gen-static.js`.
+  Browsers do not fetch resources inside <noscript> when scripting is enabled, so
+  this costs nothing in the normal case.
+-->
+<noscript id="noscript-fallback">
+  <div class="noscript-note">
+    <strong>JazzTree</strong> — a lineage and listening guide to jazz.
+    The interactive graph needs JavaScript, but the whole guide does not: the complete
+    text is below, and also available as its own page —
+    <a href="static.html">static.html</a>.
+  </div>
+  <iframe class="noscript-frame" src="static.html" title="JazzTree — full genre and album listing"></iframe>
+</noscript>
+
+<div id="app" class="app"></div>
+
+<!-- D3 v7 from CDN, with a vendored copy as the offline / file:// fallback. -->
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script>
+  if (typeof d3 === 'undefined') {
+    document.write('<script src="vendor/d3.v7.min.js"><\/script>');
+  }
+</script>
+<!-- Same data as data/*.json; used when fetch() is blocked under file://. -->
+<script src="data/data.js"></script>
+<script type="module" src="js/main.js?v=5"></script>
+</body>
+</html>
