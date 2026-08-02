@@ -1,9 +1,9 @@
 /** Three curated listening routes as vertical steppers. Progress persists in localStorage. */
 
 import * as store from '../store.js?v=2';
-import { el, announce } from '../lib/utils.js?v=2';
-import { albumCard } from './panel.js?v=2';
-import { pathText, t } from '../i18n.js?v=2';
+import { el, announce } from '../lib/utils.js?v=3';
+import { albumCard } from './panel.js?v=3';
+import { pathText, t } from '../i18n.js?v=3';
 
 let wrap, activeId = 'start-here';
 

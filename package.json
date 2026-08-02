@@ -3,10 +3,17 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "JazzTree — a static visual guide to jazz genres, lineage, and what to listen to.",
+  "description": "JazzTree \u2014 a static visual guide to jazz genres, lineage, and what to listen to.",
   "scripts": {
     "merge": "node build/merge.js",
     "validate": "node data/validate.js",
-    "data": "node build/merge.js && node data/build-data.js && node data/validate.js"
+    "build-localization": "node build/build-localization.js",
+    "validate-localization": "node build/validate-localization.js",
+    "test-localization": "node build/test-localization-runtime.js",
+    "localization": "node build/build-localization.js && node build/validate-localization.js",
+    "data": "node data/build-data.js && node data/validate.js && node build/build-localization.js && node build/validate-localization.js && node build/gen-static.js",
+    "sync-ios": "node build/sync-ios.js",
+    "verify-ios": "cd ios/Packages/JazzTreeCore && swift run jazztree-verify",
+    "icon": "swift build/icon/main.swift"
   }
 }

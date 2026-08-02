@@ -1,0 +1,81 @@
+{
+  "note": "iOS-only UI strings, merged into localization.json by build/extract-i18n.js. Keys the web app already has are NOT repeated here — they come from js/i18n.js so the two apps cannot drift.",
+  "strings": {
+    "ios.tab.lineage":        ["Lineage", "谱系"],
+    "ios.tab.genres":         ["Genres", "流派"],
+    "ios.tab.paths":          ["Paths", "路线"],
+    "ios.tab.more":           ["More", "更多"],
+
+    "ios.mode.rail":          ["Rail", "时间轴"],
+    "ios.mode.spans":         ["Spans", "时间带"],
+    "ios.mode.map":           ["Map", "全图"],
+
+    "ios.rail.title":         ["Jazz, from the top down", "自上而下的爵士谱系"],
+    "ios.rail.lede":          ["Time runs downward. Tap a genre for its profile, or the branch button to collapse the list onto that genre and its direct influences.", "时间自上而下流动。轻点流派查看档案，或点分支按钮，把列表收拢到该流派及其直接影响关系。"],
+    "ios.rail.focus":         ["Focus on this genre", "聚焦该流派"],
+    "ios.rail.clearFocus":    ["Show all genres", "显示全部流派"],
+    "ios.rail.focusCount":    ["{parents} in · {children} out", "{parents} 条流入 · {children} 条流出"],
+    "ios.rail.parents":       ["{count} influences in", "{count} 条影响流入"],
+    "ios.rail.children":      ["{count} influences out", "{count} 条影响流出"],
+    "ios.rail.cameOutOf":     ["Came out of", "源自"],
+    "ios.rail.fedInto":       ["Fed into", "影响了"],
+    "ios.rail.a11yHint":      ["Opens the genre profile. Use actions to focus the lineage.", "打开流派档案。使用操作菜单可聚焦谱系。"],
+    "ios.rail.empty":         ["No genres exist yet at this year. Drag the year slider forward.", "该年份还没有任何流派。请把年份滑块往后拖。"],
+
+    "ios.filter.count":       ["{shown} of {total} influences", "{total} 条影响中的 {shown} 条"],
+    "ios.scrubber.show":      ["Year", "年份"],
+
+    "ios.spans.title":        ["Every genre, one bar each", "每种流派一条时间带"],
+    "ios.spans.lede":         ["Proportional time: each bar spans 1890 to today, and the solid block inside it marks the peak years.", "按比例呈现时间：每条带从 1890 年延伸至今，其中实心部分标示鼎盛年份。"],
+
+    "ios.map.lede":           ["The whole graph. Pinch to zoom, drag to move around it — the canvas is wider than the screen by design.", "完整的关系图。双指缩放、拖动浏览 — 画布本就比屏幕更宽。"],
+
+    "ios.detail.sound":       ["Sound", "声音"],
+    "ios.detail.lineage":     ["Lineage", "谱系"],
+    "ios.detail.records":     ["Records", "唱片"],
+    "ios.detail.inherited":   ["What carried over", "承继了什么"],
+    "ios.detail.hinge":       ["Hear the hinge", "听见转折点"],
+    "ios.detail.noLineage":   ["No influences recorded for this genre.", "该流派没有记录任何影响关系。"],
+    "ios.detail.edgeHint":    ["Opens the full explanation", "查看完整说明"],
+    "ios.detail.focusInRail": ["Focus this genre in the rail", "在时间轴中聚焦该流派"],
+
+    "ios.paths.resume":       ["Resume", "继续"],
+
+    "ios.appearance.system":  ["System", "跟随系统"],
+    "ios.appearance.dark":    ["Dark", "深色"],
+    "ios.appearance.light":   ["Light", "浅色"],
+
+    "ios.settings.listening": ["Listening", "聆听"],
+    "ios.settings.appearance": ["Appearance & language", "外观与语言"],
+    "ios.settings.theme":     ["Theme", "主题"],
+    "ios.settings.reading":   ["Reading the guide", "如何阅读"],
+    "ios.settings.howToRead": ["How to read this", "阅读指南"],
+    "ios.settings.about":     ["About JazzTree", "关于 JazzTree"],
+    "ios.settings.edgeTypes": ["Kinds of influence", "影响的类型"],
+    "ios.settings.families":  ["Families", "流派家族"],
+    "ios.settings.tiersAndDifficulty": ["Tiers and difficulty", "层级与难度"],
+    "ios.settings.data":      ["What is in here", "内容概览"],
+    "ios.settings.genres":    ["Genres", "流派"],
+    "ios.settings.edges":     ["Influence edges", "影响关系"],
+    "ios.settings.albums":    ["Records", "唱片"],
+    "ios.settings.lowConfidence": ["Low-confidence entries", "低可信度条目"],
+    "ios.settings.offlineNote": ["Everything ships inside the app. No network, no accounts, no tracking.", "全部内容随应用打包。无需联网、无需账号、不做追踪。"],
+    "ios.settings.translationNote": ["Simplified Chinese covers the complete interface and all editorial prose. Official artist, record, track, person and label names remain in their canonical form for accuracy and streaming search.", "简体中文覆盖完整界面与全部编辑文字。艺人、唱片、曲目、人物与厂牌的正式名称保留原文，以确保资料准确并便于流媒体搜索。"],
+    "ios.settings.railNote.title": ["Why time runs downward", "为什么时间自上而下"],
+    "ios.settings.railNote":  ["On the web, time runs left to right, which needs a wide screen. Held vertically, a phone has height to spare and no width, so the axis is rotated. In the rail, time is ordered and labelled rather than drawn to scale — at a readable row height a proportional axis would be mostly empty space. Proportional time lives in the Spans view.", "网页版的时间轴自左向右，需要宽屏。竖持手机时高度充裕而宽度不足，因此把时间轴旋转了 90 度。时间轴视图按顺序排列并标注年代，而非严格按比例绘制 — 在可读的行高下，按比例的时间轴会有大量空白。按比例的呈现请看时间带视图。"],
+
+    "ios.about.intro":        ["A guide to how jazz genres descend from, react against and revive one another, and about 350 records to actually listen to. Built from the same hand-authored dataset as the web version.", "一份关于爵士乐流派如何彼此传承、反叛与复兴的指南，以及约 350 张真正值得一听的唱片。与网页版使用同一份手工编写的数据集。"],
+    "ios.about.accuracy.title": ["On accuracy", "关于准确性"],
+    "ios.about.accuracy":     ["Album years, labels and catalogue numbers were checked against MusicBrainz and discographic sources; 279 of 351 had their release year confirmed to within a year. Entries marked medium or low confidence carry a note saying what is uncertain. Genre boundaries are arguments, not facts — every genre has a “contested” section saying where scholars disagree.", "唱片年份、厂牌与编号已对照 MusicBrainz 与唱片目录核对；351 张中有 279 张的发行年份在一年误差内得到确认。标记为中等或较低可信度的条目附有说明。流派边界是争论而非事实 — 每个流派都有“争议”一节说明学界的分歧所在。"],
+    "ios.about.links":        ["The full source list, the verification log and a “known gaps” section live with the web version, in research/notes.md. The judgment calls are in DECISIONS.md.", "完整的资料来源、核对记录与“已知缺口”一节随网页版提供，见 research/notes.md。所有取舍判断记录在 DECISIONS.md。"],
+    "ios.about.credits":      ["Streaming buttons are searches, not direct album links: album IDs cannot be derived from metadata, and guessed ones point at the wrong records.", "流媒体按钮是搜索链接而非专辑直链：专辑 ID 无法从元数据推导，猜测的结果会指向错误的唱片。"],
+
+    "ios.error.title":        ["The guide could not be opened", "无法打开指南"],
+    "ios.error.detail":       ["{message}", "无法读取应用内置的指南数据。"],
+    "ios.error.hint":         ["This usually means the app is damaged. Reinstalling should fix it.", "这通常意味着应用文件已损坏，重新安装即可解决。"],
+
+    "graph.clearFilter":      ["Clear the aspect filter", "清除筛选"],
+    "locale.label":           ["Language", "语言"],
+    "confidence.high":        ["high", "较高"]
+  }
+}

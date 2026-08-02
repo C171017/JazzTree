@@ -1,6 +1,6 @@
 /** Small shared helpers. No dependencies. */
 
-import { t } from '../i18n.js?v=2';
+import { t } from '../i18n.js?v=3';
 
 export const $ = (sel, root = document) => root.querySelector(sel);
 export const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];

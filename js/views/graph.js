@@ -8,8 +8,8 @@
 
 import * as store from '../store.js?v=2';
 import { computeLayout, edgePath, relatives } from '../lib/layout.js';
-import { el, svgEl, announce, eraSpanLabel } from '../lib/utils.js?v=2';
-import { aspectLabel, edgeDescription, edgeTypeLabel, eraName, familyBlurb, familyName, familyShort, genreName, genreOneLine, t } from '../i18n.js?v=2';
+import { el, svgEl, announce, eraSpanLabel } from '../lib/utils.js?v=3';
+import { aspectLabel, edgeDescription, edgeTypeLabel, eraName, familyBlurb, familyName, familyShort, genreName, genreOneLine, t } from '../i18n.js?v=3';
 
 const ASPECTS = [
   'harmony', 'rhythm', 'form', 'instrumentation',
@@ -75,6 +75,9 @@ export function mount(container) {
   window.addEventListener('resize', debouncedResize);
   document.addEventListener('click', (e) => {
     if (!pop.hidden && !pop.contains(e.target) && !e.target.closest('.edge-hit')) closePop();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && !pop.hidden) closePop();
   });
 
   store.subscribe((state, changed) => {
@@ -586,7 +589,7 @@ function openPop(e, ev) {
     ),
     el('div', { class: 'edge-pop__aspects' },
       e.aspects.map((a) => el('span', { class: 'aspect', text: aspectLabel(a) })),
-      el('span', { class: 'aspect', text: t('graph.strength', { strength: e.strength }) })
+      el('span', { class: 'aspect', text: t('graph.strength', { strength: t(`strength.${e.strength}`) }) })
     ),
     el('p', { text: e.explanation }),
     hinge

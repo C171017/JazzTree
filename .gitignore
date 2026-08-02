@@ -1,0 +1,13 @@
+# SwiftPM / Xcode
+ios/Packages/*/.build/
+ios/**/xcuserdata/
+ios/**/*.xcuserstate
+.DS_Store
+
+# Node has no dependencies here, but just in case
+node_modules/
+
+# Android / Gradle
+android/.gradle/
+android/**/build/
+android/local.properties

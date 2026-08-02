@@ -1,0 +1,85 @@
+plugins {
+    id "com.android.application"
+}
+
+def repositoryRoot = rootProject.projectDir.parentFile
+def generatedAssets = layout.buildDirectory.dir("generated/jazztreeWeb")
+
+tasks.register("buildWebLocalization", Exec) {
+    workingDir repositoryRoot
+    commandLine "node", "build/build-localization.js"
+    inputs.dir(new File(repositoryRoot, "locales/zh-CN"))
+    inputs.file(new File(repositoryRoot, "build/build-localization.js"))
+    outputs.files(
+        new File(repositoryRoot, "data/localization.zh-CN.json"),
+        new File(repositoryRoot, "data/localization.zh-CN.js")
+    )
+}
+
+tasks.register("validateWebLocalization", Exec) {
+    dependsOn "buildWebLocalization"
+    workingDir repositoryRoot
+    commandLine "node", "build/validate-localization.js"
+    inputs.files(
+        new File(repositoryRoot, "data/genres.json"),
+        new File(repositoryRoot, "data/albums.json"),
+        new File(repositoryRoot, "data/paths.json"),
+        new File(repositoryRoot, "data/localization.zh-CN.json")
+    )
+}
+
+tasks.register("syncWebAssets", Sync) {
+    dependsOn "validateWebLocalization"
+    from(repositoryRoot) {
+        include "index.html"
+        include "static.html"
+        include "css/**"
+        include "js/**"
+        include "data/genres.json"
+        include "data/albums.json"
+        include "data/paths.json"
+        include "data/data.js"
+        include "data/localization.zh-CN.json"
+        include "data/localization.zh-CN.js"
+        include "vendor/d3.v7.min.js"
+        include "research/notes.md"
+        include "DECISIONS.md"
+    }
+    into generatedAssets
+}
+
+android {
+    namespace = "com.c171017.jazztree"
+    compileSdk = 36
+
+    defaultConfig {
+        applicationId = "com.c171017.jazztree"
+        minSdk = 26
+        targetSdk = 36
+        versionCode = 1
+        versionName = "1.0.0"
+    }
+
+    sourceSets {
+        // The directory is populated by syncWebAssets before preBuild. Resolve
+        // it here so AGP treats it as a normal asset source directory.
+        main.assets.srcDir(generatedAssets.get().asFile)
+    }
+
+    buildFeatures {
+        buildConfig = false
+    }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+
+    packaging {
+        resources.excludes += ["META-INF/DEPENDENCIES", "META-INF/LICENSE*", "META-INF/NOTICE*"]
+    }
+}
+
+tasks.named("preBuild").configure {
+    dependsOn "syncWebAssets"
+}

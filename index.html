@@ -29,22 +29,20 @@
     <strong>JazzTree</strong> — a lineage and listening guide to jazz.
     The interactive graph needs JavaScript, but the whole guide does not: the complete
     text is below, and also available as its own page —
-    <a href="static.html">static.html</a>.
+    <a href="static.html">English static page</a> ·
+    <a href="static.zh-CN.html" lang="zh-CN">简体中文静态版</a>.
   </div>
   <iframe class="noscript-frame" src="static.html" title="JazzTree — full genre and album listing"></iframe>
 </noscript>
 
 <div id="app" class="app"></div>
 
-<!-- D3 v7 from CDN, with a vendored copy as the offline / file:// fallback. -->
-<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
-<script>
-  if (typeof d3 === 'undefined') {
-    document.write('<script src="vendor/d3.v7.min.js"><\/script>');
-  }
-</script>
-<!-- Same data as data/*.json; used when fetch() is blocked under file://. -->
+<!-- Vendored D3 keeps the web, iOS-adjacent assets, and Android app fully offline. -->
+<script src="vendor/d3.v7.min.js"></script>
+<!-- Same data as data/*.json; an embedded backup if JSON fetch is unavailable. -->
 <script src="data/data.js"></script>
-<script type="module" src="js/main.js?v=5"></script>
+<!-- Full editorial translation, generated from locales/zh-CN/*.json. -->
+<script src="data/localization.zh-CN.js"></script>
+<script type="module" src="js/main.js?v=8"></script>
 </body>
 </html>

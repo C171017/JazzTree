@@ -1,0 +1,478 @@
+{
+  "albums": {
+    "kind-of-blue": {
+      "whyThisOne": "这是史上销量最高的爵士专辑，而且当之无愧。Davis 参加两场录音时带来的只是草图而非完整总谱，乐队几乎在毫无排练的情况下视奏，因此一切听起来都没有被反复雕琢过。",
+      "listenFor": "《So What》在三十二小节里只给独奏者两个和弦。听 Coltrane 与 Adderley 如何对同一片空白作出截然不同的回应——一个把它填满，一个绕着它演奏。"
+    },
+    "miles-davis-milestones": {
+      "whyThisOne": "标题曲是 Davis 录下的第一首完整调式作品，比《Kind of Blue》早一年。专辑其余部分是硬博普，因此你可以并排听见两种语言。",
+      "listenFor": "《Milestones》在两个调式之间交替，而每个调式内部都没有和弦变化。接着播放同一张专辑里的《Dr. Jackle》，听听那里的和弦进行移动得有多猛烈。"
+    },
+    "john-coltrane-impressions": {
+      "whyThisOne": "标题曲现场录于 Village Vanguard，相当于把《So What》加速并拉长到十四分钟。调式爵士在这里变成一场耐力赛。",
+      "listenFor": "Tyner 的左手几乎只弹四度叠置和弦，Elvin Jones 则完全不再标示小节——脉搏是一道波浪，而不是网格。"
+    },
+    "bill-evans-sunday-at-village-vanguard": {
+      "whyThisOne": "这个三重奏让贝斯成为旋律上平等的伙伴，而不只是计时者。录音十天后，Scott LaFaro 在车祸中去世，年仅二十五岁。",
+      "listenFor": "LaFaro 没有演奏行进贝斯。他在高音区弹奏对旋律，Motian 用鼓刷维持拍点，Evans 则为两人都留下空隙。"
+    },
+    "mccoy-tyner-the-real-mccoy": {
+      "whyThisOne": "这是 Tyner 离开 Coltrane 后的第一张唱片，Elvin Jones 与他同场。它把调式钢琴语言定型——四度叠置和弦、右手五声音阶、持续低音——并使之成为日后的默认范式。",
+      "listenFor": "《Passion Dance》的整个独奏段都停留在一个和弦上。趣味完全由节奏、音区和 Tyner 左手的触键制造。"
+    },
+    "herbie-hancock-maiden-voyage": {
+      "whyThisOne": "这是漂浮而非静止的调式和声。悬置和弦从不解决，整张唱片拥有一种 1965 年没有其他作品达到的失重感。",
+      "listenFor": "标题曲使用四个悬置和弦，每个持续四小节，却没有一个发挥主和弦功能。你的耳朵始终等待一个永远不会到来的解决。"
+    },
+    "george-russell-jazz-workshop": {
+      "whyThisOne": "早在《Kind of Blue》三年前，Russell 已把自己的理论付诸实践，乐队中还有 Bill Evans。若你想听调式爵士的思想源头，而非它的大众化表达，就是这张。",
+      "listenFor": "《Concerto for Billy the Kid》给 Evans 的独奏段建立在 Russell 的利底亚音阶关系上，而不是功能性和弦进行上。"
+    },
+    "john-coltrane-my-favorite-things": {
+      "whyThisOne": "一首百老汇华尔兹被改造成十三分钟的调式固定音型；这张唱片也使高音萨克斯在 Bechet 之后重新成为爵士乐器。",
+      "listenFor": "乐曲在 E 小调与 E 大调之间交替，Coltrane 想在每个调上停留多久就停留多久。歌曲曲式已经变成一个开关，而不再是结构。"
+    },
+    "wayne-shorter-juju": {
+      "whyThisOne": "Shorter 与 Coltrane 四重奏四分之三的成员合作，写出比 Coltrane 本人作品更阴暗、更省略的调式音乐。",
+      "listenFor": "面对同样的素材，Coltrane 会铺开连续线条，Shorter 却用短促、断裂的碎片组织乐句。同一支乐队，两种相反的本能。"
+    },
+    "modern-jazz-quartet-third-stream-music": {
+      "whyThisOne": "这张唱片直接以这一流派命名，MJQ 与弦乐四重奏及 Giuffre 的三重奏同台。一个通常以讲座姿态出现的观念，在这里得到最易进入的入口。",
+      "listenFor": "弦乐四重奏演奏时，演的是古典音乐；MJQ 演奏时，则会摇摆。聆听两者之间的接缝，是理解第三潮流最有用的方式。"
+    },
+    "charles-mingus-black-saint": {
+      "whyThisOne": "十一人乐队演奏一部连续六段的芭蕾配乐，包含弗拉门戈吉他、福音式喊唱与大量磁带剪辑。Mingus 拒绝第三潮流标签，却还是做出了它最有说服力的唱片。",
+      "listenFor": "整部作品以叠录与磁带拼接组装而成，这在 1963 年的爵士里近乎异端。Mingus 把磁带当作作曲平面。"
+    },
+    "gunther-schuller-jazz-abstractions": {
+      "whyThisOne": "Schuller 写下十二音框架，让 Ornette Coleman 与 Eric Dolphy 在其中即兴。这是唯一一张即兴者比作曲本身更激进的第三潮流唱片。",
+      "listenFor": "《Abstraction》让 Coleman 站在演奏序列主义质地的弦乐四重奏之前。他仍完全按照自己乐队中的方式演奏，而这种碰撞本身就是作品。"
+    },
+    "stan-getz-focus": {
+      "whyThisOne": "Eddie Sauter 为弦乐团写了一部七乐章作品，却完全没有给 Getz 写任何声部——Getz 在整部作品之上即兴。他称这是自己最喜欢的一张个人唱片。",
+      "listenFor": "弦乐并不是伴奏。它们拥有一部完整独立的作品，Getz 则是叠加其上的第二层、没有脚本的声音。"
+    },
+    "george-russell-jazz-in-the-space-age": {
+      "whyThisOne": "两位钢琴家在一部依据 Russell 的利底亚理论写成的大型合奏总谱中同时即兴。这样的野心，只有一位拥有乐队的理论家才会尝试。",
+      "listenFor": "Evans 与 Bley 彼此对奏，除了 Russell 指定的音阶关系外，没有约定任何和声。它成功的次数远比按理应有的更多。"
+    },
+    "jimmy-giuffre-free-fall": {
+      "whyThisOne": "单簧管独奏与音量几乎低到不可闻的三重奏即兴并列。Columbia 此后与他解约，三重奏也因毫无收入而解散。",
+      "listenFor": "它的动态范围极端地向下延伸——许多段落比交谈声还轻。把音量调高，便会发现细节极其丰富。"
+    },
+    "charles-mingus-ah-um": {
+      "whyThisOne": "这是最直接的 Mingus：福音音乐、布鲁斯、对 Ellington 的致敬，以及一首明确的政治抗议歌曲；乐队演奏时，他在录音中途对成员大喊以进行指挥。",
+      "listenFor": "《Fables of Faubus》写的是那位阻挠阿肯色州学校融合的州长。Columbia 不许他们唱出歌词，因此讽刺只能由管乐传达。"
+    },
+    "eddie-sauter-bill-finegan": {
+      "whyThisOne": "两位顶尖摇摆乐编曲家组建一支配有竖琴、竖笛、打击乐与木管的乐团，目标是供音乐会聆听，而非跳舞。它比第三潮流早五年预示了这种方向，如今却大体被遗忘。",
+      "listenFor": "配器更接近电影配乐，而非爵士乐队；乐团也刻意几乎不摇摆。这究竟算不算失败，取决于你认为什么是爵士。"
+    },
+    "anthony-braxton-for-alto": {
+      "whyThisOne": "这是第一张完整篇幅的萨克斯独奏即兴专辑，部分作品题献给 John Cage 与 Cecil Taylor。作曲与即兴两股潮流在一位无伴奏演奏者身上汇合。",
+      "listenFor": "每首作品都有明确的结构前提——一组音程、一个节奏细胞——Braxton 随后逐一展开。这是现场执行的作曲，而不是自由吹奏。"
+    },
+    "miles-davis-miles-smiles": {
+      "whyThisOne": "这是第二伟大五重奏对“有拍点、无和弦进行”最清楚的宣言——脉搏保持稳定，和声却可以协商。Hancock 会在很长的段落里完全退出，于是根本没有任何乐器陈述和弦。",
+      "listenFor": "在《Footprints》中，贝斯线暗示一种和声，钢琴则暗示另一种；其下 Williams 又在 6/4 与 4/4 的感觉间切换。它从不解决，也从不瓦解。"
+    },
+    "wayne-shorter-speak-no-evil": {
+      "whyThisOne": "Shorter 的作品在这里把硬博普的直接与后博普的含混平衡得最完美。每首曲子至今仍有人演奏，却没有一首能够被干净利落地分析。",
+      "listenFor": "《Infant Eyes》采用十三小节曲式——一个奇数，不亲自数拍几乎不会察觉。正是这种非对称让旋律显得悬浮。"
+    },
+    "eric-dolphy-out-to-lunch": {
+      "whyThisOne": "这是 Dolphy 生前最后一张以领奏者身份录制的录音室专辑，完成于他三十六岁去世前四个月。没有钢琴；颤音琴刻意不明确和声，所有东西都摇摇欲坠。",
+      "listenFor": "整张唱片里，Tony Williams 始终绕着拍点而非落在拍点上演奏，Hutcherson 则以从不确认调性的和弦回应。这种不稳定是写进作品的，不是意外。"
+    },
+    "andrew-hill-point-of-departure": {
+      "whyThisOne": "这是 Blue Note 后博普唱片中结构最激进的一张。Hill 的曲式非对称，和声按其他人从未使用的音程移动，乐队却应对得毫不费力。",
+      "listenFor": "初听《Refuge》，你无法把曲式归结为一个可数的小节数。Hill 正是如此写成，而乐队在上面独奏时看不出任何困难。"
+    },
+    "joe-henderson-inner-urge": {
+      "whyThisOne": "Henderson 与 Coltrane 的节奏组合作；标题曲的和弦以三全音移动，从不停驻。他不断穿行于和声内外，却从未听起来迷失。",
+      "listenFor": "《Inner Urge》的和弦进行依照一种不给人任何舒适落脚点的型态移动，Henderson 却还是不断找到落脚之处。"
+    },
+    "herbie-hancock-empyrean-isles": {
+      "whyThisOne": "这支四重奏除钢琴外没有其他和弦乐器，并以短号代替小号，让整张唱片更轻盈。《Cantaloupe Island》后来又因被采样而获得第二次生命。",
+      "listenFor": "《The Egg》在一张 1964 年的 Blue Note 唱片上呈现十四分钟近乎自由的演奏，足以说明后博普已逼近边缘到什么程度。"
+    },
+    "bobby-hutcherson-dialogue": {
+      "whyThisOne": "这是 Hutcherson 第一次担任领奏者的录音，由 Andrew Hill 与 Joe Chambers 写作——两人是 Blue Note 旗下结构探索最大胆的作曲家。部分段落走得比《Out to Lunch》还远。",
+      "listenFor": "《Ghetto Lights》在写定框架内包含集体自由即兴段落。颤音琴与钢琴的组合刻意让和声保持含混。"
+    },
+    "sam-rivers-fuchsia-swing-song": {
+      "whyThisOne": "Rivers 刚离开 Miles Davis 的乐队，不久后又将成为阁楼场景的主持者。此时的他恰好处在边界上——曲式勉强维持，演奏却不断越过它。",
+      "listenFor": "Rivers 把这称为“内外演奏”：乐曲在那里，和声也在那里；独奏出于选择而非义务与两者发生关系。"
+    },
+    "tony-williams-lifetime-spring": {
+      "whyThisOne": "Williams 当时十九岁，带领一场有两支次中音萨克斯的录音，其中一半曲目没有和弦乐器。节奏自由比他与 Miles 合作的任何作品都走得更远。",
+      "listenFor": "《Extras》没有钢琴、没有明确和声，也没有固定拍号——Williams 是在用鼓作曲，而不是伴奏。"
+    },
+    "machito-afro-cuban-jazz-suite": {
+      "whyThisOne": "Chico O'Farrill 的五乐章组曲，由 Charlie Parker 在真正的古巴节奏组上独奏。它以完整篇幅陈述这场相遇，而不是把它做成猎奇单曲。",
+      "listenFor": "Parker 完全按照自己在比博普和弦进行上的方式演奏，节奏组则丝毫不为他调整。两种语言都保持完整，彼此摩擦便构成了唱片。",
+      "note": "1950 年 12 月 21 日录于纽约；最初由 Mercury 的 Clef 系列以 MG C-505 发行，1950 年代又在 Clef、Norgran 与 Verve 多次再版，因此发行年份有 1951 至 1957 年等不同说法。"
+    },
+    "tito-puente-dance-mania": {
+      "whyThisOne": "这是最锋利状态下的曼波大乐队：拥有大乐队级别的编曲功力，节奏组则从不松手。这是爵士不断借用的传统中，面向舞池的那一半。",
+      "listenFor": "管乐声部的编排如 Basie 总谱般精确，打击乐却在其下承载一套完全独立的节奏结构。"
+    },
+    "cal-tjader-soul-sauce": {
+      "whyThisOne": "这是 1960 年代最成功的拉丁爵士跨界唱片，基础是一首 Dizzy Gillespie—Chano Pozo 作品，由 Willie Bobo 改名。容易进入，却并不单薄。",
+      "listenFor": "Tjader 的颤音琴置于真正的古巴节奏组之上，而不是由爵士鼓手模仿拉丁节奏。Willie Bobo 与 Armando Peraza 是货真价实的行家。"
+    },
+    "eddie-palmieri-harlem-river-drive": {
+      "whyThisOne": "萨尔萨、灵魂乐、爵士与黑人政治意识汇于一张唱片；主导者是来自布朗克斯的波多黎各裔乐队领导 Eddie Palmieri，鼓手则是 Bernard Purdie。几乎没有别的作品听起来像它。",
+      "listenFor": "节奏组同时演奏克拉韦与强硬的放克反拍，照理说不可能，而这正是纽约拉丁音乐所做的事。"
+    },
+    "irakere-irakere-1979": {
+      "whyThisOne": "在一次短暂的外交解冻期，古巴最重要的乐队于美国现场录音，在同一首作品里演奏约鲁巴巴塔鼓、后博普和声与摇滚吉他。它赢得格莱美奖，随后成员开始叛逃。",
+      "listenFor": "巴塔鼓是桑特里亚实践中的神圣乐器，这里却被放进爵士编曲。在当时的古巴，这种组合同时带有政治与宗教负荷。"
+    },
+    "gonzalo-rubalcaba-diz": {
+      "whyThisOne": "一位技巧惊人的古巴钢琴家演奏 Gillespie 的曲目，为 1947 年开启的圆环收口。Rubalcaba 的节奏错位达到几乎无人尝试的层次。",
+      "listenFor": "他把拍点当作有弹性的东西，乐句远远拉过本应落下的位置，最后却精确抵达。克拉韦始终潜藏在一切之下。"
+    },
+    "mongo-santamaria-afro-roots": {
+      "whyThisOne": "大部分内容只有鼓与人声，几乎没有爵士配器——这是整个流派其余一切所建立其上的非裔古巴宗教与民俗素材。",
+      "listenFor": "拿掉管乐和钢琴，剩下的便是这些：彼此咬合的鼓乐声部，以及以源自约鲁巴的卢库米语进行的呼应式歌唱。",
+      "note": "收录 1958 年 Fantasy 专辑《Yambú》与《Mongo》的内容；Prestige 双密纹唱片再版发行于 1972 年。"
+    },
+    "jerry-gonzalez-rumba-para-monk": {
+      "whyThisOne": "Monk 的曲子改用非裔古巴节奏演奏，而且契合得令人不安——原来 Monk 的棱角与克拉韦的不对称彼此兼容。",
+      "listenFor": "听伦巴感觉下的《Evidence》。Monk 的旋律本就在错置重音；把它放到克拉韦之上，效果便加倍。"
+    },
+    "arturo-ofarrill-cuba-the-conversation": {
+      "whyThisOne": "美国与古巴宣布恢复外交关系数日后，这张唱片录于哈瓦那；领军者正是《Afro-Cuban Jazz Suite》作者之子。谱系是字面意义上的，受委约创作的新作品也相当严肃。",
+      "listenFor": "Vijay Iyer 与 Rudresh Mahanthappa 的贡献，把当代节奏思维叠到克拉韦传统之上；这与 1947 年的融合是另一种结合。"
+    },
+    "getz-gilberto-1964": {
+      "whyThisOne": "它销量惊人，赢得年度专辑，并把波萨诺瓦变成全球商品——而在无处不在的名声之下，它仍是一张制作极佳、三位主角都处于巅峰的唱片。",
+      "listenFor": "只听 João Gilberto 的吉他。右手独自完成整套桑巴打击乐声部所做的事，歌声则如此贴近麦克风，近乎私语。"
+    },
+    "joao-gilberto-chega-de-saudade": {
+      "whyThisOne": "一切从这张唱片开始。Gilberto 的吉他型态与演唱方式一出现便已完整成形，巴西流行音乐从此有了前与后的分界。",
+      "listenFor": "节奏的错位跨越两个小节，而不是每小节重复，因此从不显得机械。要数两个小节，不是一个。"
+    },
+    "jobim-wave": {
+      "whyThisOne": "Jobim 在这里担任领奏者，而不只是别人背后的歌曲作者，并配有 Claus Ogerman 的管弦编写。这些作品是其时代和声最富创造力的流行歌曲。",
+      "listenFor": "标题曲的旋律长时间停留在两个音上，和弦却在其下移动。几乎所有信息都存在于和声中。"
+    },
+    "elis-tom-1974": {
+      "whyThisOne": "巴西最伟大的歌手遇上最伟大的歌曲作者，录于洛杉矶；两人后来都说录音过程气氛紧张。这是这批曲目中大多数作品的权威演绎。",
+      "listenFor": "Regina 演唱时的力度与节奏冲击远超波萨诺瓦惯例，因此这张唱片拥有早期作品所没有的锋芒。"
+    },
+    "hermeto-pascoal-slaves-mass": {
+      "whyThisOne": "Pascoal 代表着完全没有波萨诺瓦克制的巴西传统——民间曲式、自由即兴；这张唱片甚至把一群活小猪的叫声用作乐器。",
+      "listenFor": "小猪并不是拿先锋音乐开玩笑；Pascoal 为它们调音并进行编排。他整个创作实践的核心，就是任何声音都能用于作曲。"
+    },
+    "milton-nascimento-clube-da-esquina": {
+      "whyThisOne": "这是米纳斯吉拉斯集体在独裁时期制作的双专辑，混合巴西民间音乐、源自 Beatles 的歌曲写作、爵士和声与合唱编写。Wayne Shorter 随后邀请 Nascimento 参与《Native Dancer》。",
+      "listenFor": "听人声写作——Nascimento 的假声与层层叠加的和声声部相对，在巴西或美国音乐中几乎都没有先例。"
+    },
+    "egberto-gismonti-danca-das-cabecas": {
+      "whyThisOne": "巴西民间素材、古典吉他技巧与自由即兴，以 ECM 的清晰音质录下。巴西传统与欧洲室内爵士在这里以平等地位相遇。",
+      "listenFor": "Vasconcelos 的比林包——源自卡波耶拉实践的单弦弓形乐器——被当作旋律与节奏乐器，而不是地方色彩。"
+    },
+    "airto-moreira-fingers": {
+      "whyThisOne": "这位刚参加《Bitches Brew》的巴西打击乐手制作自己的唱片，让巴西曲式驱动融合爵士配器，而不是只为其装饰。",
+      "listenFor": "打击乐是前排主奏乐器，节奏也真正来自巴西，而不是多数美国融合爵士敷衍采用的泛拉丁感觉。"
+    },
+    "tania-maria-come-with-me": {
+      "whyThisOne": "一位钢琴家用葡萄牙语和拟声唱法，以高速齐唱自己即兴弹出的线条。技术要求惊人，唱片则是纯粹的推进力。",
+      "listenFor": "她用人声逐音复制自己的钢琴独奏。这是一种明确而罕见的技巧，也会改变线条的塑造方式。"
+    },
+    "mulatu-astatke-ethiopiques-4": {
+      "whyThisOne": "这张选集把埃塞爵士介绍给埃塞俄比亚之外的世界，收录 Astatke 黄金时代在 Amha 与 Philips 发行的单曲。Jim Jarmusch 在《Broken Flowers》中用了其中数首。",
+      "listenFor": "听《Yèkèrmo Sèw》——五声音阶调式内部有很大的音程空隙，因此旋律既不像大调也不像小调，律动则全程略拖在拍点之后。"
+    },
+    "mulatu-astatke-afro-latin-soul": {
+      "whyThisOne": "Astatke 返回埃塞俄比亚前录于纽约；它仍是拉丁爵士，却已开始出现埃塞俄比亚旋律素材。一个流派正在眼前施工。",
+      "listenFor": "节奏组是直截了当的拉丁风格。埃塞俄比亚元素存在于旋律与颤音琴线条中，而这正是 Astatke 当时研究的接缝。"
+    },
+    "mahmoud-ahmed-ere-mela-mela": {
+      "whyThisOne": "Crammed Discs 在 1986 年再版后，这张唱片让埃塞俄比亚音乐打入欧洲——比《Éthiopiques》系列早十年。Ahmed 的演唱，是 Astatke 器乐计划的人声对应物。",
+      "listenFor": "人声装饰以西方音阶中不存在的微分音级进移动，其下乐队则演奏相当直接的风琴与管乐律动。"
+    },
+    "getatchew-mekurya-ethiopiques-14": {
+      "whyThisOne": "Mekurya 把谢勒拉——一种独唱、无伴奏的埃塞俄比亚战争吟唱——移植到次中音萨克斯上，并沿一条完全独立的路径，抵达听似 Albert Ayler 的声音。",
+      "listenFor": "漫长、无伴奏、宣叙般的段落背后根本没有爵士先例。他当时从未听过与自己演奏相似的自由爵士。"
+    },
+    "hailu-mergia-tche-belew": {
+      "whyThisOne": "这是德尔格年代一张全器乐的埃塞俄比亚放克唱片，由 Mergia 的风琴承载调式。他后来在华盛顿特区开了数十年出租车，才被重新发现。",
+      "listenFor": "《Musicawi Silt》建立在一个贯穿全曲、从不变化的两小节乐句上。趣味来自律动轻微的拖拍与风琴装饰。"
+    },
+    "girma-beyene-ethiopiques-30": {
+      "whyThisOne": "这位黄金时代大量唱片背后的编曲者，在沉寂约三十年后重返录音，由一支年轻的法国埃塞爵士乐队伴奏。故事的核心是跨世代传承。",
+      "listenFor": "乐队以学生般的准确演奏这种语言，Bèyènè 的乐句却比他们更松、更奇异。两者间的落差很有启发性。"
+    },
+    "ethiopiques-13-ethiopian-groove": {
+      "whyThisOne": "这是同一场景中偏人声与舞蹈的一面，说明埃塞爵士身处更广阔的埃塞俄比亚流行音乐内部，而不是独立于它。",
+      "listenFor": "Alèmayèhu Eshèté 被称作“埃塞俄比亚的 Elvis”，影响清晰可闻，却叠在完全非西方的旋律素材之上。"
+    },
+    "mulatu-heliocentrics-inspiration-information": {
+      "whyThisOne": "六十五岁的 Astatke 与一支伦敦迷幻爵士乐队合作；这是真正双向的协作，而不是请年轻乐队为传奇人物伴奏。它也是埃塞爵士进入当代英国场景的主要通道。",
+      "listenFor": "Heliocentrics 刻意采用浑浊、充满牙买加回响音乐感的制作，比 1970 年代亚的斯亚贝巴那些干净的录音更适合这些调式。"
+    },
+    "alemayehu-eshete-ethiopiques-9": {
+      "whyThisOne": "黄金时代最富魅力的歌手，由 Walias Band 伴奏。这是场景中最接近流行音乐的一端，也显示埃塞爵士与埃塞俄比亚流行音乐间的界线其实多么薄。",
+      "listenFor": "乐队的管乐乐句与风琴取自美国灵魂乐唱片，人声线条却完全停留在埃塞俄比亚调式实践之内。"
+    },
+    "terumasa-hino-hi-nology": {
+      "whyThisOne": "这张唱片宣告日本现代爵士已是自身独立的事物，而不再是进口品。它采用调式、推进强硬，录音冲击力也是同年美国唱片少有的。",
+      "listenFor": "标题曲停留在固定音型上，仅靠不断累积来发展。Motohiko Hino 的鼓比 1969 年任何 Blue Note 录音都更沉重，也更受摇滚影响。"
+    },
+    "masabumi-kikuchi-poo-sun": {
+      "whyThisOne": "这是 Kikuchi 早期的电声作品，与 Hino 兄弟合作，位于调式爵士与某种更粗粝声音之间。它成为最受追捧的日本爵士唱片之一，绝非偶然。",
+      "listenFor": "电钢琴被用得打击性强而尖锐，并不追求温暖；这与 1970 年美国融合爵士使用它的方式恰好相反。"
+    },
+    "yosuke-yamashita-clay": {
+      "whyThisOne": "现场录于德国莫尔斯音乐节；正是这个三重奏让欧洲听众开始认真看待日本自由爵士。演奏的肉身暴烈感就是重点。",
+      "listenFor": "有些段落里，Yamashita 用前臂和手肘攻击钢琴，但底层和声思维从不变得随机。Sakata 的中音萨克斯尖叫着，却仍保持音准。"
+    },
+    "isao-suzuki-blow-up": {
+      "whyThisOne": "这是 Three Blind Mice 招牌声音的最佳状态：发烧级录音、由贝斯手领军，素材强烈摇摆却不复古。这是厂牌的名片。",
+      "listenFor": "贝斯录音的临场感与深度，是 1973 年几乎没有美国爵士唱片尝试的。TBM 的录音工程确实属于这种音乐身份的一部分。"
+    },
+    "masahiko-togashi-we-now-create": {
+      "whyThisOne": "录制后不久，Togashi 受伤导致双腿瘫痪，被迫彻底重建打击乐方法。这里对沉默与空间的使用，与美国自由爵士中的任何作品都不同。",
+      "listenFor": "长时间几乎一无所有，随后突然密集起来。这种动态策略更接近 AACM，而非纽约的能量型演奏，却是独立抵达的。"
+    },
+    "ryo-fukui-scenery": {
+      "whyThisOne": "一位来自札幌的自学钢琴家制作了一张直截了当的三重奏唱片，四十年间几乎无人注意，随后却在网上获得庞大听众。演奏不炫耀，却完全笃定。",
+      "listenFor": "他演绎《Willow Weep for Me》时从容得近乎静止，触键就是全部故事——每个音都被安放，而不是随手弹出。"
+    },
+    "toshiko-akiyoshi-kogun": {
+      "whyThisOne": "Akiyoshi 把日本传统乐器与能乐唱腔写进大乐队配器，作品讲述一名到 1972 年仍在继续第二次世界大战的士兵。当时没有其他人这样写作。",
+      "listenFor": "日本小鼓与源自能乐的人声呼喊承担结构功能，而非装饰——整套编曲都为容纳它们的时间感而建。"
+    },
+    "kohsuke-mine-mine": {
+      "whyThisOne": "Three Blind Mice 的首张发行，也是奠定厂牌标准的唱片。Mine 的中音萨克斯音色坚硬、锐利，受 Coltrane 高音萨克斯影响，却与 Cannonball 毫无关系。",
+      "listenFor": "听录音工程——这是 TBM-1，Yoshihiko Kannari 对架子鼓的录制已经胜过同时代大多数美国爵士唱片。"
+    },
+    "koichi-matsukaze-at-the-room-427": {
+      "whyThisOne": "这是来自日本、在大厂体系之外制作的灵性爵士，兼具 Impulse! 目录中的调式强度与鲜明的日本空间感。",
+      "listenFor": "漫长的调式累积沿用 Coltrane 四重奏的轮廓，动态却降得远低于同期美国乐队所会允许的程度。"
+    },
+    "peter-brotzmann-machine-gun": {
+      "whyThisOne": "这是一条划在沙地上的界线。八位乐手整张唱片都以最大音量演奏，因为没有厂牌愿意碰，只能自行发行。它不是最温和的入口，却最清楚地陈述欧洲自由音乐所拒绝的一切。",
+      "listenFor": "其中确有写定主题——一个反复、刺击般的音型——会间歇回归。一旦听见，唱片便不再只是噪声，而显现为结构。",
+      "note": "最初于 1968 年由 Brötzmann 自己的 BRÖ 厂牌自行发行，后来由 FMP 再版。"
+    },
+    "derek-bailey-solo-guitar-vol1": {
+      "whyThisOne": "Bailey 独自演奏，唱片由他共同创办的厂牌发行，目的就是彻底绕开唱片工业。这是已成为完整实践的非惯用语即兴，而不只是一份宣言。",
+      "listenFor": "没有一句像爵士线条、摇滚反复乐句或古典音型。他主动避开吉他拥有的每一种惯用语，而这种自律清晰可闻。"
+    },
+    "evan-parker-monoceros": {
+      "whyThisOne": "高音萨克斯独奏，直接刻录唱片；Parker 以循环呼吸与复音，让一支管乐器产生连续重叠的线条。这种技术在爵士中没有先例。",
+      "listenFor": "他从不停下来换气，你会从一件单音乐器听见两三条同时进行的线。这既是身体成就，也是作曲成就。"
+    },
+    "spontaneous-music-ensemble-karyobin": {
+      "whyThisOne": "这是英国即兴中安静、快速、互动密集的一端——Stevens 称它为“昆虫音乐”。Dave Holland 也在其中，数月后 Miles Davis 便雇用了他。",
+      "listenFor": "所有人都轻声演奏，在几分之一秒内作出回应。没人投射自我，也没人领奏。它与同年《Machine Gun》正处于两个相反极点。"
+    },
+    "icp-tetterettet": {
+      "whyThisOne": "这是荷兰方法：荒诞主义、突然坍缩进 Monk 或 Herbie Nichols 的曲子，以及拒绝照单全收先锋派的严肃姿态。它也真的非常好笑。",
+      "listenFor": "一段自由即兴会毫无预警地解决成一首完全摇摆的 Monk 曲子，随后又再度瓦解。这个笑话对惯用语如何运作提出了真正的观点。"
+    },
+    "globe-unity-orchestra-1966": {
+      "whyThisOne": "这是受委约为 1966 年柏林爵士音乐节创作的大型合奏自由即兴，光这一点就非同寻常。Schlippenbach 的写作为混沌赋予轮廓。",
+      "listenFor": "写定段落从集体即兴中浮现，又溶解回去。管弦乐团是一件作曲乐器，而不只是更多人一起自由演奏。"
+    },
+    "alexander-von-schlippenbach-pakistani-pomade": {
+      "whyThisOne": "这个三重奏合作已超过五十年，而这是他们最早期的唱片之一。欧洲自由即兴在这里是长期运作的合奏语言，而非一次性相遇。",
+      "listenFor": "三人如同一个有机体移动；钢琴的用法偏打击性与点描性，而不是和声性。"
+    },
+    "company-6-and-7": {
+      "whyThisOne": "Bailey 的 Company 是临时聚会，让从未合作过的音乐家以不断变化的组合登台。这是 1977 年在伦敦举行、为期一周的音乐节，美国与欧洲先锋派在此真正相遇。",
+      "listenFor": "每首曲目都是不同组合。比较 Braxton 与 Bailey 合作时，和他与 Steve Lacy 合作时的表现——同一位演奏者听来像不同的音乐家。"
+    },
+    "schweizer-moholo-duo": {
+      "whyThisOne": "一位瑞士钢琴家与来自 Blue Notes 的南非鼓手合作；后者的流亡经历把黑人城镇节奏带进欧洲自由音乐。这个二重奏是这种语言中最伟大的长期搭档之一。",
+      "listenFor": "Moholo 的演奏在自由即兴下方始终携带南非黑人城镇音乐的感觉，因此律动不断像要爆发出来，而且有时真的会出现。",
+      "note": "Intakt 曾以数个不同目录编号再版这一二重奏；原版发行资料没有得到一致记录。"
+    },
+    "ornette-coleman-shape-of-jazz-to-come": {
+      "whyThisOne": "这是史上最容易进入的自由爵士唱片。旋律可以哼唱，脉搏稳定，唯独没有和弦序列——实际被移除的只有这一样东西。",
+      "listenFor": "《Lonely Woman》拥有人人都能跟随的清楚、哀伤主题。接着留意：贝斯与管乐并未就速度达成一致，也没有钢琴告诉你身处哪个调。"
+    },
+    "ornette-coleman-free-jazz": {
+      "whyThisOne": "两支四重奏各居一个立体声声道，在只有少量写定提示的情况下共同即兴，连续三十七分钟不间断。它为运动赋予名称，至今仍是集体方法最极端的宣言。",
+      "listenFor": "戴耳机播放。两支四重奏被彻底分隔在左右，你可以一次追随一支乐队，也可以聆听它们碰撞。"
+    },
+    "cecil-taylor-unit-structures": {
+      "whyThisOne": "这是 Taylor 最密集、组织最严密的唱片，由大厂发行，并附有他亲自撰写、解释结构单元的文字。它无调、打击性强，与 Coleman 的自由版本完全不同。",
+      "listenFor": "钢琴被当作打击乐器演奏——音簇、前臂、极高速度——但音高素材经过组织，并非随机。跟随一个音程，你会听见它再次出现。"
+    },
+    "albert-ayler-spiritual-unity": {
+      "whyThisOne": "三十分钟、三位乐手、没有和弦、没有拍号；旋律像由陷入痛苦的人吹出的童谣或救世军赞美诗。这是爵士情感最极端的唱片。",
+      "listenFor": "《Ghosts》有一条简单得近乎稚气的旋律。Ayler 先平直地陈述它，随后用宽得化为嚎叫的颤音把它摧毁，最后又完整回到旋律。"
+    },
+    "john-coltrane-ascension": {
+      "whyThisOne": "十一位音乐家、四十分钟，在全体集体即兴与个人独奏之间交替。Coltrane 的听众跟随他来到这里，因此自由爵士才获得原本不会拥有的倾听机会。",
+      "listenFor": "结构简单而清晰可闻：全体合奏，然后独奏，再回到全体合奏。一旦听见这种交替，声音之墙就有路可循。",
+      "note": "存在两个完整录音版本；发行后不久，Impulse! 便以第二版替换第一版。"
+    },
+    "sun-ra-heliocentric-worlds-vol1": {
+      "whyThisOne": "这是 Arkestra 最抽象的状态，以定音打击乐、定音鼓与空间取代管乐吹奏。它听来更接近 Varèse 而非爵士，而这正是重点。",
+      "listenFor": "几乎没有稳定脉搏，却有大量定音打击乐。早在 AACM 把它发展成方法前十年，Sun Ra 已在处理管弦色彩与沉默。"
+    },
+    "archie-shepp-fire-music": {
+      "whyThisOne": "Shepp 明确把音乐与黑人政治斗争相连——其中有一首悼念 Malcolm X、带朗诵文字的挽歌——同时又正统演奏一首 Duke Ellington 抒情曲。这种组合完全出于有意。",
+      "listenFor": "在《Malcolm, Malcolm — Semper Malcolm》中，Shepp 伴着乐队朗诵自己的诗。自由爵士的政治通常要靠推断；这里则直接说了出来。"
+    },
+    "coltrane-interstellar-space": {
+      "whyThisOne": "次中音萨克斯与鼓的二重奏，录于 1967 年 2 月，距离 Coltrane 去世五个月。这里已经没有任何可抓住的东西——没有贝斯、没有和声、没有拍号。",
+      "listenFor": "每首作品以行星命名，并由铃声开场。Ali 并不维持拍点；他制造一片连续的场域，让 Coltrane 从中穿行。"
+    },
+    "charles-mingus-changes-one": {
+      "whyThisOne": "这是 Mingus 最后一支伟大乐队：曲子作曲扎实，独奏却完全走向界外。Don Pullen 用指关节弹琴，唱片依然摇摆。",
+      "listenFor": "Pullen 的独奏从和弦进行内部开始，以手背敲出的音簇结束，随后再返回。两种语言之间的转换无缝而清楚可闻。"
+    },
+    "art-ensemble-of-chicago-les-stances-a-sophie": {
+      "whyThisOne": "这是一部录于巴黎的电影配乐，也是 Art Ensemble 最能立即带来愉悦的作品。《Theme de Yoyo》有贝斯线、反拍和 Fontella Bass 的歌声，却依旧一听就是他们。",
+      "listenFor": "《Theme de Yoyo》是由先锋集体制作的放克唱片，自由演奏坐在律动之上，却不扰乱它。"
+    },
+    "roscoe-mitchell-sound": {
+      "whyThisOne": "这是第一张 AACM 唱片，也是第一张把沉默当作作曲材料、而非空缺的爵士专辑。它与同年纽约自由爵士听起来毫不相像。",
+      "listenFor": "标题曲有些段落很长时间几乎什么也不发生。这是对持续吹奏模式的有意拒绝，并由此定义芝加哥方法。"
+    },
+    "art-ensemble-people-in-sorrow": {
+      "whyThisOne": "一部四十分钟的单篇作品，几乎完全由细小声音、铃、哨与空间构成。这是把“伟大的黑人音乐”作为作曲纲领最完整的表达。",
+      "listenFor": "“小乐器”——自行车喇叭、锣、玩具——与管乐器一样被认真演奏。留意它们被安放得多么精确。"
+    },
+    "muhal-richard-abrams-levels-and-degrees": {
+      "whyThisOne": "这是 AACM 创始人的录音，Braxton 与 Leroy Jenkins 也在此早期亮相。作品包含诗、颤音琴持续音，以及没有明显先例的单簧管与人声质地。",
+      "listenFor": "开头是缓慢的颤音琴持续音，上方叠着女高音人声，长达数分钟。这是一张 1967 年的爵士唱片，却像氛围音乐一样开始。"
+    },
+    "anthony-braxton-creative-orchestra-music": {
+      "whyThisOne": "一家大厂出资制作大型合奏先锋唱片，Braxton 交出的作品在抽象段落旁还包含一首货真价实的马戏进行曲。它赢得评论家票选，至今仍令人吃惊。",
+      "listenFor": "第四轨是一首一本正经、规范演奏的进行曲。Braxton 的观点是整部历史都可成为素材，而不是把过去当作笑话。"
+    },
+    "henry-threadgill-air-lore": {
+      "whyThisOne": "一个先锋三重奏认真、毫无反讽地演奏 Scott Joplin 与 Jelly Roll Morton，并发现拉格泰姆的结构经得起自由处理。",
+      "listenFor": "《The Ragtime Dance》保持 Joplin 的曲式完整，三重奏却从下方把时间拆开。“从古至未来”，在一首曲目中得到示范。"
+    },
+    "world-saxophone-quartet-revue": {
+      "whyThisOne": "只有四支萨克斯，别无其他——完全没有节奏组——却以大乐队般的密度演奏写定素材。它诞生于阁楼场景与 BAG／AACM 的离散群体。",
+      "listenFor": "没有鼓与贝斯，所有节奏推动都必须来自动作与乐句。听低音萨克斯如何同时发挥贝斯与管乐声部的功能。"
+    },
+    "revolutionary-ensemble-peoples-republic": {
+      "whyThisOne": "小提琴、贝斯与鼓组成地位完全平等的集体三重奏，三人都参与写作。以弦乐主导的质地，使它成为整个先锋领域最奇异、最接近室内乐的唱片之一。",
+      "listenFor": "Jenkins 同时以爵士感与当代古典技巧演奏小提琴。在这种音乐中，这件乐器几乎没有其他范本。"
+    },
+    "threadgill-you-know-the-number": {
+      "whyThisOne": "Threadgill 的“六重奏”其实有七名成员——两位鼓手合算一个——并以大提琴承担中声部。写作充满对位与行进感，与任何其他人都不同。",
+      "listenFor": "两位鼓手演奏互补而非重复的声部，大提琴则占据通常属于钢琴的位置，因此没有东西以传统方式明确陈述和声。"
+    },
+    "a-love-supreme": {
+      "whyThisOne": "这部四段组曲被明确作为宗教宣言奉上，于 1964 年 12 月一场录音中完成。它为整个语言提供了结构、意图与许可。",
+      "listenFor": "《Acknowledgement》里的四音贝斯音型，是整张唱片的种子。Coltrane 先在每个调上演奏它，最后才把它唱成词语——旋律由此变成真言。"
+    },
+    "pharoah-sanders-karma": {
+      "whyThisOne": "《The Creator Has a Master Plan》长达三十二分钟，从宁静的五声音阶旋律走到全面集体暴烈，再返回原处。一首曲目便呈现这种语言最典型的轮廓。",
+      "listenFor": "Leon Thomas 的约德尔唱法——他从中非俾格米人的歌唱中改造出的技巧——正在做此前没有任何爵士歌手尝试过的事。"
+    },
+    "alice-coltrane-journey-in-satchidananda": {
+      "whyThisOne": "竖琴、坦布拉持续音与印度教奉献框架汇于一张唱片，创作者本人真正实践着自己所演奏的信仰。爵士里没有别的作品听起来像它。",
+      "listenFor": "贯穿一切之下的坦布拉持续音不是效果，而是和声基础；这意味着音乐完全没有和弦变化，只有一个固定中心。"
+    },
+    "pharoah-sanders-thembi": {
+      "whyThisOne": "它比《Karma》更多样，也更精练，涵盖 Cecil McBee 的贝斯独奏、电钢琴质地与非洲打击乐。这是这种语言中制作意识最强的唱片。",
+      "listenFor": "《Astral Traveling》以 Lonnie Liston Smith 经过回声处理的电钢琴开场，基本就是新爵士在二十五年后重新发现的声音。"
+    },
+    "doug-carn-infant-eyes": {
+      "whyThisOne": "Jean Carn 为 Wayne Shorter 与 McCoy Tyner 的器乐曲演唱后来填写的歌词，其下是由风琴主导的灵性爵士，唱片则由黑人拥有的厂牌发行。这是这种语言最接近歌曲曲式的版本。",
+      "listenFor": "为《Infant Eyes》填词照理不会成功——Shorter 的旋律并不是歌曲旋律——而勉强让文字契合的张力，恰是它动人的一部分。"
+    },
+    "don-cherry-brown-rice": {
+      "whyThisOne": "这是 Cherry 全球计划中最电声化的状态——印度塔布拉鼓、非洲吟唱、电贝斯与受摩洛哥影响的持续音；创作者正是 Ornette Coleman 最初的号手。",
+      "listenFor": "标题曲的贝斯线放在放克唱片上也完全成立，人声吟唱却不行。Cherry 从未把两者视为不同类别。",
+      "note": "最初在意大利由 Horizon 以《Don Cherry》之名发行；A&M 的美国版改用《Brown Rice》这一标题。"
+    },
+    "alice-coltrane-ptah-el-daoud": {
+      "whyThisOne": "录于她在迪克斯山家中的地下室，两位次中音萨克斯手分别被硬置于左右声道。Joe Henderson 与 Pharoah Sanders 从相反美学出发演奏同一素材，这就是整张唱片。",
+      "listenFor": "Henderson 在一个声道，Sanders 在另一个。相同乐曲、相同和声，却对萨克斯究竟该做什么抱有完全不同的想法。"
+    },
+    "phil-ranelin-vibes-from-the-tribe": {
+      "whyThisOne": "底特律的 Tribe 集体经营自己的厂牌、杂志与音乐会，这是他们的核心唱片。灵性爵士在这里连接着明确的黑人民族主义组织政治。",
+      "listenFor": "管乐编排紧密，在调式漂移之下强烈摇摆——这是一支真正工作的底特律乐队，不是录音室临时拼装。"
+    },
+    "shabaka-and-the-ancestors-wisdom": {
+      "whyThisOne": "这张唱片与南非音乐家在约翰内斯堡一天内录成，是本世纪任何人对 1970 年代灵性爵士谱系最直接的延续。",
+      "listenFor": "调式固定音型下的南非黑人城镇和声，为它带来美国唱片所没有的上扬感。谱系既经过 Coltrane，也同样经过 Abdullah Ibrahim。"
+    },
+    "wildflowers-loft-jazz-sessions": {
+      "whyThisOne": "五张密纹唱片于 1976 年 5 月的十天里在 Studio Rivbea 录制，捕捉近百位音乐家在一间由音乐家拥有的房间中演奏。它是这一场景唯一全面的文献。",
+      "listenFor": "房间与观众的声音都被保留下来。这既不是音乐厅录音，也不是录音室日期——这是一个工作日夜晚的阁楼，现场大约四十人。"
+    },
+    "sam-rivers-streams": {
+      "whyThisOne": "这是一场来自蒙特勒音乐节的连续演出，Rivers 不间断地切换四件乐器，完全凭耳朵组织四十分钟自由演奏。",
+      "listenFor": "没有任何内容预先写定，听起来却从不散漫。Rivers 建立段落、将其收束，再开启新段落——这是拥有建筑师纪律的自由即兴。"
+    },
+    "david-murray-flowers-for-albert": {
+      "whyThisOne": "二十一岁的 Murray 刚到纽约，音色却越过自由爵士，回溯到 Ben Webster 与 Coleman Hawkins。标题曲是一首献给 Albert Ayler 的挽歌。",
+      "listenFor": "他的颤音与巨大低音区都是比博普前的手法，却被用于自由演奏。先锋派与次中音传统在这里重新接通。"
+    },
+    "julius-hemphill-dogon-ad": {
+      "whyThisOne": "录于圣路易斯，由 Hemphill 自己的厂牌发行，以大提琴代替贝斯，节奏音型则源自多贡素材。它是那些直到再版后才有人听见的伟大唱片之一。",
+      "listenFor": "标题曲的律动采用奇数拍，催眠般反复超过十五分钟。Abdul Wadud 的大提琴同时演奏贝斯、和声与对旋律。"
+    },
+    "arthur-blythe-lenox-avenue-breakdown": {
+      "whyThisOne": "大厂签下一位阁楼场景的中音萨克斯手，他做出的唱片包含大号、长笛与和声旋律法吉他，却依旧律动强劲。这是场景短暂触及主流的时刻。",
+      "listenFor": "Bob Stewart 的大号既是贝斯乐器，也是钩子。四十年后，伦敦场景围绕这个选择建立了一整套美学。"
+    },
+    "air-air-time": {
+      "whyThisOne": "这是 AACM 三重奏在纽约阁楼环境中的工作，Threadgill 还使用以汽车轮毂盖自制的“轮毂琴”。作曲与自由演奏在这里无法区分。",
+      "listenFor": "Fred Hopkins 全程把贝斯当作主奏声部。三重奏没有和弦乐器，因此他既承载低部，也承担很大一部分旋律内容。"
+    },
+    "oliver-lake-holding-together": {
+      "whyThisOne": "BAG 的方法被应用于纽约；在自由语境中加入电吉他，比这种做法成为常态早了数年。Lake 的写作比场景中大多数人更紧密、更棱角分明。",
+      "listenFor": "Michael Gregory Jackson 的吉他音色干净、源自摇滚，而不是爵士音色，因此更接近数年后市中心音乐将呈现的声音。"
+    },
+    "anthony-braxton-new-york-fall-1974": {
+      "whyThisOne": "这是 Braxton 第一张大厂专辑，于阁楼年代录于纽约，其中一首萨克斯四重奏作品比 World Saxophone Quartet 早两年预示了它。",
+      "listenFor": "图形标题并非故弄玄虚——每首作品都有指定结构；四重奏曲目的密度，来自四支管乐执行写定对位。"
+    },
+    "frank-lowe-black-beings": {
+      "whyThisOne": "这是阁楼年代以全部强度推进的能量型演奏，也是 William Parker 首次被录下的演出。它毫不妥协，甚至超过阁楼场景中的其他唱片。",
+      "listenFor": "小提琴被用作尖叫的高声部，而非抒情声部；整张唱片从头到尾都保持在同一个极高强度层级。"
+    },
+    "bitches-brew": {
+      "whyThisOne": "正是这张唱片让融合爵士成为商业与评论界共同关注的事件。十三位音乐家、三架键盘、两位鼓手；录音完成后，Teo Macero 又以磁带拼接组装出最终发行的曲目。",
+      "listenFor": "和声一次几乎二十分钟都不移动。变化的是密度与质地——音乐家进入又退出——以及 Macero 事后施加的剪辑。"
+    },
+    "miles-davis-in-a-silent-way": {
+      "whyThisOne": "它比《Bitches Brew》更安静也更奇异，是电声方法第一次完全奏效的地方。两首占满整面唱片的作品由 Macero 用短录音片段构建，Tony Williams 更在很长段落里只演奏踩镲。",
+      "listenFor": "标题组曲的开头与结尾是同一次录音，被使用了两遍。Macero 在剪辑中建立唱片轮廓，Davis 也予以认可。"
+    },
+    "weather-report-heavy-weather": {
+      "whyThisOne": "这是旋律最慷慨的融合爵士，Jaco Pastorius 已加入乐队，《Birdland》还成为真正的热门曲。乐团有一条规则：所有人始终都在独奏，也没有人在独奏；你能听见它确实成立。",
+      "listenFor": "Pastorius 用泛音与歌唱般的音色演奏无品电贝斯，此前没有先例。在《Teen Town》中，贝斯和鼓都由他演奏。"
+    },
+    "mahavishnu-inner-mounting-flame": {
+      "whyThisOne": "这是音量最大、速度最快、技术攻击性最强的融合爵士乐队，以摇滚音量演奏奇数拍，配有失真吉他与扩音小提琴。1971 年，它真的吓到了人。",
+      "listenFor": "《Dance of Maya》在 20/8 拍与曳步布鲁斯之间切换。数开头，你会失败；凭感觉，它却完全成立。"
+    },
+    "return-to-forever-romantic-warrior": {
+      "whyThisOne": "这是融合爵士最毫不羞怯的炫技唱片，采用中世纪概念，演奏精准得令人胆寒。它既是技巧优先一支的最高水位，也是反弹变得不可避免的转折点。",
+      "listenFor": "一切都在高速下齐奏完成——吉他、贝斯与键盘演奏同一条复杂线条。成就在合奏精度，而不是独奏。"
+    },
+    "tony-williams-lifetime-emergency": {
+      "whyThisOne": "它比《Bitches Brew》早数月录制，却暴烈得多。风琴、失真吉他，加上全音量演奏的 Williams；录音很糟，也因此反而更好。",
+      "listenFor": "录音确实很差——失真、浑浊——乐队却径直穿过它演奏。这是爵士音乐家选择摇滚的音量，却没有摇滚的制作。"
+    },
+    "miles-davis-on-the-corner": {
+      "whyThisOne": "发行时遭到痛斥，如今却被视为预言。它是一台不间断的放克机器，加入塔布拉鼓与西塔琴；Davis 明确以自己认为已经失去的年轻黑人听众为目标。",
+      "listenFor": "整张唱片的贝斯线几乎不变，小号也埋在混音里。Davis 做的是律动唱片，独奏只是其中一种质地。"
+    },
+    "jaco-pastorius-jaco-pastorius": {
+      "whyThisOne": "这张首作重新把电贝斯介绍为主奏乐器：翻奏 Charlie Parker，以泛音独奏贝斯，还把灵魂乐人声二重唱放进爵士唱片。",
+      "listenFor": "《Portrait of Tracy》是无品贝斯独奏，几乎全部以人工泛音演奏。此前从没有人让这件乐器发出这样的声音。"
+    },
+    "soft-machine-third": {
+      "whyThisOne": "这是英国进入融合爵士的路线，起点是迷幻摇滚，而非爵士。四首占满整面唱片的长曲、磁带循环、法兹风琴，以及一套从极简主义而非放克获得更多养分的节奏方法。",
+      "listenFor": "《Out-Bloody-Rageous》以磁带循环开场，比大多数电子爵士早二十年。坎特伯雷场景独立抵达了融合爵士。"
+    }
+  }
+}

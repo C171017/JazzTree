@@ -4,9 +4,9 @@
  */
 
 import * as store from '../store.js?v=2';
-import { el, eraSpanLabel } from '../lib/utils.js?v=2';
+import { el, eraSpanLabel } from '../lib/utils.js?v=3';
 import { NARRATIVE_FAMILY_ORDER as FAMILY_ORDER } from '../lib/layout.js';
-import { eraName, familyName, genreName, genreOneLine, t } from '../i18n.js?v=2';
+import { eraName, familyName, genreName, genreOneLine, t } from '../i18n.js?v=3';
 
 const ROW = 22;
 const LABEL_W = 210;

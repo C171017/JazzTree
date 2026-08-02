@@ -1,31 +1,34 @@
 # JazzTree
 
 A visual guide to 39 jazz genres, how they descend from and react against each
-other, and about 350 records to actually listen to.
+other, and about 350 records to actually listen to. The web, native iOS, and
+installable Android versions share one dataset and a complete English / Simplified
+Chinese editorial layer.
 
-Static site. No build step, no npm install, no framework. `index.html` opens and
-works from `file://`.
+Static site. No framework or dependency install is needed. Because modern browsers
+protect ES modules on `file://` pages, serve the folder with any small local web
+server instead of double-clicking `index.html`.
 
 ---
 
 ## Run it
 
-Just open the file:
-
-```bash
-open index.html
-```
-
-That works because `data/data.js` carries the same data as the JSON files, for the
-case where Chrome blocks `fetch` of local files. If you would rather serve it:
+From the project folder, run:
 
 ```bash
 python3 -m http.server 8787
 ```
 
-then visit <http://localhost:8787>. D3 v7 loads from jsDelivr with
-`vendor/d3.v7.min.js` as an automatic offline fallback, so the site works with no
-network at all.
+Then visit <http://localhost:8787>. D3 v7 is loaded directly from
+`vendor/d3.v7.min.js`, so the site works with no network at all.
+
+The generated no-JavaScript reading pages are `static.html` (English) and
+`static.zh-CN.html` (Simplified Chinese).
+
+The platform projects have their own instructions:
+
+- iOS: [`ios/README.md`](ios/README.md)
+- Android APK: [`android/README.md`](android/README.md)
 
 ---
 
@@ -33,7 +36,8 @@ network at all.
 
 ```
 index.html            the app shell; embeds static.html in a <noscript> block
-static.html           GENERATED — the whole guide as one plain page, no JS
+static.html           GENERATED — the whole English guide as one plain page, no JS
+static.zh-CN.html     GENERATED — the whole Simplified Chinese guide, no JS
 
 css/theme.css         design tokens: colour, type scale, dark + light themes
 css/main.css          shell, cards, side panel, paths, responsive rules
@@ -44,6 +48,7 @@ js/store.js           the entire application state (~90 lines, plain object
                       plus subscribers). Views subscribe; nothing reads state
                       out of DOM attributes.
 js/data.js            loads the JSON, falls back to window.__JAZZ_DATA__
+js/localize-data.js   overlays complete zh-CN editorial copy by stable data ID
 js/lib/layout.js      the deterministic layered DAG layout + edge paths
 js/lib/links.js       streaming search-URL generation
 js/lib/utils.js       DOM helpers, formatting, live-region announcements
@@ -56,7 +61,9 @@ js/views/panel.js     the slide-in genre profile and the album card component
 data/genres.json      39 genres + 103 lineage edges + families + eras
 data/albums.json      351 albums
 data/paths.json       3 listening paths
-data/data.js          GENERATED from the three files above, for file:// use
+data/data.js          GENERATED embedded backup for hosts where JSON fetch fails
+data/localization.zh-CN.{json,js}
+                      GENERATED complete Simplified Chinese editorial content
 data/build-data.js    regenerates data/data.js
 data/validate.js      the dataset validator — run this after any data edit
 
@@ -69,6 +76,10 @@ build/                authoring fragments + the verification scripts
   verify-musicbrainz.js cross-checks every album against MusicBrainz
   verify-retry.js       second, looser pass over the misses
   mb-*.json / *.txt     GENERATED verification output
+
+locales/zh-CN/        reviewable ID-keyed Chinese genre, lineage, album and path copy
+ios/                  native SwiftUI app; generated resources share the same copy
+android/              offline Android shell; packages the responsive web app in an APK
 
 research/notes.md     sources, the verification log, and Known gaps
 DECISIONS.md          every judgment call and its counter-argument
@@ -86,14 +97,12 @@ JavaScript.
 **After any edit, run:**
 
 ```bash
-node data/validate.js && node data/build-data.js && node build/gen-static.js
-```
-
-Or in one go:
-
-```bash
 npm run data
 ```
+
+This validates the canonical dataset, regenerates the web data and static page,
+then builds and strictly validates all Simplified Chinese editorial content.
+Run `npm run sync-ios` afterwards to refresh the iOS resources.
 
 `validate.js` exits non-zero on any error. It checks that the lineage graph is
 acyclic, that every genre has exactly one gateway album and 4–6 core / 3–4 deep,
@@ -102,7 +111,23 @@ album references resolve, that `released` is never before `recorded`, and about 
 dozen other things. Full list in `research/notes.md` §6.
 
 `build-data.js` regenerates `data/data.js`; `gen-static.js` regenerates
-`static.html`. Neither should ever be hand-edited.
+`static.html` and `static.zh-CN.html`. None should ever be hand-edited.
+
+### Editing Simplified Chinese
+
+The source fragments live under `locales/zh-CN/` and are keyed by stable genre,
+edge, album, path, and step IDs. They cover summaries, musical traits, listening
+markers, figure descriptions, contested notes, influence explanations, every
+album's editorial copy, and every path transition. Run:
+
+```bash
+npm run localization
+npm run test-localization
+npm run sync-ios
+```
+
+Official artist, record, track, person, and label names remain in their canonical
+form for historical accuracy and reliable streaming searches.
 
 ### The `build/` fragments
 

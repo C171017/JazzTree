@@ -6,8 +6,8 @@
  * and inventing them produces links that quietly go to the wrong record.
  */
 
-import { el } from './utils.js?v=2';
-import { t } from '../i18n.js?v=2';
+import { el } from './utils.js?v=3';
+import { t } from '../i18n.js?v=3';
 
 export const SERVICES = [
   { id: 'spotify', name: 'Spotify', short: 'S', title: 'Search on Spotify' },
@@ -24,7 +24,7 @@ export function searchUrl(service, artist, title) {
     case 'appleMusic':
       return `https://music.apple.com/us/search?term=${q}`;
     case 'netease':
-      return `https://music.163.com/#/search/m/?s=${encodeURIComponent(plain)}`;
+      return `https://music.163.com/#/search/m/?s=${encodeURIComponent(plain)}&type=10`;
     default:
       return '#';
   }

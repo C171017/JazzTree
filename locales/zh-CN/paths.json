@@ -1,0 +1,73 @@
+{
+  "paths": {
+    "start-here": {
+      "bridges": {
+        "james-p-johnson-carolina-shout": "先从一个人和一架钢琴开始，因为音乐的运作机制在这里最清楚：左手像行军，右手却偏不肯与它同时落下。",
+        "louis-armstrong-hot-fives-sevens": "Johnson 必须独自充当整支乐队；Armstrong 本来有一支乐队，后来却发现自己也不再需要它——爵士乐正是在这里由独奏者接管。",
+        "billie-holiday-quintessential-vol3": "Armstrong 证明歌手可以像管乐器那样组织乐句；Holiday 则让我们听见，有人得到这份许可后把它用在歌词上，会发生什么。",
+        "ellington-blanton-webster-band": "同一个年代，规模却走向另一端：不再是五个人彼此倾听，而是十五个人执行作曲家的设计，即兴被严格分配。",
+        "clifford-brown-max-roach-1954": "大乐队已经式微，小编制重新回来，但如今速度快得无法伴舞，和声转换也密了一倍。",
+        "moanin-1959": "比博普已经变成专家的音乐；这张唱片作出修正——仍是同样的和声，却放慢速度，并把布鲁斯与教堂重新放回其中。",
+        "kind-of-blue": "硬博普几乎每两拍就给独奏者一个新和弦。Miles Davis 在这里拿走其中绝大多数，看看还剩下什么可演奏。",
+        "a-love-supreme": "上一张唱片里就有 Coltrane。五年后，他沿用同样精简的和声，却把目标指向音乐之外。",
+        "miles-davis-in-a-silent-way": "又是 Davis，但乐器已经变了：电钢琴、电吉他，以及不再摇摆的八分音符。",
+        "herbie-hancock-head-hunters": "Hancock 在上一张唱片里弹电钢琴。四年后，他组建一支以律动本身作为作品、让独奏退居乘客位置的乐队。",
+        "wynton-marsalis-black-codes": "一代人认定电声化走错了路，于是回到原声乐器，以音乐学院式的精确和相当强劲的力度来演奏。",
+        "we-out-here-compilation": "再下一代则认定这场争论根本不值得继续，转而用非洲节拍、回响雷鬼与格莱姆音乐来建造爵士乐。"
+      }
+    },
+    "full-arc": {
+      "bridges": {
+        "rifkin-piano-rags-joplin": "爵士乐之前：切分节奏全部写进谱面的钢琴作品，没有即兴，也没有布鲁斯。后来的一切继承了这种节奏习惯，却舍弃了其余部分。",
+        "odjb-complete-original-dixieland": "史上第一张爵士唱片，由一支来自新奥尔良的白人乐队录制，而他们随后宣称自己发明了这种音乐。请同时记住这两个事实。",
+        "james-p-johnson-carolina-shout": "在哈莱姆，拉格泰姆的左手被放松、被赋予摇摆感，并在房租派对上变成一项竞技运动。",
+        "king-oliver-creole-jazz-band-1923": "这次真正回到新奥尔良：三支管乐同时即兴，第二位短号手也很快就不会甘居幕后。",
+        "louis-armstrong-hot-fives-sevens": "就是那位第二短号手。三年之间，集体演奏的前排管乐不再是核心，独奏者取而代之。",
+        "django-quintette-hot-club-1936": "这是这种音乐可以在别处被重新建造的第一份证据：地点在巴黎，没有鼓、没有管乐，吉他语言来自罗姆人的弦乐传统。",
+        "billie-holiday-quintessential-vol3": "与此同时在纽约，一位歌手和一位次中音萨克斯手摸索出如何隔着一首平庸的流行歌曲彼此对话。",
+        "count-basie-original-decca": "堪萨斯城的声音到来，改变了所有人脚下的地面——均匀的四拍，计时职责移到镲片上，还有巨大的空间。",
+        "ellington-blanton-webster-band": "写定传统的巅峰，出自一位为具体音乐家而非抽象声部写作的作曲家；正因如此，别人无法真正把它演对。",
+        "charlie-parker-savoy-dial": "接着是反叛：抛弃大乐队，抛弃舞池，速度加倍，并故意让和声变得更难追踪。",
+        "birth-of-the-cool": "四年后，同一套和声被降到一半温度，加入写定的对位与法国号，演奏者中还有非常年轻的 Miles Davis。",
+        "machito-afro-cuban-jazz-suite": "这是对比博普完全不同的回应：保留和声与独奏，用克拉韦节奏取代摇摆律动，整个节奏基础随之改变。",
+        "horace-silver-art-blakey-jazz-messengers-1955": "回到纽约，对冷爵士的修正就是重新加热——福音和弦、反拍，以及真正能让人哼唱的旋律。",
+        "joao-gilberto-chega-de-saudade": "在里约，聆听冷爵士唱片的音乐家取其克制，加入桑巴与复杂得多的和声，创造出一种直到今天仍让巴西人争论的音乐。",
+        "kind-of-blue": "Davis 对硬博普拥挤感的回答：拿走几乎所有和弦，看看独奏者会如何使用沉默。",
+        "ornette-coleman-shape-of-jazz-to-come": "同一年，在另一座城市，有人彻底拿走和弦，却保留旋律。外界的反应既充满敌意，也针对个人。",
+        "jimmy-smith-back-at-the-chicken-shack": "这些争论都没有传到街区酒吧；哈蒙德风琴在那里一直过得很好，听众还会大声回应。",
+        "wayne-shorter-speak-no-evil": "听过 Ornette Coleman 的音乐家只走了一半：曲式迟迟不解决，和声不肯表明调性，节奏组还会反驳独奏者。",
+        "a-love-supreme": "同一年的 Coltrane 把精简的和声用于另一件事——一部按宗教奉献来组织的组曲，以吟唱取代通常应出现主题的位置。",
+        "roscoe-mitchell-sound": "芝加哥对纽约自由爵士的回答：音乐家合作组织、写定段落、小型乐器，以及几乎什么都不发生的漫长时段。",
+        "miles-davis-miles-smiles": "Davis 的第二五重奏维持着脉搏，却把和声当作可以协商的东西——这是他插电之前最后的原声阶段。",
+        "terumasa-hino-hi-nology": "此时这种音乐已经永久离开美国：东京接过调式模板，演得更硬，录音品质也胜过美国几乎所有同类唱片。",
+        "bitches-brew": "Davis 插上电，雇来十三位音乐家，再让制作人用磁带剪接把唱片组装出来。由此引发的争论持续了二十年。",
+        "herbie-hancock-head-hunters": "那十三人中的一位组建了以律动本身作为作品的乐队，取得巨大销量，也因此被骂成向市场投降。",
+        "keith-jarrett-koln-concert": "欧洲对同一个年代作出完全不同的回应：一个人、一架走音的钢琴、没有计划，也几乎没有音量。",
+        "wildflowers-loft-jazz-sessions": "而在纽约，被所有俱乐部因价格或风险拒之门外的先锋音乐家租下阁楼，自行举办音乐会。这就是当时一个普通工作日晚上的声音。",
+        "wynton-marsalis-black-codes": "反革命到来：原声乐器、惊人的技巧，以及一场公开论战，声称此前十五年走的都是错路。",
+        "tribe-called-quest-low-end-theory": "就在这场争论进行时，同一座城市的制作人从那些无人购买的爵士唱片里截取两小节循环，用它们建造另一种音乐。",
+        "kamasi-washington-the-epic": "二十年后，在分裂两边的音乐中共同成长的一代，做出一张有合唱团、长达三小时的灵性爵士唱片，却由一家电子音乐厂牌发行。",
+        "we-out-here-compilation": "而在伦敦，一个从免费青少年音乐项目中成长起来的场景，为站着跳舞的听众演奏爵士，节奏来自拉各斯、金斯敦与西班牙港。"
+      }
+    },
+    "deep-end": {
+      "bridges": {
+        "john-coltrane-my-favorite-things": "从一首你已经熟悉的歌开始：它在两个和弦上被拉长到十三分钟。这里还没有什么古怪之处，你只是在学习等待。",
+        "art-ensemble-of-chicago-les-stances-a-sophie": "接着听带有低音线与反拍的先锋乐，你会发现自由演奏和律动并不是对立面。",
+        "ornette-coleman-shape-of-jazz-to-come": "保留可唱的旋律和稳定脉搏，只拿走一样东西：和弦进行。后面的一切都建立在这一次减法之上。",
+        "a-love-supreme": "同样的减法，这次指向虔敬而非自由——一个四音动机和一句真言撑起四十分钟。",
+        "alice-coltrane-journey-in-satchidananda": "现在彻底拿走和弦变化，以持续音取代，再加入竖琴。你的耳朵会停止寻找运动，转而聆听色彩。",
+        "pharoah-sanders-karma": "一段温柔的五声音阶旋律，走向猛烈之处后又返回。这是你第一次体验狂喜式推进，而且仍有一条安全的归途。",
+        "eric-dolphy-out-to-lunch": "回到一张以作曲为核心的唱片，但一切都摇摇欲坠——没有钢琴声明和声，鼓手也在拍点四周演奏，而不是落在拍点上。",
+        "ornette-coleman-free-jazz": "两支四重奏同时即兴，左右声道各一支。先一次追随一支，直到你能同时听见两边，再决定自己怎么看它。",
+        "albert-ayler-spiritual-unity": "现在旋律变得更简单，演奏却更极端。它既是圣歌也是嚎叫，而曲调始终能够幸存。",
+        "john-coltrane-ascension": "十一位乐手在集体的高密度声响与单人独奏之间交替。只要听见这种交替，那堵声墙就会显出结构。",
+        "cecil-taylor-unit-structures": "这是通往自由的另一条路：无调性、强调打击性，并由写定的单元而非感觉组织。这里没有任何东西来自布鲁斯。",
+        "roscoe-mitchell-sound": "芝加哥提出相反的主张——把沉默与空间本身当作材料，也拒绝仅仅因为磁带还在转就继续吹奏。",
+        "peter-brotzmann-machine-gun": "欧洲以整张唱片都维持最大音量的方式拒绝上述一切，包括布鲁斯与脉搏。里面确实有一个写定主题；试着把它找出来。",
+        "evan-parker-monoceros": "一支萨克斯管，没有换气停顿，却制造出数条同时进行的声部。此时你应当聆听质地，而不再寻找旋律。",
+        "coltrane-interstellar-space": "最后来到再无任何支撑之物的地方：次中音萨克斯与鼓，没有贝斯、没有和声、没有拍号。录制于他去世前五个月。"
+      }
+    }
+  }
+}

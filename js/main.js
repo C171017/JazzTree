@@ -1,15 +1,15 @@
 /** Wiring: load data, mount views, own the tab switcher and the global chrome. */
 
 import * as store from './store.js?v=2';
-import { loadData } from './data.js';
-import { el, $, announce } from './lib/utils.js?v=2';
-import { SERVICES } from './lib/links.js?v=2';
-import * as graph from './views/graph.js?v=2';
-import * as timeline from './views/timeline.js?v=2';
-import * as grid from './views/grid.js?v=2';
-import * as pathsView from './views/paths.js?v=2';
-import * as panel from './views/panel.js?v=2';
-import { setLocale, t } from './i18n.js?v=2';
+import { loadData } from './data.js?v=2';
+import { el, $, announce } from './lib/utils.js?v=3';
+import { SERVICES } from './lib/links.js?v=4';
+import * as graph from './views/graph.js?v=3';
+import * as timeline from './views/timeline.js?v=3';
+import * as grid from './views/grid.js?v=3';
+import * as pathsView from './views/paths.js?v=3';
+import * as panel from './views/panel.js?v=3';
+import { setLocale, t } from './i18n.js?v=3';
 
 const VIEWS = [
   ['graph', 'view.graph', 'view.graph.title'],
@@ -20,6 +20,9 @@ const VIEWS = [
 
 const NARROW = 720;
 const isNarrow = () => window.matchMedia(`(max-width: ${NARROW}px)`).matches;
+const viewTrail = [];
+let activeViewForBack = null;
+let restoringViewFromBack = false;
 
 boot();
 
@@ -33,7 +36,7 @@ async function boot() {
   document.querySelector('meta[name="description"]')?.setAttribute('content', t('meta.description'));
   applyTheme(store.get().theme);
 
-  const data = await loadData();
+  const data = await loadData(store.get().locale);
   const app = $('#app');
   // The <noscript> block never renders while scripting is on, but dropping it
   // keeps the DOM honest for anything reading the page after boot.
@@ -60,12 +63,25 @@ async function boot() {
 
   store.set({ ...data, year: data.present, view: startView });
   syncViews(startView);
+  activeViewForBack = startView;
+  window.__jazztreeHandleBack = handleInAppBack;
   if (isNarrow() && startView === 'grid') {
     announce(t('narrow.opened'));
   }
 
   store.subscribe((state, changed) => {
-    if (changed.includes('view')) syncViews(state.view);
+    if (changed.includes('view')) {
+      if (activeViewForBack != null && state.view !== activeViewForBack) {
+        if (restoringViewFromBack) {
+          restoringViewFromBack = false;
+        } else {
+          viewTrail.push(activeViewForBack);
+          if (viewTrail.length > 24) viewTrail.shift();
+        }
+        activeViewForBack = state.view;
+      }
+      syncViews(state.view);
+    }
     if (changed.includes('theme')) applyTheme(state.theme);
   });
 
@@ -79,6 +95,25 @@ async function boot() {
 
   // First paint of the view we opened on.
   requestAnimationFrame(() => rebuild(startView));
+}
+
+/** Called by the Android shell before it considers leaving the Activity. */
+function handleInAppBack() {
+  if (document.querySelector('.edge-pop:not([hidden])')) {
+    document.dispatchEvent(new KeyboardEvent('keydown', { key: 'Escape' }));
+    return true;
+  }
+  if (store.get().selectedGenre) {
+    store.set({ selectedGenre: null });
+    return true;
+  }
+  const previousView = viewTrail.pop();
+  if (previousView) {
+    restoringViewFromBack = true;
+    store.set({ view: previousView });
+    return true;
+  }
+  return false;
 }
 
 function viewShell(id) {
@@ -104,7 +139,7 @@ function masthead() {
     class: 'select', 'aria-label': t('service.label'),
     title: t('service.title'),
     onchange: (e) => store.set({ service: e.target.value }),
-  }, SERVICES.map((s) => el('option', { value: s.id, text: s.name, selected: store.get().service === s.id })));
+  }, SERVICES.map((s) => el('option', { value: s.id, text: t(`service.name.${s.id}`), selected: store.get().service === s.id })));
 
   const gentle = el('button', {
     class: 'chip', type: 'button', id: 'gentle-btn',
@@ -135,7 +170,7 @@ function masthead() {
     class: 'icon-btn locale-btn', id: 'language-btn',
     'aria-label': t('language'), title: t('language'),
     href: store.get().locale === 'zh-CN' ? '?lang=en' : '?lang=zh-CN',
-    text: store.get().locale === 'zh-CN' ? 'EN' : '简中',
+    text: store.get().locale === 'zh-CN' ? t('locale.switchEnglish') : '简中',
   });
 
   return el('header', { class: 'masthead' },

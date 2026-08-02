@@ -38,19 +38,22 @@ const zh = {
   'gentle.off': '轻松模式已关闭。',
   'theme': '切换深色与浅色主题',
   'language': '语言',
+  'locale.switchEnglish': '英文',
+  'locale.name.en': '英语',
+  'locale.name.zhCN': '简体中文',
   'narrow.opened': '已打开卡片视图 — 可从标签页进入谱系图；建议使用宽屏或双指缩放。',
   'footer.stats': '{genres} 种流派 · {edges} 条影响关系 · {albums} 张唱片。',
   'footer.sources.before': '所有内容均为人工撰写并注明来源；资料来源及未核实项目见 ',
   'footer.sources.middle': '，判断与取舍见 ',
   'footer.sources.after': '。',
   'footer.streaming': '流媒体按钮指向搜索结果，而非直接专辑链接 — 专辑 ID 无法由元数据推导，猜测 ID 可能会指向错误唱片。流派边界本就存在争议；每个档案都会说明争议所在。',
-  'footer.inline': '数据已从 data/data.js 加载（file:// 模式）。',
+  'footer.inline': '已加载内置备用数据。',
   'grid.search.placeholder': '搜索流派、音乐人、厂牌、城市…',
   'grid.search.label': '搜索流派',
   'grid.allFamilies': '全部家族',
   'grid.sort.label': '流派排序',
   'grid.sort.era': '年代',
-  'grid.sort.name': 'A–Z',
+  'grid.sort.name': '按名称',
   'grid.sort.family': '家族',
   'grid.sort.difficulty': '由易到难',
   'grid.graphCta': '查看谱系图 →',
@@ -97,7 +100,7 @@ const zh = {
   'graph.filtered': '当前仅显示传承了 {aspects} 的影响关系。',
   'graph.now': '现在',
   'graph.close': '关闭',
-  'graph.strength': '{strength}影响',
+  'graph.strength': '影响强度：{strength}',
   'graph.openHinge': '打开收录此唱片的流派档案',
   'graph.hearHinge': '聆听转折点',
   'panel.aria': '流派档案',
@@ -133,6 +136,13 @@ const zh = {
   'service.spotify': '在 Spotify 搜索',
   'service.appleMusic': '在 Apple Music 搜索',
   'service.netease': '在网易云音乐搜索',
+  'service.name.spotify': 'Spotify',
+  'service.name.appleMusic': 'Apple Music',
+  'service.name.netease': '网易云音乐',
+  'strength.strong': '强',
+  'strength.moderate': '中等',
+  'strength.weak': '弱',
+  'decade.format': '{decade}年代',
   'era.present': '至今',
   'difficulty.1': '轻松易听',
   'difficulty.2': '容易入门',
@@ -144,8 +154,12 @@ const zh = {
 };
 
 export function t(key, vars = {}) {
-  let value = activeLocale === 'zh-CN' ? zh[key] : undefined;
-  if (value == null) value = EN[key] ?? key;
+  let value;
+  if (activeLocale === 'zh-CN') {
+    value = zh[key] ?? `【缺少中文：${key}】`;
+  } else {
+    value = EN[key] ?? key;
+  }
   return String(value).replace(/\{(\w+)\}/g, (_, name) => vars[name] ?? `{${name}}`);
 }
 
@@ -161,11 +175,12 @@ const EN = {
   'gentle': 'Gentle path', 'gentle.title': 'Gentle path: hide the most demanding records (difficulty 4 and 5)',
   'gentle.on': 'Gentle path on — demanding records hidden.', 'gentle.off': 'Gentle path off.',
   'theme': 'Switch between the dark and light theme', 'language': 'Language',
+  'locale.switchEnglish': 'EN', 'locale.name.en': 'English', 'locale.name.zhCN': 'Simplified Chinese',
   'narrow.opened': 'Opened in card view — the lineage graph is available from the tabs and needs a wider screen or pinch-zoom.',
   'footer.stats': '{genres} genres · {edges} influence edges · {albums} records. ',
   'footer.sources.before': 'Everything here is hand-authored and sourced; see ', 'footer.sources.middle': ' for sources and a list of what could not be verified, ', 'footer.sources.after': ' for the judgment calls.',
   'footer.streaming': 'Streaming buttons are searches, not direct album links — album IDs cannot be derived from metadata and guessed ones point at the wrong records. Genre boundaries are contested; each profile says where and by whom.',
-  'footer.inline': 'Data loaded from data/data.js (file:// mode).',
+  'footer.inline': 'Embedded backup data loaded.',
   'grid.search.placeholder': 'Search genres, figures, labels, cities…', 'grid.search.label': 'Search genres', 'grid.allFamilies': 'All families', 'grid.sort.label': 'Sort genres',
   'grid.sort.era': 'Era', 'grid.sort.name': 'A–Z', 'grid.sort.family': 'Family', 'grid.sort.difficulty': 'Easiest first',
   'grid.graphCta': 'View the lineage graph →', 'grid.graphCta.title': 'The graph is wide: pinch to zoom and drag to pan',
@@ -177,8 +192,17 @@ const EN = {
   'panel.aria': 'Genre profile', 'panel.close': 'Close genre profile', 'panel.profileAria': '{name} — genre profile', 'panel.opened': '{name} profile opened.', 'panel.alsoCalled': 'Also called: {names}', 'panel.listenFor': 'What to listen for', 'panel.how': 'How it works', 'panel.figures': 'Key figures', 'panel.labels': 'Labels', 'panel.contested': 'Contested', 'panel.hear': 'What to hear', 'panel.gateway': 'Gateway', 'panel.gateway.note': 'the one record to start with', 'panel.core': 'The core', 'panel.core.note': 'what "representative of this genre" means', 'panel.deep': 'Deeper', 'panel.deep.note': 'for after you are hooked', 'panel.alsoFiled': 'Also filed here', 'panel.alsoFiled.note': 'records whose main home is a neighbouring genre', 'panel.gentleHidden': 'Gentle path is on — the more demanding records in this genre are hidden.',
   'album.recordedReleased': 'rec./rel. {year}', 'album.recorded': 'rec. {recorded} · rel. {released}', 'album.startWith': 'start with “{track}”', 'album.filedUnder': 'filed under: {genres}', 'album.listenFor': 'Listen for', 'album.note': 'Note: {note}', 'album.difficulty': 'Difficulty {difficulty} of 5 — {label}', 'album.confidence': '{confidence} confidence', 'album.weak': 'Corroboration for this entry is weaker than for most; see research/notes.md',
   'service.listen': 'Listen to {artist} – {title}', 'service.spotify': 'Search on Spotify', 'service.appleMusic': 'Search on Apple Music', 'service.netease': 'Search on NetEase Cloud Music (网易云音乐)',
+  'service.name.spotify': 'Spotify', 'service.name.appleMusic': 'Apple Music', 'service.name.netease': 'NetEase Cloud Music',
+  'strength.strong': 'strong', 'strength.moderate': 'moderate', 'strength.weak': 'weak', 'decade.format': '{decade}s',
   'era.present': 'present', 'difficulty.1': 'easy listen', 'difficulty.2': 'approachable', 'difficulty.3': 'some work', 'difficulty.4': 'demanding', 'difficulty.5': 'very demanding', 'confidence.medium': 'medium', 'confidence.low': 'low',
 };
+
+/** Exposed for build-time parity checks; application code should use t(). */
+export function uiTranslationKeys(localeID) {
+  if (localeID === 'zh-CN') return Object.keys(zh);
+  if (localeID === 'en') return Object.keys(EN);
+  return [];
+}
 
 const aspects = {
   harmony: ['harmony', '和声'], rhythm: ['rhythm', '节奏'], form: ['form', '曲式'],
@@ -209,7 +233,7 @@ const families = {
 const eras = { trad: ['Trad', '传统'], swing: ['Swing', '摇摆'], modern: ['Modern', '现代'], 'the-break': ['The Break', '转折'], electric: ['Electric', '电声'], postmodern: ['Postmodern', '后现代'] };
 
 const genreNames = {
-  ragtime:'拉格泰姆', 'new-orleans':'新奥尔良爵士', 'chicago-jazz':'芝加哥爵士', stride:'跨步钢琴', 'kansas-city':'堪萨斯城爵士', swing:'摇摆与大乐队', manouche:'吉普赛爵士', 'vocal-jazz':'声乐爵士与美国歌本', bebop:'比博普', 'cool-jazz':'冷爵士', 'west-coast':'西海岸爵士', 'hard-bop':'硬博普', 'soul-jazz':'灵魂爵士与风琴三重奏', modal:'调式爵士', 'third-stream':'第三潮流', 'post-bop':'后博普', 'afro-cuban':'非裔古巴与拉丁爵士', 'bossa-brazilian':'波萨诺瓦与巴西爵士', 'ethio-jazz':'埃塞俄比亚爵士', 'j-jazz':'日本爵士', 'euro-free-improv':'欧洲自由即兴', 'free-jazz':'自由爵士', 'aacm-avant':'AACM 与“伟大黑人音乐”', 'spiritual-jazz':'灵性爵士', 'loft-jazz':'阁楼爵士', fusion:'爵士融合', 'jazz-funk':'爵士放克', 'free-funk':'自由放克与 Harmolodics', 'smooth-jazz':'柔顺爵士', 'acid-jazz':'酸爵士', 'jazz-rap':'爵士说唱', 'nu-jazz':'新爵士与电子爵士', 'la-beat':'洛杉矶节拍场景爵士', 'ecm-nordic':'ECM 与北欧室内爵士', 'neo-bop':'新博普与“年轻雄狮”', 'm-base':'M-Base', downtown:'市中心与朋克爵士', 'contemporary-creative':'当代创意爵士', 'uk-jazz-revival':'英国爵士复兴'
+  ragtime:'拉格泰姆', 'new-orleans':'新奥尔良爵士', 'chicago-jazz':'芝加哥爵士', stride:'跨步钢琴', 'kansas-city':'堪萨斯城爵士', swing:'摇摆与大乐队', manouche:'吉普赛爵士', 'vocal-jazz':'声乐爵士与美国歌本', bebop:'比博普', 'cool-jazz':'冷爵士', 'west-coast':'西海岸爵士', 'hard-bop':'硬博普', 'soul-jazz':'灵魂爵士与风琴三重奏', modal:'调式爵士', 'third-stream':'第三潮流', 'post-bop':'后博普', 'afro-cuban':'非裔古巴与拉丁爵士', 'bossa-brazilian':'波萨诺瓦与巴西爵士', 'ethio-jazz':'埃塞俄比亚爵士', 'j-jazz':'日本爵士', 'euro-free-improv':'欧洲自由即兴', 'free-jazz':'自由爵士', 'aacm-avant':'AACM 与“伟大黑人音乐”', 'spiritual-jazz':'灵性爵士', 'loft-jazz':'阁楼爵士', fusion:'爵士融合', 'jazz-funk':'爵士放克', 'free-funk':'自由放克与和声旋律法', 'smooth-jazz':'柔顺爵士', 'acid-jazz':'酸爵士', 'jazz-rap':'爵士说唱', 'nu-jazz':'新爵士与电子爵士', 'la-beat':'洛杉矶节拍场景爵士', 'ecm-nordic':'ECM 与北欧室内爵士', 'neo-bop':'新博普与“年轻雄狮”', 'm-base':'M-Base 体系', downtown:'市中心与朋克爵士', 'contemporary-creative':'当代创意爵士', 'uk-jazz-revival':'英国爵士复兴'
 };
 
 const genreOneLines = {
@@ -229,7 +253,7 @@ const genreOneLines = {
   modal:'拿走大部分和弦，看看独奏者会如何使用留下的空间。',
   'third-stream':'作曲家试图让古典曲式与爵士即兴共处一曲，又不让任何一方占上风。',
   'post-bop':'吸收自由爵士却不放弃曲式的音乐 — 模糊、漂浮，但仍有结构。',
-  'afro-cuban':'把爵士和声与独奏建立在古巴 clave 而非摇摆上，节奏基础由此彻底改变。',
+  'afro-cuban':'把爵士和声与独奏建立在古巴克拉韦节奏而非摇摆上，节奏基础由此彻底改变。',
   'bossa-brazilian':'轻声演奏的桑巴，配上爵士和声，以及几乎只比说话稍响的歌声。',
   'ethio-jazz':'埃塞俄比亚五声音阶与爵士放克配器相遇，听起来仿佛同时处在大调与小调。',
   'j-jazz':'日本乐手把调式与灵性爵士推向更硬、更密、录音更发烧的方向。',

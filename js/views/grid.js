@@ -4,9 +4,9 @@
  */
 
 import * as store from '../store.js?v=2';
-import { el, eraSpanLabel, matches, debounce, announce } from '../lib/utils.js?v=2';
+import { el, eraSpanLabel, matches, debounce, announce } from '../lib/utils.js?v=3';
 import { NARRATIVE_FAMILY_ORDER as FAMILY_ORDER } from '../lib/layout.js';
-import { familyBlurb, familyShort, genreName, genreOneLine, t } from '../i18n.js?v=2';
+import { familyBlurb, familyShort, genreName, genreOneLine, t } from '../i18n.js?v=3';
 
 const SORTS = [
   ['era', 'grid.sort.era'],
@@ -109,7 +109,7 @@ function renderCards() {
     const hay = [
       g.name, genreName(g), g.oneLine, g.summary, g.contested, g.origin.city, g.origin.country,
       ...(g.aka ?? []), ...g.keyLabels, ...g.keyFigures.map((f) => `${f.name} ${f.instrument}`),
-      ...g.earMarkers,
+      ...g.earMarkers, ...Object.values(g.musicalTraits), g.__canonicalSearch,
     ].join(' ');
     return matches(hay, q);
   });

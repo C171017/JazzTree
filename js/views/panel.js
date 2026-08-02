@@ -1,9 +1,9 @@
 /** Slide-in genre profile: prose, ear markers, traits, figures, and the three album tiers. */
 
-import { el, eraSpanLabel, difficultyDots, difficultyLabel, announce } from '../lib/utils.js?v=2';
-import { serviceLinks } from '../lib/links.js?v=2';
+import { el, eraSpanLabel, difficultyDots, difficultyLabel, announce } from '../lib/utils.js?v=3';
+import { serviceLinks } from '../lib/links.js?v=4';
 import * as store from '../store.js?v=2';
-import { aspectLabel, familyName, genreName, genreOneLine, t } from '../i18n.js?v=2';
+import { aspectLabel, familyName, genreName, genreOneLine, t } from '../i18n.js?v=3';
 
 let root, scrim, lastFocus;
 

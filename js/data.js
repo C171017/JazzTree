@@ -1,11 +1,13 @@
 /**
  * Data loading.
  *
- * fetch() of local JSON is blocked by Chrome when the page is opened from
- * file://, so we try fetch first and fall back to window.__JAZZ_DATA__, which
- * data/data.js assigns. Both come from the same JSON files — see
- * data/build-data.js.
+ * Try the canonical JSON first, then fall back to window.__JAZZ_DATA__, which
+ * data/data.js assigns. Both snapshots come from the same JSON files — see
+ * data/build-data.js. The app itself must be served over HTTP because it uses
+ * standard ES modules.
  */
+
+import { localizeData } from './localize-data.js?v=1';
 
 async function viaFetch() {
   const [genresFile, albums, paths] = await Promise.all([
@@ -22,7 +24,7 @@ function viaGlobal() {
   return { ...d, source: 'inline' };
 }
 
-export async function loadData() {
+export async function loadData(locale = 'en') {
   let payload;
   try {
     payload = await viaFetch();
@@ -30,7 +32,7 @@ export async function loadData() {
     payload = viaGlobal();
   }
   const { genresFile, albums, paths, source } = payload;
-  return {
+  return localizeData({
     genres: genresFile.genres,
     lineage: genresFile.lineage,
     families: genresFile.families,
@@ -39,5 +41,5 @@ export async function loadData() {
     albums,
     paths,
     source,
-  };
+  }, locale);
 }
