@@ -1,12 +1,11 @@
 import Foundation
 
-/// Search deep-links, never hardcoded album IDs.
+/// Safe search fallbacks for services without a verified direct album URL.
 ///
 /// Spotify, Apple Music and NetEase album IDs are opaque strings that cannot be
 /// derived from metadata; a guessed one resolves confidently to the wrong record.
-/// On iOS these URLs also have a useful property the web version does not: if the
-/// user has the app installed, the system hands the URL to it, so "Spotify" opens
-/// Spotify rather than Safari.
+/// Apple Music's search URL does not reliably hand off to its iPhone app, and
+/// NetEase needs an exact album route. Their curated catalogs handle both cases.
 public enum StreamingService: String, CaseIterable, Identifiable, Sendable, Codable {
     case spotify
     case appleMusic
@@ -66,21 +65,6 @@ public enum StreamingLinks {
         case .netease:
             return URL(string: "https://music.163.com/#/search/m/?s=\(encoded)&type=10")
         }
-    }
-
-    /// Best-effort direct app hand-off. The normal HTTPS search remains the
-    /// fallback when the service app is not installed.
-    public static func appURL(_ service: StreamingService, for album: Album) -> URL? {
-        appURL(service, query: query(for: album))
-    }
-
-    public static func appURL(_ service: StreamingService, query: String) -> URL? {
-        guard service == .netease else { return nil }
-        var components = URLComponents()
-        components.scheme = "orpheus"
-        components.host = "search"
-        components.queryItems = [URLQueryItem(name: "keyword", value: query)]
-        return components.url
     }
 
     /// The preferred service first, matching the web app's behaviour.

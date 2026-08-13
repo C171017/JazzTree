@@ -78,7 +78,7 @@ app rotating.
 | Three album tiers | Gateway highlighted, then core, deep, and cross-listed |
 | Listening paths | Vertical steppers with persisted progress, **plus** a Resume button that jumps to the first unheard record |
 | Gentle path | Settings toggle, hides difficulty 4–5 everywhere |
-| Streaming search links | Three buttons per record — and on iOS the URL hands off to the installed app |
+| Streaming destinations | Three buttons per record; Apple Music and NetEase use verified exact-album hand-offs |
 | Dark / light theme | Follows the system, with a manual override |
 | English / 简体中文 | Follows the device, with a manual override |
 | Confidence and contested honesty | Kept in full: confidence badges, notes, and a per-genre Contested section |
@@ -114,6 +114,8 @@ ios/
       DAGLayout.swift            port of js/lib/layout.js, for the Map view
       Localization.swift         en / zh-CN, from the same tables as the web app
       StreamingLinks.swift       search URL construction
+      AppleMusicCatalog.swift    exact Apple Music album resolution at tap time
+      NetEaseCatalog.swift       exact NetEase app route + official web fallback
       PathProgress.swift         listening progress, persisted
       Verification.swift         every dataset and layout invariant
       Resources/                 genres, albums, paths, localization — GENERATED
@@ -186,7 +188,9 @@ LAYOUT    DAG port agrees with js/lib/layout.js · deterministic · rows never
 RAIL      unfocused rail lists every genre once with decade headers · focus
           collapses to the neighbourhood · gutter segments match the connectors
           · aspect filter matches the web semantics · year scrubber works
-STREAMING search URLs well formed for all 351 albums × 3 services
+STREAMING search URLs well formed for all 351 albums × 3 services · Apple Music
+          matching rejects a same-name single · verified NetEase IDs produce
+          exact app and mobile-web album routes
 I18N      both locales cover every genre, path, family, aspect and edge type
           · complete Chinese editorial prose is applied · placeholders resolve
           · difficulty dots
@@ -209,7 +213,8 @@ destination, and all three Xcode tests pass. Every SwiftUI file separately passe
   Max, and Accessibility XL Dynamic Type.
 - VoiceOver navigation. Labels, hints and custom actions are written throughout,
   but nobody has swiped through the complete app.
-- Spotify, Apple Music and NetEase hand-off on a physical device.
+- Spotify, Apple Music and NetEase hand-off on a physical device. Exact-album URL
+  construction is covered deterministically, but third-party app opening is not.
 
 ### Bugs already found and fixed by review
 
@@ -288,12 +293,12 @@ Assets and metadata, none of which exist yet:
 
 ### 5. Things I would consider before 1.0
 
-- [ ] **Third-party content review.** The app deep-links to Spotify, Apple Music and
-      NetEase searches. That is fine, but Apple sometimes asks about links that leave
-      the app; be ready to explain that they are searches, not scraped content.
-- [ ] **The NetEase hand-off** now tries the installed app's search route first and
-      falls back to an album-filtered `music.163.com` search. Verify both branches
-      on a physical device with and without the NetEase app installed.
+- [ ] **Third-party content review.** The app links out to Spotify search and direct
+      public Apple Music/NetEase album pages. Only catalog identifiers and matching
+      metadata are stored; no third-party audio or artwork is bundled.
+- [ ] **The NetEase hand-off** uses `orpheus://album/<id>` for verified records and
+      the official `y.music.163.com/m/album` page when the app is absent. Verify
+      both branches on a physical device with and without NetEase installed.
 - [ ] **An icon a designer has seen.** The current one is drawn programmatically by
       `build/icon/main.swift` — the rail plus four family-coloured branches. It is
       coherent and on-brand, and it is not a designed icon.
@@ -306,7 +311,7 @@ Assets and metadata, none of which exist yet:
 - **No landscape.** You asked for portrait, and the Rail is built around a vertical
   time axis; supporting landscape would mean a second layout for no gain.
 - **No audio playback.** That needs the Spotify or MusicKit SDKs, an account model and
-  a licensing conversation. The search links are the honest version of this.
+  a licensing conversation. External catalog destinations are the honest version.
 - **No iCloud sync of listening progress.** Progress keys already use the same
   `"pathID:albumID"` scheme as the web app's `localStorage`, so adding
   `NSUbiquitousKeyValueStore` later needs no migration.

@@ -68,7 +68,7 @@
     "ios.about.accuracy.title": ["On accuracy", "关于准确性"],
     "ios.about.accuracy":     ["Album years, labels and catalogue numbers were checked against MusicBrainz and discographic sources; 279 of 351 had their release year confirmed to within a year. Entries marked medium or low confidence carry a note saying what is uncertain. Genre boundaries are arguments, not facts — every genre has a “contested” section saying where scholars disagree.", "唱片年份、厂牌与编号已对照 MusicBrainz 与唱片目录核对；351 张中有 279 张的发行年份在一年误差内得到确认。标记为中等或较低可信度的条目附有说明。流派边界是争论而非事实 — 每个流派都有“争议”一节说明学界的分歧所在。"],
     "ios.about.links":        ["The full source list, the verification log and a “known gaps” section live with the web version, in research/notes.md. The judgment calls are in DECISIONS.md.", "完整的资料来源、核对记录与“已知缺口”一节随网页版提供，见 research/notes.md。所有取舍判断记录在 DECISIONS.md。"],
-    "ios.about.credits":      ["Streaming buttons are searches, not direct album links: album IDs cannot be derived from metadata, and guessed ones point at the wrong records.", "流媒体按钮是搜索链接而非专辑直链：专辑 ID 无法从元数据推导，猜测的结果会指向错误的唱片。"],
+    "ios.about.credits":      ["Streaming destinations are resolved from artist and album metadata at tap time; no service IDs are guessed or stored.", "流媒体目标会在点按时根据艺人与专辑资料解析；应用不会猜测或储存平台专辑 ID。"],
 
     "ios.error.title":        ["The guide could not be opened", "无法打开指南"],
     "ios.error.detail":       ["{message}", "无法读取应用内置的指南数据。"],

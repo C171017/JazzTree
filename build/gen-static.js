@@ -27,6 +27,7 @@ const read = (p) => JSON.parse(readFileSync(join(root, p), 'utf8'));
 const genresFile = read('data/genres.json');
 const albums = read('data/albums.json');
 const paths = read('data/paths.json');
+const neteaseAlbums = read('data/netease.json').albums;
 const canonical = {
   genres: genresFile.genres,
   lineage: genresFile.lineage,
@@ -47,6 +48,9 @@ const chinese = localizeData(canonical, 'zh-CN');
 const esc = (s) =>
   String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const q = (a) => encodeURIComponent(`${a.artist} ${a.title}`);
+const neteaseURL = (a) => neteaseAlbums[a.id]
+  ? `https://y.music.163.com/m/album?id=${neteaseAlbums[a.id].albumId}`
+  : `https://music.163.com/#/search/m/?s=${q(a)}&type=10`;
 
 const STATIC_COPY = {
   en: {
@@ -196,7 +200,7 @@ function renderStatic(data, locale) {
   <p class="links">
     <a href="https://open.spotify.com/search/${q(a)}" target="_blank" rel="noopener noreferrer">Spotify</a> ·
     <a href="https://music.apple.com/us/search?term=${q(a)}" target="_blank" rel="noopener noreferrer">Apple Music</a> ·
-    <a href="https://music.163.com/#/search/m/?s=${q(a)}" target="_blank" rel="noopener noreferrer">${netease}</a>
+    <a href="${neteaseURL(a)}" target="_blank" rel="noopener noreferrer">${netease}</a>
   </p>
 </article>`;
   }

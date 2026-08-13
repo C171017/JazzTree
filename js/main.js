@@ -1,14 +1,14 @@
 /** Wiring: load data, mount views, own the tab switcher and the global chrome. */
 
 import * as store from './store.js?v=2';
-import { loadData } from './data.js?v=2';
+import { loadData } from './data.js?v=3';
 import { el, $, announce } from './lib/utils.js?v=3';
-import { SERVICES } from './lib/links.js?v=4';
+import { SERVICES } from './lib/links.js?v=5';
 import * as graph from './views/graph.js?v=3';
 import * as timeline from './views/timeline.js?v=3';
 import * as grid from './views/grid.js?v=3';
 import * as pathsView from './views/paths.js?v=3';
-import * as panel from './views/panel.js?v=3';
+import * as panel from './views/panel.js?v=4';
 import { setLocale, t } from './i18n.js?v=3';
 
 const VIEWS = [

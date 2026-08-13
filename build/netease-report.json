@@ -1,0 +1,4117 @@
+{
+  "generated": "2026-08-05T07:42:48.611Z",
+  "requestCount": 1260,
+  "cacheHits": 35,
+  "albums": [
+    {
+      "id": "rifkin-piano-rags-joplin",
+      "tier": "gateway",
+      "artist": "Joshua Rifkin",
+      "title": "Piano Rags by Scott Joplin",
+      "recorded": 1970,
+      "released": 1970,
+      "startTrack": "Maple Leaf Rag",
+      "status": "not-found",
+      "method": null,
+      "queries": [
+        "Piano Rags by Scott Joplin",
+        "Joshua Rifkin Piano Rags by Scott Joplin"
+      ],
+      "best": null,
+      "candidates": []
+    },
+    {
+      "id": "joplin-treemonisha-1976",
+      "tier": "core",
+      "artist": "Scott Joplin / Houston Grand Opera, Gunther Schuller",
+      "title": "Treemonisha",
+      "recorded": 1975,
+      "released": 1976,
+      "startTrack": "A Real Slow Drag",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "Treemonisha"
+      ],
+      "best": {
+        "albumId": "35381965",
+        "artist": "Houston Grand Opera Orchestra",
+        "title": "Treemonisha / Act 2",
+        "year": 2004,
+        "trackCount": 27,
+        "titleScore": 0.92,
+        "artistScore": 0.92,
+        "totalScore": 88
+      }
+    },
+    {
+      "id": "nec-red-back-book",
+      "tier": "core",
+      "artist": "New England Conservatory Ragtime Ensemble, Gunther Schuller",
+      "title": "Scott Joplin: The Red Back Book",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "joseph-lamb-study-classic-ragtime",
+      "tier": "core",
+      "artist": "Joseph Lamb",
+      "title": "Joseph Lamb: A Study in Classic Ragtime",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "eubie-blake-86-years",
+      "tier": "core",
+      "artist": "Eubie Blake",
+      "title": "The Eighty-Six Years of Eubie Blake",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "hamlisch-the-sting",
+      "tier": "core",
+      "artist": "Marvin Hamlisch",
+      "title": "The Sting: Original Motion Picture Soundtrack",
+      "recorded": 1973,
+      "released": 1974,
+      "startTrack": "The Entertainer",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "The Sting: Original Motion Picture Soundtrack",
+        "Marvin Hamlisch The Sting: Original Motion Picture Soundtrack"
+      ],
+      "best": {
+        "albumId": "1579629",
+        "artist": "Marvin Hamlisch",
+        "title": "The Sting",
+        "year": 1973,
+        "trackCount": 13,
+        "titleScore": 0.92,
+        "artistScore": 1,
+        "totalScore": 106.6
+      }
+    },
+    {
+      "id": "bolcom-heliotrope-bouquet",
+      "tier": "deep",
+      "artist": "William Bolcom",
+      "title": "Heliotrope Bouquet: Piano Rags 1900–1970",
+      "recorded": 1971,
+      "released": 1971,
+      "startTrack": "Heliotrope Bouquet",
+      "status": "not-found",
+      "method": null,
+      "queries": [
+        "Heliotrope Bouquet: Piano Rags 1900–1970",
+        "William Bolcom Heliotrope Bouquet: Piano Rags 1900–1970"
+      ],
+      "best": null,
+      "candidates": []
+    },
+    {
+      "id": "morath-best-of-scott-joplin",
+      "tier": "deep",
+      "artist": "Max Morath",
+      "title": "The Best of Scott Joplin and Other Rag Classics",
+      "recorded": 1972,
+      "released": 1972,
+      "startTrack": "Maple Leaf Rag",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "The Best of Scott Joplin and Other Rag Classics"
+      ],
+      "best": {
+        "albumId": "2058605",
+        "artist": "Max Morath",
+        "title": "The Best Of Scott Joplin",
+        "year": 2005,
+        "trackCount": 23,
+        "titleScore": 0.92,
+        "artistScore": 1,
+        "totalScore": 90.6
+      }
+    },
+    {
+      "id": "reginald-robinson-sounds-in-silhouette",
+      "tier": "deep",
+      "artist": "Reginald R. Robinson",
+      "title": "Sounds in Silhouette",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "louis-armstrong-hot-fives-sevens",
+      "tier": "gateway",
+      "artist": "Louis Armstrong",
+      "title": "The Complete Hot Five and Hot Seven Recordings",
+      "recorded": 1925,
+      "released": 2000,
+      "startTrack": "West End Blues",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "The Complete Hot Five and Hot Seven Recordings"
+      ],
+      "best": {
+        "albumId": "34531057",
+        "artist": "Louis Armstrong",
+        "title": "The Complete Hot Five & Hot Seven Recordings",
+        "year": 2000,
+        "trackCount": 93,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 118
+      }
+    },
+    {
+      "id": "king-oliver-creole-jazz-band-1923",
+      "tier": "core",
+      "artist": "King Oliver's Creole Jazz Band",
+      "title": "King Oliver's Jazz Band 1923",
+      "recorded": 1923,
+      "released": 1974,
+      "startTrack": "Dippermouth Blues",
+      "status": "review",
+      "method": null,
+      "queries": [
+        "King Oliver's Jazz Band 1923",
+        "King Oliver's Creole Jazz Band King Oliver's Jazz Band 1923"
+      ],
+      "best": {
+        "albumId": "84380742",
+        "artist": "King Oliver",
+        "title": "King Oliver's Jazz Band 1923",
+        "year": 1999,
+        "trackCount": 15,
+        "titleScore": 1,
+        "artistScore": 0.92,
+        "totalScore": 93.4
+      },
+      "candidates": [
+        {
+          "albumId": "84380742",
+          "artist": "King Oliver",
+          "title": "King Oliver's Jazz Band 1923",
+          "year": 1999,
+          "trackCount": 15,
+          "titleScore": 1,
+          "artistScore": 0.92,
+          "totalScore": 93.4
+        },
+        {
+          "albumId": "84358570",
+          "artist": "King Oliver & His Creole Jazz Band",
+          "title": "1923",
+          "year": 1999,
+          "trackCount": 18,
+          "titleScore": 0.92,
+          "artistScore": 1,
+          "totalScore": 90.6
+        },
+        {
+          "albumId": "35708533",
+          "artist": "King Oliver's Jazz Band",
+          "title": "King Oliver's Jazz Band With Louis Armstrong - 1923",
+          "year": 2005,
+          "trackCount": 15,
+          "titleScore": 0.92,
+          "artistScore": 0.92,
+          "totalScore": 88
+        },
+        {
+          "albumId": "37708569",
+          "artist": "King Oliver's Creole Jazz Band",
+          "title": "King Oliver and His Creole Jazz Band's Zulus Ball",
+          "year": 2006,
+          "trackCount": 10,
+          "titleScore": 0.736,
+          "artistScore": 1,
+          "totalScore": 78
+        },
+        {
+          "albumId": "37312472",
+          "artist": "King Oliver's Creole Jazz Band",
+          "title": "King Oliver and His Creole Jazz Band Selected Favorites",
+          "year": 2006,
+          "trackCount": 16,
+          "titleScore": 0.736,
+          "artistScore": 1,
+          "totalScore": 78
+        }
+      ]
+    },
+    {
+      "id": "birth-of-the-hot-morton",
+      "tier": "core",
+      "artist": "Jelly Roll Morton's Red Hot Peppers",
+      "title": "Birth of the Hot: The Classic Chicago 'Red Hot Peppers' Sessions 1926–27",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "sidney-bechet-best-of",
+      "tier": "core",
+      "artist": "Sidney Bechet",
+      "title": "The Best of Sidney Bechet",
+      "recorded": 1939,
+      "released": 1994,
+      "startTrack": "Summertime",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "The Best of Sidney Bechet"
+      ],
+      "best": {
+        "albumId": "2061368",
+        "artist": "Sidney Bechet",
+        "title": "The Best Of Sidney Bechet",
+        "year": 1993,
+        "trackCount": 18,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 112
+      }
+    },
+    {
+      "id": "odjb-complete-original-dixieland",
+      "tier": "core",
+      "artist": "Original Dixieland Jazz Band",
+      "title": "The Complete Original Dixieland Jazz Band 1917–1936",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "johnny-dodds-blue-clarinet-stomp",
+      "tier": "core",
+      "artist": "Johnny Dodds",
+      "title": "Blue Clarinet Stomp",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "george-lewis-jazz-at-vespers",
+      "tier": "deep",
+      "artist": "George Lewis",
+      "title": "Jazz at Vespers",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "preservation-hall-jazz-band-so-it-is",
+      "tier": "deep",
+      "artist": "Preservation Hall Jazz Band",
+      "title": "So It Is",
+      "recorded": 2016,
+      "released": 2017,
+      "startTrack": "Santiago",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "So It Is"
+      ],
+      "best": {
+        "albumId": "35191746",
+        "artist": "Preservation Hall Jazz Band",
+        "title": "So It Is",
+        "year": 2017,
+        "trackCount": 7,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 118
+      }
+    },
+    {
+      "id": "wynton-marsalis-majesty-of-the-blues",
+      "tier": "deep",
+      "artist": "Wynton Marsalis",
+      "title": "The Majesty of the Blues",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "bix-beiderbecke-singin-the-blues",
+      "tier": "gateway",
+      "artist": "Bix Beiderbecke",
+      "title": "Singin' the Blues",
+      "recorded": 1927,
+      "released": 1990,
+      "startTrack": "Singin' the Blues",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "Singin' the Blues"
+      ],
+      "best": {
+        "albumId": "1532199",
+        "artist": "Bix Beiderbecke",
+        "title": "Bix Beiderbecke, Volume I: Singin' The Blues",
+        "year": 1993,
+        "trackCount": 20,
+        "titleScore": 0.92,
+        "artistScore": 1,
+        "totalScore": 100.6
+      }
+    },
+    {
+      "id": "eddie-condon-chronological-1927-1938",
+      "tier": "core",
+      "artist": "Eddie Condon",
+      "title": "The Chronological Eddie Condon 1927–1938",
+      "recorded": 1927,
+      "released": 1996,
+      "startTrack": "Nobody's Sweetheart",
+      "status": "review",
+      "method": null,
+      "queries": [
+        "The Chronological Eddie Condon 1927–1938",
+        "Eddie Condon The Chronological Eddie Condon 1927–1938"
+      ],
+      "best": {
+        "albumId": "78591609",
+        "artist": "360degree",
+        "title": "The Chronological",
+        "year": 2017,
+        "trackCount": 5,
+        "titleScore": 0.92,
+        "artistScore": 0,
+        "totalScore": 58.6
+      },
+      "candidates": [
+        {
+          "albumId": "78591609",
+          "artist": "360degree",
+          "title": "The Chronological",
+          "year": 2017,
+          "trackCount": 5,
+          "titleScore": 0.92,
+          "artistScore": 0,
+          "totalScore": 58.6
+        },
+        {
+          "albumId": "81481961",
+          "artist": "Colour",
+          "title": "The Chronological Happenings",
+          "year": 2013,
+          "trackCount": 14,
+          "titleScore": 0.46,
+          "artistScore": 0,
+          "totalScore": 31.3
+        },
+        {
+          "albumId": "2548591",
+          "artist": "Billie Holiday",
+          "title": "The Chronological Billie Holiday 1944",
+          "year": 1994,
+          "trackCount": 22,
+          "titleScore": 0.23,
+          "artistScore": 0,
+          "totalScore": 27.6
+        },
+        {
+          "albumId": "2586603",
+          "artist": "Fats Waller",
+          "title": "The Chronological Fats Waller: 1935",
+          "year": 1994,
+          "trackCount": 22,
+          "titleScore": 0.23,
+          "artistScore": 0,
+          "totalScore": 27.6
+        },
+        {
+          "albumId": "256095317",
+          "artist": "Various Artists",
+          "title": "The Chronological Don Byas",
+          "year": 1999,
+          "trackCount": 23,
+          "titleScore": 0.307,
+          "artistScore": 0,
+          "totalScore": 26.9
+        }
+      ]
+    },
+    {
+      "id": "mckenzie-condon-chicagoans",
+      "tier": "core",
+      "artist": "McKenzie and Condon's Chicagoans",
+      "title": "The Austin High School Gang",
+      "recorded": 1927,
+      "released": 1990,
+      "startTrack": "Nobody's Sweetheart",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "The Austin High School Gang"
+      ],
+      "best": {
+        "albumId": "84315219",
+        "artist": "The Chicagoans",
+        "title": "The Austin High Gang",
+        "year": 2010,
+        "trackCount": 14,
+        "titleScore": 0.92,
+        "artistScore": 0.92,
+        "totalScore": 92
+      }
+    },
+    {
+      "id": "pee-wee-russell-portrait",
+      "tier": "core",
+      "artist": "Pee Wee Russell",
+      "title": "Portrait of Pee Wee",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "bud-freeman-chicagoans-in-new-york",
+      "tier": "core",
+      "artist": "Bud Freeman",
+      "title": "Bud Freeman and His Famous Chicagoans",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "benny-goodman-bg-trio-quartet",
+      "tier": "core",
+      "artist": "Benny Goodman",
+      "title": "The Complete Benny Goodman Trios and Quartets",
+      "recorded": 1935,
+      "released": 1998,
+      "startTrack": "Body and Soul",
+      "status": "review",
+      "method": null,
+      "queries": [
+        "The Complete Benny Goodman Trios and Quartets",
+        "Benny Goodman The Complete Benny Goodman Trios and Quartets"
+      ],
+      "best": {
+        "albumId": "38749430",
+        "artist": "Benny Goodman",
+        "title": "The Complete Benny Goodman (1928-1929)",
+        "year": 2000,
+        "trackCount": 10,
+        "titleScore": 0.6,
+        "artistScore": 1,
+        "totalScore": 84.8
+      },
+      "candidates": [
+        {
+          "albumId": "38749430",
+          "artist": "Benny Goodman",
+          "title": "The Complete Benny Goodman (1928-1929)",
+          "year": 2000,
+          "trackCount": 10,
+          "titleScore": 0.6,
+          "artistScore": 1,
+          "totalScore": 84.8
+        },
+        {
+          "albumId": "39421876",
+          "artist": "Benny Goodman",
+          "title": "The Complete Benny Goodman (1945-1949)",
+          "year": 2000,
+          "trackCount": 19,
+          "titleScore": 0.6,
+          "artistScore": 1,
+          "totalScore": 84.8
+        },
+        {
+          "albumId": "38852552",
+          "artist": "Benny Goodman",
+          "title": "The Complete Benny Goodman (1939-1941)",
+          "year": 2000,
+          "trackCount": 23,
+          "titleScore": 0.6,
+          "artistScore": 1,
+          "totalScore": 84.8
+        },
+        {
+          "albumId": "38805071",
+          "artist": "Benny Goodman",
+          "title": "The Complete Benny Goodman (1935-1939)",
+          "year": 2000,
+          "trackCount": 23,
+          "titleScore": 0.6,
+          "artistScore": 1,
+          "totalScore": 84.8
+        },
+        {
+          "albumId": "39085502",
+          "artist": "Benny Goodman",
+          "title": "The Complete Benny Goodman (1934-1936)",
+          "year": 2000,
+          "trackCount": 27,
+          "titleScore": 0.6,
+          "artistScore": 1,
+          "totalScore": 84.8
+        }
+      ]
+    },
+    {
+      "id": "muggsy-spanier-ragtime-band",
+      "tier": "deep",
+      "artist": "Muggsy Spanier",
+      "title": "The Great 16",
+      "recorded": 1939,
+      "released": 1994,
+      "startTrack": "Relaxin' at the Touro",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "The Great 16"
+      ],
+      "best": {
+        "albumId": "84185939",
+        "artist": "Muggsy Spanier & His Ragtime Band",
+        "title": "The Great 16",
+        "year": 1999,
+        "trackCount": 16,
+        "titleScore": 1,
+        "artistScore": 0.92,
+        "totalScore": 103.4
+      }
+    },
+    {
+      "id": "jack-teagarden-king-of-the-blues-trombone",
+      "tier": "deep",
+      "artist": "Jack Teagarden",
+      "title": "King of the Blues Trombone",
+      "recorded": 1928,
+      "released": 1970,
+      "startTrack": "Basin Street Blues",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "King of the Blues Trombone"
+      ],
+      "best": {
+        "albumId": "75908714",
+        "artist": "",
+        "title": "King of the Blues Trombone (HD Remastered)",
+        "year": 1970,
+        "trackCount": 48,
+        "titleScore": 0.92,
+        "artistScore": 1,
+        "totalScore": 112.6
+      }
+    },
+    {
+      "id": "art-hodes-sittin-in",
+      "tier": "deep",
+      "artist": "Art Hodes",
+      "title": "Sittin' In",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "james-p-johnson-carolina-shout",
+      "tier": "gateway",
+      "artist": "James P. Johnson",
+      "title": "Carolina Shout",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "fats-waller-a-good-man",
+      "tier": "core",
+      "artist": "Fats Waller",
+      "title": "A Good Man Is Hard to Find",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "art-tatum-solo-masterpieces",
+      "tier": "core",
+      "artist": "Art Tatum",
+      "title": "The Complete Pablo Solo Masterpieces",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "willie-the-lion-smith-memoirs",
+      "tier": "core",
+      "artist": "Willie 'The Lion' Smith",
+      "title": "The Lion Roars",
+      "recorded": 1957,
+      "released": 1957,
+      "startTrack": "Echoes of Spring",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "The Lion Roars"
+      ],
+      "best": {
+        "albumId": "84394706",
+        "artist": "Willie \"The Lion\" Smith",
+        "title": "The Lion Roars",
+        "year": 1999,
+        "trackCount": 13,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 96
+      }
+    },
+    {
+      "id": "duke-ellington-piano-reflections",
+      "tier": "core",
+      "artist": "Duke Ellington",
+      "title": "The Duke Plays Ellington (Piano Reflections)",
+      "recorded": 1953,
+      "released": 1954,
+      "startTrack": "Reflections in D",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "The Duke Plays Ellington (Piano Reflections)"
+      ],
+      "best": {
+        "albumId": "36972371",
+        "artist": "Duke Ellington",
+        "title": "The Duke Plays Ellington",
+        "year": 1954,
+        "trackCount": 12,
+        "titleScore": 0.92,
+        "artistScore": 1,
+        "totalScore": 112.6
+      }
+    },
+    {
+      "id": "thelonious-monk-solo-monk",
+      "tier": "core",
+      "artist": "Thelonious Monk",
+      "title": "Solo Monk",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "dick-wellstood-from-ragtime-on",
+      "tier": "deep",
+      "artist": "Dick Wellstood",
+      "title": "From Ragtime On",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "donald-lambert-harlem-stride-classics",
+      "tier": "deep",
+      "artist": "Donald Lambert",
+      "title": "Harlem Stride Classics",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "jaki-byard-blues-for-smoke",
+      "tier": "deep",
+      "artist": "Jaki Byard",
+      "title": "Blues for Smoke",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "count-basie-original-decca",
+      "tier": "gateway",
+      "artist": "Count Basie",
+      "title": "The Original American Decca Recordings",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "lester-young-kansas-city-sessions",
+      "tier": "core",
+      "artist": "Lester Young",
+      "title": "The Kansas City Sessions",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "bennie-moten-basie-beginnings",
+      "tier": "core",
+      "artist": "Bennie Moten's Kansas City Orchestra",
+      "title": "Basie Beginnings",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "andy-kirk-mary-lou-williams",
+      "tier": "core",
+      "artist": "Andy Kirk and His Twelve Clouds of Joy",
+      "title": "Mary's Idea",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "jay-mcshann-blues-from-kansas-city",
+      "tier": "core",
+      "artist": "Jay McShann",
+      "title": "Blues from Kansas City",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "count-basie-atomic-mr-basie",
+      "tier": "core",
+      "artist": "Count Basie",
+      "title": "The Atomic Mr. Basie",
+      "recorded": 1957,
+      "released": 1958,
+      "startTrack": "Li'l Darlin'",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "The Atomic Mr. Basie"
+      ],
+      "best": {
+        "albumId": "2053327",
+        "artist": "",
+        "title": "The Atomic Mr Basie",
+        "year": 1957,
+        "trackCount": 11,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 112
+      }
+    },
+    {
+      "id": "big-joe-turner-boss-of-the-blues",
+      "tier": "deep",
+      "artist": "Big Joe Turner",
+      "title": "The Boss of the Blues",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "mary-lou-williams-zodiac-suite",
+      "tier": "deep",
+      "artist": "Mary Lou Williams",
+      "title": "Zodiac Suite",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "hot-lips-page-after-hours",
+      "tier": "deep",
+      "artist": "Hot Lips Page",
+      "title": "After Hours in Harlem",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "ellington-blanton-webster-band",
+      "tier": "gateway",
+      "artist": "Duke Ellington",
+      "title": "The Blanton–Webster Band",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "benny-goodman-carnegie-hall-1938",
+      "tier": "core",
+      "artist": "Benny Goodman",
+      "title": "The Famous 1938 Carnegie Hall Jazz Concert",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "fletcher-henderson-a-study-in-frustration",
+      "tier": "core",
+      "artist": "Fletcher Henderson",
+      "title": "A Study in Frustration",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "ellington-at-newport-1956",
+      "tier": "core",
+      "artist": "Duke Ellington",
+      "title": "Ellington at Newport",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "artie-shaw-self-portrait",
+      "tier": "core",
+      "artist": "Artie Shaw",
+      "title": "Self Portrait",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "woody-herman-thundering-herds",
+      "tier": "core",
+      "artist": "Woody Herman",
+      "title": "The Thundering Herds 1945–1947",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "ellington-such-sweet-thunder",
+      "tier": "deep",
+      "artist": "Duke Ellington and Billy Strayhorn",
+      "title": "Such Sweet Thunder",
+      "recorded": 1957,
+      "released": 1957,
+      "startTrack": "Such Sweet Thunder",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "Such Sweet Thunder"
+      ],
+      "best": {
+        "albumId": "89468020",
+        "artist": "Duke Ellington",
+        "title": "Such Sweet Thunder (Mono Version)",
+        "year": 1957,
+        "trackCount": 12,
+        "titleScore": 0.96,
+        "artistScore": 1,
+        "totalScore": 115.3
+      }
+    },
+    {
+      "id": "jimmie-lunceford-rhythm-is-our-business",
+      "tier": "deep",
+      "artist": "Jimmie Lunceford",
+      "title": "Rhythm Is Our Business",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "maria-schneider-concert-in-the-garden",
+      "tier": "deep",
+      "artist": "Maria Schneider Orchestra",
+      "title": "Concert in the Garden",
+      "recorded": 2004,
+      "released": 2004,
+      "startTrack": "Choro Dançado",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "Concert in the Garden"
+      ],
+      "best": {
+        "albumId": "311468",
+        "artist": "Maria Schneider",
+        "title": "Concert in the Garden",
+        "year": 2008,
+        "trackCount": 5,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 106
+      }
+    },
+    {
+      "id": "django-quintette-hot-club-1936",
+      "tier": "gateway",
+      "artist": "Django Reinhardt & Stéphane Grappelli",
+      "title": "Djangologie 1936–1937",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "django-nuages-1940",
+      "tier": "core",
+      "artist": "Django Reinhardt",
+      "title": "Nuages",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "grappelli-violin-summit",
+      "tier": "core",
+      "artist": "Stéphane Grappelli, Svend Asmussen, Jean-Luc Ponty, Stuff Smith",
+      "title": "Violin Summit",
+      "recorded": 1966,
+      "released": 1967,
+      "startTrack": "It Don't Mean a Thing",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "Violin Summit"
+      ],
+      "best": {
+        "albumId": "39177652",
+        "artist": "Stuff Smith",
+        "title": "Violin Summit",
+        "year": 2015,
+        "trackCount": 7,
+        "titleScore": 1,
+        "artistScore": 0.92,
+        "totalScore": 93.4
+      }
+    },
+    {
+      "id": "birelli-lagrene-routes-to-django",
+      "tier": "core",
+      "artist": "Biréli Lagrène",
+      "title": "Routes to Django",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "rosenberg-trio-seresta",
+      "tier": "core",
+      "artist": "Rosenberg Trio",
+      "title": "Seresta",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "django-peche-a-la-mouche",
+      "tier": "core",
+      "artist": "Django Reinhardt",
+      "title": "Péché à la Mouche: The Great Blue Star Sessions 1947/1953",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "tchavolo-schmitt-alors-question",
+      "tier": "deep",
+      "artist": "Tchavolo Schmitt",
+      "title": "Alors?... Voilà!",
+      "recorded": 2000,
+      "released": 2000,
+      "startTrack": "Alors?... Voilà!",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "Alors?... Voilà!"
+      ],
+      "best": {
+        "albumId": "83039804",
+        "artist": "Tchavolo Schmitt",
+        "title": "Alors ? … voilà !",
+        "year": 1999,
+        "trackCount": 11,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 112
+      }
+    },
+    {
+      "id": "romane-ombre",
+      "tier": "deep",
+      "artist": "Romane",
+      "title": "Ombre",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "martin-taylor-spirit-of-django",
+      "tier": "deep",
+      "artist": "Martin Taylor",
+      "title": "Spirit of Django",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "billie-holiday-quintessential-vol3",
+      "tier": "gateway",
+      "artist": "Billie Holiday",
+      "title": "The Quintessential Billie Holiday, Volume 3 (1936–1937)",
+      "recorded": 1936,
+      "released": 1987,
+      "startTrack": "This Year's Kisses",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "The Quintessential Billie Holiday, Volume 3 (1936–1937)"
+      ],
+      "best": {
+        "albumId": "1928610",
+        "artist": "Billie Holiday",
+        "title": "The Quintessential Billie Holiday Volume V",
+        "year": 1999,
+        "trackCount": 18,
+        "titleScore": 0.92,
+        "artistScore": 1,
+        "totalScore": 94.6
+      }
+    },
+    {
+      "id": "ella-fitzgerald-cole-porter-songbook",
+      "tier": "core",
+      "artist": "Ella Fitzgerald",
+      "title": "Ella Fitzgerald Sings the Cole Porter Song Book",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "sarah-vaughan-with-clifford-brown",
+      "tier": "core",
+      "artist": "Sarah Vaughan",
+      "title": "Sarah Vaughan",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "frank-sinatra-only-the-lonely",
+      "tier": "core",
+      "artist": "Frank Sinatra",
+      "title": "Frank Sinatra Sings for Only the Lonely",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "betty-carter-audience-with",
+      "tier": "core",
+      "artist": "Betty Carter",
+      "title": "The Audience with Betty Carter",
+      "recorded": 1979,
+      "released": 1980,
+      "startTrack": "The Trolley Song",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "The Audience with Betty Carter"
+      ],
+      "best": {
+        "albumId": "21216",
+        "artist": "Betty Carter",
+        "title": "The Audience With Betty Carter (Live)",
+        "year": 1980,
+        "trackCount": 15,
+        "titleScore": 0.92,
+        "artistScore": 1,
+        "totalScore": 92.6
+      }
+    },
+    {
+      "id": "lambert-hendricks-ross-sing-basie",
+      "tier": "core",
+      "artist": "Lambert, Hendricks & Ross",
+      "title": "Sing a Song of Basie",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "abbey-lincoln-straight-ahead",
+      "tier": "deep",
+      "artist": "Abbey Lincoln",
+      "title": "Straight Ahead",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "cassandra-wilson-blue-light-til-dawn",
+      "tier": "deep",
+      "artist": "Cassandra Wilson",
+      "title": "Blue Light 'Til Dawn",
+      "recorded": 1993,
+      "released": 1993,
+      "startTrack": "You Don't Know What Love Is",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "Blue Light 'Til Dawn"
+      ],
+      "best": {
+        "albumId": "1566283",
+        "artist": "Cassandra Wilson",
+        "title": "Blue Light 'Til Dawn",
+        "year": 2013,
+        "trackCount": 15,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 100
+      }
+    },
+    {
+      "id": "kurt-elling-close-your-eyes",
+      "tier": "deep",
+      "artist": "Kurt Elling",
+      "title": "Close Your Eyes",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "charlie-parker-savoy-dial",
+      "tier": "gateway",
+      "artist": "Charlie Parker",
+      "title": "The Complete Savoy and Dial Studio Recordings",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "dizzy-gillespie-complete-rca-victor",
+      "tier": "core",
+      "artist": "Dizzy Gillespie",
+      "title": "The Complete RCA Victor Recordings",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "bud-powell-amazing-vol1",
+      "tier": "core",
+      "artist": "Bud Powell",
+      "title": "The Amazing Bud Powell, Volume 1",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "thelonious-monk-brilliant-corners",
+      "tier": "core",
+      "artist": "Thelonious Monk",
+      "title": "Brilliant Corners",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "clifford-brown-max-roach-1954",
+      "tier": "core",
+      "artist": "Clifford Brown & Max Roach",
+      "title": "Clifford Brown and Max Roach",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "dexter-gordon-go",
+      "tier": "core",
+      "artist": "Dexter Gordon",
+      "title": "Go",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "charlie-parker-with-strings",
+      "tier": "deep",
+      "artist": "Charlie Parker",
+      "title": "Charlie Parker with Strings",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "fats-navarro-tadd-dameron-fabulous",
+      "tier": "deep",
+      "artist": "Fats Navarro & Tadd Dameron",
+      "title": "The Complete Blue Note and Capitol Recordings",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "bud-powell-scene-changes",
+      "tier": "deep",
+      "artist": "Bud Powell",
+      "title": "The Scene Changes",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "birth-of-the-cool",
+      "tier": "gateway",
+      "artist": "Miles Davis",
+      "title": "Birth of the Cool",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "lennie-tristano-crosscurrents",
+      "tier": "core",
+      "artist": "Lennie Tristano",
+      "title": "Crosscurrents",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "lee-konitz-subconscious-lee",
+      "tier": "core",
+      "artist": "Lee Konitz",
+      "title": "Subconscious-Lee",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "modern-jazz-quartet-django",
+      "tier": "core",
+      "artist": "Modern Jazz Quartet",
+      "title": "Django",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "miles-davis-gil-evans-miles-ahead",
+      "tier": "core",
+      "artist": "Miles Davis + 19",
+      "title": "Miles Ahead",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "stan-getz-west-coast-jazz",
+      "tier": "core",
+      "artist": "Stan Getz",
+      "title": "West Coast Jazz",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "jimmy-giuffre-fusion-1961",
+      "tier": "deep",
+      "artist": "Jimmy Giuffre 3",
+      "title": "Fusion",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "warne-marsh-jazz-of-two-cities",
+      "tier": "deep",
+      "artist": "Warne Marsh",
+      "title": "Jazz of Two Cities",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "gil-evans-out-of-the-cool",
+      "tier": "deep",
+      "artist": "Gil Evans Orchestra",
+      "title": "Out of the Cool",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "gerry-mulligan-quartet-chet-baker",
+      "tier": "gateway",
+      "artist": "Gerry Mulligan Quartet",
+      "title": "The Original Gerry Mulligan Quartet with Chet Baker",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "shorty-rogers-giants",
+      "tier": "core",
+      "artist": "Shorty Rogers and His Giants",
+      "title": "Shorty Rogers and His Giants",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "art-pepper-meets-rhythm-section",
+      "tier": "core",
+      "artist": "Art Pepper",
+      "title": "Art Pepper Meets the Rhythm Section",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "shelly-manne-my-fair-lady",
+      "tier": "core",
+      "artist": "Shelly Manne & His Friends",
+      "title": "My Fair Lady",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "chico-hamilton-quintet-1955",
+      "tier": "core",
+      "artist": "Chico Hamilton Quintet",
+      "title": "The Chico Hamilton Quintet featuring Buddy Collette",
+      "recorded": 1955,
+      "released": 1955,
+      "startTrack": "The Sage",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "The Chico Hamilton Quintet featuring Buddy Collette"
+      ],
+      "best": {
+        "albumId": "367044629",
+        "artist": "The Chico Hamilton Trio",
+        "title": "Chico Hamilton Trio",
+        "year": 1955,
+        "trackCount": 10,
+        "titleScore": 0.92,
+        "artistScore": 1,
+        "totalScore": 112.6
+      }
+    },
+    {
+      "id": "dave-brubeck-time-out",
+      "tier": "core",
+      "artist": "The Dave Brubeck Quartet",
+      "title": "Time Out",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "curtis-counce-you-get-more-bounce",
+      "tier": "deep",
+      "artist": "Curtis Counce",
+      "title": "You Get More Bounce with Curtis Counce!",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "hampton-hawes-trio-vol1",
+      "tier": "deep",
+      "artist": "Hampton Hawes Trio",
+      "title": "The Trio, Vol. 1",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "bud-shank-bob-cooper-blowin-country",
+      "tier": "deep",
+      "artist": "Bud Shank & Bob Cooper",
+      "title": "Blowin' Country",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "moanin-1959",
+      "tier": "gateway",
+      "artist": "Art Blakey & The Jazz Messengers",
+      "title": "Moanin'",
+      "recorded": 1958,
+      "released": 1959,
+      "startTrack": "Moanin'",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "Moanin'"
+      ],
+      "best": {
+        "albumId": "1508109",
+        "artist": "Art Blakey",
+        "title": "Moanin'",
+        "year": 1959,
+        "trackCount": 7,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 118
+      }
+    },
+    {
+      "id": "horace-silver-art-blakey-jazz-messengers-1955",
+      "tier": "core",
+      "artist": "Horace Silver and the Jazz Messengers",
+      "title": "Horace Silver and the Jazz Messengers",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "cannonball-adderley-somethin-else",
+      "tier": "core",
+      "artist": "Cannonball Adderley",
+      "title": "Somethin' Else",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "sonny-rollins-saxophone-colossus",
+      "tier": "core",
+      "artist": "Sonny Rollins",
+      "title": "Saxophone Colossus",
+      "recorded": 1956,
+      "released": 1956,
+      "startTrack": "St. Thomas",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "Saxophone Colossus"
+      ],
+      "best": {
+        "albumId": "1992382",
+        "artist": "Sonny Rollins",
+        "title": "Saxophone Colossus",
+        "year": 1957,
+        "trackCount": 5,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 112
+      }
+    },
+    {
+      "id": "john-coltrane-blue-train",
+      "tier": "core",
+      "artist": "John Coltrane",
+      "title": "Blue Train",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "lee-morgan-sidewinder",
+      "tier": "core",
+      "artist": "Lee Morgan",
+      "title": "The Sidewinder",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "hank-mobley-soul-station",
+      "tier": "deep",
+      "artist": "Hank Mobley",
+      "title": "Soul Station",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "art-blakey-free-for-all",
+      "tier": "deep",
+      "artist": "Art Blakey & The Jazz Messengers",
+      "title": "Free for All",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "clifford-jordan-glass-bead-games",
+      "tier": "deep",
+      "artist": "Clifford Jordan",
+      "title": "Glass Bead Games",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "jimmy-smith-back-at-the-chicken-shack",
+      "tier": "gateway",
+      "artist": "Jimmy Smith",
+      "title": "Back at the Chicken Shack",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "jimmy-smith-the-sermon",
+      "tier": "core",
+      "artist": "Jimmy Smith",
+      "title": "The Sermon!",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "grant-green-idle-moments",
+      "tier": "core",
+      "artist": "Grant Green",
+      "title": "Idle Moments",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "jack-mcduff-live",
+      "tier": "core",
+      "artist": "Brother Jack McDuff",
+      "title": "Live!",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "stanley-turrentine-sugar",
+      "tier": "core",
+      "artist": "Stanley Turrentine",
+      "title": "Sugar",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "ramsey-lewis-the-in-crowd",
+      "tier": "core",
+      "artist": "Ramsey Lewis Trio",
+      "title": "The In Crowd",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "big-john-patton-lets-roll",
+      "tier": "deep",
+      "artist": "Big John Patton",
+      "title": "Let 'Em Roll",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "larry-young-unity",
+      "tier": "deep",
+      "artist": "Larry Young",
+      "title": "Unity",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "shirley-scott-queen-of-the-organ",
+      "tier": "deep",
+      "artist": "Shirley Scott",
+      "title": "Queen of the Organ",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "kind-of-blue",
+      "tier": "gateway",
+      "artist": "Miles Davis",
+      "title": "Kind of Blue",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "miles-davis-milestones",
+      "tier": "core",
+      "artist": "Miles Davis",
+      "title": "Milestones",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "john-coltrane-impressions",
+      "tier": "core",
+      "artist": "John Coltrane",
+      "title": "Impressions",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "bill-evans-sunday-at-village-vanguard",
+      "tier": "core",
+      "artist": "Bill Evans Trio",
+      "title": "Sunday at the Village Vanguard",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "mccoy-tyner-the-real-mccoy",
+      "tier": "core",
+      "artist": "McCoy Tyner",
+      "title": "The Real McCoy",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "herbie-hancock-maiden-voyage",
+      "tier": "core",
+      "artist": "Herbie Hancock",
+      "title": "Maiden Voyage",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "george-russell-jazz-workshop",
+      "tier": "deep",
+      "artist": "George Russell",
+      "title": "The Jazz Workshop",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "john-coltrane-my-favorite-things",
+      "tier": "deep",
+      "artist": "John Coltrane",
+      "title": "My Favorite Things",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "wayne-shorter-juju",
+      "tier": "deep",
+      "artist": "Wayne Shorter",
+      "title": "JuJu",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "modern-jazz-quartet-third-stream-music",
+      "tier": "gateway",
+      "artist": "Modern Jazz Quartet",
+      "title": "Third Stream Music",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "charles-mingus-black-saint",
+      "tier": "core",
+      "artist": "Charles Mingus",
+      "title": "The Black Saint and the Sinner Lady",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "gunther-schuller-jazz-abstractions",
+      "tier": "core",
+      "artist": "Gunther Schuller / John Lewis",
+      "title": "Jazz Abstractions",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "stan-getz-focus",
+      "tier": "core",
+      "artist": "Stan Getz",
+      "title": "Focus",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "george-russell-jazz-in-the-space-age",
+      "tier": "core",
+      "artist": "George Russell",
+      "title": "Jazz in the Space Age",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "jimmy-giuffre-free-fall",
+      "tier": "core",
+      "artist": "Jimmy Giuffre 3",
+      "title": "Free Fall",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "charles-mingus-ah-um",
+      "tier": "deep",
+      "artist": "Charles Mingus",
+      "title": "Mingus Ah Um",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "eddie-sauter-bill-finegan",
+      "tier": "deep",
+      "artist": "Sauter-Finegan Orchestra",
+      "title": "New Directions in Music",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "anthony-braxton-for-alto",
+      "tier": "deep",
+      "artist": "Anthony Braxton",
+      "title": "For Alto",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "miles-davis-miles-smiles",
+      "tier": "gateway",
+      "artist": "Miles Davis",
+      "title": "Miles Smiles",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "wayne-shorter-speak-no-evil",
+      "tier": "core",
+      "artist": "Wayne Shorter",
+      "title": "Speak No Evil",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "eric-dolphy-out-to-lunch",
+      "tier": "core",
+      "artist": "Eric Dolphy",
+      "title": "Out to Lunch!",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "andrew-hill-point-of-departure",
+      "tier": "core",
+      "artist": "Andrew Hill",
+      "title": "Point of Departure",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "joe-henderson-inner-urge",
+      "tier": "core",
+      "artist": "Joe Henderson",
+      "title": "Inner Urge",
+      "recorded": 1964,
+      "released": 1966,
+      "startTrack": "Inner Urge",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "Inner Urge"
+      ],
+      "best": {
+        "albumId": "2050426",
+        "artist": "Joe Henderson",
+        "title": "Inner Urge",
+        "year": 1989,
+        "trackCount": 5,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 96
+      }
+    },
+    {
+      "id": "herbie-hancock-empyrean-isles",
+      "tier": "core",
+      "artist": "Herbie Hancock",
+      "title": "Empyrean Isles",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "bobby-hutcherson-dialogue",
+      "tier": "deep",
+      "artist": "Bobby Hutcherson",
+      "title": "Dialogue",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "sam-rivers-fuchsia-swing-song",
+      "tier": "deep",
+      "artist": "Sam Rivers",
+      "title": "Fuchsia Swing Song",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "tony-williams-lifetime-spring",
+      "tier": "deep",
+      "artist": "Tony Williams",
+      "title": "Spring",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "machito-afro-cuban-jazz-suite",
+      "tier": "gateway",
+      "artist": "Machito and His Afro-Cubans",
+      "title": "Afro-Cuban Jazz Suite",
+      "recorded": 1950,
+      "released": 1952,
+      "startTrack": "Afro-Cuban Jazz Suite",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "Afro-Cuban Jazz Suite"
+      ],
+      "best": {
+        "albumId": "35386578",
+        "artist": "Machito Orchestra",
+        "title": "Afro-Cuban Jazz Suite",
+        "year": 1950,
+        "trackCount": 6,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 112
+      }
+    },
+    {
+      "id": "tito-puente-dance-mania",
+      "tier": "core",
+      "artist": "Tito Puente",
+      "title": "Dance Mania",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "cal-tjader-soul-sauce",
+      "tier": "core",
+      "artist": "Cal Tjader",
+      "title": "Soul Sauce",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "eddie-palmieri-harlem-river-drive",
+      "tier": "core",
+      "artist": "Eddie Palmieri",
+      "title": "Harlem River Drive",
+      "recorded": 1971,
+      "released": 1971,
+      "startTrack": "Harlem River Drive (Theme Song)",
+      "status": "review",
+      "method": null,
+      "queries": [
+        "Harlem River Drive",
+        "Eddie Palmieri Harlem River Drive"
+      ],
+      "best": {
+        "albumId": "37851956",
+        "artist": "Eddie Palmieri",
+        "title": "Recorded Live At Sing Sing With Harlem River Drive",
+        "year": 2012,
+        "trackCount": 5,
+        "titleScore": 0.92,
+        "artistScore": 1,
+        "totalScore": 70.6
+      },
+      "candidates": [
+        {
+          "albumId": "37851956",
+          "artist": "Eddie Palmieri",
+          "title": "Recorded Live At Sing Sing With Harlem River Drive",
+          "year": 2012,
+          "trackCount": 5,
+          "titleScore": 0.92,
+          "artistScore": 1,
+          "totalScore": 70.6
+        },
+        {
+          "albumId": "1673560",
+          "artist": "Harlem River Drive",
+          "title": "Harlem River Drive",
+          "year": 2010,
+          "trackCount": 5,
+          "titleScore": 1,
+          "artistScore": 0,
+          "totalScore": 64
+        },
+        {
+          "albumId": "2064049",
+          "artist": "Harlem River Drive",
+          "title": "Harlem River Drive",
+          "year": 2006,
+          "trackCount": 5,
+          "titleScore": 1,
+          "artistScore": 0,
+          "totalScore": 64
+        },
+        {
+          "albumId": "259517469",
+          "artist": "Fergie Baby",
+          "title": "Harlem River Drive",
+          "year": 2025,
+          "trackCount": 15,
+          "titleScore": 1,
+          "artistScore": 0,
+          "totalScore": 64
+        },
+        {
+          "albumId": "253920873",
+          "artist": "Fergie Baby",
+          "title": "Harlem River Drive: South - EP",
+          "year": 2024,
+          "trackCount": 6,
+          "titleScore": 0.92,
+          "artistScore": 0,
+          "totalScore": 58.6
+        }
+      ]
+    },
+    {
+      "id": "irakere-irakere-1979",
+      "tier": "core",
+      "artist": "Irakere",
+      "title": "Irakere",
+      "recorded": 1978,
+      "released": 1979,
+      "startTrack": "Misa Negra",
+      "status": "review",
+      "method": null,
+      "queries": [
+        "Irakere",
+        "Irakere Irakere"
+      ],
+      "best": {
+        "albumId": "357751404",
+        "artist": "Irakere",
+        "title": "Grupo Irakere",
+        "year": 1976,
+        "trackCount": 8,
+        "titleScore": 0.92,
+        "artistScore": 1,
+        "totalScore": 100.6
+      },
+      "candidates": [
+        {
+          "albumId": "357751404",
+          "artist": "Irakere",
+          "title": "Grupo Irakere",
+          "year": 1976,
+          "trackCount": 8,
+          "titleScore": 0.92,
+          "artistScore": 1,
+          "totalScore": 100.6
+        },
+        {
+          "albumId": "357750373",
+          "artist": "Irakere",
+          "title": "Grupo Irakere",
+          "year": 1974,
+          "trackCount": 8,
+          "titleScore": 0.92,
+          "artistScore": 1,
+          "totalScore": 100.6
+        },
+        {
+          "albumId": "263121768",
+          "artist": "Irakere",
+          "title": "Irakere",
+          "year": 2007,
+          "trackCount": 8,
+          "titleScore": 1,
+          "artistScore": 1,
+          "totalScore": 96
+        },
+        {
+          "albumId": "177386647",
+          "artist": "Irakere",
+          "title": "The Best Of Irakere",
+          "year": 1994,
+          "trackCount": 10,
+          "titleScore": 0.92,
+          "artistScore": 1,
+          "totalScore": 94.6
+        },
+        {
+          "albumId": "277952",
+          "artist": "Irakere",
+          "title": "Toda Cuba Baila con Irakere",
+          "year": 1998,
+          "trackCount": 11,
+          "titleScore": 0.92,
+          "artistScore": 1,
+          "totalScore": 94.6
+        }
+      ]
+    },
+    {
+      "id": "gonzalo-rubalcaba-diz",
+      "tier": "core",
+      "artist": "Gonzalo Rubalcaba",
+      "title": "Diz",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "mongo-santamaria-afro-roots",
+      "tier": "deep",
+      "artist": "Mongo Santamaría",
+      "title": "Afro Roots",
+      "recorded": 1958,
+      "released": 1972,
+      "startTrack": "Afro Blue",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "Afro Roots"
+      ],
+      "best": {
+        "albumId": "34484001",
+        "artist": "Mongo Santamaria",
+        "title": "Afro Roots",
+        "year": 1988,
+        "trackCount": 21,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 100
+      }
+    },
+    {
+      "id": "jerry-gonzalez-rumba-para-monk",
+      "tier": "deep",
+      "artist": "Jerry González and the Fort Apache Band",
+      "title": "Rumba para Monk",
+      "recorded": 1988,
+      "released": 1989,
+      "startTrack": "Evidence",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "Rumba para Monk"
+      ],
+      "best": {
+        "albumId": "180820899",
+        "artist": "Jerry Gonzalez",
+        "title": "Rumba Para Monk",
+        "year": 1988,
+        "trackCount": 8,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 112
+      }
+    },
+    {
+      "id": "arturo-ofarrill-cuba-the-conversation",
+      "tier": "deep",
+      "artist": "Arturo O'Farrill & The Afro Latin Jazz Orchestra",
+      "title": "Cuba: The Conversation Continues",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "getz-gilberto-1964",
+      "tier": "gateway",
+      "artist": "Stan Getz & João Gilberto",
+      "title": "Getz/Gilberto",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "joao-gilberto-chega-de-saudade",
+      "tier": "core",
+      "artist": "João Gilberto",
+      "title": "Chega de Saudade",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "jobim-wave",
+      "tier": "core",
+      "artist": "Antônio Carlos Jobim",
+      "title": "Wave",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "elis-tom-1974",
+      "tier": "core",
+      "artist": "Elis Regina & Antônio Carlos Jobim",
+      "title": "Elis & Tom",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "hermeto-pascoal-slaves-mass",
+      "tier": "core",
+      "artist": "Hermeto Pascoal",
+      "title": "Slaves Mass",
+      "recorded": 1976,
+      "released": 1977,
+      "startTrack": "Little Cry",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "Slaves Mass"
+      ],
+      "best": {
+        "albumId": "79543473",
+        "artist": "Hermeto Pascoal",
+        "title": "Slaves Mass (Expanded)",
+        "year": 2008,
+        "trackCount": 10,
+        "titleScore": 0.96,
+        "artistScore": 1,
+        "totalScore": 93.3
+      }
+    },
+    {
+      "id": "milton-nascimento-clube-da-esquina",
+      "tier": "core",
+      "artist": "Milton Nascimento & Lô Borges",
+      "title": "Clube da Esquina",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "egberto-gismonti-danca-das-cabecas",
+      "tier": "deep",
+      "artist": "Egberto Gismonti & Naná Vasconcelos",
+      "title": "Dança das Cabeças",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "airto-moreira-fingers",
+      "tier": "deep",
+      "artist": "Airto Moreira",
+      "title": "Fingers",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "tania-maria-come-with-me",
+      "tier": "deep",
+      "artist": "Tania Maria",
+      "title": "Come with Me",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "mulatu-astatke-ethiopiques-4",
+      "tier": "gateway",
+      "artist": "Mulatu Astatke",
+      "title": "Éthiopiques 4: Ethio Jazz & Musique Instrumentale 1969–1974",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "mulatu-astatke-afro-latin-soul",
+      "tier": "core",
+      "artist": "Mulatu Astatke and His Ethiopian Quintet",
+      "title": "Afro-Latin Soul",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "mahmoud-ahmed-ere-mela-mela",
+      "tier": "core",
+      "artist": "Mahmoud Ahmed",
+      "title": "Ere Mela Mela",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "getatchew-mekurya-ethiopiques-14",
+      "tier": "core",
+      "artist": "Getatchew Mekurya",
+      "title": "Éthiopiques 14: Negus of Ethiopian Sax",
+      "recorded": 1972,
+      "released": 2003,
+      "startTrack": "Shellela",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "Éthiopiques 14: Negus of Ethiopian Sax"
+      ],
+      "best": {
+        "albumId": "154568731",
+        "artist": "Getatchew Mekuria",
+        "title": "Éthiopiques 14: Negus Of Ethiopian Sax",
+        "year": 2003,
+        "trackCount": 15,
+        "titleScore": 1,
+        "artistScore": 0.5,
+        "totalScore": 102
+      }
+    },
+    {
+      "id": "hailu-mergia-tche-belew",
+      "tier": "core",
+      "artist": "Hailu Mergia & The Walias Band",
+      "title": "Tche Belew",
+      "status": "error",
+      "error": "NetEase code 406"
+    },
+    {
+      "id": "girma-beyene-ethiopiques-30",
+      "tier": "core",
+      "artist": "Girma Bèyènè & Akalé Wubé",
+      "title": "Ethiopiques 30: Mistakes on Purpose",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "ethiopiques-13-ethiopian-groove",
+      "tier": "deep",
+      "artist": "Various Artists",
+      "title": "Éthiopiques 13: Ethiopian Groove — The Golden Seventies",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "mulatu-heliocentrics-inspiration-information",
+      "tier": "deep",
+      "artist": "Mulatu Astatke & The Heliocentrics",
+      "title": "Inspiration Information 3",
+      "recorded": 2008,
+      "released": 2009,
+      "startTrack": "Cha Cha",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "Inspiration Information 3"
+      ],
+      "best": {
+        "albumId": "73618267",
+        "artist": "Mulatu Astatke",
+        "title": "Inspiration Information 3",
+        "year": 2009,
+        "trackCount": 14,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 118
+      }
+    },
+    {
+      "id": "alemayehu-eshete-ethiopiques-9",
+      "tier": "deep",
+      "artist": "Alèmayèhu Eshèté",
+      "title": "Éthiopiques 9: Alèmayèhu Eshèté 1969–1974",
+      "status": "error",
+      "error": "NetEase code 406"
+    },
+    {
+      "id": "terumasa-hino-hi-nology",
+      "tier": "gateway",
+      "artist": "Terumasa Hino",
+      "title": "Hi-Nology",
+      "status": "error",
+      "error": "NetEase code 406"
+    },
+    {
+      "id": "masabumi-kikuchi-poo-sun",
+      "tier": "core",
+      "artist": "Masabumi Kikuchi",
+      "title": "Poo-Sun",
+      "recorded": 1970,
+      "released": 1970,
+      "startTrack": "Poo-Sun",
+      "status": "review",
+      "method": null,
+      "queries": [
+        "Poo-Sun",
+        "Masabumi Kikuchi Poo-Sun"
+      ],
+      "best": {
+        "albumId": "151206421",
+        "artist": "菊地雅章",
+        "title": "POO-SUN",
+        "year": 2009,
+        "trackCount": 6,
+        "titleScore": 1,
+        "artistScore": 0,
+        "totalScore": 64
+      },
+      "candidates": [
+        {
+          "albumId": "151206421",
+          "artist": "菊地雅章",
+          "title": "POO-SUN",
+          "year": 2009,
+          "trackCount": 6,
+          "titleScore": 1,
+          "artistScore": 0,
+          "totalScore": 64
+        },
+        {
+          "albumId": "172828481",
+          "artist": "Masabumi Kikuchi Sextet",
+          "title": "Hairpin Circus / A Short Story For Image (Original Sound Track）",
+          "year": 1972,
+          "trackCount": 8,
+          "titleScore": 0,
+          "artistScore": 1,
+          "totalScore": 44
+        },
+        {
+          "albumId": "273859992",
+          "artist": "Asian Dummy",
+          "title": "CAR POO REE SUN",
+          "year": 2025,
+          "trackCount": 2,
+          "titleScore": 0.92,
+          "artistScore": 0,
+          "totalScore": 24.6
+        },
+        {
+          "albumId": "172602066",
+          "artist": "菊地雅章",
+          "title": "ポエジー",
+          "year": 1970,
+          "trackCount": 8,
+          "titleScore": 0,
+          "artistScore": 0,
+          "totalScore": 18
+        },
+        {
+          "albumId": "154325340",
+          "artist": "菊地雅章",
+          "title": "Masabumi Kikuchi With Gil Evans",
+          "year": 1971,
+          "trackCount": 6,
+          "titleScore": 0,
+          "artistScore": 0,
+          "totalScore": 12
+        }
+      ]
+    },
+    {
+      "id": "yosuke-yamashita-clay",
+      "tier": "core",
+      "artist": "Yosuke Yamashita Trio",
+      "title": "Clay",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "isao-suzuki-blow-up",
+      "tier": "core",
+      "artist": "Isao Suzuki Trio/Quartet",
+      "title": "Blow Up",
+      "status": "error",
+      "error": "NetEase code 406"
+    },
+    {
+      "id": "masahiko-togashi-we-now-create",
+      "tier": "core",
+      "artist": "Masahiko Togashi",
+      "title": "We Now Create: Music for Strings, Winds and Percussion",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "ryo-fukui-scenery",
+      "tier": "core",
+      "artist": "Ryo Fukui",
+      "title": "Scenery",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "toshiko-akiyoshi-kogun",
+      "tier": "deep",
+      "artist": "Toshiko Akiyoshi–Lew Tabackin Big Band",
+      "title": "Kogun",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "kohsuke-mine-mine",
+      "tier": "deep",
+      "artist": "Kohsuke Mine",
+      "title": "Mine",
+      "recorded": 1970,
+      "released": 1970,
+      "startTrack": "Morning Tide",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "Mine"
+      ],
+      "best": {
+        "albumId": "2913620",
+        "artist": "Kosuke Mine Quintet",
+        "title": "Mine",
+        "year": 2007,
+        "trackCount": 4,
+        "titleScore": 1,
+        "artistScore": 0.5,
+        "totalScore": 80
+      }
+    },
+    {
+      "id": "koichi-matsukaze-at-the-room-427",
+      "tier": "deep",
+      "artist": "Koichi Matsukaze Trio",
+      "title": "At the Room 427",
+      "recorded": 1975,
+      "released": 1975,
+      "startTrack": "Earth Mother",
+      "status": "review",
+      "method": null,
+      "queries": [
+        "At the Room 427",
+        "Koichi Matsukaze Trio At the Room 427"
+      ],
+      "best": {
+        "albumId": "137702216",
+        "artist": "Koichi Matsukaze Trio",
+        "title": "At the Room 427",
+        "year": 2022,
+        "trackCount": 6,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 96
+      },
+      "candidates": [
+        {
+          "albumId": "137702216",
+          "artist": "Koichi Matsukaze Trio",
+          "title": "At the Room 427",
+          "year": 2022,
+          "trackCount": 6,
+          "titleScore": 1,
+          "artistScore": 1,
+          "totalScore": 96
+        },
+        {
+          "albumId": "134034560",
+          "artist": "Koichi Matsukaze Trio",
+          "title": "At the Room 427",
+          "year": 2022,
+          "trackCount": 5,
+          "titleScore": 1,
+          "artistScore": 1,
+          "totalScore": 96
+        },
+        {
+          "albumId": "174760663",
+          "artist": "Koichi Matsukaze",
+          "title": "Good Nature",
+          "year": 1981,
+          "trackCount": 6,
+          "titleScore": 0,
+          "artistScore": 1,
+          "totalScore": 32
+        },
+        {
+          "albumId": "358827947",
+          "artist": "Koichi Matsukaze Trio",
+          "title": "A Day In Aketa",
+          "year": 1994,
+          "trackCount": 8,
+          "titleScore": 0,
+          "artistScore": 1,
+          "totalScore": 32
+        },
+        {
+          "albumId": "73456167",
+          "artist": "Koichi Matsukaze Trio",
+          "title": "Earth Mother",
+          "year": 2018,
+          "trackCount": 5,
+          "titleScore": 0,
+          "artistScore": 1,
+          "totalScore": 28
+        }
+      ]
+    },
+    {
+      "id": "peter-brotzmann-machine-gun",
+      "tier": "gateway",
+      "artist": "Peter Brötzmann Octet",
+      "title": "Machine Gun",
+      "recorded": 1968,
+      "released": 1968,
+      "startTrack": "Machine Gun",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "Machine Gun"
+      ],
+      "best": {
+        "albumId": "185568",
+        "artist": "Peter Brötzmann",
+        "title": "Machine Gun",
+        "year": 1968,
+        "trackCount": 5,
+        "titleScore": 1,
+        "artistScore": 0.92,
+        "totalScore": 115.4
+      }
+    },
+    {
+      "id": "derek-bailey-solo-guitar-vol1",
+      "tier": "core",
+      "artist": "Derek Bailey",
+      "title": "Solo Guitar Volume 1",
+      "recorded": 1971,
+      "released": 1971,
+      "startTrack": "Improvisation 1",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "Solo Guitar Volume 1"
+      ],
+      "best": {
+        "albumId": "126971",
+        "artist": "Derek Bailey",
+        "title": "Solo Guitar Volume 1",
+        "year": 1970,
+        "trackCount": 13,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 112
+      }
+    },
+    {
+      "id": "evan-parker-monoceros",
+      "tier": "core",
+      "artist": "Evan Parker",
+      "title": "Monoceros",
+      "recorded": 1978,
+      "released": 1978,
+      "startTrack": "Monoceros I",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "Monoceros"
+      ],
+      "best": {
+        "albumId": "151016609",
+        "artist": "Evan Parker",
+        "title": "Monoceros",
+        "year": 1977,
+        "trackCount": 4,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 112
+      }
+    },
+    {
+      "id": "spontaneous-music-ensemble-karyobin",
+      "tier": "core",
+      "artist": "Spontaneous Music Ensemble",
+      "title": "Karyōbin",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "icp-tetterettet",
+      "tier": "core",
+      "artist": "ICP Orchestra",
+      "title": "Tetterettet",
+      "recorded": 1977,
+      "released": 1978,
+      "startTrack": "Tetterettet",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "Tetterettet"
+      ],
+      "best": {
+        "albumId": "38244056",
+        "artist": "ICP Tentet",
+        "title": "Tetterettet",
+        "year": 2012,
+        "trackCount": 11,
+        "titleScore": 1,
+        "artistScore": 0.92,
+        "totalScore": 93.4
+      }
+    },
+    {
+      "id": "globe-unity-orchestra-1966",
+      "tier": "core",
+      "artist": "Globe Unity Orchestra",
+      "title": "Globe Unity",
+      "status": "error",
+      "error": "NetEase code 406"
+    },
+    {
+      "id": "alexander-von-schlippenbach-pakistani-pomade",
+      "tier": "deep",
+      "artist": "Alexander von Schlippenbach Trio",
+      "title": "Pakistani Pomade",
+      "status": "error",
+      "error": "NetEase code 406"
+    },
+    {
+      "id": "company-6-and-7",
+      "tier": "deep",
+      "artist": "Company",
+      "title": "Company 6 & 7",
+      "status": "error",
+      "error": "NetEase code 406"
+    },
+    {
+      "id": "schweizer-moholo-duo",
+      "tier": "deep",
+      "artist": "Irène Schweizer & Louis Moholo",
+      "title": "Irène Schweizer & Louis Moholo",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "ornette-coleman-shape-of-jazz-to-come",
+      "tier": "gateway",
+      "artist": "Ornette Coleman",
+      "title": "The Shape of Jazz to Come",
+      "status": "error",
+      "error": "NetEase code 406"
+    },
+    {
+      "id": "ornette-coleman-free-jazz",
+      "tier": "core",
+      "artist": "Ornette Coleman Double Quartet",
+      "title": "Free Jazz: A Collective Improvisation",
+      "status": "error",
+      "error": "NetEase code 406"
+    },
+    {
+      "id": "cecil-taylor-unit-structures",
+      "tier": "core",
+      "artist": "Cecil Taylor",
+      "title": "Unit Structures",
+      "status": "error",
+      "error": "NetEase code 406"
+    },
+    {
+      "id": "albert-ayler-spiritual-unity",
+      "tier": "core",
+      "artist": "Albert Ayler Trio",
+      "title": "Spiritual Unity",
+      "status": "error",
+      "error": "NetEase code 406"
+    },
+    {
+      "id": "john-coltrane-ascension",
+      "tier": "core",
+      "artist": "John Coltrane",
+      "title": "Ascension",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "sun-ra-heliocentric-worlds-vol1",
+      "tier": "core",
+      "artist": "Sun Ra and His Solar Arkestra",
+      "title": "The Heliocentric Worlds of Sun Ra, Volume One",
+      "recorded": 1965,
+      "released": 1965,
+      "startTrack": "Heliocentric",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "The Heliocentric Worlds of Sun Ra, Volume One"
+      ],
+      "best": {
+        "albumId": "196291",
+        "artist": "Sun Ra",
+        "title": "The Heliocentric Worlds Of Sun Ra",
+        "year": 2010,
+        "trackCount": 15,
+        "titleScore": 0.92,
+        "artistScore": 1,
+        "totalScore": 90.6
+      }
+    },
+    {
+      "id": "archie-shepp-fire-music",
+      "tier": "deep",
+      "artist": "Archie Shepp",
+      "title": "Fire Music",
+      "recorded": 1965,
+      "released": 1965,
+      "startTrack": "Hambone",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "Fire Music"
+      ],
+      "best": {
+        "albumId": "1505987",
+        "artist": "Archie Shepp",
+        "title": "Fire Music",
+        "year": 1994,
+        "trackCount": 6,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 96
+      }
+    },
+    {
+      "id": "coltrane-interstellar-space",
+      "tier": "deep",
+      "artist": "John Coltrane",
+      "title": "Interstellar Space",
+      "recorded": 1967,
+      "released": 1974,
+      "startTrack": "Mars",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "Interstellar Space"
+      ],
+      "best": {
+        "albumId": "1716899",
+        "artist": "John Coltrane",
+        "title": "Interstellar Space",
+        "year": 1974,
+        "trackCount": 6,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 118
+      }
+    },
+    {
+      "id": "charles-mingus-changes-one",
+      "tier": "deep",
+      "artist": "Charles Mingus",
+      "title": "Changes One",
+      "recorded": 1974,
+      "released": 1975,
+      "startTrack": "Sue's Changes",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "Changes One"
+      ],
+      "best": {
+        "albumId": "1565512",
+        "artist": "Charles Mingus",
+        "title": "Changes One",
+        "year": 1993,
+        "trackCount": 4,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 100
+      }
+    },
+    {
+      "id": "art-ensemble-of-chicago-les-stances-a-sophie",
+      "tier": "gateway",
+      "artist": "Art Ensemble of Chicago",
+      "title": "Les Stances à Sophie",
+      "recorded": 1970,
+      "released": 1970,
+      "startTrack": "Theme de Yoyo",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "Les Stances à Sophie"
+      ],
+      "best": {
+        "albumId": "439374",
+        "artist": "The Art Ensemble of Chicago",
+        "title": "Les stances à Sophie",
+        "year": 2004,
+        "trackCount": 8,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 96
+      }
+    },
+    {
+      "id": "roscoe-mitchell-sound",
+      "tier": "core",
+      "artist": "Roscoe Mitchell Sextet",
+      "title": "Sound",
+      "recorded": 1966,
+      "released": 1966,
+      "startTrack": "Sound",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "Sound"
+      ],
+      "best": {
+        "albumId": "191062",
+        "artist": "Roscoe Mitchell",
+        "title": "Sound",
+        "year": 1996,
+        "trackCount": 5,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 96
+      }
+    },
+    {
+      "id": "art-ensemble-people-in-sorrow",
+      "tier": "core",
+      "artist": "Art Ensemble of Chicago",
+      "title": "People in Sorrow",
+      "recorded": 1969,
+      "released": 1969,
+      "startTrack": "People in Sorrow",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "People in Sorrow"
+      ],
+      "best": {
+        "albumId": "439359",
+        "artist": "The Art Ensemble of Chicago",
+        "title": "People in Sorrow",
+        "year": 1969,
+        "trackCount": 2,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 84
+      }
+    },
+    {
+      "id": "muhal-richard-abrams-levels-and-degrees",
+      "tier": "core",
+      "artist": "Muhal Richard Abrams",
+      "title": "Levels and Degrees of Light",
+      "recorded": 1967,
+      "released": 1968,
+      "startTrack": "Levels and Degrees of Light",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "Levels and Degrees of Light"
+      ],
+      "best": {
+        "albumId": "127137884",
+        "artist": "Muhal Richard Abrams",
+        "title": "Levels And Degrees Of Light",
+        "year": 1967,
+        "trackCount": 3,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 112
+      }
+    },
+    {
+      "id": "anthony-braxton-creative-orchestra-music",
+      "tier": "core",
+      "artist": "Anthony Braxton",
+      "title": "Creative Orchestra Music 1976",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "henry-threadgill-air-lore",
+      "tier": "core",
+      "artist": "Air",
+      "title": "Air Lore",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "world-saxophone-quartet-revue",
+      "tier": "deep",
+      "artist": "World Saxophone Quartet",
+      "title": "Revue",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "revolutionary-ensemble-peoples-republic",
+      "tier": "deep",
+      "artist": "Revolutionary Ensemble",
+      "title": "The People's Republic",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "threadgill-you-know-the-number",
+      "tier": "deep",
+      "artist": "Henry Threadgill Sextett",
+      "title": "You Know the Number",
+      "recorded": 1986,
+      "released": 1986,
+      "startTrack": "Bermuda Blues",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "You Know the Number"
+      ],
+      "best": {
+        "albumId": "36285193",
+        "artist": "Henry Threadgill",
+        "title": "You Know the Number",
+        "year": 1986,
+        "trackCount": 7,
+        "titleScore": 1,
+        "artistScore": 0.92,
+        "totalScore": 115.4
+      }
+    },
+    {
+      "id": "a-love-supreme",
+      "tier": "gateway",
+      "artist": "John Coltrane",
+      "title": "A Love Supreme",
+      "recorded": 1964,
+      "released": 1965,
+      "startTrack": "Acknowledgement",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "A Love Supreme"
+      ],
+      "best": {
+        "albumId": "1716917",
+        "artist": "John Coltrane",
+        "title": "A Love Supreme (Deluxe Edition)",
+        "year": 1964,
+        "trackCount": 13,
+        "titleScore": 0.96,
+        "artistScore": 1,
+        "totalScore": 109.3
+      }
+    },
+    {
+      "id": "pharoah-sanders-karma",
+      "tier": "core",
+      "artist": "Pharoah Sanders",
+      "title": "Karma",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "alice-coltrane-journey-in-satchidananda",
+      "tier": "core",
+      "artist": "Alice Coltrane",
+      "title": "Journey in Satchidananda",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "pharoah-sanders-thembi",
+      "tier": "core",
+      "artist": "Pharoah Sanders",
+      "title": "Thembi",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "doug-carn-infant-eyes",
+      "tier": "core",
+      "artist": "Doug Carn",
+      "title": "Infant Eyes",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "don-cherry-brown-rice",
+      "tier": "core",
+      "artist": "Don Cherry",
+      "title": "Brown Rice",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "alice-coltrane-ptah-el-daoud",
+      "tier": "deep",
+      "artist": "Alice Coltrane",
+      "title": "Ptah, the El Daoud",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "phil-ranelin-vibes-from-the-tribe",
+      "tier": "deep",
+      "artist": "Phil Ranelin",
+      "title": "Vibes from the Tribe",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "shabaka-and-the-ancestors-wisdom",
+      "tier": "deep",
+      "artist": "Shabaka and the Ancestors",
+      "title": "Wisdom of Elders",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "wildflowers-loft-jazz-sessions",
+      "tier": "gateway",
+      "artist": "Various Artists",
+      "title": "Wildflowers: The New York Loft Jazz Sessions",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "sam-rivers-streams",
+      "tier": "core",
+      "artist": "Sam Rivers",
+      "title": "Streams",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "david-murray-flowers-for-albert",
+      "tier": "core",
+      "artist": "David Murray",
+      "title": "Flowers for Albert",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "julius-hemphill-dogon-ad",
+      "tier": "core",
+      "artist": "Julius Hemphill",
+      "title": "Dogon A.D.",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "arthur-blythe-lenox-avenue-breakdown",
+      "tier": "core",
+      "artist": "Arthur Blythe",
+      "title": "Lenox Avenue Breakdown",
+      "recorded": 1979,
+      "released": 1979,
+      "startTrack": "Down San Diego Way",
+      "status": "resolved",
+      "method": "metadata",
+      "queries": [
+        "Lenox Avenue Breakdown"
+      ],
+      "best": {
+        "albumId": "105774",
+        "artist": "Arthur Blythe",
+        "title": "Lenox Avenue Breakdown",
+        "year": 2016,
+        "trackCount": 4,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 96
+      }
+    },
+    {
+      "id": "air-air-time",
+      "tier": "core",
+      "artist": "Air",
+      "title": "Air Time",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "oliver-lake-holding-together",
+      "tier": "deep",
+      "artist": "Oliver Lake",
+      "title": "Holding Together",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "anthony-braxton-new-york-fall-1974",
+      "tier": "deep",
+      "artist": "Anthony Braxton",
+      "title": "New York, Fall 1974",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "frank-lowe-black-beings",
+      "tier": "deep",
+      "artist": "Frank Lowe",
+      "title": "Black Beings",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "bitches-brew",
+      "tier": "gateway",
+      "artist": "Miles Davis",
+      "title": "Bitches Brew",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "miles-davis-in-a-silent-way",
+      "tier": "core",
+      "artist": "Miles Davis",
+      "title": "In a Silent Way",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "weather-report-heavy-weather",
+      "tier": "core",
+      "artist": "Weather Report",
+      "title": "Heavy Weather",
+      "recorded": 1976,
+      "released": 1977,
+      "startTrack": "Birdland",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "Heavy Weather"
+      ],
+      "best": {
+        "albumId": "1928583",
+        "artist": "Weather Report",
+        "title": "Heavy Weather",
+        "year": 1977,
+        "trackCount": 8,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 118
+      }
+    },
+    {
+      "id": "mahavishnu-inner-mounting-flame",
+      "tier": "core",
+      "artist": "Mahavishnu Orchestra",
+      "title": "The Inner Mounting Flame",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "return-to-forever-romantic-warrior",
+      "tier": "core",
+      "artist": "Return to Forever",
+      "title": "Romantic Warrior",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "tony-williams-lifetime-emergency",
+      "tier": "core",
+      "artist": "The Tony Williams Lifetime",
+      "title": "Emergency!",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "miles-davis-on-the-corner",
+      "tier": "deep",
+      "artist": "Miles Davis",
+      "title": "On the Corner",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "jaco-pastorius-jaco-pastorius",
+      "tier": "deep",
+      "artist": "Jaco Pastorius",
+      "title": "Jaco Pastorius",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "soft-machine-third",
+      "tier": "deep",
+      "artist": "Soft Machine",
+      "title": "Third",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "herbie-hancock-head-hunters",
+      "tier": "gateway",
+      "artist": "Herbie Hancock",
+      "title": "Head Hunters",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "donald-byrd-black-byrd",
+      "tier": "core",
+      "artist": "Donald Byrd",
+      "title": "Black Byrd",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "roy-ayers-everybody-loves-the-sunshine",
+      "tier": "core",
+      "artist": "Roy Ayers Ubiquity",
+      "title": "Everybody Loves the Sunshine",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "les-mccann-eddie-harris-swiss-movement",
+      "tier": "core",
+      "artist": "Les McCann & Eddie Harris",
+      "title": "Swiss Movement",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "lonnie-liston-smith-expansions",
+      "tier": "core",
+      "artist": "Lonnie Liston Smith and the Cosmic Echoes",
+      "title": "Expansions",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "jimmy-smith-root-down",
+      "tier": "core",
+      "artist": "Jimmy Smith",
+      "title": "Root Down",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "bob-james-two",
+      "tier": "deep",
+      "artist": "Bob James",
+      "title": "Two",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "gary-bartz-ntu-troop-harlem-bush-music",
+      "tier": "deep",
+      "artist": "Gary Bartz NTU Troop",
+      "title": "Harlem Bush Music – Taifa",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "idris-muhammad-power-of-soul",
+      "tier": "deep",
+      "artist": "Idris Muhammad",
+      "title": "Power of Soul",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "ornette-coleman-dancing-in-your-head",
+      "tier": "gateway",
+      "artist": "Ornette Coleman",
+      "title": "Dancing in Your Head",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "ornette-coleman-of-human-feelings",
+      "tier": "core",
+      "artist": "Ornette Coleman and Prime Time",
+      "title": "Of Human Feelings",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "james-blood-ulmer-tales-of-captain-black",
+      "tier": "core",
+      "artist": "James Blood Ulmer",
+      "title": "Tales of Captain Black",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "ronald-shannon-jackson-eye-on-you",
+      "tier": "core",
+      "artist": "Ronald Shannon Jackson and the Decoding Society",
+      "title": "Eye on You",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "ornette-coleman-song-x",
+      "tier": "core",
+      "artist": "Pat Metheny & Ornette Coleman",
+      "title": "Song X",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "jamaaladeen-tacuma-showstopper",
+      "tier": "core",
+      "artist": "Jamaaladeen Tacuma",
+      "title": "Show Stopper",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "last-exit-last-exit",
+      "tier": "deep",
+      "artist": "Last Exit",
+      "title": "Last Exit",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "decoding-society-mandance",
+      "tier": "deep",
+      "artist": "Ronald Shannon Jackson and the Decoding Society",
+      "title": "Mandance",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "sonny-sharrock-ask-the-ages",
+      "tier": "deep",
+      "artist": "Sonny Sharrock",
+      "title": "Ask the Ages",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "grover-washington-winelight",
+      "tier": "gateway",
+      "artist": "Grover Washington Jr.",
+      "title": "Winelight",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "crusaders-street-life",
+      "tier": "core",
+      "artist": "The Crusaders",
+      "title": "Street Life",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "george-benson-breezin",
+      "tier": "core",
+      "artist": "George Benson",
+      "title": "Breezin'",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "david-sanborn-voyeur",
+      "tier": "core",
+      "artist": "David Sanborn",
+      "title": "Voyeur",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "spyro-gyra-morning-dance",
+      "tier": "core",
+      "artist": "Spyro Gyra",
+      "title": "Morning Dance",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "kenny-g-breathless",
+      "tier": "core",
+      "artist": "Kenny G",
+      "title": "Breathless",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "wes-montgomery-a-day-in-the-life",
+      "tier": "deep",
+      "artist": "Wes Montgomery",
+      "title": "A Day in the Life",
+      "recorded": 1967,
+      "released": 1967,
+      "startTrack": "A Day in the Life",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "A Day in the Life"
+      ],
+      "best": {
+        "albumId": "2545452",
+        "artist": "Wes Montgomery",
+        "title": "A Day In The Life",
+        "year": 1966,
+        "trackCount": 10,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 112
+      }
+    },
+    {
+      "id": "bob-james-earl-klugh-one-on-one",
+      "tier": "deep",
+      "artist": "Bob James & Earl Klugh",
+      "title": "One on One",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "pat-metheny-still-life-talking",
+      "tier": "deep",
+      "artist": "Pat Metheny Group",
+      "title": "Still Life (Talking)",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "brand-new-heavies-brand-new-heavies",
+      "tier": "gateway",
+      "artist": "The Brand New Heavies",
+      "title": "The Brand New Heavies",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "incognito-positivity",
+      "tier": "core",
+      "artist": "Incognito",
+      "title": "Positivity",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "us3-hand-on-the-torch",
+      "tier": "core",
+      "artist": "Us3",
+      "title": "Hand on the Torch",
+      "recorded": 1992,
+      "released": 1993,
+      "startTrack": "Cantaloop (Flip Fantasia)",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "Hand on the Torch"
+      ],
+      "best": {
+        "albumId": "2054791",
+        "artist": "Us3",
+        "title": "Hand On The Torch",
+        "year": 1992,
+        "trackCount": 13,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 112
+      }
+    },
+    {
+      "id": "james-taylor-quartet-mission-impossible",
+      "tier": "core",
+      "artist": "The James Taylor Quartet",
+      "title": "Mission Impossible",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "jamiroquai-return-of-the-space-cowboy",
+      "tier": "core",
+      "artist": "Jamiroquai",
+      "title": "The Return of the Space Cowboy",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "galliano-a-joyful-noise",
+      "tier": "core",
+      "artist": "Galliano",
+      "title": "A Joyful Noise Unto the Creator",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "rebirth-of-cool-vol1",
+      "tier": "deep",
+      "artist": "Various Artists",
+      "title": "Rebirth of Cool Volume One",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "corduroy-out-of-here",
+      "tier": "deep",
+      "artist": "Corduroy",
+      "title": "Out of Here",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "roy-ayers-wake-up",
+      "tier": "deep",
+      "artist": "Roy Ayers",
+      "title": "Wake Up",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "tribe-called-quest-low-end-theory",
+      "tier": "gateway",
+      "artist": "A Tribe Called Quest",
+      "title": "The Low End Theory",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "gang-starr-daily-operation",
+      "tier": "core",
+      "artist": "Gang Starr",
+      "title": "Daily Operation",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "digable-planets-reachin",
+      "tier": "core",
+      "artist": "Digable Planets",
+      "title": "Reachin' (A New Refutation of Time and Space)",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "guru-jazzmatazz-vol1",
+      "tier": "core",
+      "artist": "Guru",
+      "title": "Jazzmatazz, Volume 1",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "pete-rock-cl-smooth-mecca",
+      "tier": "core",
+      "artist": "Pete Rock & CL Smooth",
+      "title": "Mecca and the Soul Brother",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "robert-glasper-black-radio",
+      "tier": "core",
+      "artist": "Robert Glasper Experiment",
+      "title": "Black Radio",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "madlib-shades-of-blue",
+      "tier": "deep",
+      "artist": "Madlib",
+      "title": "Shades of Blue",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "miles-davis-doo-bop",
+      "tier": "deep",
+      "artist": "Miles Davis",
+      "title": "Doo-Bop",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "the-roots-do-you-want-more",
+      "tier": "deep",
+      "artist": "The Roots",
+      "title": "Do You Want More?!!!??!",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "nils-petter-molvaer-khmer",
+      "tier": "gateway",
+      "artist": "Nils Petter Molvær",
+      "title": "Khmer",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "bugge-wesseltoft-new-conception",
+      "tier": "core",
+      "artist": "Bugge Wesseltoft",
+      "title": "New Conception of Jazz",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "st-germain-tourist",
+      "tier": "core",
+      "artist": "St Germain",
+      "title": "Tourist",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "cinematic-orchestra-motion",
+      "tier": "core",
+      "artist": "The Cinematic Orchestra",
+      "title": "Motion",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "jaga-jazzist-a-livingroom-hush",
+      "tier": "core",
+      "artist": "Jaga Jazzist",
+      "title": "A Livingroom Hush",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "jazzanova-in-between",
+      "tier": "core",
+      "artist": "Jazzanova",
+      "title": "In Between",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "eivind-aarset-electronique-noire",
+      "tier": "deep",
+      "artist": "Eivind Aarset",
+      "title": "Électronique Noire",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "4hero-two-pages",
+      "tier": "deep",
+      "artist": "4hero",
+      "title": "Two Pages",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "koop-waltz-for-koop",
+      "tier": "deep",
+      "artist": "Koop",
+      "title": "Waltz for Koop",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "kamasi-washington-the-epic",
+      "tier": "gateway",
+      "artist": "Kamasi Washington",
+      "title": "The Epic",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "flying-lotus-cosmogramma",
+      "tier": "core",
+      "artist": "Flying Lotus",
+      "title": "Cosmogramma",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "thundercat-drunk",
+      "tier": "core",
+      "artist": "Thundercat",
+      "title": "Drunk",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "kendrick-lamar-to-pimp-a-butterfly",
+      "tier": "core",
+      "artist": "Kendrick Lamar",
+      "title": "To Pimp a Butterfly",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "terrace-martin-velvet-portraits",
+      "tier": "core",
+      "artist": "Terrace Martin",
+      "title": "Velvet Portraits",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "makaya-mccraven-universal-beings",
+      "tier": "core",
+      "artist": "Makaya McCraven",
+      "title": "Universal Beings",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "atwood-ferguson-suite-for-ma-dukes",
+      "tier": "deep",
+      "artist": "Miguel Atwood-Ferguson & Carlos Niño",
+      "title": "Suite for Ma Dukes: The Music of James Yancey",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "jeff-parker-suite-for-max-brown",
+      "tier": "deep",
+      "artist": "Jeff Parker & The New Breed",
+      "title": "Suite for Max Brown",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "kamaal-williams-the-return",
+      "tier": "deep",
+      "artist": "Kamaal Williams",
+      "title": "The Return",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "keith-jarrett-koln-concert",
+      "tier": "gateway",
+      "artist": "Keith Jarrett",
+      "title": "The Köln Concert",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "jan-garbarek-afric-pepperbird",
+      "tier": "core",
+      "artist": "Jan Garbarek Quartet",
+      "title": "Afric Pepperbird",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "keith-jarrett-belonging",
+      "tier": "core",
+      "artist": "Keith Jarrett",
+      "title": "Belonging",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "eberhard-weber-colours-of-chloe",
+      "tier": "core",
+      "artist": "Eberhard Weber",
+      "title": "The Colours of Chloë",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "pat-metheny-bright-size-life",
+      "tier": "core",
+      "artist": "Pat Metheny",
+      "title": "Bright Size Life",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "tomasz-stanko-litania",
+      "tier": "core",
+      "artist": "Tomasz Stańko",
+      "title": "Litania: The Music of Krzysztof Komeda",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "terje-rypdal-odyssey",
+      "tier": "deep",
+      "artist": "Terje Rypdal",
+      "title": "Odyssey",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "gary-peacock-tales-of-another",
+      "tier": "deep",
+      "artist": "Gary Peacock",
+      "title": "Tales of Another",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "bobo-stenson-goodbye",
+      "tier": "deep",
+      "artist": "Bobo Stenson Trio",
+      "title": "Goodbye",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "wynton-marsalis-black-codes",
+      "tier": "gateway",
+      "artist": "Wynton Marsalis",
+      "title": "Black Codes (From the Underground)",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "wynton-marsalis-1981-debut",
+      "tier": "core",
+      "artist": "Wynton Marsalis",
+      "title": "Wynton Marsalis",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "joshua-redman-moodswing",
+      "tier": "core",
+      "artist": "Joshua Redman Quartet",
+      "title": "MoodSwing",
+      "recorded": 1994,
+      "released": 1994,
+      "startTrack": "Sweet Sorrow",
+      "status": "resolved",
+      "method": "metadata-year",
+      "queries": [
+        "MoodSwing"
+      ],
+      "best": {
+        "albumId": "155149",
+        "artist": "Joshua Redman",
+        "title": "MoodSwing",
+        "year": 1994,
+        "trackCount": 11,
+        "titleScore": 1,
+        "artistScore": 1,
+        "totalScore": 118
+      }
+    },
+    {
+      "id": "roy-hargrove-habana",
+      "tier": "core",
+      "artist": "Roy Hargrove's Crisol",
+      "title": "Habana",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "terence-blanchard-malcolm-x-jazz-suite",
+      "tier": "core",
+      "artist": "Terence Blanchard",
+      "title": "The Malcolm X Jazz Suite",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "marcus-roberts-deep-in-the-shed",
+      "tier": "core",
+      "artist": "Marcus Roberts",
+      "title": "Deep in the Shed",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "wynton-marsalis-blood-on-the-fields",
+      "tier": "deep",
+      "artist": "Wynton Marsalis",
+      "title": "Blood on the Fields",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "jazz-at-lincoln-center-big-train",
+      "tier": "deep",
+      "artist": "Lincoln Center Jazz Orchestra",
+      "title": "Big Train",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "brad-mehldau-art-of-the-trio-3",
+      "tier": "deep",
+      "artist": "Brad Mehldau Trio",
+      "title": "The Art of the Trio, Volume Three: Songs",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "steve-coleman-motherland-pulse",
+      "tier": "gateway",
+      "artist": "Steve Coleman and Five Elements",
+      "title": "Motherland Pulse",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "steve-coleman-black-science",
+      "tier": "core",
+      "artist": "Steve Coleman and Five Elements",
+      "title": "Black Science",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "greg-osby-season-of-renewal",
+      "tier": "core",
+      "artist": "Greg Osby",
+      "title": "Season of Renewal",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "geri-allen-twylight",
+      "tier": "core",
+      "artist": "Geri Allen",
+      "title": "Twylight",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "steve-coleman-rhythm-people",
+      "tier": "core",
+      "artist": "Steve Coleman and Five Elements",
+      "title": "Rhythm People (The Resurrection of Creative Black Civilization)",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "robin-eubanks-mental-images",
+      "tier": "core",
+      "artist": "Robin Eubanks",
+      "title": "Mental Images",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "steve-coleman-curves-of-life",
+      "tier": "deep",
+      "artist": "Steve Coleman and Five Elements",
+      "title": "Curves of Life",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "steve-coleman-sonic-language-of-myth",
+      "tier": "deep",
+      "artist": "Steve Coleman and Five Elements",
+      "title": "The Sonic Language of Myth",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "steve-coleman-sign-and-the-seal",
+      "tier": "deep",
+      "artist": "Steve Coleman and the Mystic Rhythm Society with AfroCuba de Matanzas",
+      "title": "The Sign and the Seal",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "john-zorn-cobra",
+      "tier": "gateway",
+      "artist": "John Zorn",
+      "title": "Cobra",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "naked-city-naked-city",
+      "tier": "core",
+      "artist": "Naked City",
+      "title": "Naked City",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "lounge-lizards-lounge-lizards",
+      "tier": "core",
+      "artist": "The Lounge Lizards",
+      "title": "The Lounge Lizards",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "john-zorn-masada-alef",
+      "tier": "core",
+      "artist": "Masada",
+      "title": "Alef",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "bill-frisell-have-a-little-faith",
+      "tier": "core",
+      "artist": "Bill Frisell",
+      "title": "Have a Little Faith",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "tim-berne-fractured-fairy-tales",
+      "tier": "core",
+      "artist": "Tim Berne",
+      "title": "Fractured Fairy Tales",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "marc-ribot-rootless-cosmopolitans",
+      "tier": "deep",
+      "artist": "Marc Ribot",
+      "title": "Rootless Cosmopolitans",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "james-white-off-white",
+      "tier": "deep",
+      "artist": "James White and the Blacks",
+      "title": "Off White",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "elliott-sharp-carbon-tocsin",
+      "tier": "deep",
+      "artist": "Elliott Sharp / Carbon",
+      "title": "Tocsin",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "vijay-iyer-historicity",
+      "tier": "gateway",
+      "artist": "Vijay Iyer Trio",
+      "title": "Historicity",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "steve-lehman-travail-transformation",
+      "tier": "core",
+      "artist": "Steve Lehman Octet",
+      "title": "Travail, Transformation and Flow",
+      "status": "error",
+      "error": "NetEase code 405"
+    },
+    {
+      "id": "mary-halvorson-illusionary-sea",
+      "tier": "core",
+      "artist": "Mary Halvorson Septet",
+      "title": "Illusionary Sea",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "jason-moran-black-stars",
+      "tier": "core",
+      "artist": "Jason Moran",
+      "title": "Black Stars",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "tyshawn-sorey-verisimilitude",
+      "tier": "core",
+      "artist": "Tyshawn Sorey",
+      "title": "Verisimilitude",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "ambrose-akinmusire-imagined-savior",
+      "tier": "core",
+      "artist": "Ambrose Akinmusire",
+      "title": "The Imagined Savior Is Far Easier to Paint",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "craig-taborn-avenging-angel",
+      "tier": "deep",
+      "artist": "Craig Taborn",
+      "title": "Avenging Angel",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "matana-roberts-coin-coin-chapter-one",
+      "tier": "deep",
+      "artist": "Matana Roberts",
+      "title": "Coin Coin Chapter One: Gens de Couleur Libres",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "henry-threadgill-in-for-a-penny",
+      "tier": "deep",
+      "artist": "Henry Threadgill Zooid",
+      "title": "In for a Penny, In for a Pound",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "we-out-here-compilation",
+      "tier": "gateway",
+      "artist": "Various Artists",
+      "title": "We Out Here",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "sons-of-kemet-your-queen-is-a-reptile",
+      "tier": "core",
+      "artist": "Sons of Kemet",
+      "title": "Your Queen Is a Reptile",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "nubya-garcia-source",
+      "tier": "core",
+      "artist": "Nubya Garcia",
+      "title": "Source",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "ezra-collective-where-im-meant-to-be",
+      "tier": "core",
+      "artist": "Ezra Collective",
+      "title": "Where I'm Meant to Be",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "moses-boyd-dark-matter",
+      "tier": "core",
+      "artist": "Moses Boyd",
+      "title": "Dark Matter",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "comet-is-coming-trust-in-lifeforce",
+      "tier": "core",
+      "artist": "The Comet Is Coming",
+      "title": "Trust in the Lifeforce of the Deep Mystery",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "theon-cross-fyah",
+      "tier": "deep",
+      "artist": "Theon Cross",
+      "title": "Fyah",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "emma-jean-thackray-yellow",
+      "tier": "deep",
+      "artist": "Emma-Jean Thackray",
+      "title": "Yellow",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "yussef-kamaal-black-focus",
+      "tier": "deep",
+      "artist": "Yussef Kamaal",
+      "title": "Black Focus",
+      "status": "error",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
+}

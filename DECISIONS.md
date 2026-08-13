@@ -224,11 +224,23 @@ music came from outside jazz. Recorded as a known gap in `research/notes.md`.
 
 ## 7. Streaming links
 
-Search URLs only, generated at runtime from artist + title, exactly as the brief
-specifies. Spotify, Apple Music and NetEase album IDs are opaque strings that
-cannot be derived from metadata; writing them from memory produces links that go
-confidently to the wrong record. All three URL patterns were checked and return
-200. The preferred service is persisted in `localStorage` and rendered first.
+Album IDs are opaque strings that cannot be derived from metadata; writing them
+from memory produces links that go confidently to the wrong record. Spotify keeps
+its generated search URL. Apple Music and NetEase use conservative, reviewable
+build-time catalogs, with search retained when an exact match is unavailable. The
+preferred service is persisted in `localStorage` and rendered first.
+
+The native iOS app has one deliberate refinement: Apple Music's web search URL
+does not reliably open the Music app. On tap, iOS queries Apple's public iTunes
+Search API, ranks album results by title, artist, year and track count, then opens
+the returned `music.apple.com` album URL. Nothing is hardcoded; an uncertain match
+or failed request falls back to the same search URL used by the web version.
+
+NetEase has a separate wrinkle: the previous `orpheus://search?keyword=...` route
+could be accepted by iOS without navigating inside the app. The verified catalog
+now opens NetEase's supported `orpheus://album/<id>` route. When the app is absent,
+iOS opens NetEase's official `https://y.music.163.com/m/album?id=<id>` mobile page;
+unresolved records use the album-filtered web search and never a guessed ID.
 
 No embeds, for the same reason.
 

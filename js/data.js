@@ -10,12 +10,13 @@
 import { localizeData } from './localize-data.js?v=1';
 
 async function viaFetch() {
-  const [genresFile, albums, paths] = await Promise.all([
+  const [genresFile, albums, paths, neteaseCatalog] = await Promise.all([
     fetch('data/genres.json').then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); }),
     fetch('data/albums.json').then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); }),
     fetch('data/paths.json').then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); }),
+    fetch('data/netease.json').then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); }),
   ]);
-  return { genresFile, albums, paths, source: 'fetch' };
+  return { genresFile, albums, paths, neteaseCatalog, source: 'fetch' };
 }
 
 function viaGlobal() {
@@ -31,8 +32,8 @@ export async function loadData(locale = 'en') {
   } catch {
     payload = viaGlobal();
   }
-  const { genresFile, albums, paths, source } = payload;
-  return localizeData({
+  const { genresFile, albums, paths, neteaseCatalog = { albums: {} }, source } = payload;
+  const localized = localizeData({
     genres: genresFile.genres,
     lineage: genresFile.lineage,
     families: genresFile.families,
@@ -42,4 +43,9 @@ export async function loadData(locale = 'en') {
     paths,
     source,
   }, locale);
+  localized.albums = localized.albums.map((album) => ({
+    ...album,
+    neteaseAlbumId: neteaseCatalog.albums?.[album.id]?.albumId ?? null,
+  }));
+  return localized;
 }

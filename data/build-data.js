@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Generates data/data.js from the three JSON files so the site works from file://,
+ * Generates data/data.js from the canonical JSON files so the site works from file://,
  * where fetch() is blocked by Chrome's origin rules.  The JSON remains the single
  * source of truth — never hand-edit data.js.
  *
@@ -17,10 +17,11 @@ const payload = {
   genresFile: read('genres.json'),
   albums: read('albums.json'),
   paths: read('paths.json'),
+  neteaseCatalog: read('netease.json'),
 };
 
 const out = `/* GENERATED FILE — do not edit.
- * Source: data/genres.json, data/albums.json, data/paths.json
+ * Source: data/genres.json, data/albums.json, data/paths.json, data/netease.json
  * Regenerate with: node data/build-data.js
  * Exists so index.html works when opened directly from the filesystem (file://),
  * where fetch() of local JSON is blocked.

@@ -1,0 +1,355 @@
+{
+  "generated": "2026-08-05T07:42:48.611Z",
+  "albums": {
+    "joplin-treemonisha-1976": {
+      "albumId": "35381965",
+      "artist": "Houston Grand Opera Orchestra",
+      "title": "Treemonisha / Act 2",
+      "year": 2004,
+      "method": "metadata"
+    },
+    "hamlisch-the-sting": {
+      "albumId": "1579629",
+      "artist": "Marvin Hamlisch",
+      "title": "The Sting",
+      "year": 1973,
+      "method": "metadata"
+    },
+    "morath-best-of-scott-joplin": {
+      "albumId": "2058605",
+      "artist": "Max Morath",
+      "title": "The Best Of Scott Joplin",
+      "year": 2005,
+      "method": "metadata"
+    },
+    "louis-armstrong-hot-fives-sevens": {
+      "albumId": "34531057",
+      "artist": "Louis Armstrong",
+      "title": "The Complete Hot Five & Hot Seven Recordings",
+      "year": 2000,
+      "method": "metadata-year"
+    },
+    "sidney-bechet-best-of": {
+      "albumId": "2061368",
+      "artist": "Sidney Bechet",
+      "title": "The Best Of Sidney Bechet",
+      "year": 1993,
+      "method": "metadata-year"
+    },
+    "preservation-hall-jazz-band-so-it-is": {
+      "albumId": "35191746",
+      "artist": "Preservation Hall Jazz Band",
+      "title": "So It Is",
+      "year": 2017,
+      "method": "metadata-year"
+    },
+    "bix-beiderbecke-singin-the-blues": {
+      "albumId": "1532199",
+      "artist": "Bix Beiderbecke",
+      "title": "Bix Beiderbecke, Volume I: Singin' The Blues",
+      "year": 1993,
+      "method": "metadata"
+    },
+    "mckenzie-condon-chicagoans": {
+      "albumId": "84315219",
+      "artist": "The Chicagoans",
+      "title": "The Austin High Gang",
+      "year": 2010,
+      "method": "metadata"
+    },
+    "muggsy-spanier-ragtime-band": {
+      "albumId": "84185939",
+      "artist": "Muggsy Spanier & His Ragtime Band",
+      "title": "The Great 16",
+      "year": 1999,
+      "method": "metadata"
+    },
+    "jack-teagarden-king-of-the-blues-trombone": {
+      "albumId": "75908714",
+      "artist": "",
+      "title": "King of the Blues Trombone (HD Remastered)",
+      "year": 1970,
+      "method": "metadata"
+    },
+    "willie-the-lion-smith-memoirs": {
+      "albumId": "84394706",
+      "artist": "Willie \"The Lion\" Smith",
+      "title": "The Lion Roars",
+      "year": 1999,
+      "method": "metadata"
+    },
+    "duke-ellington-piano-reflections": {
+      "albumId": "36972371",
+      "artist": "Duke Ellington",
+      "title": "The Duke Plays Ellington",
+      "year": 1954,
+      "method": "metadata"
+    },
+    "count-basie-atomic-mr-basie": {
+      "albumId": "2053327",
+      "artist": "",
+      "title": "The Atomic Mr Basie",
+      "year": 1957,
+      "method": "metadata-year"
+    },
+    "ellington-such-sweet-thunder": {
+      "albumId": "89468020",
+      "artist": "Duke Ellington",
+      "title": "Such Sweet Thunder (Mono Version)",
+      "year": 1957,
+      "method": "metadata-year"
+    },
+    "maria-schneider-concert-in-the-garden": {
+      "albumId": "311468",
+      "artist": "Maria Schneider",
+      "title": "Concert in the Garden",
+      "year": 2008,
+      "method": "metadata"
+    },
+    "grappelli-violin-summit": {
+      "albumId": "39177652",
+      "artist": "Stuff Smith",
+      "title": "Violin Summit",
+      "year": 2015,
+      "method": "metadata"
+    },
+    "tchavolo-schmitt-alors-question": {
+      "albumId": "83039804",
+      "artist": "Tchavolo Schmitt",
+      "title": "Alors ? … voilà !",
+      "year": 1999,
+      "method": "metadata-year"
+    },
+    "billie-holiday-quintessential-vol3": {
+      "albumId": "1928610",
+      "artist": "Billie Holiday",
+      "title": "The Quintessential Billie Holiday Volume V",
+      "year": 1999,
+      "method": "metadata"
+    },
+    "betty-carter-audience-with": {
+      "albumId": "21216",
+      "artist": "Betty Carter",
+      "title": "The Audience With Betty Carter (Live)",
+      "year": 1980,
+      "method": "metadata"
+    },
+    "cassandra-wilson-blue-light-til-dawn": {
+      "albumId": "1566283",
+      "artist": "Cassandra Wilson",
+      "title": "Blue Light 'Til Dawn",
+      "year": 2013,
+      "method": "metadata"
+    },
+    "chico-hamilton-quintet-1955": {
+      "albumId": "367044629",
+      "artist": "The Chico Hamilton Trio",
+      "title": "Chico Hamilton Trio",
+      "year": 1955,
+      "method": "metadata"
+    },
+    "moanin-1959": {
+      "albumId": "1508109",
+      "artist": "Art Blakey",
+      "title": "Moanin'",
+      "year": 1959,
+      "method": "metadata-year"
+    },
+    "sonny-rollins-saxophone-colossus": {
+      "albumId": "1992382",
+      "artist": "Sonny Rollins",
+      "title": "Saxophone Colossus",
+      "year": 1957,
+      "method": "metadata-year"
+    },
+    "joe-henderson-inner-urge": {
+      "albumId": "2050426",
+      "artist": "Joe Henderson",
+      "title": "Inner Urge",
+      "year": 1989,
+      "method": "metadata"
+    },
+    "machito-afro-cuban-jazz-suite": {
+      "albumId": "35386578",
+      "artist": "Machito Orchestra",
+      "title": "Afro-Cuban Jazz Suite",
+      "year": 1950,
+      "method": "metadata-year"
+    },
+    "mongo-santamaria-afro-roots": {
+      "albumId": "34484001",
+      "artist": "Mongo Santamaria",
+      "title": "Afro Roots",
+      "year": 1988,
+      "method": "metadata"
+    },
+    "jerry-gonzalez-rumba-para-monk": {
+      "albumId": "180820899",
+      "artist": "Jerry Gonzalez",
+      "title": "Rumba Para Monk",
+      "year": 1988,
+      "method": "metadata-year"
+    },
+    "hermeto-pascoal-slaves-mass": {
+      "albumId": "79543473",
+      "artist": "Hermeto Pascoal",
+      "title": "Slaves Mass (Expanded)",
+      "year": 2008,
+      "method": "metadata"
+    },
+    "getatchew-mekurya-ethiopiques-14": {
+      "albumId": "154568731",
+      "artist": "Getatchew Mekuria",
+      "title": "Éthiopiques 14: Negus Of Ethiopian Sax",
+      "year": 2003,
+      "method": "metadata"
+    },
+    "mulatu-heliocentrics-inspiration-information": {
+      "albumId": "73618267",
+      "artist": "Mulatu Astatke",
+      "title": "Inspiration Information 3",
+      "year": 2009,
+      "method": "metadata-year"
+    },
+    "kohsuke-mine-mine": {
+      "albumId": "2913620",
+      "artist": "Kosuke Mine Quintet",
+      "title": "Mine",
+      "year": 2007,
+      "method": "metadata"
+    },
+    "peter-brotzmann-machine-gun": {
+      "albumId": "185568",
+      "artist": "Peter Brötzmann",
+      "title": "Machine Gun",
+      "year": 1968,
+      "method": "metadata-year"
+    },
+    "derek-bailey-solo-guitar-vol1": {
+      "albumId": "126971",
+      "artist": "Derek Bailey",
+      "title": "Solo Guitar Volume 1",
+      "year": 1970,
+      "method": "metadata-year"
+    },
+    "evan-parker-monoceros": {
+      "albumId": "151016609",
+      "artist": "Evan Parker",
+      "title": "Monoceros",
+      "year": 1977,
+      "method": "metadata-year"
+    },
+    "icp-tetterettet": {
+      "albumId": "38244056",
+      "artist": "ICP Tentet",
+      "title": "Tetterettet",
+      "year": 2012,
+      "method": "metadata"
+    },
+    "sun-ra-heliocentric-worlds-vol1": {
+      "albumId": "196291",
+      "artist": "Sun Ra",
+      "title": "The Heliocentric Worlds Of Sun Ra",
+      "year": 2010,
+      "method": "metadata"
+    },
+    "archie-shepp-fire-music": {
+      "albumId": "1505987",
+      "artist": "Archie Shepp",
+      "title": "Fire Music",
+      "year": 1994,
+      "method": "metadata"
+    },
+    "coltrane-interstellar-space": {
+      "albumId": "1716899",
+      "artist": "John Coltrane",
+      "title": "Interstellar Space",
+      "year": 1974,
+      "method": "metadata-year"
+    },
+    "charles-mingus-changes-one": {
+      "albumId": "1565512",
+      "artist": "Charles Mingus",
+      "title": "Changes One",
+      "year": 1993,
+      "method": "metadata"
+    },
+    "art-ensemble-of-chicago-les-stances-a-sophie": {
+      "albumId": "439374",
+      "artist": "The Art Ensemble of Chicago",
+      "title": "Les stances à Sophie",
+      "year": 2004,
+      "method": "metadata"
+    },
+    "roscoe-mitchell-sound": {
+      "albumId": "191062",
+      "artist": "Roscoe Mitchell",
+      "title": "Sound",
+      "year": 1996,
+      "method": "metadata"
+    },
+    "art-ensemble-people-in-sorrow": {
+      "albumId": "439359",
+      "artist": "The Art Ensemble of Chicago",
+      "title": "People in Sorrow",
+      "year": 1969,
+      "method": "metadata-year"
+    },
+    "muhal-richard-abrams-levels-and-degrees": {
+      "albumId": "127137884",
+      "artist": "Muhal Richard Abrams",
+      "title": "Levels And Degrees Of Light",
+      "year": 1967,
+      "method": "metadata-year"
+    },
+    "threadgill-you-know-the-number": {
+      "albumId": "36285193",
+      "artist": "Henry Threadgill",
+      "title": "You Know the Number",
+      "year": 1986,
+      "method": "metadata-year"
+    },
+    "a-love-supreme": {
+      "albumId": "1716917",
+      "artist": "John Coltrane",
+      "title": "A Love Supreme (Deluxe Edition)",
+      "year": 1964,
+      "method": "metadata-year"
+    },
+    "arthur-blythe-lenox-avenue-breakdown": {
+      "albumId": "105774",
+      "artist": "Arthur Blythe",
+      "title": "Lenox Avenue Breakdown",
+      "year": 2016,
+      "method": "metadata"
+    },
+    "weather-report-heavy-weather": {
+      "albumId": "1928583",
+      "artist": "Weather Report",
+      "title": "Heavy Weather",
+      "year": 1977,
+      "method": "metadata-year"
+    },
+    "wes-montgomery-a-day-in-the-life": {
+      "albumId": "2545452",
+      "artist": "Wes Montgomery",
+      "title": "A Day In The Life",
+      "year": 1966,
+      "method": "metadata-year"
+    },
+    "us3-hand-on-the-torch": {
+      "albumId": "2054791",
+      "artist": "Us3",
+      "title": "Hand On The Torch",
+      "year": 1992,
+      "method": "metadata-year"
+    },
+    "joshua-redman-moodswing": {
+      "albumId": "155149",
+      "artist": "Joshua Redman",
+      "title": "MoodSwing",
+      "year": 1994,
+      "method": "metadata-year"
+    }
+  }
+}

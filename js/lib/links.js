@@ -1,9 +1,8 @@
 /**
  * Streaming links.
  *
- * Deliberately search URLs only — no hardcoded album/track IDs. Spotify, Apple
- * Music and NetEase IDs are opaque strings that cannot be derived from metadata,
- * and inventing them produces links that quietly go to the wrong record.
+ * Opaque service IDs come only from reviewed build-time catalogs. Search URLs
+ * remain the fallback when JazzTree does not have a confident direct match.
  */
 
 import { el } from './utils.js?v=3';
@@ -12,7 +11,7 @@ import { t } from '../i18n.js?v=3';
 export const SERVICES = [
   { id: 'spotify', name: 'Spotify', short: 'S', title: 'Search on Spotify' },
   { id: 'appleMusic', name: 'Apple Music', short: 'A', title: 'Search on Apple Music' },
-  { id: 'netease', name: 'NetEase Cloud Music', short: '网', title: 'Search on NetEase Cloud Music (网易云音乐)' },
+  { id: 'netease', name: 'NetEase Cloud Music', short: '网', title: 'Open in NetEase Cloud Music (网易云音乐)' },
 ];
 
 export function searchUrl(service, artist, title) {
@@ -30,6 +29,13 @@ export function searchUrl(service, artist, title) {
   }
 }
 
+export function serviceUrl(service, album) {
+  if (service === 'netease' && /^\d+$/.test(album.neteaseAlbumId ?? '')) {
+    return `https://y.music.163.com/m/album?id=${album.neteaseAlbumId}`;
+  }
+  return searchUrl(service, album.artist, album.title);
+}
+
 /**
  * Three small icon buttons. The user's preferred service (persisted in
  * localStorage) is rendered first and marked as the default.
@@ -45,7 +51,7 @@ export function serviceLinks(album, preferred = 'spotify') {
     ordered.map((s, i) =>
       el('a', {
         class: 'svc__btn' + (i === 0 ? ' is-default' : ''),
-        href: searchUrl(s.id, album.artist, album.title),
+        href: serviceUrl(s.id, album),
         target: '_blank',
         rel: 'noopener noreferrer',
         title: `${t(`service.${s.id}`)}: ${album.artist} – ${album.title}`,
