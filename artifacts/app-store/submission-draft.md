@@ -78,7 +78,7 @@ User preferences and listening-path progress are stored locally on the device. J
 - Privacy policy: `../../support/privacypolicy/index.html`
 - Support page: `../../support/index.html`
 
-The support page still needs a public contact email. Once deployed to the JazzTree site, use `https://jazztree.c171017.com/support/privacypolicy/` as the App Store Privacy Policy URL and `https://jazztree.c171017.com/support/` as the Support URL.
+The support page lists `hzen@ucdavis.edu` as its public contact email. Once deployed to the JazzTree site, use `https://jazztree.c171017.com/support/privacypolicy/` as the App Store Privacy Policy URL and `https://jazztree.c171017.com/support/` as the Support URL.
 
 ## Account-holder decisions still required
 
