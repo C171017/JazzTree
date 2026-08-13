@@ -3,7 +3,7 @@ import JazzTreeCore
 
 /// One record. Everything the web card carries — artist, title, the facts, why this
 /// one, what to listen for, difficulty, confidence, and the three streaming
-/// searches — laid out for a 390pt column.
+/// destinations — laid out for a 390pt column.
 struct AlbumCardView: View {
     let album: Album
     var highlight: Bool = false
@@ -12,6 +12,7 @@ struct AlbumCardView: View {
     @EnvironmentObject private var model: AppModel
     @Environment(\.l10n) private var l10n
     @Environment(\.openURL) private var openURL
+    @State private var resolvingAppleMusic = false
 
     var body: some View {
         VStack(alignment: .leading, spacing: 9) {
@@ -104,38 +105,61 @@ struct AlbumCardView: View {
             .joined(separator: ", ")
     }
 
-    /// Search links, not album links. On iOS these hand off to the installed app
-    /// when there is one, which is a real advantage over the web version.
+    /// Apple Music and NetEase resolve opaque catalog IDs to real album pages.
     private var serviceButtons: some View {
         HStack(spacing: 5) {
             ForEach(StreamingLinks.ordered(preferring: model.service)) { service in
                 Button {
-                    open(service)
+                    Task { await open(service) }
                 } label: {
-                    Text(service.badge)
-                        .font(.system(size: 12, weight: .semibold))
-                        .foregroundStyle(service == model.service ? Palette.ink : Palette.ink3)
-                        .frame(width: 30, height: 28)
-                        .background(RoundedRectangle(cornerRadius: 6).fill(Palette.bg))
-                        .overlay {
-                            RoundedRectangle(cornerRadius: 6)
-                                .stroke(service == model.service ? Palette.ink4 : Palette.rule, lineWidth: 1)
+                    Group {
+                        if service == .appleMusic, resolvingAppleMusic {
+                            ProgressView().controlSize(.mini)
+                        } else {
+                            Text(service.badge)
+                                .font(.system(size: 12, weight: .semibold))
+                                .foregroundStyle(service == model.service ? Palette.ink : Palette.ink3)
                         }
+                    }
+                    .frame(width: 30, height: 28)
+                    .background(RoundedRectangle(cornerRadius: 6).fill(Palette.bg))
+                    .overlay {
+                        RoundedRectangle(cornerRadius: 6)
+                            .stroke(service == model.service ? Palette.ink4 : Palette.rule, lineWidth: 1)
+                    }
                 }
                 .buttonStyle(.plain)
+                .disabled(service == .appleMusic && resolvingAppleMusic)
                 .accessibilityLabel("\(l10n.serviceName(service)): \(album.artist), \(album.title)")
             }
         }
     }
 
-    private func open(_ service: StreamingService) {
+    @MainActor
+    private func open(_ service: StreamingService) async {
         guard let fallback = StreamingLinks.url(service, for: album) else { return }
-        guard let direct = StreamingLinks.appURL(service, for: album) else {
+
+        if service == .appleMusic {
+            guard !resolvingAppleMusic else { return }
+            resolvingAppleMusic = true
+            defer { resolvingAppleMusic = false }
+            if let direct = try? await AppleMusicCatalog.directURL(for: album) {
+                openURL(direct)
+                return
+            }
             openURL(fallback)
             return
         }
-        openURL(direct) { accepted in
-            if !accepted { openURL(fallback) }
+
+        if service == .netease,
+           let direct = NetEaseCatalog.appURL(for: album),
+           let webFallback = NetEaseCatalog.webURL(for: album) {
+            openURL(direct) { accepted in
+                if !accepted { openURL(webFallback) }
+            }
+            return
         }
+
+        openURL(fallback)
     }
 }

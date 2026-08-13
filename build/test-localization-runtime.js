@@ -62,6 +62,22 @@ if (!netEaseAlbumSearch.endsWith('&type=10')) {
 if (!netEaseAlbumSearch.includes('%26')) {
   failures.push(`netease search did not encode artist/album metadata: ${netEaseAlbumSearch}`);
 }
+const netEaseDirect = links.serviceUrl('netease', {
+  artist: 'Art Blakey & The Jazz Messengers',
+  title: "Moanin'",
+  neteaseAlbumId: '1508109',
+});
+if (netEaseDirect !== 'https://y.music.163.com/m/album?id=1508109') {
+  failures.push(`netease direct album URL is wrong: ${netEaseDirect}`);
+}
+const netEaseUnsafe = links.serviceUrl('netease', {
+  artist: 'Art Blakey & The Jazz Messengers',
+  title: "Moanin'",
+  neteaseAlbumId: '1508109&x=1',
+});
+if (netEaseUnsafe !== netEaseAlbumSearch) {
+  failures.push(`netease unsafe album ID did not fall back to search: ${netEaseUnsafe}`);
+}
 
 const englishUIKeys = i18n.uiTranslationKeys('en');
 const chineseUIKeys = i18n.uiTranslationKeys('zh-CN');

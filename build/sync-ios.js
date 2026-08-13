@@ -20,7 +20,7 @@ mkdirSync(dest, { recursive: true });
 execFileSync(process.execPath, [join(root, 'build/build-localization.js')], { stdio: 'inherit' });
 execFileSync(process.execPath, [join(root, 'build/validate-localization.js')], { stdio: 'inherit' });
 
-for (const name of ['genres.json', 'albums.json', 'paths.json']) {
+for (const name of ['genres.json', 'albums.json', 'paths.json', 'apple-music.json', 'netease.json']) {
   const data = readFileSync(join(root, 'data', name));
   writeFileSync(join(dest, name), data);
   console.log(`copied data/${name} → ${(data.length / 1024).toFixed(0)} KB`);

@@ -14,6 +14,8 @@
     "data": "node data/build-data.js && node data/validate.js && node build/build-localization.js && node build/validate-localization.js && node build/gen-static.js",
     "sync-ios": "node build/sync-ios.js",
     "verify-ios": "cd ios/Packages/JazzTreeCore && swift run jazztree-verify",
+    "resolve-apple-music": "node build/resolve-apple-music.js",
+    "resolve-netease": "node build/resolve-netease.js",
     "icon": "swift build/icon/main.swift"
   }
 }

@@ -207,20 +207,22 @@ D3 is used for `d3-scale`, `d3-shape`, `d3-zoom`, `d3-selection` and `d3-axis`.
 
 ## Streaming links
 
-Every album card has three buttons — Spotify, Apple Music, NetEase Cloud Music —
-generated at runtime from artist and title:
+Every album card has three buttons — Spotify, Apple Music, NetEase Cloud Music.
+Spotify remains a search; NetEase uses a reviewed exact album ID when one is
+available and otherwise falls back to an album-filtered search:
 
 ```js
 const q = encodeURIComponent(`${artist} ${title}`);
 `https://open.spotify.com/search/${q}`
 `https://music.apple.com/us/search?term=${q}`
-`https://music.163.com/#/search/m/?s=${q}`
+`https://y.music.163.com/m/album?id=${verifiedAlbumId}`
+`https://music.163.com/#/search/m/?s=${q}&type=10` // unresolved fallback
 ```
 
-These are **searches, not direct album links**, deliberately. Album IDs on these
-services are opaque strings that cannot be derived from metadata; a guessed ID
-resolves confidently to the wrong record. Pick a default service in the masthead
-and it is remembered and shown first.
+Album IDs are opaque strings that cannot be derived from metadata, so
+`build/resolve-netease.js` queries NetEase's public catalog at build time and
+accepts only strong title/artist/year matches. It never invents an ID. Pick a
+default service in the masthead and it is remembered and shown first.
 
 ---
 

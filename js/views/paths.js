@@ -2,7 +2,7 @@
 
 import * as store from '../store.js?v=2';
 import { el, announce } from '../lib/utils.js?v=3';
-import { albumCard } from './panel.js?v=3';
+import { albumCard } from './panel.js?v=4';
 import { pathText, t } from '../i18n.js?v=3';
 
 let wrap, activeId = 'start-here';

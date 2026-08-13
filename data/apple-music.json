@@ -1,0 +1,1700 @@
+{
+  "storefront": "CN",
+  "generated": "2026-08-05T05:12:29.413Z",
+  "albums": {
+    "rifkin-piano-rags-joplin": {
+      "collectionId": "83146601",
+      "artist": "Joshua Rifkin",
+      "title": "Scott Joplin Piano Rags",
+      "url": "https://music.apple.com/cn/album/scott-joplin-piano-rags/83146601",
+      "method": "metadata"
+    },
+    "joplin-treemonisha-1976": {
+      "collectionId": "1452547233",
+      "artist": "休斯顿大歌剧院管弦乐团",
+      "title": "Scott Joplin: Treemonisha",
+      "url": "https://music.apple.com/cn/album/scott-joplin-treemonisha/1452547233",
+      "method": "track-verified"
+    },
+    "nec-red-back-book": {
+      "collectionId": "724500908",
+      "artist": "斯科特・乔普林",
+      "title": "Scott Joplin: The Red Back Book - Elite Syncopations",
+      "url": "https://music.apple.com/cn/album/scott-joplin-the-red-back-book-elite-syncopations/724500908",
+      "method": "track-verified"
+    },
+    "eubie-blake-86-years": {
+      "collectionId": "1492501086",
+      "artist": "Eubie Blake",
+      "title": "Eighty Six Years Of Eubie Blake",
+      "url": "https://music.apple.com/cn/album/eighty-six-years-of-eubie-blake/1492501086",
+      "method": "metadata"
+    },
+    "hamlisch-the-sting": {
+      "collectionId": "1440495310",
+      "artist": "Marvin Hamlisch",
+      "title": "The Sting (25th Anniversary Edition) [Original Motion Picture Soundtrack]",
+      "url": "https://music.apple.com/cn/album/the-sting-25th-anniversary-edition-original-motion/1440495310",
+      "method": "metadata"
+    },
+    "morath-best-of-scott-joplin": {
+      "collectionId": "711718044",
+      "artist": "Max Morath",
+      "title": "The Best of Scott Joplin",
+      "url": "https://music.apple.com/cn/album/the-best-of-scott-joplin/711718044",
+      "method": "metadata"
+    },
+    "louis-armstrong-hot-fives-sevens": {
+      "collectionId": "293785410",
+      "artist": "LOUIS ARMSTRONG",
+      "title": "The Complete Hot Five and Hot Seven Recordings, Vol. 3",
+      "url": "https://music.apple.com/cn/album/the-complete-hot-five-and-hot-seven-recordings-vol-3/293785410",
+      "method": "track-verified"
+    },
+    "birth-of-the-hot-morton": {
+      "collectionId": "298294223",
+      "artist": "杰利洛摩顿",
+      "title": "Birth of the Hot - the Classic Chicago \"Red Hot Peppers\" Sessions 1926-27",
+      "url": "https://music.apple.com/cn/album/birth-of-the-hot-the-classic-chicago-red/298294223",
+      "method": "track-verified"
+    },
+    "sidney-bechet-best-of": {
+      "collectionId": "723524651",
+      "artist": "Sidney Bechet",
+      "title": "The Best of Sidney Bechet",
+      "url": "https://music.apple.com/cn/album/the-best-of-sidney-bechet/723524651",
+      "method": "metadata"
+    },
+    "odjb-complete-original-dixieland": {
+      "collectionId": "299609894",
+      "artist": "The Original Dixieland Jazz Band",
+      "title": "The Complete Original Dixieland Jazz Band (1917-1936)",
+      "url": "https://music.apple.com/cn/album/the-complete-original-dixieland-jazz-band-1917-1936/299609894",
+      "method": "metadata"
+    },
+    "wynton-marsalis-majesty-of-the-blues": {
+      "collectionId": "202602506",
+      "artist": "温顿・马沙利斯",
+      "title": "The Majesty of the Blues",
+      "url": "https://music.apple.com/cn/album/the-majesty-of-the-blues/202602506",
+      "method": "track-verified"
+    },
+    "bix-beiderbecke-singin-the-blues": {
+      "collectionId": "193147812",
+      "artist": "Bix Beiderbecke",
+      "title": "Bix Beiderbecke, Vol. I - Singin' the Blues",
+      "url": "https://music.apple.com/cn/album/bix-beiderbecke-vol-i-singin-the-blues/193147812",
+      "method": "metadata"
+    },
+    "pee-wee-russell-portrait": {
+      "collectionId": "210747241",
+      "artist": "Pee Wee Russell",
+      "title": "A Portrait of Pee Wee",
+      "url": "https://music.apple.com/cn/album/a-portrait-of-pee-wee/210747241",
+      "method": "metadata"
+    },
+    "benny-goodman-bg-trio-quartet": {
+      "collectionId": "1473646780",
+      "artist": "Benny Goodman",
+      "title": "Benny Goodman",
+      "url": "https://music.apple.com/cn/album/benny-goodman/1473646780",
+      "method": "metadata"
+    },
+    "duke-ellington-piano-reflections": {
+      "collectionId": "1443494103",
+      "artist": "Duke Ellington",
+      "title": "The Duke Plays Ellington",
+      "url": "https://music.apple.com/cn/album/the-duke-plays-ellington/1443494103",
+      "method": "metadata"
+    },
+    "thelonious-monk-solo-monk": {
+      "collectionId": "186320155",
+      "artist": "Thelonious Monk",
+      "title": "Solo Monk (Expanded Edition)",
+      "url": "https://music.apple.com/cn/album/solo-monk-expanded-edition/186320155",
+      "method": "track-verified"
+    },
+    "jaki-byard-blues-for-smoke": {
+      "collectionId": "791507860",
+      "artist": "Jaki Byard",
+      "title": "Blues for Smoke",
+      "url": "https://music.apple.com/cn/album/blues-for-smoke/791507860",
+      "method": "metadata"
+    },
+    "count-basie-original-decca": {
+      "collectionId": "1427369671",
+      "artist": "Count Basie",
+      "title": "The Complete Decca Recordings",
+      "url": "https://music.apple.com/cn/album/the-complete-decca-recordings/1427369671",
+      "method": "track-verified"
+    },
+    "count-basie-atomic-mr-basie": {
+      "collectionId": "696933995",
+      "artist": "Count Basie",
+      "title": "The Complete Atomic Basie",
+      "url": "https://music.apple.com/cn/album/the-complete-atomic-basie/696933995",
+      "method": "track-verified"
+    },
+    "hot-lips-page-after-hours": {
+      "collectionId": "1438167590",
+      "artist": "Hot Lips Page",
+      "title": "After Hours in Harlem (Recorded Live in New York, 1940-41)",
+      "url": "https://music.apple.com/cn/album/after-hours-in-harlem-recorded-live-in-new-york-1940-41/1438167590",
+      "method": "track-verified"
+    },
+    "ellington-blanton-webster-band": {
+      "collectionId": "164149672",
+      "artist": "Duke Ellington",
+      "title": "Never No Lament: The Blanton-Webster Band (Remastered)",
+      "url": "https://music.apple.com/cn/album/never-no-lament-the-blanton-webster-band-remastered/164149672",
+      "method": "metadata"
+    },
+    "benny-goodman-carnegie-hall-1938": {
+      "collectionId": "169853677",
+      "artist": "Benny Goodman",
+      "title": "The Famous 1938 Carnegie Hall Jazz Concert (Live)",
+      "url": "https://music.apple.com/cn/album/the-famous-1938-carnegie-hall-jazz-concert-live/169853677",
+      "method": "track-verified"
+    },
+    "fletcher-henderson-a-study-in-frustration": {
+      "collectionId": "186297292",
+      "artist": "Fletcher Henderson and His Orchestra",
+      "title": "A Study In Frustration: The Fletcher Henderson Story",
+      "url": "https://music.apple.com/cn/album/a-study-in-frustration-the-fletcher-henderson-story/186297292",
+      "method": "metadata"
+    },
+    "ellington-at-newport-1956": {
+      "collectionId": "999653079",
+      "artist": "Duke Ellington",
+      "title": "Ellington At Newport 1956 (Complete) [Live]",
+      "url": "https://music.apple.com/cn/album/ellington-at-newport-1956-complete-live/999653079",
+      "method": "manual-verified"
+    },
+    "woody-herman-thundering-herds": {
+      "collectionId": "216995945",
+      "artist": "伍迪・赫曼",
+      "title": "The Thundering Herds 1945-1947",
+      "url": "https://music.apple.com/cn/album/the-thundering-herds-1945-1947/216995945",
+      "method": "track-verified"
+    },
+    "ellington-such-sweet-thunder": {
+      "collectionId": "756959418",
+      "artist": "Duke Ellington",
+      "title": "Such Sweet Thunder (Mono Version)",
+      "url": "https://music.apple.com/cn/album/such-sweet-thunder-mono-version/756959418",
+      "method": "metadata"
+    },
+    "django-nuages-1940": {
+      "collectionId": "1443281972",
+      "artist": "強哥萊哈特",
+      "title": "Nuages",
+      "url": "https://music.apple.com/cn/album/nuages/1443281972",
+      "method": "track-verified"
+    },
+    "rosenberg-trio-seresta": {
+      "collectionId": "563263033",
+      "artist": "The Rosenberg Trio",
+      "title": "Seresta - The 20th Anniversary Deluxe Edition",
+      "url": "https://music.apple.com/cn/album/seresta-the-20th-anniversary-deluxe-edition/563263033",
+      "method": "metadata"
+    },
+    "django-peche-a-la-mouche": {
+      "collectionId": "1444019923",
+      "artist": "強哥萊哈特",
+      "title": "Pêche À La Mouche",
+      "url": "https://music.apple.com/cn/album/p%C3%AAche-%C3%A0-la-mouche/1444019923",
+      "method": "track-verified"
+    },
+    "tchavolo-schmitt-alors-question": {
+      "collectionId": "203991621",
+      "artist": "Tchavolo Schmitt",
+      "title": "Alors ?  Voilà !",
+      "url": "https://music.apple.com/cn/album/alors-voil%C3%A0/203991621",
+      "method": "metadata"
+    },
+    "ella-fitzgerald-cole-porter-songbook": {
+      "collectionId": "298744368",
+      "artist": "Ella Fitzgerald",
+      "title": "Ella",
+      "url": "https://music.apple.com/cn/album/ella/298744368",
+      "method": "metadata"
+    },
+    "sarah-vaughan-with-clifford-brown": {
+      "collectionId": "1434889193",
+      "artist": "Sarah Vaughan",
+      "title": "Sarah Vaughan",
+      "url": "https://music.apple.com/cn/album/sarah-vaughan/1434889193",
+      "method": "metadata"
+    },
+    "frank-sinatra-only-the-lonely": {
+      "collectionId": "1433830510",
+      "artist": "弗兰克・辛纳特拉",
+      "title": "Sings for Only the Lonely (1958 Mono Mix, Expanded Edition)",
+      "url": "https://music.apple.com/cn/album/sings-for-only-the-lonely-1958-mono-mix-expanded-edition/1433830510",
+      "method": "track-verified"
+    },
+    "betty-carter-audience-with": {
+      "collectionId": "1443220010",
+      "artist": "Betty Carter",
+      "title": "The Audience With Betty Carter (Live)",
+      "url": "https://music.apple.com/cn/album/the-audience-with-betty-carter-live/1443220010",
+      "method": "track-verified"
+    },
+    "lambert-hendricks-ross-sing-basie": {
+      "collectionId": "1444075197",
+      "artist": "Dave Lambert",
+      "title": "Sing a Song of Basie",
+      "url": "https://music.apple.com/cn/album/sing-a-song-of-basie/1444075197",
+      "method": "metadata"
+    },
+    "cassandra-wilson-blue-light-til-dawn": {
+      "collectionId": "1442272040",
+      "artist": "Cassandra Wilson",
+      "title": "Blue Light 'Til Dawn",
+      "url": "https://music.apple.com/cn/album/blue-light-til-dawn/1442272040",
+      "method": "metadata"
+    },
+    "kurt-elling-close-your-eyes": {
+      "collectionId": "723955262",
+      "artist": "Kurt Elling",
+      "title": "Close Your Eyes",
+      "url": "https://music.apple.com/cn/album/close-your-eyes/723955262",
+      "method": "metadata"
+    },
+    "charlie-parker-savoy-dial": {
+      "collectionId": "1518867397",
+      "artist": "Charlie Parker",
+      "title": "Best Of The Complete Savoy & Dial Studio Recordings",
+      "url": "https://music.apple.com/cn/album/best-of-the-complete-savoy-dial-studio-recordings/1518867397",
+      "method": "metadata"
+    },
+    "dizzy-gillespie-complete-rca-victor": {
+      "collectionId": "298320892",
+      "artist": "Dizzy Gillespie",
+      "title": "The Complete RCA Victor Recordings",
+      "url": "https://music.apple.com/cn/album/the-complete-rca-victor-recordings/298320892",
+      "method": "metadata"
+    },
+    "bud-powell-amazing-vol1": {
+      "collectionId": "1443191791",
+      "artist": "Bud Powell",
+      "title": "The Amazing Bud Powell",
+      "url": "https://music.apple.com/cn/album/the-amazing-bud-powell/1443191791",
+      "method": "metadata"
+    },
+    "thelonious-monk-brilliant-corners": {
+      "collectionId": "1440942347",
+      "artist": "Thelonious Monk",
+      "title": "Brilliant Corners",
+      "url": "https://music.apple.com/cn/album/brilliant-corners/1440942347",
+      "method": "metadata"
+    },
+    "clifford-brown-max-roach-1954": {
+      "collectionId": "424817015",
+      "artist": "Clifford Brown",
+      "title": "Clifford Brown and Max Roach",
+      "url": "https://music.apple.com/cn/album/clifford-brown-and-max-roach/424817015",
+      "method": "metadata"
+    },
+    "dexter-gordon-go": {
+      "collectionId": "1459439436",
+      "artist": "Dexter Gordon",
+      "title": "Go",
+      "url": "https://music.apple.com/cn/album/go/1459439436",
+      "method": "metadata"
+    },
+    "charlie-parker-with-strings": {
+      "collectionId": "1425188521",
+      "artist": "Charlie Parker",
+      "title": "Charlie Parker With Strings: Complete Master Takes",
+      "url": "https://music.apple.com/cn/album/charlie-parker-with-strings-complete-master-takes/1425188521",
+      "method": "metadata"
+    },
+    "fats-navarro-tadd-dameron-fabulous": {
+      "collectionId": "724265272",
+      "artist": "Fats Navarro",
+      "title": "The Complete Blue Note and Capitol Recordings",
+      "url": "https://music.apple.com/cn/album/the-complete-blue-note-and-capitol-recordings/724265272",
+      "method": "metadata"
+    },
+    "bud-powell-scene-changes": {
+      "collectionId": "715785209",
+      "artist": "Bud Powell",
+      "title": "The Scene Changes (Rudy Van Gelder Edition) [Remastered]",
+      "url": "https://music.apple.com/cn/album/the-scene-changes-rudy-van-gelder-edition-remastered/715785209",
+      "method": "track-verified"
+    },
+    "birth-of-the-cool": {
+      "collectionId": "1440951879",
+      "artist": "Miles Davis",
+      "title": "Birth of the Cool",
+      "url": "https://music.apple.com/cn/album/birth-of-the-cool/1440951879",
+      "method": "metadata"
+    },
+    "lee-konitz-subconscious-lee": {
+      "collectionId": "1228216915",
+      "artist": "Lee Konitz",
+      "title": "All That Jazz, Vol. 83: Lee Konitz & Friends \"Subconscious - Lee (feat. Lennie Tristano) [Remastered 2017]",
+      "url": "https://music.apple.com/cn/album/all-that-jazz-vol-83-lee-konitz-friends-subconscious/1228216915",
+      "method": "metadata"
+    },
+    "modern-jazz-quartet-django": {
+      "collectionId": "1484537165",
+      "artist": "The Modern Jazz Quartet",
+      "title": "Django (Remastered)",
+      "url": "https://music.apple.com/cn/album/django-remastered/1484537165",
+      "method": "metadata"
+    },
+    "miles-davis-gil-evans-miles-ahead": {
+      "collectionId": "200300007",
+      "artist": "Miles Davis",
+      "title": "Miles Ahead",
+      "url": "https://music.apple.com/cn/album/miles-ahead/200300007",
+      "method": "metadata"
+    },
+    "stan-getz-west-coast-jazz": {
+      "collectionId": "1443133429",
+      "artist": "Stan Getz",
+      "title": "West Coast Jazz",
+      "url": "https://music.apple.com/cn/album/west-coast-jazz/1443133429",
+      "method": "metadata"
+    },
+    "warne-marsh-jazz-of-two-cities": {
+      "collectionId": "1447414558",
+      "artist": "Warne Marsh",
+      "title": "Jazz of Two Cities",
+      "url": "https://music.apple.com/cn/album/jazz-of-two-cities/1447414558",
+      "method": "metadata"
+    },
+    "gil-evans-out-of-the-cool": {
+      "collectionId": "1442781667",
+      "artist": "Gil Evans",
+      "title": "Out of the Cool",
+      "url": "https://music.apple.com/cn/album/out-of-the-cool/1442781667",
+      "method": "metadata"
+    },
+    "gerry-mulligan-quartet-chet-baker": {
+      "collectionId": "1458823286",
+      "artist": "Gerry Mulligan Quartet",
+      "title": "The Gerry Mulligan Quartet",
+      "url": "https://music.apple.com/cn/album/the-gerry-mulligan-quartet/1458823286",
+      "method": "metadata"
+    },
+    "shorty-rogers-giants": {
+      "collectionId": "1652403010",
+      "artist": "Shorty Rogers",
+      "title": "Shorty Rogers and His Giants",
+      "url": "https://music.apple.com/cn/album/shorty-rogers-and-his-giants/1652403010",
+      "method": "metadata"
+    },
+    "art-pepper-meets-rhythm-section": {
+      "collectionId": "1440780070",
+      "artist": "Art Pepper",
+      "title": "Art Pepper Meets the Rhythm Section",
+      "url": "https://music.apple.com/cn/album/art-pepper-meets-the-rhythm-section/1440780070",
+      "method": "metadata"
+    },
+    "chico-hamilton-quintet-1955": {
+      "collectionId": "1443923804",
+      "artist": "Chico Hamilton Quintet",
+      "title": "Chico Hamilton Quintet (feat. Buddy Collette)",
+      "url": "https://music.apple.com/cn/album/chico-hamilton-quintet-feat-buddy-collette/1443923804",
+      "method": "metadata"
+    },
+    "dave-brubeck-time-out": {
+      "collectionId": "193085545",
+      "artist": "The Dave Brubeck Quartet",
+      "title": "Time Out",
+      "url": "https://music.apple.com/cn/album/time-out/193085545",
+      "method": "metadata"
+    },
+    "curtis-counce-you-get-more-bounce": {
+      "collectionId": "1539702448",
+      "artist": "Curtis Counce",
+      "title": "You Get More Bounce With Curtis Counce!",
+      "url": "https://music.apple.com/cn/album/you-get-more-bounce-with-curtis-counce/1539702448",
+      "method": "metadata"
+    },
+    "bud-shank-bob-cooper-blowin-country": {
+      "collectionId": "1445770421",
+      "artist": "Bud Shank",
+      "title": "Blowin' Country",
+      "url": "https://music.apple.com/cn/album/blowin-country/1445770421",
+      "method": "metadata"
+    },
+    "moanin-1959": {
+      "collectionId": "1459438950",
+      "artist": "Art Blakey & The Jazz Messengers",
+      "title": "Moanin'",
+      "url": "https://music.apple.com/cn/album/moanin/1459438950",
+      "method": "metadata"
+    },
+    "horace-silver-art-blakey-jazz-messengers-1955": {
+      "collectionId": "1444052680",
+      "artist": "Horace Silver & The Jazz Messengers",
+      "title": "Horace Silver and the Jazz Messengers",
+      "url": "https://music.apple.com/cn/album/horace-silver-and-the-jazz-messengers/1444052680",
+      "method": "metadata"
+    },
+    "cannonball-adderley-somethin-else": {
+      "collectionId": "514689001",
+      "artist": "Cannonball Adderley",
+      "title": "Somethin' Else",
+      "url": "https://music.apple.com/cn/album/somethin-else/514689001",
+      "method": "metadata"
+    },
+    "sonny-rollins-saxophone-colossus": {
+      "collectionId": "1440737584",
+      "artist": "Sonny Rollins",
+      "title": "Saxophone Colossus",
+      "url": "https://music.apple.com/cn/album/saxophone-colossus/1440737584",
+      "method": "metadata"
+    },
+    "john-coltrane-blue-train": {
+      "collectionId": "1468202477",
+      "artist": "John Coltrane",
+      "title": "Blue Train",
+      "url": "https://music.apple.com/cn/album/blue-train/1468202477",
+      "method": "metadata"
+    },
+    "lee-morgan-sidewinder": {
+      "collectionId": "1458548311",
+      "artist": "Lee Morgan",
+      "title": "The Sidewinder",
+      "url": "https://music.apple.com/cn/album/the-sidewinder/1458548311",
+      "method": "metadata"
+    },
+    "hank-mobley-soul-station": {
+      "collectionId": "1459439349",
+      "artist": "Hank Mobley",
+      "title": "Soul Station",
+      "url": "https://music.apple.com/cn/album/soul-station/1459439349",
+      "method": "metadata"
+    },
+    "art-blakey-free-for-all": {
+      "collectionId": "721251231",
+      "artist": "Art Blakey & The Jazz Messengers",
+      "title": "Free for All (Remastered)",
+      "url": "https://music.apple.com/cn/album/free-for-all-remastered/721251231",
+      "method": "metadata"
+    },
+    "jimmy-smith-back-at-the-chicken-shack": {
+      "collectionId": "724622238",
+      "artist": "Jimmy Smith",
+      "title": "Back at the Chicken Shack",
+      "url": "https://music.apple.com/cn/album/back-at-the-chicken-shack/724622238",
+      "method": "metadata"
+    },
+    "jimmy-smith-the-sermon": {
+      "collectionId": "1442853222",
+      "artist": "Jimmy Smith",
+      "title": "The Sermon!",
+      "url": "https://music.apple.com/cn/album/the-sermon/1442853222",
+      "method": "metadata"
+    },
+    "grant-green-idle-moments": {
+      "collectionId": "1443768982",
+      "artist": "Grant Green",
+      "title": "Idle Moments",
+      "url": "https://music.apple.com/cn/album/idle-moments/1443768982",
+      "method": "metadata"
+    },
+    "jack-mcduff-live": {
+      "collectionId": "1625134901",
+      "artist": "Brother Jack McDuff",
+      "title": "Live at Parnell's (Live)",
+      "url": "https://music.apple.com/cn/album/live-at-parnells-live/1625134901",
+      "method": "metadata"
+    },
+    "stanley-turrentine-sugar": {
+      "collectionId": "580376364",
+      "artist": "斯坦利·特伦坦",
+      "title": "Sugar",
+      "url": "https://music.apple.com/cn/album/sugar/580376364",
+      "method": "track-verified"
+    },
+    "ramsey-lewis-the-in-crowd": {
+      "collectionId": "1443201813",
+      "artist": "Ramsey Lewis Trio",
+      "title": "The In Crowd (Expanded Edition)",
+      "url": "https://music.apple.com/cn/album/the-in-crowd-expanded-edition/1443201813",
+      "method": "metadata"
+    },
+    "big-john-patton-lets-roll": {
+      "collectionId": "1443130216",
+      "artist": "Big John Patton",
+      "title": "Let ’Em Roll",
+      "url": "https://music.apple.com/cn/album/let-em-roll/1443130216",
+      "method": "metadata"
+    },
+    "larry-young-unity": {
+      "collectionId": "1457590359",
+      "artist": "Larry Young",
+      "title": "Unity",
+      "url": "https://music.apple.com/cn/album/unity/1457590359",
+      "method": "metadata"
+    },
+    "kind-of-blue": {
+      "collectionId": "268443092",
+      "artist": "Miles Davis",
+      "title": "Kind of Blue",
+      "url": "https://music.apple.com/cn/album/kind-of-blue/268443092",
+      "method": "metadata"
+    },
+    "miles-davis-milestones": {
+      "collectionId": "250998382",
+      "artist": "Miles Davis",
+      "title": "Milestones",
+      "url": "https://music.apple.com/cn/album/milestones/250998382",
+      "method": "metadata"
+    },
+    "john-coltrane-impressions": {
+      "collectionId": "6772278668",
+      "artist": "John Coltrane",
+      "title": "Impressions",
+      "url": "https://music.apple.com/cn/album/impressions/6772278668",
+      "method": "metadata"
+    },
+    "bill-evans-sunday-at-village-vanguard": {
+      "collectionId": "741562818",
+      "artist": "Bill Evans",
+      "title": "Village Vanguard",
+      "url": "https://music.apple.com/cn/album/village-vanguard/741562818",
+      "method": "metadata"
+    },
+    "mccoy-tyner-the-real-mccoy": {
+      "collectionId": "721273864",
+      "artist": "McCoy Tyner",
+      "title": "The Real McCoy",
+      "url": "https://music.apple.com/cn/album/the-real-mccoy/721273864",
+      "method": "metadata"
+    },
+    "herbie-hancock-maiden-voyage": {
+      "collectionId": "1476739989",
+      "artist": "Herbie Hancock",
+      "title": "Maiden Voyage",
+      "url": "https://music.apple.com/cn/album/maiden-voyage/1476739989",
+      "method": "metadata"
+    },
+    "george-russell-jazz-workshop": {
+      "collectionId": "1096461431",
+      "artist": "George Russell",
+      "title": "The Jazz Workshop",
+      "url": "https://music.apple.com/cn/album/the-jazz-workshop/1096461431",
+      "method": "metadata"
+    },
+    "john-coltrane-my-favorite-things": {
+      "collectionId": "962193155",
+      "artist": "John Coltrane",
+      "title": "My Favorite Things",
+      "url": "https://music.apple.com/cn/album/my-favorite-things/962193155",
+      "method": "metadata"
+    },
+    "wayne-shorter-juju": {
+      "collectionId": "1444117518",
+      "artist": "Wayne Shorter",
+      "title": "JuJu",
+      "url": "https://music.apple.com/cn/album/juju/1444117518",
+      "method": "metadata"
+    },
+    "modern-jazz-quartet-third-stream-music": {
+      "collectionId": "939916881",
+      "artist": "The Modern Jazz Quartet",
+      "title": "Third Stream Music",
+      "url": "https://music.apple.com/cn/album/third-stream-music/939916881",
+      "method": "metadata"
+    },
+    "charles-mingus-black-saint": {
+      "collectionId": "1443280597",
+      "artist": "Charles Mingus",
+      "title": "The Black Saint and the Sinner Lady",
+      "url": "https://music.apple.com/cn/album/the-black-saint-and-the-sinner-lady/1443280597",
+      "method": "metadata"
+    },
+    "gunther-schuller-jazz-abstractions": {
+      "collectionId": "310534032",
+      "artist": "John Lewis",
+      "title": "John Lewis Presents Jazz Abstractions",
+      "url": "https://music.apple.com/cn/album/john-lewis-presents-jazz-abstractions/310534032",
+      "method": "track-verified"
+    },
+    "stan-getz-focus": {
+      "collectionId": "1431059693",
+      "artist": "Stan Getz",
+      "title": "Focus",
+      "url": "https://music.apple.com/cn/album/focus/1431059693",
+      "method": "metadata"
+    },
+    "jimmy-giuffre-free-fall": {
+      "collectionId": "158577540",
+      "artist": "Jimmy Giuffre",
+      "title": "Free Fall",
+      "url": "https://music.apple.com/cn/album/free-fall/158577540",
+      "method": "metadata"
+    },
+    "charles-mingus-ah-um": {
+      "collectionId": "636353127",
+      "artist": "Charles Mingus",
+      "title": "Mingus Ah Um",
+      "url": "https://music.apple.com/cn/album/mingus-ah-um/636353127",
+      "method": "metadata"
+    },
+    "eddie-sauter-bill-finegan": {
+      "collectionId": "1349981044",
+      "artist": "The Sauter-Finegan Orchestra",
+      "title": "Directions In Music",
+      "url": "https://music.apple.com/cn/album/directions-in-music/1349981044",
+      "method": "metadata"
+    },
+    "anthony-braxton-for-alto": {
+      "collectionId": "1458857990",
+      "artist": "Anthony Braxton",
+      "title": "For Alto",
+      "url": "https://music.apple.com/cn/album/for-alto/1458857990",
+      "method": "metadata"
+    },
+    "miles-davis-miles-smiles": {
+      "collectionId": "209407331",
+      "artist": "Miles Davis Quintet",
+      "title": "Miles Smiles",
+      "url": "https://music.apple.com/cn/album/miles-smiles/209407331",
+      "method": "metadata"
+    },
+    "wayne-shorter-speak-no-evil": {
+      "collectionId": "1453750007",
+      "artist": "Wayne Shorter",
+      "title": "Speak No Evil",
+      "url": "https://music.apple.com/cn/album/speak-no-evil/1453750007",
+      "method": "metadata"
+    },
+    "eric-dolphy-out-to-lunch": {
+      "collectionId": "1455686798",
+      "artist": "Eric Dolphy",
+      "title": "Out to Lunch!",
+      "url": "https://music.apple.com/cn/album/out-to-lunch/1455686798",
+      "method": "metadata"
+    },
+    "andrew-hill-point-of-departure": {
+      "collectionId": "1444096239",
+      "artist": "Andrew Hill",
+      "title": "Point of Departure",
+      "url": "https://music.apple.com/cn/album/point-of-departure/1444096239",
+      "method": "metadata"
+    },
+    "joe-henderson-inner-urge": {
+      "collectionId": "724519387",
+      "artist": "Joe Henderson",
+      "title": "Inner Urge (The Rudy Van Gelder Edition) [Remastered]",
+      "url": "https://music.apple.com/cn/album/inner-urge-the-rudy-van-gelder-edition-remastered/724519387",
+      "method": "metadata"
+    },
+    "herbie-hancock-empyrean-isles": {
+      "collectionId": "1443829596",
+      "artist": "Herbie Hancock",
+      "title": "Empyrean Isles",
+      "url": "https://music.apple.com/cn/album/empyrean-isles/1443829596",
+      "method": "metadata"
+    },
+    "bobby-hutcherson-dialogue": {
+      "collectionId": "723562758",
+      "artist": "Bobby Hutcherson",
+      "title": "Dialogue (The Rudy Van Gelder Edition Remastered)",
+      "url": "https://music.apple.com/cn/album/dialogue-the-rudy-van-gelder-edition-remastered/723562758",
+      "method": "metadata"
+    },
+    "sam-rivers-fuchsia-swing-song": {
+      "collectionId": "1443260248",
+      "artist": "Sam Rivers",
+      "title": "Fuchsia Swing Song",
+      "url": "https://music.apple.com/cn/album/fuchsia-swing-song/1443260248",
+      "method": "metadata"
+    },
+    "tony-williams-lifetime-spring": {
+      "collectionId": "715569482",
+      "artist": "Tony Williams",
+      "title": "Spring (Remastered)",
+      "url": "https://music.apple.com/cn/album/spring-remastered/715569482",
+      "method": "metadata"
+    },
+    "tito-puente-dance-mania": {
+      "collectionId": "252742319",
+      "artist": "铁托・普恩特",
+      "title": "Dance Mania, Vol. 1 (Remastered)",
+      "url": "https://music.apple.com/cn/album/dance-mania-vol-1-remastered/252742319",
+      "method": "track-verified"
+    },
+    "cal-tjader-soul-sauce": {
+      "collectionId": "1444045190",
+      "artist": "Cal Tjader",
+      "title": "Soul Sauce",
+      "url": "https://music.apple.com/cn/album/soul-sauce/1444045190",
+      "method": "metadata"
+    },
+    "eddie-palmieri-harlem-river-drive": {
+      "collectionId": "692052435",
+      "artist": "Harlem River Drive",
+      "title": "Harlem River Drive",
+      "url": "https://music.apple.com/cn/album/harlem-river-drive/692052435",
+      "method": "track-verified"
+    },
+    "mongo-santamaria-afro-roots": {
+      "collectionId": "1442880176",
+      "artist": "孟果·圣塔马利亚",
+      "title": "Afro Roots",
+      "url": "https://music.apple.com/cn/album/afro-roots/1442880176",
+      "method": "track-verified"
+    },
+    "jerry-gonzalez-rumba-para-monk": {
+      "collectionId": "15793677",
+      "artist": "Jerry Gonzalez",
+      "title": "Rumba Para Monk",
+      "url": "https://music.apple.com/cn/album/rumba-para-monk/15793677",
+      "method": "metadata"
+    },
+    "getz-gilberto-1964": {
+      "collectionId": "1422655717",
+      "artist": "Stan Getz",
+      "title": "Getz/Gilberto",
+      "url": "https://music.apple.com/cn/album/getz-gilberto/1422655717",
+      "method": "metadata"
+    },
+    "joao-gilberto-chega-de-saudade": {
+      "collectionId": "1824101643",
+      "artist": "João Gilberto",
+      "title": "Chega de Saudade",
+      "url": "https://music.apple.com/cn/album/chega-de-saudade/1824101643",
+      "method": "metadata"
+    },
+    "jobim-wave": {
+      "collectionId": "1484688152",
+      "artist": "Antônio Carlos Jobim",
+      "title": "Wave",
+      "url": "https://music.apple.com/cn/album/wave/1484688152",
+      "method": "metadata"
+    },
+    "elis-tom-1974": {
+      "collectionId": "1438430508",
+      "artist": "Elis Regina",
+      "title": "Elis & Tom",
+      "url": "https://music.apple.com/cn/album/elis-tom/1438430508",
+      "method": "metadata"
+    },
+    "hermeto-pascoal-slaves-mass": {
+      "collectionId": "281147840",
+      "artist": "赫尔梅托・帕斯科尔",
+      "title": "Slaves Mass",
+      "url": "https://music.apple.com/cn/album/slaves-mass/281147840",
+      "method": "track-verified"
+    },
+    "milton-nascimento-clube-da-esquina": {
+      "collectionId": "1473446573",
+      "artist": "Milton Nascimento",
+      "title": "Clube da Esquina",
+      "url": "https://music.apple.com/cn/album/clube-da-esquina/1473446573",
+      "method": "metadata"
+    },
+    "airto-moreira-fingers": {
+      "collectionId": "451756938",
+      "artist": "Airto",
+      "title": "Fingers (CTI Records 40th Anniversary Edition)",
+      "url": "https://music.apple.com/cn/album/fingers-cti-records-40th-anniversary-edition/451756938",
+      "method": "metadata"
+    },
+    "tania-maria-come-with-me": {
+      "collectionId": "1519832624",
+      "artist": "Tania Maria",
+      "title": "Come With Me",
+      "url": "https://music.apple.com/cn/album/come-with-me/1519832624",
+      "method": "metadata"
+    },
+    "mulatu-astatke-ethiopiques-4": {
+      "collectionId": "78928362",
+      "artist": "Mulatu Astatke",
+      "title": "Éthiopiques, Vol. 4: Ethio Jazz & Musique Instrumentale (1969-1974)",
+      "url": "https://music.apple.com/cn/album/%C3%A9thiopiques-vol-4-ethio-jazz-musique-instrumentale/78928362",
+      "method": "metadata"
+    },
+    "getatchew-mekurya-ethiopiques-14": {
+      "collectionId": "78952714",
+      "artist": "Getatchew Mekurya",
+      "title": "Éthiopiques, Vol. 14: Getachèw Mèkurya",
+      "url": "https://music.apple.com/cn/album/%C3%A9thiopiques-vol-14-getach%C3%A8w-m%C3%A8kurya/78952714",
+      "method": "track-verified"
+    },
+    "hailu-mergia-tche-belew": {
+      "collectionId": "918253044",
+      "artist": "Hailu Mergia",
+      "title": "Tche Belew",
+      "url": "https://music.apple.com/cn/album/tche-belew/918253044",
+      "method": "metadata"
+    },
+    "mulatu-heliocentrics-inspiration-information": {
+      "collectionId": "307556145",
+      "artist": "Mulatu Astatke",
+      "title": "Inspiration Information 3",
+      "url": "https://music.apple.com/cn/album/inspiration-information-3/307556145",
+      "method": "metadata"
+    },
+    "masabumi-kikuchi-poo-sun": {
+      "collectionId": "1443746181",
+      "artist": "Masabumi Kikuchi",
+      "title": "Poo-Sun",
+      "url": "https://music.apple.com/cn/album/poo-sun/1443746181",
+      "method": "metadata"
+    },
+    "ryo-fukui-scenery": {
+      "collectionId": "1329457232",
+      "artist": "Ryo Fukui",
+      "title": "Scenery",
+      "url": "https://music.apple.com/cn/album/scenery/1329457232",
+      "method": "metadata"
+    },
+    "globe-unity-orchestra-1966": {
+      "collectionId": "1029240274",
+      "artist": "Globe Unity Orchestra",
+      "title": "Globe Unity 67 & 70",
+      "url": "https://music.apple.com/cn/album/globe-unity-67-70/1029240274",
+      "method": "track-verified"
+    },
+    "ornette-coleman-shape-of-jazz-to-come": {
+      "collectionId": "921051612",
+      "artist": "Ornette Coleman",
+      "title": "The Shape of Jazz to Come (Mono)",
+      "url": "https://music.apple.com/cn/album/the-shape-of-jazz-to-come-mono/921051612",
+      "method": "track-verified"
+    },
+    "ornette-coleman-free-jazz": {
+      "collectionId": "50235783",
+      "artist": "Ornette Coleman",
+      "title": "Free Jazz",
+      "url": "https://music.apple.com/cn/album/free-jazz/50235783",
+      "method": "track-verified"
+    },
+    "cecil-taylor-unit-structures": {
+      "collectionId": "724608454",
+      "artist": "Cecil Taylor",
+      "title": "Unit Structures",
+      "url": "https://music.apple.com/cn/album/unit-structures/724608454",
+      "method": "metadata"
+    },
+    "albert-ayler-spiritual-unity": {
+      "collectionId": "1234022242",
+      "artist": "Albert Ayler Trio",
+      "title": "Spiritual Unity (50th Anniversary Expanded Edition)",
+      "url": "https://music.apple.com/cn/album/spiritual-unity-50th-anniversary-expanded-edition/1234022242",
+      "method": "metadata"
+    },
+    "john-coltrane-ascension": {
+      "collectionId": "1443121026",
+      "artist": "John Coltrane",
+      "title": "Ascension",
+      "url": "https://music.apple.com/cn/album/ascension/1443121026",
+      "method": "metadata"
+    },
+    "sun-ra-heliocentric-worlds-vol1": {
+      "collectionId": "1002270163",
+      "artist": "Sun Ra",
+      "title": "The Heliocentric Worlds of Sun Ra, Vol. 1",
+      "url": "https://music.apple.com/cn/album/the-heliocentric-worlds-of-sun-ra-vol-1/1002270163",
+      "method": "track-verified"
+    },
+    "archie-shepp-fire-music": {
+      "collectionId": "1443837989",
+      "artist": "Archie Shepp",
+      "title": "Fire Music",
+      "url": "https://music.apple.com/cn/album/fire-music/1443837989",
+      "method": "metadata"
+    },
+    "coltrane-interstellar-space": {
+      "collectionId": "1443108040",
+      "artist": "John Coltrane",
+      "title": "Interstellar Space (Expanded Edition)",
+      "url": "https://music.apple.com/cn/album/interstellar-space-expanded-edition/1443108040",
+      "method": "metadata"
+    },
+    "charles-mingus-changes-one": {
+      "collectionId": "298727381",
+      "artist": "Charles Mingus",
+      "title": "Changes One",
+      "url": "https://music.apple.com/cn/album/changes-one/298727381",
+      "method": "metadata"
+    },
+    "roscoe-mitchell-sound": {
+      "collectionId": "1441720898",
+      "artist": "Roscoe Mitchell",
+      "title": "Roscoe Mitchell Sextet - Sound",
+      "url": "https://music.apple.com/cn/album/roscoe-mitchell-sextet-sound/1441720898",
+      "method": "metadata"
+    },
+    "muhal-richard-abrams-levels-and-degrees": {
+      "collectionId": "1470005669",
+      "artist": "Muhal Richard Abrams",
+      "title": "Levels and Degrees of Light",
+      "url": "https://music.apple.com/cn/album/levels-and-degrees-of-light/1470005669",
+      "method": "metadata"
+    },
+    "anthony-braxton-creative-orchestra-music": {
+      "collectionId": "1266092138",
+      "artist": "Anthony Braxton",
+      "title": "Creative Orchestra Music 1976",
+      "url": "https://music.apple.com/cn/album/creative-orchestra-music-1976/1266092138",
+      "method": "metadata"
+    },
+    "henry-threadgill-air-lore": {
+      "collectionId": "878050237",
+      "artist": "Air",
+      "title": "Air Lore",
+      "url": "https://music.apple.com/cn/album/air-lore/878050237",
+      "method": "metadata"
+    },
+    "world-saxophone-quartet-revue": {
+      "collectionId": "318162255",
+      "artist": "World Saxophone Quartet",
+      "title": "Revue",
+      "url": "https://music.apple.com/cn/album/revue/318162255",
+      "method": "metadata"
+    },
+    "a-love-supreme": {
+      "collectionId": "1440713018",
+      "artist": "John Coltrane",
+      "title": "A Love Supreme",
+      "url": "https://music.apple.com/cn/album/a-love-supreme/1440713018",
+      "method": "metadata"
+    },
+    "pharoah-sanders-karma": {
+      "collectionId": "1443785100",
+      "artist": "Pharoah Sanders",
+      "title": "Karma",
+      "url": "https://music.apple.com/cn/album/karma/1443785100",
+      "method": "track-verified"
+    },
+    "alice-coltrane-journey-in-satchidananda": {
+      "collectionId": "1440719294",
+      "artist": "爱丽丝・柯川",
+      "title": "Journey in Satchidananda",
+      "url": "https://music.apple.com/cn/album/journey-in-satchidananda/1440719294",
+      "method": "track-verified"
+    },
+    "pharoah-sanders-thembi": {
+      "collectionId": "1443825067",
+      "artist": "Pharoah Sanders",
+      "title": "Thembi",
+      "url": "https://music.apple.com/cn/album/thembi/1443825067",
+      "method": "metadata"
+    },
+    "alice-coltrane-ptah-el-daoud": {
+      "collectionId": "1440756392",
+      "artist": "爱丽丝・柯川",
+      "title": "Ptah the El Daoud",
+      "url": "https://music.apple.com/cn/album/ptah-the-el-daoud/1440756392",
+      "method": "track-verified"
+    },
+    "phil-ranelin-vibes-from-the-tribe": {
+      "collectionId": "1547876207",
+      "artist": "Phil Ranelin",
+      "title": "Vibes From the Tribe",
+      "url": "https://music.apple.com/cn/album/vibes-from-the-tribe/1547876207",
+      "method": "metadata"
+    },
+    "shabaka-and-the-ancestors-wisdom": {
+      "collectionId": "1561230990",
+      "artist": "Shabaka and The Ancestors",
+      "title": "Wisdom of Elders",
+      "url": "https://music.apple.com/cn/album/wisdom-of-elders/1561230990",
+      "method": "metadata"
+    },
+    "sam-rivers-streams": {
+      "collectionId": "1438788039",
+      "artist": "Sam Rivers",
+      "title": "Streams (Live At The Montreux Jazz Festival / 1973)",
+      "url": "https://music.apple.com/cn/album/streams-live-at-the-montreux-jazz-festival-1973/1438788039",
+      "method": "manual-verified"
+    },
+    "arthur-blythe-lenox-avenue-breakdown": {
+      "collectionId": "1115380923",
+      "artist": "Arthur Blythe",
+      "title": "Lenox Avenue Breakdown",
+      "url": "https://music.apple.com/cn/album/lenox-avenue-breakdown/1115380923",
+      "method": "metadata"
+    },
+    "anthony-braxton-new-york-fall-1974": {
+      "collectionId": "1266099068",
+      "artist": "Anthony Braxton",
+      "title": "New York, Fall 1974",
+      "url": "https://music.apple.com/cn/album/new-york-fall-1974/1266099068",
+      "method": "metadata"
+    },
+    "bitches-brew": {
+      "collectionId": "168376392",
+      "artist": "Miles Davis",
+      "title": "Bitches Brew",
+      "url": "https://music.apple.com/cn/album/bitches-brew/168376392",
+      "method": "metadata"
+    },
+    "miles-davis-in-a-silent-way": {
+      "collectionId": "833082788",
+      "artist": "Miles Davis",
+      "title": "The Complete in a Silent Way Sessions",
+      "url": "https://music.apple.com/cn/album/the-complete-in-a-silent-way-sessions/833082788",
+      "method": "metadata"
+    },
+    "weather-report-heavy-weather": {
+      "collectionId": "170409940",
+      "artist": "Weather Report",
+      "title": "Heavy Weather",
+      "url": "https://music.apple.com/cn/album/heavy-weather/170409940",
+      "method": "metadata"
+    },
+    "mahavishnu-inner-mounting-flame": {
+      "collectionId": "527849434",
+      "artist": "Mahavishnu Orchestra",
+      "title": "The Inner Mounting Flame",
+      "url": "https://music.apple.com/cn/album/the-inner-mounting-flame/527849434",
+      "method": "metadata"
+    },
+    "return-to-forever-romantic-warrior": {
+      "collectionId": "268557331",
+      "artist": "Return to Forever",
+      "title": "Romantic Warrior",
+      "url": "https://music.apple.com/cn/album/romantic-warrior/268557331",
+      "method": "metadata"
+    },
+    "tony-williams-lifetime-emergency": {
+      "collectionId": "1442831674",
+      "artist": "The Tony Williams Lifetime",
+      "title": "Emergency!",
+      "url": "https://music.apple.com/cn/album/emergency/1442831674",
+      "method": "metadata"
+    },
+    "miles-davis-on-the-corner": {
+      "collectionId": "202539950",
+      "artist": "Miles Davis",
+      "title": "On the Corner",
+      "url": "https://music.apple.com/cn/album/on-the-corner/202539950",
+      "method": "metadata"
+    },
+    "jaco-pastorius-jaco-pastorius": {
+      "collectionId": "263187191",
+      "artist": "Jaco Pastorius",
+      "title": "Jaco Pastorius",
+      "url": "https://music.apple.com/cn/album/jaco-pastorius/263187191",
+      "method": "metadata"
+    },
+    "soft-machine-third": {
+      "collectionId": "424153109",
+      "artist": "Soft Machine",
+      "title": "Third",
+      "url": "https://music.apple.com/cn/album/third/424153109",
+      "method": "metadata"
+    },
+    "herbie-hancock-head-hunters": {
+      "collectionId": "158571524",
+      "artist": "Herbie Hancock",
+      "title": "Head Hunters",
+      "url": "https://music.apple.com/cn/album/head-hunters/158571524",
+      "method": "metadata"
+    },
+    "donald-byrd-black-byrd": {
+      "collectionId": "1443275060",
+      "artist": "Donald Byrd",
+      "title": "Black Byrd",
+      "url": "https://music.apple.com/cn/album/black-byrd/1443275060",
+      "method": "metadata"
+    },
+    "roy-ayers-everybody-loves-the-sunshine": {
+      "collectionId": "1469585186",
+      "artist": "Roy Ayers Ubiquity",
+      "title": "Everybody Loves the Sunshine",
+      "url": "https://music.apple.com/cn/album/everybody-loves-the-sunshine/1469585186",
+      "method": "metadata"
+    },
+    "les-mccann-eddie-harris-swiss-movement": {
+      "collectionId": "50234801",
+      "artist": "Les McCann",
+      "title": "Swiss Movement (Montreux 30th Anniversary Edition) [Live]",
+      "url": "https://music.apple.com/cn/album/swiss-movement-montreux-30th-anniversary-edition-live/50234801",
+      "method": "track-verified"
+    },
+    "lonnie-liston-smith-expansions": {
+      "collectionId": "1621356607",
+      "artist": "隆尼·李斯顿·史密斯",
+      "title": "Expansions",
+      "url": "https://music.apple.com/cn/album/expansions/1621356607",
+      "method": "track-verified"
+    },
+    "jimmy-smith-root-down": {
+      "collectionId": "1442939892",
+      "artist": "Jimmy Smith",
+      "title": "Root Down",
+      "url": "https://music.apple.com/cn/album/root-down/1442939892",
+      "method": "metadata"
+    },
+    "bob-james-two": {
+      "collectionId": "1404206027",
+      "artist": "Bob James",
+      "title": "Two",
+      "url": "https://music.apple.com/cn/album/two/1404206027",
+      "method": "metadata"
+    },
+    "gary-bartz-ntu-troop-harlem-bush-music": {
+      "collectionId": "1442971084",
+      "artist": "Gary Bartz NTU Troop",
+      "title": "Harlem Bush Music - Uhuru",
+      "url": "https://music.apple.com/cn/album/harlem-bush-music-uhuru/1442971084",
+      "method": "track-verified"
+    },
+    "idris-muhammad-power-of-soul": {
+      "collectionId": "298170730",
+      "artist": "Idris Muhammad",
+      "title": "Power of Soul",
+      "url": "https://music.apple.com/cn/album/power-of-soul/298170730",
+      "method": "metadata"
+    },
+    "ornette-coleman-of-human-feelings": {
+      "collectionId": "1434354320",
+      "artist": "Ornette Coleman",
+      "title": "Of Human Feelings",
+      "url": "https://music.apple.com/cn/album/of-human-feelings/1434354320",
+      "method": "metadata"
+    },
+    "ornette-coleman-song-x": {
+      "collectionId": "1680823181",
+      "artist": "Ornette Coleman",
+      "title": "Song X (20th Anniversary Edition)",
+      "url": "https://music.apple.com/cn/album/song-x-20th-anniversary-edition/1680823181",
+      "method": "metadata"
+    },
+    "grover-washington-winelight": {
+      "collectionId": "321974938",
+      "artist": "Grover Washington, Jr.",
+      "title": "Winelight",
+      "url": "https://music.apple.com/cn/album/winelight/321974938",
+      "method": "metadata"
+    },
+    "crusaders-street-life": {
+      "collectionId": "1440743777",
+      "artist": "The Crusaders",
+      "title": "Street Life",
+      "url": "https://music.apple.com/cn/album/street-life/1440743777",
+      "method": "metadata"
+    },
+    "george-benson-breezin": {
+      "collectionId": "78970616",
+      "artist": "George Benson",
+      "title": "Breezin'",
+      "url": "https://music.apple.com/cn/album/breezin/78970616",
+      "method": "metadata"
+    },
+    "david-sanborn-voyeur": {
+      "collectionId": "184614402",
+      "artist": "David Sanborn",
+      "title": "Voyeur",
+      "url": "https://music.apple.com/cn/album/voyeur/184614402",
+      "method": "metadata"
+    },
+    "spyro-gyra-morning-dance": {
+      "collectionId": "1605184222",
+      "artist": "Spyro Gyra",
+      "title": "Morning Dance",
+      "url": "https://music.apple.com/cn/album/morning-dance/1605184222",
+      "method": "metadata"
+    },
+    "kenny-g-breathless": {
+      "collectionId": "258622449",
+      "artist": "Kenny G",
+      "title": "Breathless",
+      "url": "https://music.apple.com/cn/album/breathless/258622449",
+      "method": "metadata"
+    },
+    "wes-montgomery-a-day-in-the-life": {
+      "collectionId": "1434899402",
+      "artist": "Wes Montgomery",
+      "title": "A Day in the Life",
+      "url": "https://music.apple.com/cn/album/a-day-in-the-life/1434899402",
+      "method": "metadata"
+    },
+    "bob-james-earl-klugh-one-on-one": {
+      "collectionId": "1398228402",
+      "artist": "Bob James",
+      "title": "One",
+      "url": "https://music.apple.com/cn/album/one/1398228402",
+      "method": "metadata"
+    },
+    "pat-metheny-still-life-talking": {
+      "collectionId": "1849573932",
+      "artist": "Pat Metheny Group",
+      "title": "Still Life (Talking)",
+      "url": "https://music.apple.com/cn/album/still-life-talking/1849573932",
+      "method": "metadata"
+    },
+    "brand-new-heavies-brand-new-heavies": {
+      "collectionId": "1152584346",
+      "artist": "The Brand New Heavies",
+      "title": "Brand New Heavies",
+      "url": "https://music.apple.com/cn/album/brand-new-heavies/1152584346",
+      "method": "metadata"
+    },
+    "incognito-positivity": {
+      "collectionId": "1669570801",
+      "artist": "Incognito",
+      "title": "Positivity",
+      "url": "https://music.apple.com/cn/album/positivity/1669570801",
+      "method": "metadata"
+    },
+    "us3-hand-on-the-torch": {
+      "collectionId": "724399602",
+      "artist": "Us3",
+      "title": "Hand On the Torch",
+      "url": "https://music.apple.com/cn/album/hand-on-the-torch/724399602",
+      "method": "metadata"
+    },
+    "james-taylor-quartet-mission-impossible": {
+      "collectionId": "1152553108",
+      "artist": "James Taylor Quartet",
+      "title": "Mission Impossible",
+      "url": "https://music.apple.com/cn/album/mission-impossible/1152553108",
+      "method": "metadata"
+    },
+    "jamiroquai-return-of-the-space-cowboy": {
+      "collectionId": "600897136",
+      "artist": "Jamiroquai",
+      "title": "The Return of the Space Cowboy (Remastered)",
+      "url": "https://music.apple.com/cn/album/the-return-of-the-space-cowboy-remastered/600897136",
+      "method": "metadata"
+    },
+    "corduroy-out-of-here": {
+      "collectionId": "1359238311",
+      "artist": "Corduroy",
+      "title": "Out of Here",
+      "url": "https://music.apple.com/cn/album/out-of-here/1359238311",
+      "method": "metadata"
+    },
+    "roy-ayers-wake-up": {
+      "collectionId": "205798562",
+      "artist": "Roy Ayers",
+      "title": "Wake Up",
+      "url": "https://music.apple.com/cn/album/wake-up/205798562",
+      "method": "metadata"
+    },
+    "tribe-called-quest-low-end-theory": {
+      "collectionId": "278911460",
+      "artist": "A Tribe Called Quest",
+      "title": "The Low End Theory",
+      "url": "https://music.apple.com/cn/album/the-low-end-theory/278911460",
+      "method": "metadata"
+    },
+    "gang-starr-daily-operation": {
+      "collectionId": "1442868254",
+      "artist": "Gang Starr",
+      "title": "Daily Operation",
+      "url": "https://music.apple.com/cn/album/daily-operation/1442868254",
+      "method": "metadata"
+    },
+    "digable-planets-reachin": {
+      "collectionId": "725211790",
+      "artist": "Digable Planets",
+      "title": "Reachin' (A New Refutation Of Time And Space)",
+      "url": "https://music.apple.com/cn/album/reachin-a-new-refutation-of-time-and-space/725211790",
+      "method": "metadata"
+    },
+    "guru-jazzmatazz-vol1": {
+      "collectionId": "723458510",
+      "artist": "Guru",
+      "title": "Jazzmatazz Volume II: The New Reality",
+      "url": "https://music.apple.com/cn/album/jazzmatazz-volume-ii-the-new-reality/723458510",
+      "method": "metadata"
+    },
+    "robert-glasper-black-radio": {
+      "collectionId": "716753527",
+      "artist": "Robert Glasper Experiment",
+      "title": "Black Radio",
+      "url": "https://music.apple.com/cn/album/black-radio/716753527",
+      "method": "metadata"
+    },
+    "madlib-shades-of-blue": {
+      "collectionId": "1444093548",
+      "artist": "Madlib",
+      "title": "Shades of Blue: Madlib Invades Blue Note",
+      "url": "https://music.apple.com/cn/album/shades-of-blue-madlib-invades-blue-note/1444093548",
+      "method": "metadata"
+    },
+    "miles-davis-doo-bop": {
+      "collectionId": "828607032",
+      "artist": "Miles Davis",
+      "title": "Doo-Bop",
+      "url": "https://music.apple.com/cn/album/doo-bop/828607032",
+      "method": "metadata"
+    },
+    "nils-petter-molvaer-khmer": {
+      "collectionId": "1444215349",
+      "artist": "Nils Petter Molvær",
+      "title": "Khmer",
+      "url": "https://music.apple.com/cn/album/khmer/1444215349",
+      "method": "metadata"
+    },
+    "bugge-wesseltoft-new-conception": {
+      "collectionId": "1449786247",
+      "artist": "BUGGE WESSELTOFT",
+      "title": "New Conception of Jazz",
+      "url": "https://music.apple.com/cn/album/new-conception-of-jazz/1449786247",
+      "method": "metadata"
+    },
+    "st-germain-tourist": {
+      "collectionId": "717406560",
+      "artist": "St Germain",
+      "title": "Tourist (Remastered) [Deluxe Version]",
+      "url": "https://music.apple.com/cn/album/tourist-remastered-deluxe-version/717406560",
+      "method": "track-verified"
+    },
+    "cinematic-orchestra-motion": {
+      "collectionId": "1417880006",
+      "artist": "The Cinematic Orchestra",
+      "title": "Motion",
+      "url": "https://music.apple.com/cn/album/motion/1417880006",
+      "method": "metadata"
+    },
+    "jazzanova-in-between": {
+      "collectionId": "6841337",
+      "artist": "Jazzanova",
+      "title": "In Between",
+      "url": "https://music.apple.com/cn/album/in-between/6841337",
+      "method": "metadata"
+    },
+    "eivind-aarset-electronique-noire": {
+      "collectionId": "1449787297",
+      "artist": "Eivind Aarset",
+      "title": "Electronique Noire",
+      "url": "https://music.apple.com/cn/album/electronique-noire/1449787297",
+      "method": "metadata"
+    },
+    "4hero-two-pages": {
+      "collectionId": "1669430951",
+      "artist": "4hero",
+      "title": "Two Pages",
+      "url": "https://music.apple.com/cn/album/two-pages/1669430951",
+      "method": "metadata"
+    },
+    "koop-waltz-for-koop": {
+      "collectionId": "285952445",
+      "artist": "Koop",
+      "title": "Waltz for Koop",
+      "url": "https://music.apple.com/cn/album/waltz-for-koop/285952445",
+      "method": "metadata"
+    },
+    "kamasi-washington-the-epic": {
+      "collectionId": "975610456",
+      "artist": "Kamasi Washington",
+      "title": "The Epic",
+      "url": "https://music.apple.com/cn/album/the-epic/975610456",
+      "method": "metadata"
+    },
+    "flying-lotus-cosmogramma": {
+      "collectionId": "367788829",
+      "artist": "Flying Lotus",
+      "title": "Cosmogramma",
+      "url": "https://music.apple.com/cn/album/cosmogramma/367788829",
+      "method": "metadata"
+    },
+    "thundercat-drunk": {
+      "collectionId": "1197789099",
+      "artist": "Thundercat",
+      "title": "Drunk",
+      "url": "https://music.apple.com/cn/album/drunk/1197789099",
+      "method": "metadata"
+    },
+    "kendrick-lamar-to-pimp-a-butterfly": {
+      "collectionId": "1440871877",
+      "artist": "Kendrick Lamar",
+      "title": "To Pimp a Butterfly",
+      "url": "https://music.apple.com/cn/album/to-pimp-a-butterfly/1440871877",
+      "method": "metadata"
+    },
+    "terrace-martin-velvet-portraits": {
+      "collectionId": "1649781603",
+      "artist": "Terrace Martin",
+      "title": "Velvet Portraits",
+      "url": "https://music.apple.com/cn/album/velvet-portraits/1649781603",
+      "method": "metadata"
+    },
+    "makaya-mccraven-universal-beings": {
+      "collectionId": "1464508489",
+      "artist": "Makaya McCraven",
+      "title": "Universal Beings",
+      "url": "https://music.apple.com/cn/album/universal-beings/1464508489",
+      "method": "metadata"
+    },
+    "jeff-parker-suite-for-max-brown": {
+      "collectionId": "1488809572",
+      "artist": "Jeff Parker",
+      "title": "Suite for Max Brown",
+      "url": "https://music.apple.com/cn/album/suite-for-max-brown/1488809572",
+      "method": "metadata"
+    },
+    "kamaal-williams-the-return": {
+      "collectionId": "1621512735",
+      "artist": "Kamaal Williams",
+      "title": "The Return",
+      "url": "https://music.apple.com/cn/album/the-return/1621512735",
+      "method": "metadata"
+    },
+    "keith-jarrett-koln-concert": {
+      "collectionId": "1796173920",
+      "artist": "Keith Jarrett",
+      "title": "The Köln Concert 50",
+      "url": "https://music.apple.com/cn/album/the-k%C3%B6ln-concert-50/1796173920",
+      "method": "metadata"
+    },
+    "jan-garbarek-afric-pepperbird": {
+      "collectionId": "1863144129",
+      "artist": "Jan Garbarek Quartet",
+      "title": "Afric Pepperbird",
+      "url": "https://music.apple.com/cn/album/afric-pepperbird/1863144129",
+      "method": "metadata"
+    },
+    "keith-jarrett-belonging": {
+      "collectionId": "1444122271",
+      "artist": "Keith Jarrett",
+      "title": "Belonging",
+      "url": "https://music.apple.com/cn/album/belonging/1444122271",
+      "method": "metadata"
+    },
+    "eberhard-weber-colours-of-chloe": {
+      "collectionId": "1696074362",
+      "artist": "Eberhard Weber",
+      "title": "The Colours Of Chloë",
+      "url": "https://music.apple.com/cn/album/the-colours-of-chlo%C3%AB/1696074362",
+      "method": "metadata"
+    },
+    "pat-metheny-bright-size-life": {
+      "collectionId": "1523943125",
+      "artist": "Pat Metheny",
+      "title": "Bright Size Life",
+      "url": "https://music.apple.com/cn/album/bright-size-life/1523943125",
+      "method": "metadata"
+    },
+    "tomasz-stanko-litania": {
+      "collectionId": "1420393778",
+      "artist": "Tomasz Stanko Septet",
+      "title": "Litania - Music of Krzysztof Komeda",
+      "url": "https://music.apple.com/cn/album/litania-music-of-krzysztof-komeda/1420393778",
+      "method": "metadata"
+    },
+    "terje-rypdal-odyssey": {
+      "collectionId": "1443077130",
+      "artist": "Terje Rypdal",
+      "title": "Odyssey",
+      "url": "https://music.apple.com/cn/album/odyssey/1443077130",
+      "method": "metadata"
+    },
+    "gary-peacock-tales-of-another": {
+      "collectionId": "1576456352",
+      "artist": "Gary Peacock",
+      "title": "Tales Of Another",
+      "url": "https://music.apple.com/cn/album/tales-of-another/1576456352",
+      "method": "metadata"
+    },
+    "bobo-stenson-goodbye": {
+      "collectionId": "1444073978",
+      "artist": "Anders Jormin",
+      "title": "Goodbye",
+      "url": "https://music.apple.com/cn/album/goodbye/1444073978",
+      "method": "track-verified"
+    },
+    "wynton-marsalis-black-codes": {
+      "collectionId": "192487566",
+      "artist": "温顿・马沙利斯",
+      "title": "Black Codes (From The Underground) [2023 Remaster]",
+      "url": "https://music.apple.com/cn/album/black-codes-from-the-underground-2023-remaster/192487566",
+      "method": "track-verified"
+    },
+    "wynton-marsalis-1981-debut": {
+      "collectionId": "459160199",
+      "artist": "温顿・马沙利斯",
+      "title": "Wynton Marsalis",
+      "url": "https://music.apple.com/cn/album/wynton-marsalis/459160199",
+      "method": "track-verified"
+    },
+    "wynton-marsalis-blood-on-the-fields": {
+      "collectionId": "215594380",
+      "artist": "温顿・马沙利斯",
+      "title": "Blood On the Fields",
+      "url": "https://music.apple.com/cn/album/blood-on-the-fields/215594380",
+      "method": "track-verified"
+    },
+    "brad-mehldau-art-of-the-trio-3": {
+      "collectionId": "358181835",
+      "artist": "Brad Mehldau",
+      "title": "Songs: The Art of the Trio, Vol. 3",
+      "url": "https://music.apple.com/cn/album/songs-the-art-of-the-trio-vol-3/358181835",
+      "method": "track-verified"
+    },
+    "steve-coleman-black-science": {
+      "collectionId": "941948615",
+      "artist": "Steve Coleman & Five Elements",
+      "title": "Black Science",
+      "url": "https://music.apple.com/cn/album/black-science/941948615",
+      "method": "metadata"
+    },
+    "geri-allen-twylight": {
+      "collectionId": "552618948",
+      "artist": "Geri Allen",
+      "title": "Twylight",
+      "url": "https://music.apple.com/cn/album/twylight/552618948",
+      "method": "metadata"
+    },
+    "steve-coleman-rhythm-people": {
+      "collectionId": "927859747",
+      "artist": "Steve Coleman & Five Elements",
+      "title": "Rhythm People (The Resurrection of Creative Black Civilization)",
+      "url": "https://music.apple.com/cn/album/rhythm-people-the-resurrection-of-creative/927859747",
+      "method": "metadata"
+    },
+    "steve-coleman-curves-of-life": {
+      "collectionId": "575859987",
+      "artist": "Steve Coleman & Five Elements",
+      "title": "Curves of Life (Live in Paris)",
+      "url": "https://music.apple.com/cn/album/curves-of-life-live-in-paris/575859987",
+      "method": "manual-verified"
+    },
+    "naked-city-naked-city": {
+      "collectionId": "1189673514",
+      "artist": "Naked City",
+      "title": "Naked City Live vol. 1: Knitting Factory 1989",
+      "url": "https://music.apple.com/cn/album/naked-city-live-vol-1-knitting-factory-1989/1189673514",
+      "method": "track-verified"
+    },
+    "lounge-lizards-lounge-lizards": {
+      "collectionId": "724170796",
+      "artist": "The Lounge Lizards",
+      "title": "The Lounge Lizards",
+      "url": "https://music.apple.com/cn/album/the-lounge-lizards/724170796",
+      "method": "metadata"
+    },
+    "bill-frisell-have-a-little-faith": {
+      "collectionId": "215653288",
+      "artist": "Bill Frisell",
+      "title": "Have a Little Faith",
+      "url": "https://music.apple.com/cn/album/have-a-little-faith/215653288",
+      "method": "metadata"
+    },
+    "marc-ribot-rootless-cosmopolitans": {
+      "collectionId": "1443509716",
+      "artist": "Marc Ribot",
+      "title": "Rootless Cosmopolitans",
+      "url": "https://music.apple.com/cn/album/rootless-cosmopolitans/1443509716",
+      "method": "metadata"
+    },
+    "james-white-off-white": {
+      "collectionId": "258293474",
+      "artist": "James White & The Blacks",
+      "title": "Off White",
+      "url": "https://music.apple.com/cn/album/off-white/258293474",
+      "method": "metadata"
+    },
+    "vijay-iyer-historicity": {
+      "collectionId": "338742081",
+      "artist": "Vijay Iyer Trio",
+      "title": "Historicity (Bonus Track Edition)",
+      "url": "https://music.apple.com/cn/album/historicity-bonus-track-edition/338742081",
+      "method": "metadata"
+    },
+    "jason-moran-black-stars": {
+      "collectionId": "724770726",
+      "artist": "Jason Moran",
+      "title": "Black Stars",
+      "url": "https://music.apple.com/cn/album/black-stars/724770726",
+      "method": "metadata"
+    },
+    "tyshawn-sorey-verisimilitude": {
+      "collectionId": "1256848403",
+      "artist": "Tyshawn Sorey",
+      "title": "Verisimilitude (feat. Cory Smythe & Chris Tordini)",
+      "url": "https://music.apple.com/cn/album/verisimilitude-feat-cory-smythe-chris-tordini/1256848403",
+      "method": "metadata"
+    },
+    "ambrose-akinmusire-imagined-savior": {
+      "collectionId": "1442442556",
+      "artist": "Ambrose Akinmusire",
+      "title": "the imagined savior is far easier to paint",
+      "url": "https://music.apple.com/cn/album/the-imagined-savior-is-far-easier-to-paint/1442442556",
+      "method": "metadata"
+    },
+    "craig-taborn-avenging-angel": {
+      "collectionId": "1442224804",
+      "artist": "Craig Taborn",
+      "title": "Avenging Angel",
+      "url": "https://music.apple.com/cn/album/avenging-angel/1442224804",
+      "method": "metadata"
+    },
+    "matana-roberts-coin-coin-chapter-one": {
+      "collectionId": "482998388",
+      "artist": "Matana Roberts",
+      "title": "Coin Coin Chapter One: Gens de Couleur Libres",
+      "url": "https://music.apple.com/cn/album/coin-coin-chapter-one-gens-de-couleur-libres/482998388",
+      "method": "metadata"
+    },
+    "henry-threadgill-in-for-a-penny": {
+      "collectionId": "1256846265",
+      "artist": "Henry Threadgill",
+      "title": "In for a Penny, In for a Pound (feat. Liberty Ellman, Christopher Hoffman, Jose Davila & Elliot Humberto Kavee)",
+      "url": "https://music.apple.com/cn/album/in-for-a-penny-in-for-a-pound-feat-liberty/1256846265",
+      "method": "metadata"
+    },
+    "sons-of-kemet-your-queen-is-a-reptile": {
+      "collectionId": "1440908967",
+      "artist": "Sons Of Kemet",
+      "title": "Your Queen Is A Reptile",
+      "url": "https://music.apple.com/cn/album/your-queen-is-a-reptile/1440908967",
+      "method": "metadata"
+    },
+    "nubya-garcia-source": {
+      "collectionId": "1523554803",
+      "artist": "Nubya Garcia",
+      "title": "SOURCE",
+      "url": "https://music.apple.com/cn/album/source/1523554803",
+      "method": "metadata"
+    },
+    "ezra-collective-where-im-meant-to-be": {
+      "collectionId": "1783202971",
+      "artist": "Ezra Collective",
+      "title": "Where I'm Meant To Be",
+      "url": "https://music.apple.com/cn/album/where-im-meant-to-be/1783202971",
+      "method": "metadata"
+    },
+    "moses-boyd-dark-matter": {
+      "collectionId": "1488971573",
+      "artist": "Moses Boyd",
+      "title": "Dark Matter",
+      "url": "https://music.apple.com/cn/album/dark-matter/1488971573",
+      "method": "metadata"
+    },
+    "comet-is-coming-trust-in-lifeforce": {
+      "collectionId": "1449207816",
+      "artist": "The Comet Is Coming",
+      "title": "Trust In The Lifeforce Of The Deep Mystery",
+      "url": "https://music.apple.com/cn/album/trust-in-the-lifeforce-of-the-deep-mystery/1449207816",
+      "method": "metadata"
+    },
+    "theon-cross-fyah": {
+      "collectionId": "1707009046",
+      "artist": "Theon Cross",
+      "title": "Fyah",
+      "url": "https://music.apple.com/cn/album/fyah/1707009046",
+      "method": "metadata"
+    },
+    "emma-jean-thackray-yellow": {
+      "collectionId": "1574720059",
+      "artist": "Emma-Jean Thackray",
+      "title": "Yellow",
+      "url": "https://music.apple.com/cn/album/yellow/1574720059",
+      "method": "metadata"
+    },
+    "yussef-kamaal-black-focus": {
+      "collectionId": "1561774995",
+      "artist": "Yussef Kamaal",
+      "title": "Black Focus",
+      "url": "https://music.apple.com/cn/album/black-focus/1561774995",
+      "method": "metadata"
+    }
+  }
+}

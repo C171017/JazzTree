@@ -361,9 +361,55 @@ public struct Verification: Sendable {
                 .hasPrefix("https://music.163.com/#/search/m/?s=") == true, "netease prefix")
             c.expect(StreamingLinks.url(.netease, for: moanin)?.absoluteString
                 .hasSuffix("&type=10") == true, "netease album search type")
-            c.expect(StreamingLinks.appURL(.netease, for: moanin)?.absoluteString
-                .hasPrefix("orpheus://search?keyword=") == true, "netease app deep link")
-            c.equal(StreamingLinks.appURL(.spotify, for: moanin), nil, "spotify has no custom app URL")
+
+            if let lookup = AppleMusicCatalog.searchURL(for: moanin, countryCode: "gb"),
+               let components = URLComponents(url: lookup, resolvingAgainstBaseURL: false) {
+                let items = Dictionary(uniqueKeysWithValues: (components.queryItems ?? []).map { ($0.name, $0.value ?? "") })
+                c.equal(components.host, "itunes.apple.com", "apple catalog host")
+                c.equal(items["term"], StreamingLinks.query(for: moanin), "apple catalog term")
+                c.equal(items["country"], "GB", "apple catalog storefront")
+                c.equal(items["entity"], "album", "apple catalog entity")
+            } else {
+                c.expect(false, "apple catalog lookup URL was nil")
+            }
+
+            let appleFixture = #"""
+            {"results":[
+              {"artistName":"Art Blakey & The Jazz Messengers","collectionName":"Moanin' - Single","collectionViewUrl":"https://music.apple.com/us/album/moanin-single/1","releaseDate":"2026-04-03T07:00:00Z","trackCount":1},
+              {"artistName":"Art Blakey & The Jazz Messengers","collectionName":"Moanin'","collectionViewUrl":"https://music.apple.com/us/album/moanin/2","releaseDate":"1959-01-01T08:00:00Z","trackCount":7},
+              {"artistName":"Unrelated Artist","collectionName":"Moanin'","collectionViewUrl":"https://music.apple.com/us/album/moanin/3","releaseDate":"1959-01-01T08:00:00Z","trackCount":8},
+              {"artistName":"George Russell & His Orchestra","collectionName":"Jazz In The Space Age (feat. Bill Evans)","collectionViewUrl":"https://music.apple.com/us/album/jazz-in-the-space-age/4","releaseDate":"1960-01-01T08:00:00Z","trackCount":6},
+              {"artistName":"John Lewis","collectionName":"John Lewis Presents Jazz Abstractions","collectionViewUrl":"https://music.apple.com/us/album/jazz-abstractions/5","releaseDate":"1961-01-01T08:00:00Z","trackCount":9}
+            ]}
+            """#.data(using: .utf8)!
+            do {
+                c.equal(
+                    try AppleMusicCatalog.directURL(in: appleFixture, for: moanin)?.absoluteString,
+                    "https://music.apple.com/us/album/moanin/2",
+                    "apple catalog chooses the exact album over a same-name single"
+                )
+            } catch {
+                c.expect(false, "apple catalog fixture failed to decode: \(error)")
+            }
+            if let spaceAge = library.album("george-russell-jazz-in-the-space-age"),
+               let jazzAbstractions = library.album("gunther-schuller-jazz-abstractions") {
+                do {
+                    c.equal(
+                        try AppleMusicCatalog.directURL(in: appleFixture, for: spaceAge)?.absoluteString,
+                        "https://music.apple.com/us/album/jazz-in-the-space-age/4",
+                        "apple catalog accepts a featured-artist title suffix"
+                    )
+                    c.equal(
+                        try AppleMusicCatalog.directURL(in: appleFixture, for: jazzAbstractions)?.absoluteString,
+                        "https://music.apple.com/us/album/jazz-abstractions/5",
+                        "apple catalog accepts a presenter title prefix and partial credited artist"
+                    )
+                } catch {
+                    c.expect(false, "apple catalog variant fixture failed to decode: \(error)")
+                }
+            } else {
+                c.expect(false, "third-stream Apple Music verification albums are missing")
+            }
 
             for album in library.albums {
                 for service in StreamingService.allCases {
@@ -372,6 +418,57 @@ public struct Verification: Sendable {
             }
             c.equal(StreamingLinks.ordered(preferring: .netease).first, .netease, "preferred service first")
             c.equal(StreamingLinks.ordered(preferring: .netease).count, 3, "service count")
+        }
+
+        check("streaming", "verified Apple Music catalog is bundled and conservative") { c in
+            let curated = library.albums.compactMap { album in
+                AppleMusicCatalog.curatedURL(for: album).map { (album, $0) }
+            }
+            c.equal(AppleMusicCatalog.curatedCount, 242, "curated catalog entries")
+            c.equal(curated.count, AppleMusicCatalog.curatedCount, "curated ids resolve to dataset albums")
+            for (album, url) in curated {
+                c.equal(url.scheme, "https", "\(album.id) curated scheme")
+                c.equal(url.host, "music.apple.com", "\(album.id) curated host")
+                c.expect(url.path.contains("/cn/album/"), "\(album.id) is not a direct CN album URL: \(url)")
+            }
+            if let moanin = library.album("moanin-1959") {
+                c.equal(
+                    AppleMusicCatalog.curatedURL(for: moanin)?.absoluteString,
+                    "https://music.apple.com/cn/album/moanin/1459438950",
+                    "known direct album link"
+                )
+            }
+            for id in ["joseph-lamb-study-classic-ragtime", "romane-ombre"] {
+                if let album = library.album(id) {
+                    c.equal(AppleMusicCatalog.curatedURL(for: album), nil, "unsafe match \(id) must remain unresolved")
+                }
+            }
+        }
+
+        check("streaming", "verified NetEase catalog opens exact albums") { c in
+            let curated = library.albums.compactMap { album in
+                NetEaseCatalog.albumID(for: album).map { (album, $0) }
+            }
+            c.expect(NetEaseCatalog.curatedCount > 0, "NetEase catalog is empty")
+            c.equal(curated.count, NetEaseCatalog.curatedCount, "curated NetEase ids resolve to dataset albums")
+            for (album, id) in curated {
+                c.expect(id.allSatisfy(\.isNumber), "\(album.id) has a non-numeric NetEase id")
+                c.equal(NetEaseCatalog.appURL(for: album)?.absoluteString, "orpheus://album/\(id)", "\(album.id) app route")
+                c.equal(NetEaseCatalog.webURL(for: album)?.host, "y.music.163.com", "\(album.id) mobile fallback host")
+            }
+            if let moanin = library.album("moanin-1959") {
+                c.equal(NetEaseCatalog.albumID(for: moanin), "1508109", "known NetEase album id")
+                c.equal(
+                    NetEaseCatalog.webURL(for: moanin)?.absoluteString,
+                    "https://y.music.163.com/m/album?id=1508109",
+                    "known NetEase mobile album link"
+                )
+                c.equal(
+                    NetEaseCatalog.appURL(for: moanin)?.absoluteString,
+                    "orpheus://album/1508109",
+                    "known NetEase app album link"
+                )
+            }
         }
 
         // MARK: Localisation
