@@ -198,7 +198,7 @@ function renderStatic(data, locale) {
   <p><b>${listenFor}</b> ${esc(a.listenFor)}</p>
   ${a.note ? `<p class="note">${esc(note)}</p>` : ''}
   <p class="links">
-    <a href="https://open.spotify.com/search/${q(a)}" target="_blank" rel="noopener noreferrer">Spotify</a> ·
+    <a href="spotify:search:${q(a)}" target="_blank" rel="noopener noreferrer">Spotify</a> ·
     <a href="https://music.apple.com/us/search?term=${q(a)}" target="_blank" rel="noopener noreferrer">Apple Music</a> ·
     <a href="${neteaseURL(a)}" target="_blank" rel="noopener noreferrer">${netease}</a>
   </p>

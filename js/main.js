@@ -3,7 +3,7 @@
 import * as store from './store.js?v=2';
 import { loadData } from './data.js?v=3';
 import { el, $, announce } from './lib/utils.js?v=3';
-import { SERVICES } from './lib/links.js?v=5';
+import { SERVICES } from './lib/links.js?v=6';
 import * as graph from './views/graph.js?v=3';
 import * as timeline from './views/timeline.js?v=3';
 import * as grid from './views/grid.js?v=3';

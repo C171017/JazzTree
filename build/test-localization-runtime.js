@@ -52,6 +52,11 @@ globalThis.document = { documentElement: {} };
 const i18n = await import('../js/i18n.js');
 const links = await import('../js/lib/links.js');
 
+const spotifySearch = links.searchUrl('spotify', 'Art Blakey & The Jazz Messengers', "Moanin'");
+if (spotifySearch !== "spotify:search:Art%20Blakey%20%26%20The%20Jazz%20Messengers%20Moanin'") {
+  failures.push(`spotify app search URL is wrong: ${spotifySearch}`);
+}
+
 const netEaseAlbumSearch = links.searchUrl('netease', "Art Blakey & The Jazz Messengers", "Moanin'");
 if (!netEaseAlbumSearch.startsWith('https://music.163.com/#/search/m/?s=')) {
   failures.push(`netease search has wrong endpoint: ${netEaseAlbumSearch}`);

@@ -19,7 +19,10 @@ export function searchUrl(service, artist, title) {
   const q = encodeURIComponent(plain);
   switch (service) {
     case 'spotify':
-      return `https://open.spotify.com/search/${q}`;
+      // The native Spotify URI opens the installed desktop app rather than
+      // routing through the browser player. Spotify handles the encoded search
+      // phrase after the `search:` command.
+      return `spotify:search:${q}`;
     case 'appleMusic':
       return `https://music.apple.com/us/search?term=${q}`;
     case 'netease':

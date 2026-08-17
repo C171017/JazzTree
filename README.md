@@ -208,12 +208,13 @@ D3 is used for `d3-scale`, `d3-shape`, `d3-zoom`, `d3-selection` and `d3-axis`.
 ## Streaming links
 
 Every album card has three buttons — Spotify, Apple Music, NetEase Cloud Music.
-Spotify remains a search; NetEase uses a reviewed exact album ID when one is
-available and otherwise falls back to an album-filtered search:
+On desktop, Spotify searches use Spotify’s native URI to open the installed
+Spotify app. NetEase uses a reviewed exact album ID when one is available and
+otherwise falls back to an album-filtered search:
 
 ```js
 const q = encodeURIComponent(`${artist} ${title}`);
-`https://open.spotify.com/search/${q}`
+`spotify:search:${q}`
 `https://music.apple.com/us/search?term=${q}`
 `https://y.music.163.com/m/album?id=${verifiedAlbumId}`
 `https://music.163.com/#/search/m/?s=${q}&type=10` // unresolved fallback
